@@ -1,0 +1,8 @@
+venv
+*.zip
+/__pycache__
+/vectorstore
+lora_qwen25_vn_legal_rag
+/dataset
+corpus
+lora_qwen25_vn_legal
