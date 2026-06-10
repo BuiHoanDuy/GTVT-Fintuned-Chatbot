@@ -64,7 +64,7 @@ SSE_PADDING = ": " + "p" * 1024 + "\n"
 
 class QuestionRequest(BaseModel):
     question: str
-    max_new_tokens: int = 1024
+    max_new_tokens: int = 2048
     temperature: float = 0.4
 
 # class AnswerResponse(BaseModel):
