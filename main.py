@@ -16,7 +16,7 @@ vectorstore = FAISS.load_local(
 )
 retriever = vectorstore.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 1},  # lấy top-1 chunks liên quan
+    search_kwargs={"k": 3},  # lấy top-1 chunks liên quan
 )
 print("✅ Vectorstore ready!\n")
 
@@ -37,7 +37,7 @@ def retrieve_context(question: str) -> tuple[str, list[str]]:
     return context, sources
 
 def build_rag_prompt(question: str, context: str) -> str:
-    return f"""Dựa vào các quy định pháp luật sau đây để trả lời câu hỏi:
+    return f"""Dựa vào 1 quy định đúng nhất trong các quy định pháp luật sau đây để trả lời câu hỏi, không trả lời lan man ngoài phạm vi câu hỏi của người dùng:
 
 {context}
 

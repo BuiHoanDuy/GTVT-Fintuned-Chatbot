@@ -64,7 +64,7 @@ SSE_PADDING = ": " + "p" * 1024 + "\n"
 
 class QuestionRequest(BaseModel):
     question: str
-    max_new_tokens: int = 2048
+    max_new_tokens: int = 12000
     temperature: float = 0.4
 
 # class AnswerResponse(BaseModel):
@@ -137,7 +137,7 @@ def generate(req: QuestionRequest):
                 **inputs,
                 max_new_tokens=req.max_new_tokens,
                 temperature=req.temperature,
-                top_p=0.9,
+                top_p=0.8,
                 repetition_penalty=1.05,
                 do_sample=True,
                 use_cache=True,
@@ -187,7 +187,7 @@ async def generate_stream(req: QuestionRequest):
         streamer=streamer,
         max_new_tokens=req.max_new_tokens,
         temperature=req.temperature,
-        top_p=0.9,
+        top_p=0.8,
         repetition_penalty=1.05,
         do_sample=True,
         use_cache=True,
