@@ -1,0 +1,890 @@
+  ----------------------- -------------------------------------------
+   BỘ GIAO THÔNG VẬN TẢI      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                 Độc lập - Tự do - Hạnh phúc
+                                        ---------------
+
+   Số: 36/2023/TT-BGTVT        Hà Nội ngày 13 tháng 12 năm 2023
+  ----------------------- -------------------------------------------
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH SỬA ĐỔI 01:2023 QCVN 109:2021/BGTVT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ KHÍ THẢI MỨC 5 ĐỐI VỚI XE Ô TÔ SẢN XUẤT, LẮP RÁP VÀ NHẬP KHẨU MỚI
+
+Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008;
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Căn cứ Quyết định số 49/2011/QĐ-TTg ngày 01 tháng 9 năm 2011 của Thủ tướng Chính phủ quy định lộ trình áp dụng tiêu chuẩn khí thải đối với xe ô tô, xe mô tô hai bánh sản xuất, lắp ráp và nhập khẩu mới;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Sửa đổi 01:2023 QCVN 109:2021/BGTVT Quy chuẩn kỹ thuật quốc gia về khí thải mức 5 đối với xe ô tô sản xuất, lắp ráp và nhập khẩu mới.
+
+Điều 1. Ban hành kèm theo Thông tư này Sửa đổi 01:2023 QCVN 109:2021/BGTVT Quy chuẩn kỹ thuật quốc gia về khí thải mức 5 đối với xe ô tô sản xuất, lắp ráp và nhập khẩu mới.
+
+Số hiệu: Sửa đổi 01:2023 QCVN 109:2021/BGTVT.
+
+Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 15 tháng 6 năm 2024.
+
+2. Các trường hợp không phải thử nghiệm lại khí thải bao gồm:
+
+a) Các kiểu loại xe ô tô hoặc động cơ xe ô tô đã được cấp Báo cáo thử nghiệm khí thải phù hợp với QCVN 109:2021/BGTVT Quy chuẩn kỹ thuật quốc gia về khí thải mức 5 đối với xe ô tô sản xuất, lắp ráp và nhập khẩu mới;
+
+b) Các xe ô tô được sản xuất tại Việt Nam từ xe ô tô cơ sở (từ xe ô tô sát xi hoặc từ xe ô tô hoàn chỉnh) đã được cấp phiếu kiểm tra chất lượng xuất xưởng (xe sản xuất, lắp ráp trong nước) hoặc được chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu (xe nhập khẩu).
+
+Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+  --------------------------------------------------- --------------------------------
+  Nơi nhận:                                                    KT. BỘ TRƯỞNG
+  - Bộ trưởng (để b/c);                                          THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                                        Lê Đình Thọ
+  - Các Bộ, cơ quan ngang Bộ;                         
+  - Các cơ quan thuộc Chính phủ;                      
+  - UBND các tỉnh, thành phố trực thuộc Trung ương;   
+  - Bộ Khoa học và Công nghệ (để đăng ký);            
+  - Các Thứ trưởng Bộ GTVT;                           
+  - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);           
+  - Công báo; Cổng thông tin điện tử Chính phủ;       
+  - Cổng thông tin điện tử Bộ GTVT;                   
+  - Báo Giao thông, Tạp chí GTVT;                     
+  - Lưu: VT, KHCNMT_((H.Lưu)).                        
+
+  --------------------------------------------------- --------------------------------
+
+ 
+
+ 
+
+SỬA ĐỔI 01:2023 QCVN 109:2021/BGTVT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ KHÍ THẢI MỨC 5 ĐỐI VỚI XE Ô TÔ SẢN XUẤT, LẮP RÁP VÀ NHẬP KHẨU MỚI
+
+National technical regulation on the fifth level of gaseous pollutants emission for new assembled, manufactured and imported utomobiles
+
+Lời nói đầu
+
+Sửa đổi 01:2023 QCVN 109:2021/BGTVT sửa đổi, bổ sung một số quy định của QCVN 109:2021/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số …….. /2023/TT-BGTVT ngày …. tháng … năm 2023.
+
+Quy chuẩn này được biên soạn trên cơ sở:
+
+- Quy chuẩn kỹ thuật quốc gia QCVN 109:2021/BGTVT;
+
+- Các Tiêu chuẩn quốc gia: TCVN 6785:2015, TCVN 6567:2015, TCVN 6565:2006;
+
+- Các Quy định của Ủy ban Kinh tế Châu Âu của Liên hợp quốc: ECE 83 - Rev. 04 và ECE 49 - Rev. 05, ECE 154. Rev.3, ECE 83-06;
+
+- Các Chỉ thị của Hội đồng Nghị viện Châu Âu: DIRECTIVE 2005/78/EC, DIRECTIVE 715/2007/EC và DIRECTIVE 2007/46/EC;
+
+- Tiêu chuẩn khí thải Trung Quốc GB 18352.6.
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ KHÍ THẢI MỨC 5 ĐỐI VỚI XE Ô TÔ SẢN XUẤT, LẮP RÁP VÀ NHẬP KHẨU MỚI
+
+National technical regulation on the fifth level of gaseous pollutants emission for new assembled, manufactured and imported automobiles
+
+Phần I. Sửa đổi, bổ sung một số nội dung Phần I QCVN 109:2021/BGTVT
+
+1. Sửa đổi, bổ sung đoạn 4 Điều 1 như sau:
+
+ “Quy chuẩn này không áp dụng đối với các loại xe sau đây:
+
+- Các loại xe nêu tại TCVN 13219:2020 (ISO 7132:2003) Máy làm đất - Xe tự đổ - Thuật ngữ và đặc tính kỹ thuật trong thương mại;
+
+- Xe ô tô điện (ô tô chỉ sử dụng điện làm nguồn động lực);
+
+- Xe ô tô SXLR để xuất khẩu.”.
+
+2. Sửa đổi, bổ sung điểm 4.4 Điều 4 như sau:
+
+“4.4. Xe loại N (Category N of Motor Vehicles): Ô tô chở hàng, ô tô chuyên dùng quy định trong TCVN 7271:2003, Sửa đổi 1:2007 TCVN 7271:2003, Sửa đổi 2:2010 TCVN 7271:2003, TCVN 6211:2003 và có ít nhất 04 bánh, phân loại thành các loại xe từ N1 đến N3 dưới đây:
+
+4.4.1. N1: xe có khối lượng toàn bộ lớn nhất không lớn hơn 3.500 kg;
+
+4.4.2. N2: xe có khối lượng toàn bộ lớn nhất lớn hơn 3.500 kg nhưng không lớn hơn 12.000 kg;
+
+4.4.3. N3: xe có khối lượng toàn bộ lớn nhất lớn hơn 12.000 kg.
+
+Chú thích: Xe ô tô chuyên dùng trong Quy chuẩn này cũng được phân loại thành các loại xe N1, N2, N3 theo khối lượng toàn bộ lớn nhất.”.
+
+3. Bổ sung các điểm 4.8.3, 4.8.4 vào điểm 4.8 Điều 4 như sau:
+
+“4.8.3. Xe Hybrid điện nạp điện ngoài (Off-Vehicle charging - Hybrid electric vehicles (OVC-HEV) hoặc Plug-in Hybrid electric vehicle (PHEV)) là xe Hybrid điện có khả năng nạp điện được từ nguồn điện bên ngoài.
+
+4.8.4. Xe Hybrid điện không nạp điện ngoài (Not Off-Vehicle charging - Hybrid electric vehicles, NOVC-HEV) là xe Hybrid điện không có khả năng nạp điện được từ nguồn điện bên ngoài.
+
+Chú thích: Loại xe có hệ thống tự động khởi động và tắt động cơ (Start/Stop system) mà động cơ điện khởi động chỉ được kết nối với động cơ đốt trong nhằm mục đích khởi động quá trình đốt cháy (như đối với các loại xe thông thường) nhưng không có sự kết nối (trực tiếp hoặc gián tiếp) giữa động cơ điện khởi động động cơ với hệ thống truyền động để truyền năng lượng cơ học tới hệ thống chuyển động của xe thì không được coi là xe Hybrid điện.”.
+
+Phần II. Sửa đổi, bổ sung một số nội dung Phần II QCVN 109:2021/BGTVT
+
+1. Sửa đổi, bổ sung Bảng 2 điểm 2.2 Điều 2 như sau:
+
+ “Bảng 2. Giá trị giới hạn khí thải của xe lắp động cơ cháy do nén - Mức 5
+
++:-----:+:--------:+:---------:+:---------:+:---------:+:---:+:----:+:------:+:------:+:---:+:------:+:------:+:------:+
+| Loại xe                      | Khối lượng chuẩn,     | CO         | THC + NO_(x)    | NO_(x)       | PM⁽¹⁾           |
+|                              |                       |            |                 |              |                 |
+|                              | Rm (kg)               |            |                 |              |                 |
+|                              |                       +------------+-----------------+--------------+-----------------+
+|                              |                       | (g/km)     | (g/km)          | (g/km)       | (g/km)          |
++------------------------------+-----------------------+------------+-----------------+--------------+-----------------+
+| M₁, M₂                       | Tất cả                | 0,5        | 0,23            | 0,18         | 0,005/0,0045    |
++-------+----------+-----------+-----------+-----------+-----+------+--------+--------+-----+--------+--------+--------+
+| N₁⁽²⁾ | Nhóm I   | Rm ≤ 1305             | 0,5             | 0,23          | 0,18         | 0,005/0,0045    |        |
+|       +----------+-----------------------+-----------------+---------------+--------------+-----------------+--------+
+|       | Nhóm II  | 1.305 < Rm ≤ 1.760    | 0,63            | 0,295         | 0,235        | 0,005/0,0045    |        |
+|       +----------+-----------------------+-----------------+---------------+--------------+-----------------+--------+
+|       | Nhóm III | 1.760 < Rm            | 0,74            | 0,35          | 0,28         | 0,005/0,0045    |        |
++-------+----------+-----------+-----------+-----------+-----+------+--------+--------+-----+--------+--------+--------+
+| N₂                           | Tất cả                | 0,74       | 0,35            | 0,28         | 0,005/0,0045    |
++------------------------------+-----------------------+------------+-----------------+--------------+-----------------+
+
+Chú thích:
+
+⁽¹⁾ Giá trị đứng trước tương ứng với phương pháp cân hạt bằng cân điện tử nhưng quan sát kết quả bằng mắt thường. Giá trị đứng sau tương ứng phương pháp cân hạt tự động thông qua một thiết bị cân và chương trình phần mềm (PMP);
+
+⁽²⁾ Xe được thiết kế đáp ứng nhu cầu đặc biệt của xã hội như định nghĩa tại điểm 4.13 Điều 4 Phần I Quy chuẩn này được áp dụng mức giới hạn của xe loại N1 Nhóm III.”.
+
+2. Sửa đổi, bổ sung điểm 2.7.1 Điều 2 như sau:
+
+“2.7.1. Xe phải trang bị hệ thống OBD bảo đảm các yêu cầu sau:
+
+2.7.1.1. Có thiết bị báo lỗi chức năng (MI);
+
+2.7.1.2. Có khả năng lưu và xóa mã lỗi; khả năng xóa mã lỗi theo thiết kế của nhà sản xuất.”.
+
+3. Bổ sung điểm 2.9.3 Điều 2 như sau:
+
+“2.9.3. Đối với xe khối lượng chuẩn cao lắp động cơ cháy do nén gồm loại xe M1, M2, N1, N2 có khối lượng toàn bộ lớn nhất không lớn hơn 4.500 kg: áp dụng phương pháp thử nêu tại điểm 3.2 Điều 3 Phần III Quy chuẩn này hoặc phương pháp thử nêu tại điểm 3.3 Điều 3 Phần III Quy chuẩn này bảo đảm thỏa mãn các quy định kỹ thuật tương ứng với từng phép thử nêu tại Điều 2 Phần II Quy chuẩn này.”.
+
+4. Sửa đổi, bổ sung điểm 3.2.1 Điều 3 như sau:
+
+“3.2.1. Khi kiểm tra khí thải trong phép thử nêu tại điểm 3.3.2 Điều 3 Phần III Quy chuẩn này, khối lượng trung bình đo được của độ khói, các khí CO, HC, NOx và PM từ động cơ không được lớn hơn giá trị giới hạn tương ứng được quy định trong Bảng 4 và Bảng 5 Quy chuẩn này. Các giá trị khối lượng trung bình đo được của các chất nêu trên được làm tròn theo nguyên tắc làm tròn số đến 3 chữ số thập phân.
+
+Bảng 4. Giá trị giới hạn trong khí thải của từng chất khí và hạt đối với các phép thử ESC và ELR mức 5
+
++:-----------:+:-----------:+:-----------:+:-----------:+:-----------:+:-----:+:-----:+
+| ESC                                                                 | ELR           |
++---------------------------------------------------------------------+---------------+
+| Khối lượng các chất (g/kWh)                                         | Độ khói       |
+|                                                                     |               |
+|                                                                     | (m⁻¹)         |
++-------------+-------------+-------------+-------------+-------------+-------+-------+
+| CO          | HC          | NO_(x)      | PM          |                     |       |
++-------------+-------------+-------------+-------------+---------------------+-------+
+| 1,5         | 0,46        | 2,0         | 0,02        | 0,5                 |       |
++-------------+-------------+-------------+-------------+---------------------+-------+
+
+”.
+
+5. Sửa đổi, bổ sung điểm 3.3.1 Điều 3 như sau:
+
+“3.3.1. Xe phải trang bị hệ thống OBD đảm bảo các yêu cầu sau:
+
+3.3.1.1. Có thiết bị báo lỗi chức năng (MI);
+
+3.3.1.2. Có khả năng lưu và xóa mã lỗi; khả năng xóa mã lỗi theo thiết kế của nhà sản xuất.”.
+
+Phần III. Sửa đổi, bổ sung một số nội dung Phần III QCVN 109:2021/BGTVT
+
+1. Sửa đổi, bổ sung các điểm 2.2.1, 2.2.2, 2.2.3 Điều 2 như sau:
+
+“2.2.1. Đối với xe khối lượng chuẩn cao lắp động cơ xăng hoặc xe khối lượng chuẩn thấp: mẫu thử là xe hoàn chỉnh.
+
+2.2.2. Đối với các loại xe khối lượng chuẩn cao lắp động cơ cháy cưỡng bức sử dụng nhiên liệu khí hoặc động cơ cháy do nén: mẫu thử là động cơ. Trường hợp thử nghiệm theo quy định tại điểm 2.9.3 Điều 2 Phần II Quy chuẩn này thì áp dụng quy định tại điểm 2.2.1 Điều này.
+
+2.2.3. Xe hoặc động cơ cần được chạy rà để đưa về điều kiện kỹ thuật tốt trước khi thử.”.
+
+2. Sửa đổi, bổ sung Chú thích Bảng 7 Điều 3 như sau:
+
+“Chú thích: đối với phép thử loại I, riêng xe M2, N2 sử dụng nhiên liệu điêzen, có khối lượng chuẩn ≤ 2.840 kg và thoả mãn điều kiện mở rộng thừa nhận kết quả quy định tại Điều 6 Phần III Quy chuẩn này thì được áp dụng kết quả thử nghiệm theo các phép thử loại I TCVN 6785:2015 của xe M1, M2, N1, M2 tương ứng.”.
+
+3. Sửa đổi, bổ sung điểm 3.1.2.3.1 Điều 3 như sau:
+
+“3.1.2.3.1. Nếu các xe này phù hợp với yêu cầu nêu tại Điều 6 Phần III Quy chuẩn này về mở rộng thừa nhận kết quả thử khí thải, được phép sử dụng kết quả thử nghiệm theo các phép thử đối với xe loại M1, M2, N1 và N2 tương ứng thay cho việc thử nghiệm theo các phép thử ESC, ELR và ETC của TCVN 6567:2015.”.
+
+4. Sửa đổi, bổ sung điểm 3.1.3.2. Điều 3 như sau:
+
+“3.1.3.2. Đối với xe sát-xi có buồng lái: các quy định về tiêu chuẩn áp dụng đối với xe sát-xi có buồng lái được nêu trong Bảng 9 dưới đây:
+
+Bảng 9. Quy định về tiêu chuẩn áp dụng đối với xe sát-xi có buồng lái
+
++:--------------------------------------------:+:-------------------------------------------------------------------------------------------------------------------------------:+
+| Khối lượng chuẩn xe sát-xi có buồng lái (kg) | Tiêu chuẩn áp dụng                                                                                                              |
++----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| ≤ 2.610                                      | Áp dụng 1 trong 2 phương pháp sau:                                                                                              |
+|                                              |                                                                                                                                 |
+|                                              | - Phương pháp nêu tại điểm 3.2 Phần III Quy chuẩn này;                                                                          |
+|                                              |                                                                                                                                 |
+|                                              | - Phương pháp nêu tại điểm 3.3 Phần III Quy chuẩn này nếu loại xe sát-xi chỉ dùng để sản xuất thành xe hoàn chỉnh là xe loại N. |
++----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| > 2.610                                      | - Xe lắp động cơ xăng: nêu tại điểm 3.2 Phần III Quy chuẩn này.                                                                 |
+|                                              |                                                                                                                                 |
+|                                              | - Xe lắp động cơ nhiên liệu khí và điêzen: nêu tại điểm 3.3 Phần III Quy chuẩn này.                                             |
++----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+
+”.
+
+5. Sửa đổi, bổ sung nội dung tại điểm 3.2.1.1 Điều 3 như sau:
+
+“3.2.1.1. Yêu cầu về đặc tính nhiên liệu thực hiện phép thử theo quy định tại Điều 4
+
+Phần III Quy chuẩn này. Phải sử dụng các phương pháp lấy mẫu và phân tích các khí và các hạt theo đúng quy định tại Phụ lục Q TCVN 6785:2015.
+
+Việc xác định sức cản chuyển động của xe được thực hiện theo phương pháp nêu tại Phụ lục Q TCVN 6785:2015 hoặc theo quy định tại Phụ lục B - Phụ lục B4 ECE 154 Rev.3 của Ủy ban Kinh tế châu Âu của Liên Hợp quốc (UNECE).
+
+Đối với xe lắp động cơ phía trước, quạt làm mát phải được đặt ở phía trước xe, cách mặt trước xe không quá 300 mm. Trường hợp xe lắp động cơ phía sau hoặc không bảo đảm làm mát hiệu quả thì quạt làm mát phải được bố trí để bảo đảm cung cấp đủ không khí làm mát xe.”.
+
+6. Sửa đổi, bổ sung điểm 3.2.1.2 Điều 3 như sau:
+
+“3.2.1.2. Xe lắp động cơ cháy do nén, xe lắp động cơ cháy cưỡng bức phun nhiên liệu trực tiếp phải tiến hành chạy thuần hóa trước khi thử với 3 lần chu trình ngoài đô thị của Phép thử loại I quy định tại Phụ lục D - Phụ lục D1 TCVN 6785:2015”.
+
+7. Sửa đổi, bổ sung điểm 3.2.5.3 Điều 3 như sau:
+
+“3.2.5.3. Cơ sở thử nghiệm có thể thực hiện phép thử loại V với việc sử dụng các hệ số suy giảm trong Bảng 3 điểm 2.6 Điều 2 Phần II Quy chuẩn này.”.
+
+8. Sửa đổi, bổ sung chú thích (*) điểm 3.2 Điều 3 như sau:
+
+“Chú thích: (*) Đối với xe Hybrid điện, ngoài việc thực hiện các Phép thử loại I, Phép thử loại II, Phép thử loại III và Phép thử loại IV quy định tại điểm 3.2.1, điểm 3.2.2, điểm 3.2.3 và điểm 3.2.4 Điều 3 Phần III Quy chuẩn này còn phải thực hiện theo các quy định tương ứng trong Phụ lục N TCVN 6785:2015. Đối với xe NOVC-HEV, trước khi thực hiện Phép thử loại I và Phép thử loại IV phải thực hiện thuần hóa trên băng thử với ít nhất 2 chu trình Phép thử loại I quy định tại Phụ lục D - Phụ lục D1 TCVN 6785:2015 mà không cần ngâm xe giữa các chu trình thuần hóa; sau đó, xe được ngâm theo quy định tương ứng tại các điểm N.3.3, N.3.4 và N.6.2 Phụ lục N TCVN 6785:2015 trước khi thử.”.
+
+9. Sửa đổi, bổ sung điểm 3.2.6 Điều 3 như sau:
+
+“3.2.6. Phép thử OBD
+
+3.2.6.1. Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo ít nhất 6 cảm biến hoặc linh kiện (ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả) tại Phụ lục A - Phụ lục A1 bảo đảm có khả năng ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động trong quá trình kiểm tra và Cơ sở thử nghiệm tiếp cận được để kiểm tra tính năng báo lỗi chức năng (MI), mã lỗi; đồng thời bảo đảm mẫu thử hoạt động bình thường khi kết nối (kích hoạt) trở lại sau khi kiểm tra.
+
+3.2.6.2. Cơ sở thử nghiệm lựa chọn 4 cảm biến hoặc linh kiện được Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo tại Phụ lục A - Phụ lục A1; trong đó, phải lựa chọn ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả để kiểm tra hiệu quả của OBD theo khai báo của cơ sở SXLR hoặc cơ sở nhập khẩu. Cơ sở SXLR hoặc cơ sở nhập khẩu có trách nhiệm bảo đảm tình trạng hoạt động bình thường của mẫu thử sau khi kiểm tra.”.
+
+10. Sửa đổi, bổ sung điểm 3.3.2.5 Điều 3 như sau:
+
+“3.3.2.5. Đối với xe lắp hệ thống xử lý sau xả dựa trên quá trình tái sinh định kỳ phải được thử nghiệm theo quy định tại điểm B.2.8.2 Phụ lục B TCVN 6567:2015. Phép thử được thực hiện như sau:
+
+3.3.2.5.1. Nếu cơ sở SXLR hoặc cơ sở nhập khẩu cung cấp được dữ liệu thể hiện được lượng khí thải không đổi (+/-15 %) giữa các giai đoạn tái sinh, thực hiện một phép thử ETC trong quá trình tái sinh và một phép thử ETC không trong quá trình tái sinh. Cơ sở SXLR hoặc cơ sở nhập khẩu phải cung cấp hệ thống xử lý sau xả đã hấp thụ một lượng phát thải sát với thời điểm tái sinh để chuẩn bị cho phép thử ETC trong quá trình tái sinh, hoặc như quy định tại điểm 3.3.2.5.2, 3.3.2.5.3, 3.3.2.5.4 dưới đây:
+
+3.3.2.5.2. Lượng khí thải được đo dựa trên ít nhất một phép thử không trong quá trình tái sinh và ít nhất một phép thử trong quá trình tái sinh trên một hệ thống xử lý sau xả ổn định nếu kết quả phép thử ETC trong quá trình tái sinh không vượt quá giới hạn khí thải trong Bảng 2 điểm 5.2 của TCVN 6567:2015.
+
+3.3.2.5.3. Lượng khí thải được đo dựa trên ít nhất một phép thử ETC trong quá trình tái sinh và lượng khí thải trung bình cộng của ít nhất 02 phép thử ETC không trong quá trình tái sinh.
+
+3.3.2.5.4. Có thể sử dụng kết quả phép thử ETC trong quá trình tái sinh theo tài liệu do cơ sở SXLR hoặc cơ sở nhập khẩu cung cấp để miễn phép thử ETC của quá trình tái sinh.”.
+
+11. Sửa đổi, bổ sung điểm 3.3.3 Điều 3 như sau:
+
+“3.3.3. Phép thử OBD
+
+3.3.3.1. Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo ít nhất 6 cảm biến hoặc linh kiện (ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả) tại Phụ lục C - Phụ lục C1 bảo đảm có khả năng ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động trong quá trình kiểm tra và Cơ sở thử nghiệm tiếp cận được để kiểm tra tính năng báo lỗi chức năng (MI), mã lỗi; đồng thời bảo đảm mẫu thử hoạt động bình thường khi kết nối (kích hoạt) trở lại sau khi kiểm tra.
+
+3.3.3.2. Cơ sở thử nghiệm lựa chọn 4 cảm biến hoặc linh kiện được Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo tại Phụ lục C - Phụ lục C1; trong đó, phải lựa chọn ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả để kiểm tra hiệu quả của OBD theo khai báo của cơ sở SXLR hoặc cơ sở nhập khẩu. Cơ sở SXLR hoặc cơ sở nhập khẩu có trách nhiệm bảo đảm tình trạng hoạt động bình thường của mẫu thử sau khi kiểm tra. Đối với mẫu thử phục vụ kiểm tra chứng nhận xe SXLR mới, cho phép thực hiện việc thử nghiệm trên một mẫu động cơ khác (cùng kiểu loại) với mẫu động cơ đã thực hiện các phép thử khí thải nêu tại các điểm 3.3.2 và 3.3.4 Điều 3 Phần III Quy chuẩn này.”.
+
+12. Sửa đổi, bổ sung điểm 4.1 Điều 4 như sau:
+
+“4.1. Nhiên liệu thông dụng cho xe cơ giới thỏa mãn yêu cầu đối với nhiên liệu mức 5 theo QCVN 01:2022/BKHCN Quy chuẩn kỹ thuật quốc gia về xăng, nhiên liệu điêzen và nhiên liệu sinh học.”.
+
+13. Sửa đổi, bổ sung Điều 5 như sau:
+
+“5. Xử lý kết quả và lập báo cáo thử nghiệm
+
+5.1. Xử lý kết quả thử nghiệm
+
+5.1.1. Đối với mẫu thử được lấy trong quá trình kiểm tra giám sát khí thải xe khi SXLR hàng loạt, việc xử lý kết quả được thực hiện theo quy định tại Điều 7 Phần III Quy chuẩn này.
+
+5.1.2. Đối với mẫu thử là xe nhập khẩu hoặc động cơ của xe nhập khẩu: khi thử nghiệm lần tiếp theo, xe hoặc động cơ cần được chạy rà để đưa về điều kiện kỹ thuật tốt trước khi thử.
+
+5.2. Lập báo cáo thử nghiệm
+
+Cơ sở thử nghiệm phải lập báo cáo thử nghiệm khí thải có nội dung ít nhất bao gồm các điều quy định trong Phụ lục B, Phụ lục D và Phụ lục E Quy chuẩn này tương ứng với từng loại thử nghiệm và tiêu chuẩn áp dụng.”.
+
+14. Sửa đổi, bổ sung điểm 6.1 Điều 6 như sau:
+
+“6.1. Yêu cầu chung
+
+6.1.1. Các xe M1, M2, N1, N2 (trừ các kiểu loại xe nêu tại 6.1.3) có khối lượng chuẩn không quá 2.840 kg và thỏa mãn điều kiện mở rộng thừa nhận kết quả quy định tại điểm 6.2 và điểm 6.3 Điều 6 Phần III Quy chuẩn này thì được áp dụng kết quả thử nghiệm đối với các phép thử của xe M1, M2, N1, N2 tương ứng.
+
+6.1.2. Việc mở rộng thừa nhận kết quả thử nghiệm nêu tại điểm 6.1.1 ở trên chỉ áp dụng cho kiểu loại xe M1, N1, M2, N2 đã kiểm tra khí thải theo TCVN 6785:2015 và cho kiểu loại xe đã kiểm tra độ khói theo TCVN 6565:2006.
+
+6.1.3. Các kiểu loại xe được sản xuất từ xe cơ sở (từ xe sát-xi hoặc từ xe hoàn chỉnh) thuộc kiểu loại xe đã được thử nghiệm khí thải thì không phải thử nghiệm lại khí thải.”.
+
+15. Sửa đổi, bổ sung điểm 6.2.1.2. Điều 6 như sau:
+
+“6.2.1.2. Chỉ khác nhau về số loại (mã kiểu loại, tên thương mại), loại xe, khối lượng toàn bộ lớn nhất, số nhận dạng (VIN) và các thông số theo từng trường hợp quy định tại các điểm từ 6.2.2 đến 6.2.5 Điều 6 Phần III Quy chuẩn này.”.
+
+16. Sửa đổi, bổ sung điểm 6.2.2.1.2. Điều 6 như sau:
+
+“6.2.2.1.2. Đối với kiểu loại xe thuộc loại N1, N2 có khối lượng chuẩn thấp hơn khối lượng chuẩn của kiểu loại xe đã được chứng nhận khí thải, chỉ mở rộng thừa nhận kết quả thử nghiệm nếu kết quả đo khí thải từ kiểu loại xe đã được chứng nhận không vượt quá các giá trị giới hạn khí thải quy định đối với kiểu loại xe được xét thừa nhận kết quả này.”.
+
+17. Bổ sung Điều 8 như sau:
+
+“8. Đối với các loại xe hoặc động cơ mà năng lực thử nghiệm trong nước chưa thực hiện được hoặc trong điều kiện thiên tai, dịch bệnh hoặc các trường hợp bất khả kháng khác quy định tại khoản 1 Điều 156 Bộ Luật dân sự thì Cục Đăng kiểm Việt Nam căn cứ báo cáo kết quả thử nghiệm khí thải do tổ chức thử nghiệm tại nước ngoài đã cấp (tổ chức thử nghiệm đã được tổ chức công nhận là thành viên của APAC (Tổ chức công nhận Châu Á - Thái Bình Dương) hoặc của ILAC (Tổ chức Công nhận các phòng thử nghiệm quốc tế) công nhận có năng lực phù hợp với quy định tại tiêu chuẩn ISO/IEC 17025:2017, trong đó có phạm vi thử nghiệm phù hợp với Quy chuẩn này) và đối chiếu với xe hoặc động cơ thực tế đối với các thông tin và thông số kỹ thuật nêu trong Phụ lục C, Phụ lục D, Phụ lục Đ và Phụ lục E Quy chuẩn này để thực hiện thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường. Báo cáo kết quả thử nghiệm nước ngoài phải thỏa mãn một trong các yêu cầu sau:
+
+8.1. Có các phép thử phù hợp và mức tiêu chuẩn khí thải không thấp hơn mức quy định tại Quy chuẩn này;
+
+8.2. Có đầy đủ các phép thử phù hợp quy định của ECE 83 (mức Euro 5 hoặc cao hơn), ECE 154 (mức Euro 5 hoặc cao hơn) hoặc ECE 49 (mức Euro 5 hoặc cao hơn) của UNECE.
+
+Phần IV. Sửa đổi, bổ sung các phụ lục của QCVN 109:2021/BGTVT
+
+1. Sửa đổi, bổ sung một số nội dung của Phụ lục A
+
+1.1. Sửa đổi, bổ sung điểm A.1.7 như sau:
+
+“A.1.7. Khối lượng bản thân khi thử nghiệm theo đăng ký của cơ sở SXLR hoặc cơ sở nhập khẩu (Unladen mass of vehicle in emission test as the Manufacturer or Importer’s registration)^((*)): ............. kg.
+
+Chú thích^((*)): Đối với xe chuyên dùng, xe chở người chuyên dùng, xe chở hàng chuyên dùng, được quy định trong TCVN 7271, TCVN 6211 khối lượng bản thân của xe khi thử nghiệm không bao gồm khối lượng của thiết bị, cụm lắp ráp độc lập phục vụ mục đích chuyên dùng kèm theo xe (ví dụ: máy thở trên xe ô tô cứu thương, máy phát điện di động, các trang thiết bị di động mang theo, ...).”.
+
+1.2. Sửa đổi, bổ sung điểm A.1.10.1.2 như sau:
+
+“A.1.10.1.2. Hiệu suất chuyển mô men lớn nhất (Maximum torque conversion)⁽⁶⁾: …………”.
+
+1.3. Bỏ điểm A.1.15; sửa điểm A.1.16 thành điểm A.1.15; bỏ các điểm A.2.2.13, A.2.2.14.
+
+1.4. Sửa đổi, bổ sung điểm A.2.2.1.5 như sau:
+
+“A.2.2.1.5. Các bản vẽ mô tả buồng cháy và đỉnh pittông (Drawings of combustion chamber and piston crown⁽⁶⁾:……………………………………………………..”.
+
+1.5. Sửa đổi, bổ sung nội dung c, d, đ, e của điểm A.2.2.4.1.3 như sau:
+
+“c. Lượng nhiên liệu cung cấp lớn nhất (Maximum fuel delivery): (mm³/stroke or cycle) tại tốc độ bơm (at a pump speed): (r.p.m): …… r/min hoặc đường đặc tính (or characteristic diagram) ⁽⁶⁾
+
+d. Thời điểm phun (Injection timing)⁽²⁾⁽⁶⁾: ………………………………
+
+đ. Đặc tính phun sớm (Injection advance curve)⁽²⁾⁽⁶⁾:…………………
+
+e. Phương pháp hiệu chuẩn (Calibration procedure): băng thử/động cơ (test bench/engine)⁽¹⁾⁽⁶⁾ ……………………”.
+
+1.6. Sửa đổi bổ sung nội dung b, c, d, đ của điểm A.2.2.4.1.4 như sau:
+
+“b. Điểm hạn chế tốc độ (Cut-off point)⁽⁶⁾:………………………………….
+
+c. Khi có tải (Cut-off point under load)⁽⁶⁾: ……………….. (r/min) (r.p.m or min⁻¹)
+
+d. Khi không tải (Without load) ⁶⁾: …………………………. (r/min) (r.p.m or min⁻¹)
+
+đ. Tốc độ không tải (Idling speed)⁽⁶⁾: ………………………. (r/min) (r.p.m or min⁻¹)”.
+
+1.7. Sửa đổi, bổ sung và nhập nội dung c, d thành c của điểm A.2.2.4.1.5 như sau:
+
+“c. Áp suất phun (Opening pressure)⁽²⁾⁽⁶⁾:………………. (kPa) hoặc đường đặc tính (Characteristic diagram)⁽⁶⁾: ………………..”.
+
+1.8. Sửa đổi, bổ sung nội dung c của điểm A.2.2.4.1.6 như sau:
+
+“c. Mô tả (Description)⁽⁶⁾:………………………….”.
+
+1.9. Sửa đổi, bổ sung nội dung c của điểm A.2.2.4.1.7 như sau:
+
+“c. Mô tả (Description)⁽⁶⁾:………………………….”.
+
+1.10. Sửa đổi, bổ sung nội dung b, đ, e, g, i, l, m của điểm A.2.2.4.2.2 như sau:
+
+1.10.1. Sửa đổi, bổ sung nội dung b của điểm A.2.2.4.2.2 như sau:
+
+“b. Bộ điều chỉnh nhiên liệu - Kiểu (Fuel regulator - type)⁽⁶⁾: ………………”.
+
+1.10.2. Sửa đổi, bổ sung nội dung đ, e, g của điểm A.2.2.4.2.2 như sau:
+
+“đ. Bộ điều chỉnh áp suất - Kiểu (Pressure regulator - type)⁽⁶⁾:………………
+
+e. Cái ngắt vi mạch - Kiểu (Microswitch - type)⁽⁶⁾:…………………………
+
+g. Vít điều chỉnh chạy không tải - Kiểu (Idle adjusting screw - type)⁽⁶⁾:……………..”.
+
+1.10.3. Sửa đổi, bổ sung nội dung i, l, m của điểm A.2.2.4.2.2 như sau:
+
+“i. Cảm biến nhiệt độ nước - Kiểu (Water temperature sensor - type ⁽⁶⁾:……………
+
+l. Công tắc nhiệt độ không khí - Kiểu (Air temperature switch - type) ⁽⁶⁾:…………..
+
+m. Bộ phận chống nhiễu điện từ: Mô tả hoặc bản vẽ (Electromagnetic interference protection: Description or drawing) ⁽⁶⁾:…………………………………”.
+
+1.11. Sửa đổi, bổ sung nội dung a của điểm A.2.2.4.2.5 như sau:
+
+“a. Áp suất phun (Opening pressure)⁽²⁾⁽⁶⁾:…………………… kPa”.
+
+1.12. Sửa đổi, bổ sung điểm A.2.2.4.2.6 như sau:
+
+“A.2.2.4.2.6. Thời điểm phun (Injection timing)⁽⁶⁾:…………………..”.
+
+1.13. Sửa đổi, bổ sung nội dung a, b của điểm A.2.2.4.2.7 như sau:
+
+“a. Nguyên lý làm việc (Operating principle(s))⁽⁶⁾:………………….
+
+b. Giới hạn làm việc/thông số chỉnh đặt (Operating limits/ settings)⁽¹⁾⁽⁶⁾:…………”.
+
+1.14. Sửa đổi, bổ sung điểm A.2.2.4.3 như sau:
+
+“A.2.2.4.3. Bơm cung cấp nhiên liệu (Feed pump)⁽⁶⁾:…………..”.
+
+1.15. Sửa đổi, bổ sung nội dung c của điểm A.2.2.4.4.2 như sau:
+
+“c. Khả năng điều chỉnh liên quan đến khí thải (Emission related adjustment possibilities)⁽⁶⁾: …………”.
+
+1.16. Sửa đổi, bổ sung các điểm từ A.2.2.5.3 đến A.2.2.5.7 như sau:
+
+“A.2.2.5.3. Nguyên lý làm việc (Working principle) ⁽⁶⁾:……………….
+
+A.2.2.5.4. Đặc tính đánh lửa sớm (Ignition advance curve)⁽²⁾⁽⁶⁾:………………
+
+A.2.2.5.5. Thời điểm đánh lửa tĩnh (Static ignition timing)⁽²⁾⁽⁶⁾ …….độ trước ĐCT (degrees before TDC)
+
+A.2.2.5.6. Khe hở tiếp điểm (Contact-point gap)⁽²⁾⁽⁶⁾: ……………(mm)
+
+A.2.2.5.7. Góc đóng tiếp điểm (Dwell-angle)⁽²⁾⁽⁶⁾:……….……..”.
+
+1.17. Sửa đổi, bổ sung điểm A.2.2.5.8.3 như sau:
+
+ “A.2.2.5.8.3. Thông số chỉnh đặt khe hở đánh lửa (Spark plug gap setting)⁽⁶⁾:…..”.
+
+1.18. Sửa đổi, bổ sung điểm A.2.2.7.1.3 như sau:
+
+“A.2.2.7.1.3. Mô tả hệ thống (áp suất nạp lớn nhất:...........kPa, đường xả khí …..) (Description of the system (maximum charge pressure: …. kPa, wastegate.....) ⁽⁶⁾….”.
+
+1.19. Sửa đổi, bổ sung điểm A.2.2.7.3 như sau:
+
+“A.2.2.7.3. Mô tả và các bản vẽ của ống dẫn đầu vào và các linh kiện (buồng thông gió trên, thiết bị sấy, bộ phận nạp khí bổ sung, ...) (Description and drawings of inlet pipes and their accessories (plenum chamber, heating device, additional air intakes, etc))⁽⁶⁾: ……………….
+
+A.2.2.7.3.1. Mô tả ống nạp (bao gồm cả bản vẽ và/hoặc ảnh) (Intake manifold description (include drawings and/or photographs))⁽⁶⁾: ………………..”.
+
+1.20. Sửa đổi, bổ sung điểm A.2.2.9 như sau:
+
+“A.2.2.9. Thời điểm đóng mở van (xu páp) hoặc số liệu tương đương (Valve timing or equivalent data)⁽⁶⁾:………………………..
+
+A.2.2.9.1. Độ nâng lớn nhất của các van, các góc đóng và mở hoặc chi tiết về thời điểm của các hệ thống phân phối luân phiên, liên quan với các điểm chết (Maximum lift of valves, angles of opening and closing, or timing details of alternative distribution systems, in relation to dead centres)⁽⁶⁾: …………………
+
+A.2.2.9.2 Chuẩn hoặc dải thông số chỉnh đặt (Reference or setting ranges)⁽¹⁾⁽⁶⁾:…”.
+
+1.21. Sửa đổi, bổ sung các điểm A.2.2.11.3.2, A.2.2.11.3.3 như sau:
+
+“A.2.2.11.3.2. Phun không khí: Có/Không⁽¹⁾ (Air injection: Yes/No)
+
+Kiểu (không khí phun kiểu xung, bơm không khí, ...) (Type (pulse air, air pump,...))⁽⁶⁾: ……………………………
+
+A.2.2.11.3.3. Tuần hoàn khí thải (EGR): Có/Không (EGR exhaust gas recycle: Yes/No)⁽¹⁾
+
+Các đặc điểm: (lưu lượng …) (Characteristics: flow...⁽⁶⁾:……………..”.
+
+1.22. Sửa đổi, bổ sung nội dung a, b, e, g, h của điểm A.2.2.11.3.5 như sau:
+
+1.22.1. Sửa đổi, bổ sung nội dung a, b của điểm A.2.2.11.3.5 như sau:
+
+“a. Kích thước và hình dáng bẫy (dung tích) (Dimensions and shape of the particulate trap (capacity))⁽⁵⁾⁽⁶⁾: ……………………..
+
+b. Kiểu bẫy và kết cấu (Type of particulate trap and design)⁽⁵⁾⁽⁶⁾: ………………….”.
+
+1.22.2. Sửa đổi, bổ sung nội dung e, g, h của điểm A.2.2.11.3.5 như sau:
+
+“e. Số lượng chu trình của phép thử loại 1 hoặc số chu trình trên băng thử động cơ tương đương, giữa hai chu trình tái sinh trong những điều kiện tương đương với phép thử loại 1 (Phụ lục M TCVN 6785:2015) (The number of Type I operating cycles, or equivalent engine test bench cycles, between two cycles where regenerative phases occur under the conditions equivalent to Type I test (Annex M TCVN 6785:2015))⁽⁵⁾⁽⁶⁾: ……………………….
+
+g. Mô tả phương pháp xác định số lượng chu trình thử giữa hai chu trình tái sinh (Description of method employed to determine the number of cycles between two cycles where regenerative phases occur)⁽⁵⁾⁽⁶⁾: …………………….
+
+h. Các thông số xác định mức tải yêu cầu trước khi diễn ra quá trình tái sinh (VD: nhiệt độ, áp suất, ...) (Parameters to determine the level of loading required before regeneration occurs (i.e. temperature, pressure etc.)⁽⁵⁾⁽⁶⁾: …………………………”.
+
+1.23. Sửa đổi, bổ sung điểm A.2.2.11.4.4 như sau:
+
+“A.2.2.11.4.4. Phương pháp truy cập EECU (Access method of EECU)⁽⁵⁾⁽⁶⁾: ………”.
+
+1.24. Bãi bỏ nội dung e của điểm A.2.2.11.3.6.
+
+1.25. Bãi bỏ nội dung điểm A.2.2.13, điểm A.2.2.14.
+
+1.26. Bổ sung điểm A.3 như sau:
+
+“A.3. Xe Hybrid điện: Có/Không (Electric Hybrid vehicle: Yes/No)⁽¹⁾:
+
+A.3.1. Loại xe Hybrid điện (Category electric Hybrid vehicle): không tự sạc điện/tự sạc điện (Off Vehicle charging (OVC)/Not Off Vehicle charging (NOVC)):
+
+A.3.2. Công tắc chuyển chế độ hoạt động: Có/Không (Operating mode switch: with/without)
+
+A.3.2.1. Các chế độ có thể chọn (Selectable modes):
+
+A.3.2.1.1. Chỉ sử dụng điện: Có/Không (Pure electric: Yes/No):
+
+A.3.2.1.2. Chỉ sử dụng nhiên liệu: Có/Không (Pure fuel consuming: Yes/No):
+
+A.3.2.1.3. Chế độ Hybrid: Có/Không (nếu có, mô tả ngắn gọn) (Hybrid mode: Yes/No) (if yes, short description):
+
+A.3.3. Mô tả thiết bị tích trữ năng lượng: (Ắc quy, tụ điện, bánh đà/máy phát điện…) (description of the energy storage device: battery, capacitor, flywheel/generator ...)
+
+A.3.3.1. Nhãn hiệu (Make(s)):
+
+A.3.3.2. Kiểu (Type (s)):
+
+A.3.3.3. Số nhận dạng (Identification number):
+
+A.3.3.4. Loại cặp hóa - điện (Kind of electrochemical couple):
+
+A.3.3.5. Năng lượng: (Đối với ắc quy: điện áp và điện lượng Ah trong 2h, đối với tụ điện: J) (Energy (for battery: voltage and capacity Ah in 2 h, for capacitor: J,..))
+
+A.3.3.6. Thiết bị sạc: bên trong/bên ngoài/không lắp (Charger: on board/external/without):
+
+A.3.4. Máy điện (mô tả riêng rẽ từng loại máy điện) (Electric machine (discrible each type of electric machine separately))
+
+A.3.4.1. Nhãn hiệu (Make):
+
+A.3.4.2. Kiểu (Type):
+
+A.3.4.3. Mục đích sử dụng chính: Mô tơ điện/Máy phát điện/Mô tơ điện và máy phát điện đồng thời (Primary use: Electric motor/Generator /Traction motor and Generator simultaneous)
+
+A.3.4.3.1. Khi sử dụng làm mô tơ điện: một mô tơ/nhiều mô tơ (ghi số) (When used as traction motor: monomotor /multimotors (number)):
+
+A.3.4.4. Công suất lớn nhất (Maximum of power):
+
+A.3.4.5. Nguyên lý làm việc (Working principle):
+
+A.3.4.5.1. Dòng điện một chiều/xoay chiều/số pha (Direct current/alternating current/numbers of phase):
+
+A.3.4.5.2. Bộ kích từ riêng rẽ (separate excitation)/chuỗi (series)/phức hợp (compound)
+
+A.3.4.5.3. Đồng bộ/không đồng bộ (synchronous/asynchronous):
+
+A.3.5. Thiết bị điều khiển (Control unit):
+
+A.3.5.1. Nhãn hiệu (Make):
+
+A.3.5.2. Kiểu (type):
+
+A.3.5.3. Số nhận dạng (Identification number):
+
+A.3.6. Bộ điều khiển công suất (power controller):
+
+A.3.6.1. Nhãn hiệu (Make):
+
+A.3.6.2. Kiểu (Type):
+
+A.3.6.3. Số nhận dạng (Identification number):
+
+A.3.7. Quãng đường lớn nhất xe có thể đi được khi sử dụng động cơ điện (Vehicle electric range):
+
+A.3.8. Hướng dẫn về thuần hóa của nhà sản xuất (Manufacturer's recommendation for preconditioning):”.
+
+1.27. Sửa đổi, bổ sung các chú thích (5), (6) như sau:
+
+“Chú thích:
+
+⁽⁵⁾ Không áp dụng đối với các xe nhập khẩu không thuộc phạm vi điều chỉnh của Nghị định 116/2017/NĐ-CP và Nghị định 17/2020/NĐ-CP.
+
+⁽⁶⁾ Khuyến khích cơ sở SXLR hoặc cơ sở nhập khẩu khai báo.”.
+
+1.28. Bổ sung ghi chú vào cuối Phụ lục A như sau:
+
+“Ghi chú: Các ký tự thể hiện kiểu loại linh kiện có sự thay đổi nhưng không ảnh hưởng đến kết quả khí thải thì được sử dụng để mô tả (ví dụ: *, ?) nếu cung cấp được tài liệu của nhà sản xuất xe, động cơ hoặc linh kiện.”.
+
+2. Sửa đổi, bổ sung Phụ lục A - Phụ lục A1 QCVN 109:2021/BGTVT như sau:
+
+ “Phụ lục A - Phụ lục A1 (Annex A - Appendix A1)
+
+Thông tin cho thử nghiệm (Information on test conditions)
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| I. Xe (Vehicle)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1. Loại xe (Category of the vehicle) (M1, N1, M2, N2, xe sát-xi cho loại M1/M2/N1/N2):                                                                                                                                                             |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2. Nhãn hiệu (Trade name or mark of the vehicle):                                                                                                                                                                                                  |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3. Tên thương mại, nếu có (Commercial name, if avaiable):                                                                                                                                                                                          |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3.1. Kiểu (số) loại (Vehicle type/ model code):                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3.2. Số nhận dạng xe (VIN):                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4. Cơ sở SXLR hoặc cơ sở nhập khẩu (Manufacturer or Importer):                                                                                                                                                                                     |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.1 Tên và địa chỉ cơ sở SXLR hoặc cơ sở nhập khẩu                                                                                                                                                                                                 |                                                                                                                                                                                                                                                    |
+| (Assembly plant’s/Importer’s name and address):                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.2 Tên và địa chỉ đại diện của cơ sở SXLR (nếu có) (Name and address of manufacturer's representative (If applicable)):                                                                                                                           |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| II - Thông tin cho thử nghiệm (Information on test conditions)                                                                                                                                                                                                                                                                                                                                                                                                                                          |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1. Loại nhiên liệu sử dụng (Fuel used for test)                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Xăng RON 95-V (Gasoline RON 95-V)/Xăng chuẩn: ..… (Reference gasoline: ..…)/Điêzen 0,001S-V (Diesel 0,001S-V)/ Điêzen chuẩn: ..… (Reference Diesel: ..…)/nhiên liệu khác: ..… (other fuel: ..…)                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2. Trục chủ động (số lượng, vị trí, liên kết)                                                                                                                                                                                                      |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| (Powered axles (number, position, interconnection))                                                                                                                                                                                                |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| 4x2, trục trước/trục sau chủ động (Powered front/rear axles)/                                                                                                                                                                                      |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| 4x4, hai trục chủ động toàn/bán thời gian                                                                                                                                                                                                          |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| (Permanent/temporary all-wheel drive all-wheel drive)                                                                                                                                                                                              |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3. Nguyên lý làm việc của hệ thống phun đối với động cơ cháy cưỡng bức (Working principle of injection for positive ignition):                                                                                                                     |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| Phun trên đường ống nạp (Intake manifold)/Phun trực tiếp (Direct injection)/Khác: …..… (other: …..…)                                                                                                                                               |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4. Hệ thống tái sinh (Có/Không)                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
+| (Regenerating system (Yes/No)                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nếu có (If yes):                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Tái sinh liên tục (Continuous regeneration)                                                                                                                                                                                                      |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Tái sinh định kỳ, xác định hệ số Ki theo (Periodically regeneration, determination of Ki factor as):                                                                                                                                             |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Điểm (Point) 3.2.1.5.3 Điều 3 Phần III QCVN 109:2021/BGTVT                                                                                                                                                                                       |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Cơ sở SXLR hoặc Cơ sở NK cung cấp kèm tài liệu chứng minh (Manufactures/Importer provided with proved documents enclosed)                                                                                                                        |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5. Xe Hybrid điện (Có/Không) (Hybrid electric vehicle (Yes/No))                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nếu có (If yes)                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Không nạp điện ngoài (NOVC-HEV)                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Có nạp điện ngoài (OVC-HEV), xác định De (Determination of De) (km) theo:                                                                                                                                                                        |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Cơ sở SXLR hoặc Cơ sở NK cung cấp kèm tài liệu chứng minh (Manufactures/Importers provided with proved documents enclosed)                                                                                                                       |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Thử nghiệm (Determination on site)                                                                                                                                                                                                               |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6. Hệ số suy giảm trong Phép thử loại V (Deterioration factors of Test type V)                                                                                                                                                                     |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Theo các bảng trong QCVN tương ứng (According to the tables in the corresponding QCVN)                                                                                                                                                           |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Cơ sở SXLR hoặc Cơ sở nhập khẩu cung cấp kèm tài liệu chứng minh (Manufactures/Importesr provided with proved documents enclosed)                                                                                                                |                                                                                                                                                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8. Chiều dài cơ sở của xe (Wheel base of vehicle) (m): ....................................                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 9. Cảm biến hoặc linh kiện được cơ sở SXLR hoặc cơ sở nhập khẩu đề nghị thử hiệu quả OBD (Sensors/Components as recommended by manufactures or importer on OBD testing)                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo ít nhất 6 cảm biến hoặc linh kiện (Ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả) có khả năng ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động khi kiểm tra và đảm bảo Cơ sở thử nghiệm tiếp cận kiểm tra được các lỗi chức năng (MI), mã lỗi. Cơ sở SXLR hoặc cơ sở nhập khẩu có trách nhiệm đảm bảo bảo tình trạng hoạt động bình thường của mẫu thử sau khi kiểm tra, thử nghiệm.     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| (The Manufacturers or the importers declare at least 6 sensors or components (at least one sensor or component (if fitted) in exhaust aftertreatment systems) capable of disconnecting or deactivate temporarily or operation simmulation during testing and ensure that the Technical service has access to functional errors (MIs) and error codes. The manufactures/ importers are responsible for ensuring the normal operation of the samples after testing).                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+ 
+
++:----------:+:----------------------------------:+:-------------:+
+| STT (No)   | Cảm biến hoặc linh kiện            | Mã lỗi        |
+|            |                                    |               |
+|            | (sensors or components)            | (Error codes) |
++------------+------------------------------------+---------------+
+| 1          |                                    |               |
++------------+------------------------------------+---------------+
+| 2          |                                    |               |
++------------+------------------------------------+---------------+
+| 3          |                                    |               |
++------------+------------------------------------+---------------+
+| 4          |                                    |               |
++------------+------------------------------------+---------------+
+| …          |                                    |               |
++------------+------------------------------------+---------------+
+
+”.
+
+3. Sửa đổi, bổ sung Phụ lục B và Phụ lục C
+
+3.1. Sửa đổi, bổ sung điểm B.1.7 Phụ lục B như sau:
+
+“B.1.7. Khối lượng bản thân xe (Unladen mass of the vehicle): ...................... kg
+
+Khối lượng bản thân khi thử nghiệm (đối với xe chở người chuyên dùng, xe chở hàng chuyên dùng, xe chuyên dùng) theo đăng ký của cơ sở SXLR hoặc nhập khẩu (Unladen mass of vehicle in emission test as the Manufacturer or Importer’s registration (in the case of special purpose vehicle)): ............. kg”.
+
+3.2. Sửa đổi, bổ sung điểm B.1.8 Phụ lục B như sau:
+
+“B.1.8. Khối lượng chuẩn xe (Reference mass of the vehicle): ………….……. kg
+
+Chú thích: Đối với xe chở người chuyên dùng, xe chở hàng chuyên dùng, xe chuyên dùng, khối lượng chuẩn được tính theo khối lượng bản thân khi thử nghiệm theo đăng ký của cơ sở SXLR hoặc nhập khẩu.”.
+
+3.3. Sửa đổi, bổ sung điểm B.1.19. Phụ lục B như sau:
+
+“B.1.19. Tốc độ động cơ tại công suất hữu ích lớn nhất (Engine speed at maximum net power): ………… r/min (rpm or min-1)”.
+
+3.4. Sửa đổi, bổ sung điểm B.1.20 Phụ lục B như sau:
+
+“B.1.20. Công suất hữu ích lớn nhất (Maximum net power): ……………….. kW”.
+
+3.5. Sửa đổi, bổ sung điểm C.1.12. Phụ lục C
+
+“C.1.12. Mô men xoắn hữu ích lớn nhất (Maximum net torque): .................... Nm tại (at) (rpm or min⁻¹): .................................... r/min (rpm or min⁻¹)”.
+
+3.6. Bổ sung Ghi chú vào cuối Phụ lục C như sau:
+
+“Ghi chú: Các ký tự thể hiện kiểu loại linh kiện có sự thay đổi nhưng không ảnh hưởng đến kết quả khí thải thì được sử dụng để mô tả (ví dụ: *, ?), nếu cung cấp được tài liệu của nhà sản xuất xe, động cơ hoặc linh kiện.”.
+
+4. Sửa đổi, bổ sung Phụ lục C - Phụ lục C1 QCVN 109:2021/BGTVT như sau:
+
++:---------------------------------------------------------------------------------------------------:+:---------------------------------------------------------------------------------------------------:+:---------------------------------------------------------------------------------------------------:+:---------------------------------------------------------------------------------------------------:+:---------------------------------------------------------------------------------------------------:+
+| “Phụ lục C - Phụ lục C1 (Annex C - Appendix C1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Thông tin cho thử nghiệm (Information on test conditions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| I. Mô tả động cơ (Description of engine)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1. Nhãn hiệu động cơ (Trade name/Mark or Make of engine)                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2. Tên thương mại, nếu có (Commercial name, if avaiable)                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3. Kiểu (số) loại động cơ (Engine Type/Model code/Engine model)                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4. Số động cơ (Engine number)                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5. Cơ sở SXLR hoặc cơ sở nhập khẩu (Manufacturer or Importer)                                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5.1. Tên và địa chỉ cơ sở SXLR hoặc cơ sở nhập khẩu                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                 |
+| (Assembly plant’s/Importer’s name and address)                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5.2. Tên và địa chỉ đại diện của cơ sở SXLR (nếu có) (Name and address of manufacturer's representative (If applicable))                                                                                  |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| II - Thông tin cho thử nghiệm (Information on test conditions)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1. Loại nhiên liệu sử dụng (Fuel used for test)                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+| Điêzen 0,001S-V (Diesel 0,001S-V)/Điêzen chuẩn (Reference Diesel)/Khí thiên nhiên (NG)/nhiên liệu khác (other fuel) …                                                                                     |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2. Điều khiển tăng tốc (Acceleration control)                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Cơ khí (Manual)                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Điện (Electric)                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Điểm zero (Zero point) (V)                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| + Điểm max (Max point) (V)                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3. Mô men quán tính (Inertia)                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Động cơ (bao gồm cả bánh đà) (Engine (including flywheel))                                                                                                                                              |                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+| (Kg.m²)                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Mặt bích (Connection flange)(Kg.m²):                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4. Loại bộ biến đổi xúc tác (Category of Catalytic converter) (SCR/ DOC/ SCR + DOC/khác: ..…)                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5. Hệ thống tái sinh (Có/Không)                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+| (Regenerating system (Yes/No))                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nếu có (If yes):                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Tái sinh liên tục (Có/Không) (Continuous Regeneration (Yes/ No))                                                                                                                                        |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Tái sinh định kỳ (Có/Không) (Periodically Regeneration (Yes/No))                                                                                                                                        |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6. Số răng bánh đà (Number of flywheel teeth)                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7. Chiều quay của động cơ (Rotation direction)                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+| theo chiều kim đồng hồ (Clockwise)/Ngược chiều kim đồng hồ (Counterclockwise)                                                                                                                             |                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |
+| Nhìn từ phía (From the side of): …………….                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8. Cảm biến hoặc linh kiện được cơ sở SXLR hoặc cơ sở nhập khẩu đề nghị thử hiệu quả OBD (Sensors/components as recommended by manufactures or importer on OBD testing)                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Cơ sở SXLR hoặc cơ sở nhập khẩu khai báo ít nhất 6 cảm biến hoặc linh kiện (ít nhất một cảm biến hoặc linh kiện (nếu được lắp) thuộc các hệ thống kiểm soát ô nhiễm sau xả) có khả năng ngắt kết nối hoặc ngừng kích hoạt tạm thời hoặc mô phỏng sự hoạt động khi kiểm tra và bảo đảm Cơ sở thử nghiệm tiếp cận kiểm tra được các lỗi chức năng (MI), mã lỗi. Cơ sở SXLR hoặc cơ sở nhập khẩu có trách nhiệm đảm bảo bảo tình trạng hoạt động bình thường của mẫu thử sau khi kiểm tra, thử nghiệm.                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| (The Manufacturers or the importers declare at least 6 sensors or components (at least one sensor or component (if fitted) in exhaust aftertreatment systems) capable of disconnecting or deactivate temporarily or operation simmulation during testing and ensure that the Technical service has access to functional errors (MIs) and error codes. The manufactures/ importers are responsible for ensuring the normal operation of the samples after testing)…                                                          |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| STT (No)                                                                                            | Cảm biến hoặc linh kiện                                                                                                                                                                                                                                                                                         | Mã lỗi                                                                                              |
+|                                                                                                     |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
+|                                                                                                     | (sensors or components)                                                                                                                                                                                                                                                                                         | (Error codes)                                                                                       |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 1                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 2                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 3                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 4                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 5                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 6                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 7                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 8                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| …                                                                                                   |                                                                                                                                                                                                                                                                                                                 |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|                                                                                                     |                                                                                                                                                                                                           |                                                                                                     |                                                                                                     |
++-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+
+”.
+
+5. Bãi bỏ Phụ lục D - Phụ lục D1 QCVN QCVN 109:2021/BGTVT.
+
+6. Sửa đổi, bổ sung điểm G4 Phụ lục G QCVN 109:2021/BGTVT như sau:
+
+“G4. Nhiên liệu điêzen B5
+
++:------------------------------------------------:+:------------:+:--------:+:--------:+:-------------------------:+
+| Thông số                                         | Đơn vị       | Giới hạn ⁽¹⁾        | Phương pháp thử           |
+|                                                  |              +----------+----------+---------------------------+
+|                                                  |              | Nhỏ nhất | Lớn nhất |                           |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Số xê tan⁽²⁾                                     |              | 52,0     | 54,0     | EN-ISO 5165               |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Tỉ trọng ở 15^(o)C                               | kg/m³        | 833      | 837      | EN-ISO 3675               |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Chưng cất:                                       |              |          |          |                           |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| - Điểm 50%                                       | ^(o)C        | 245      |          | EN-ISO 3405               |
++--------------------------------------------------+--------------+----------+----------+                           |
+| - Điểm 95%                                       | ^(o)C        | 345      | 350      |                           |
++--------------------------------------------------+--------------+----------+----------+                           |
+| - Điểm sôi cuối                                  | ^(o)C        | -        | 370      |                           |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Điểm chớp cháy                                   | ^(o)C        | 55       | -        | EN 22719                  |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| CFPP                                             | ^(o)C        | -        | -5       | EN 116                    |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Độ nhớt ở 40 ^(o)C                               | mm²/s        | 2,3      | 3,3      | EN-ISO 3104               |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Hydrocacbon thơm polycyclic                      | % khối lượng | 2,0      | 6,0      | IP 391                    |
+|                                                  |              |          |          |                           |
+|                                                  |              |          |          | EN 12916                  |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Hàm lượng lưu huỳnh⁽³⁾                           | mg/kg        | -        | 10       | Pr. EN ISO/DIS 14596      |
+|                                                  |              |          |          |                           |
+|                                                  |              |          |          | EN ISO 20846/EN ISO 20884 |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Ăn mòn đồng                                      |              | -        | Cấp độ 1 | EN-ISO 2160               |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Cặn các-bon (10% DR)                             | % khối lượng | -        | 0,2      | EN-ISO 13070              |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Hàm lượng tro                                    | % khối lượng | -        | 0,01     | EN-ISO 6145               |
+|                                                  |              |          |          |                           |
+|                                                  |              |          |          | EN-ISO 6245               |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Hàm lượng nước                                   | % khối lượng | -        | 0,02     | EN-ISO 12937              |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Số trung hoà (A xít mạnh)                        | mg KOH/g     | -        | 0,02     | ASTM D 97495              |
+|                                                  |              |          |          |                           |
+|                                                  |              |          |          | ASTM D 974                |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Tính ổn định ô xi hoá ⁽⁴⁾                        | mg/ml        | -        | 0,025    | EN-ISO 12205              |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Tính bôi trơn (đường kính vết ăn mòn ở 60 ^(o)C) | µm           | -        | 400      | CEC F-06-A-96             |
+|                                                  |              |          |          |                           |
+|                                                  |              |          |          | EN-ISO 12156              |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| Tính ổn định ô xy hóa                            | Giờ          | 20       |          | EN 14112                  |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+| FAME (5)                                         | % thể tích   | 4,5      | 5,5      | EN 14078                  |
++--------------------------------------------------+--------------+----------+----------+---------------------------+
+
+”.
+
+7. Sửa đổi, bổ sung Phụ lục K QCVN 109:2021/BGTVT như sau:
+
+7.1. Sửa đổi, bổ sung điểm K.1 như sau:
+
+“K.1. Phụ lục này quy định các yêu cầu đối với xe sử dụng chất xúc tác cho hệ thống xử lý sau xả để giảm sự phát thải. Việc kiểm tra được thực hiện theo các yêu cầu nêu tại các điểm K.2, K.3.1.”.
+
+7.2. Sửa đổi, bổ sung điểm K.3.5 như sau:
+
+“K.3.5. Hệ thống cảnh báo phải khởi động khi xe còn chạy được ít nhất 2.400km trước khi bình chứa chất xúc tác cạn kiệt hoặc tại thời điểm muộn nhất khi mức chất xúc tác trong thùng đạt đến một trong các mức độ sau tùy điều kiện nào xảy ra sớm hơn:
+
+a) Mức dự kiến là đủ để lái 150% phạm vi lái xe trung bình với đầy bình nhiên liệu.
+
+b) 10% dung tích của bình chất xúc tác.”.
+
+ 

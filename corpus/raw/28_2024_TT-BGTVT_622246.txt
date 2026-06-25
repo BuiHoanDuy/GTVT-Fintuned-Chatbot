@@ -1,0 +1,503 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                            Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 28/2024/TT-BGTVT                 Hà Nội ngày 23 tháng 7 năm 2024
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TRẠM KIỂM TRA TẢI TRỌNG XE
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006;
+
+Căn cứ Luật Chất lượng sản phẩm hàng hóa năm 2007;
+
+Căn cứ Luật Giao thông đường bộ năm 2008;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đường bộ Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về trạm kiểm tra tải trọng xe.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về Trạm kiểm tra tải trọng xe.
+
+Số hiệu: QCVN 66:2024/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2024.
+
+2. Bãi bỏ Thông tư số 09/2013/TT-BGTVT ngày 06 tháng 5 năm 2013 của Bộ trưởng Bộ Giao thông vận tải ban hành QCVN 66:2013/BGTVT Quy chuẩn kỹ thuật quốc gia về Trạm kiểm tra tải trọng xe.
+
+3. Các Trạm kiểm tra tải trọng xe cố định, Trạm kiểm tra tải trọng xe lưu động đã được đầu tư theo quy định tại QCVN 66:2013/BGTVT và đưa vào hoạt động trước ngày Thông tư này có hiệu lực thi hành thì tiếp tục hoạt động cho đến khi Luật Đường bộ có hiệu lực thi hành.
+
+Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đường bộ Việt Nam, Cục trưởng Cục Đường cao tốc Việt Nam, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  -------------------------------------------------------------------------------
+  Nơi nhận:                                   KT. BỘ TRƯỞNG
+  - Như Điều 3;                               THỨ TRƯỞNG
+  - Bộ trưởng (để báo cáo);                   Nguyễn Duy Lâm
+  - Các Thứ trưởng Bộ GTVT;                   
+  - Văn phòng Chính phủ;                      
+  - Các Cơ quan thuộc Chính phủ;              
+  - Các Bộ, cơ quan ngang Bộ;                 
+  - UBND các tỉnh, thành phố trực thuộc TW;   
+  - Bộ Khoa học và Công nghệ (để đăng ký);    
+  - Cục KSTTHC (Văn phòng Chính phủ);         
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);        
+  - Công báo;                                 
+  - Cổng Thông tin điện tử Chính phủ;         
+  - Cổng Thông tin điện tử Bộ GTVT;           
+  - Báo Giao thông, Tạp chí GTVT;             
+  - Lưu VT, KHCN&MT (5).                      
+  ------------------------------------------- -----------------------------------
+
+  -------------------------------------------------------------------------------
+
+QCVN 66:2024/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TRẠM KIỂM TRA TẢI TRỌNG XE
+
+National Technical Regulation on Weigh Station
+
+MỤC LỤC
+
+Lời nói đầu
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+1.2. Đối tượng áp dụng
+
+1.3. Tài liệu viện dẫn
+
+1.4. Thuật ngữ và định nghĩa
+
+1.5. Các từ viết tắt
+
+2. Quy định kỹ thuật
+
+2.1. Trạm KTTTX cố định tự động 1 cấp cân
+
+2.2. Quy mô của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.3. Yêu cầu thiết kế Trạm KTTTX cố định tự động 1 cấp cân
+
+2.4. Yêu cầu thiết kế quy trình kỹ thuật KTTTX cố định tự động 1 cấp cân
+
+2.5. Yêu cầu đối với kết cấu hạ tầng Trạm KTTTX cố định tự động 1 cấp cân
+
+2.6. Yêu cầu đối với báo hiệu tại Trạm KTTTX cố định tự động 1 cấp cân
+
+2.7. Yêu cầu đối với hệ thống thiết bị chính của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.8. Yêu cầu đối với hệ thống thiết bị khác của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.9. Yêu cầu về dữ liệu cân
+
+3. Quy định về quản lý
+
+4. Tổ chức thực hiện
+
+PHỤ LỤC A - Sơ đồ minh họa Trạm KTTTX cố định tự động 1 cấp cân
+
+Lời nói đầu
+
+QCVN 66:2024/BGTVT do Cục Đường bộ Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư số 28/2024/TT-BGTVT ngày 23 tháng 7 năm 2024.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TRẠM KIỂM TRA TẢI TRỌNG XE
+
+National Technical Regulation on Weigh Station
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật tối thiểu về kết cấu hạ tầng và hệ thống thiết bị của trạm kiểm tra tải trọng xe trên đường bộ (sau đây gọi chung là trạm kiểm tra tải trọng xe).
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân có liên quan trong quá trình đầu tư xây dựng, nâng cấp, cải tạo, quản lý, vận hành, bảo trì, đánh giá sự phù hợp trạm kiểm tra tải trọng xe.
+
+1.3. Tài liệu viện dẫn
+
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SỐ HIỆU              | TÊN TÀI LIỆU                                                                                                                                                                                                                                                |
++======================+=============================================================================================================================================================================================================================================================+
+| TCVN 4054:2005       | Đường ô tô - Yêu cầu thiết kế                                                                                                                                                                                                                               |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| TCVN 9385:2012       | Chống sét cho các công trình xây dựng - Hướng dẫn thiết kế, kiểm tra và bảo trì hệ thống                                                                                                                                                                    |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| TCVN 9358:2012       | Lắp đặt hệ thống nối đất thiết bị cho các công trình công nghiệp - Yêu cầu chung                                                                                                                                                                            |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| QCVN 41:2019/BGTVT   | Quy chuẩn kỹ thuật quốc gia về Báo hiệu đường bộ                                                                                                                                                                                                            |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ĐLVN 225:2015        | Cân kiểm tra tải trọng xe cơ giới - Quy trình thử nghiệm                                                                                                                                                                                                    |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ĐLVN 48:2015         | Cân kiểm tra tải trọng xe cơ giới - Quy trình kiểm định                                                                                                                                                                                                     |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ĐLVN 13:2019         | Cân ô tô - Quy trình kiểm định                                                                                                                                                                                                                              |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ĐLVN 157:2023        | Phương tiện đo kiểm tra tốc độ phương tiện giao thông - Quy trình kiểm định                                                                                                                                                                                 |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ASTM E1318-09 (2017) | A Standard Specification for Highway Weigh-in-Motion (WIM) Systems with User Requirements and Test Method (Yêu cầu tiêu chuẩn đối với hệ thống cân động về yêu cầu sử dụng và phương pháp thử, bản 2009 soát xét 2017 - Hiệp hội thí nghiệm và vật liệu Mỹ) |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| COST 323             | European WIM Specification, Version 3.0 - August 1999 - European cooperation in Science and Technology.                                                                                                                                                     |
+|                      |                                                                                                                                                                                                                                                             |
+|                      | (Yêu cầu kỹ thuật cân động (WIM) châu Âu, bản 3.0, tháng 8/1999 - Cơ quan hợp tác châu Âu về khoa học và công nghệ)                                                                                                                                         |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OIML R134-1          | International Recommendation - Automatic instruments for weighing road vehicles in motion and measuring axle loads. Part 1: Metrological and technical requirements -Tests, Edition 2006 (E).                                                               |
+|                      |                                                                                                                                                                                                                                                             |
+|                      | (Khuyến nghị quốc tế - Cân tự động để cân xe di động và cân tải trọng trục. Phần 1: Yêu cầu kỹ thuật và đo lường - thử nghiệm, bản 2006).                                                                                                                   |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OIML R134-2          | International Recommendation - Automatic Instruments for weighing road vehicles in motion. Total vehicle weighing. Part 2: Test Report Format, Edition 2009 (E)                                                                                             |
+|                      |                                                                                                                                                                                                                                                             |
+|                      | (Khuyến nghị quốc tế - Cân tự động để cân xe di động. Cân toàn bộ xe. Phần 2: Mẫu báo cáo thử nghiệm, bản 2009)                                                                                                                                             |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+1.4. Thuật ngữ và định nghĩa
+
+Trong Quy chuẩn này, các thuật ngữ dưới đây được hiểu như sau:
+
+1.4.1. Lý trình đầu của trạm kiểm tra tải trọng xe: là điểm đầu của khu vực trạm kiểm tra tải trọng xe lấy theo lý trình tuyến đường, sau đây gọi chung là “lý trình đầu”.
+
+1.4.2. Cân động ở tốc độ thấp: là loại cân xe ô tô có khả năng cân khối lượng từng trục, cụm trục xe hoặc toàn bộ xe tại vùng cân khi xe ô tô di chuyển với tốc độ trong khoảng từ 3 km/h đến dưới 16 km/h.
+
+1.4.3. Cân động ở tốc độ cao: là loại cân xe ô tô có khả năng cân khối lượng từng trục, cụm trục xe hoặc toàn bộ xe tại vùng cân khi xe ô tô di chuyển với tốc độ trong khoảng từ 16 km/h đến 130 km/h.
+
+1.4.4. Vùng cân: là vùng gồm bộ phận nhận tải (vùng lắp đặt thiết bị cân) và đường dẫn ở cả hai phía của bộ phận nhận tải.
+
+1.4.5. Dữ liệu cân: gồm các thông tin về chủ sở hữu phương tiện, biển số xe, hình ảnh chụp biển số xe, loại xe, tổng số trục xe, cấu trúc trục xe, khoảng cách trục xe, chiều dài xe, khối lượng trục, cụm trục, tổng khối lượng xe, làn xe, tốc độ xe, thời gian, địa điểm xe qua cân, thông tin khối lượng và kích thước của xe, kết quả đánh giá tải trọng xe so với quy định về tải trọng và các thông tin cần thiết khác.
+
+1.4.6. Hệ thống công nghệ thông tin của trạm kiểm tra tải trọng xe: bao gồm hệ thống phần mềm tự động nhận diện biển số xe qua hình ảnh camera, phần mềm xử lý dữ liệu cân, hệ thống truyền dẫn dữ liệu, hệ thống máy tính, máy chủ và các hệ thống phần mềm, thiết bị phụ trợ khác.
+
+1.5. Các từ viết tắt
+
+  ------------------------------------------------------------------------------------------------------------------
+     VIẾT TẮT    TÊN TỪ VIẾT TẮT
+  -------------- ---------------------------------------------------------------------------------------------------
+       ASTM      The American Society for Testing and Materials (Hiệp hội thí nghiệm và vật liệu Mỹ)
+
+       COST      European cooperation in Science and Technology (Cơ quan hợp tác châu Âu về khoa học và công nghệ)
+
+       CPU       Central Processing Unit (bộ xử lý trung tâm của máy tính)
+
+       ĐBVN      Đường bộ Việt Nam
+
+       ĐLVN      Đo lường Việt Nam
+
+       GTVT      Giao thông vận tải
+
+      HS WIM     High Speed Weigh-in Motion (cân động ở tốc độ cao)
+
+      LS WIM     Low Speed Weigh-in Motion (cân động ở tốc độ thấp)
+
+      KTTTX      Kiểm tra tải trọng xe
+
+       OIML      International Organization of Legal Metrology (Tổ chức quốc tế về đo lường hợp pháp)
+
+       PTZ       Pan - Tilt - Zoom (Quay - Nghiêng - Phóng to)
+
+       QCVN      Quy chuẩn kỹ thuật quốc gia
+
+       RFID      Radio - frequency identification (Nhận dạng tần số vô tuyến)
+
+       TCVN      Tiêu chuẩn quốc gia
+
+   Biển báo VMS  Variable Message Sign (Biển báo giao thông có thông tin thay đổi)
+
+        IP       International Protection (Chỉ số chuẩn quốc tế về mức độ chống bụi và chống nước của thiết bị)
+  ------------------------------------------------------------------------------------------------------------------
+
+2. Quy định kỹ thuật
+
+2.1. Trạm KTTTX cố định tự động 1 cấp cân
+
+2.1.1. Việc kiểm tra tải trọng xe trên đường bộ được thực hiện thông qua Trạm KTTTX cố định tự động 1 cấp cân.
+
+2.1.2. Trạm KTTTX cố định tự động 1 cấp cân là trạm được trang bị hệ thống thiết bị cân động lắp đặt cố định ở một vùng cân để tự động đo lường khối lượng xe khi đi qua vùng cân nhằm thu thập, phân tích, đánh giá dữ liệu về tải trọng xe, xác định trực tiếp và chính xác tải trọng trục xe, khối lượng toàn bộ của xe tham gia giao thông trên đường bộ để xử lý đối với xe quá tải trọng cho phép của đường bộ; có thể đo lường độ dài tự động về kích thước bao ngoài kể cả hàng hóa xếp trên xe (nếu có) để thu thập, phân tích, đánh giá tác động của xe quá khổ.
+
+2.2. Quy mô của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.2.1. Các bộ phận tối thiểu bắt buộc phải có:
+
+2.2.1.1. Hệ thống cân động có khả năng cân động ở tốc độ thấp và cân động ở tốc độ cao;
+
+2.2.1.2. Hệ thống camera nhận diện biển số xe (biển số trước, biển số sau), giám sát làn (chụp hình ảnh phía trước, hình ảnh phía sau và hình ảnh thân xe, phát hiện vi phạm quy tắc giao thông đường bộ của phương tiện) và giám sát toàn cảnh (giám sát bảo vệ an ninh, trật tự và giao thông vùng cân);
+
+2.2.1.3. Hệ thống phần mềm xử lý dữ liệu cân và phần mềm tự động nhận diện biển số xe qua hình ảnh camera;
+
+2.2.1.4. Máy chủ và hệ thống lưu trữ;
+
+2.2.1.5. Hệ thống báo hiệu đường bộ (bao gồm biển báo VMS);
+
+2.2.1.6. Hệ thống cấp điện (bao gồm hệ thống cấp điện dự phòng);
+
+2.2.1.7. Hệ thống truyền dẫn dữ liệu;
+
+2.2.1.8. Hệ thống chống sét;
+
+2.2.1.9. Hệ thống tiếp đất cho toàn bộ thiết bị;
+
+2.2.1.10. Phòng kỹ thuật hoặc tủ kỹ thuật chứa thiết bị vận hành hệ thống.
+
+2.2.2. Các bộ phận lựa chọn thêm:
+
+2.2.2.1. Phương tiện đo kiểm tra tốc độ phương tiện giao thông có ghi hình ảnh để đo tốc độ xe cơ giới khi lưu thông qua thiết bị cân đáp ứng yêu cầu theo quy định của pháp luật về đo lường;
+
+2.2.2.2. Thiết bị đọc thẻ RFID của phương tiện;
+
+2.2.2.3. Hệ thống đo lường độ dài tự động về kích thước bao ngoài kể cả hàng hóa xếp trên xe (nếu có) để thu thập, phân tích, đánh giá tác động của xe quá khổ;
+
+2.2.2.4. Máy tính làn.
+
+2.2.3. Đối với Trạm KTTTX cố định tự động 1 cấp cân được bố trí ở trạm thu phí hoặc khu vực đã có sẵn hệ thống cơ sở hạ tầng, thiết bị (đường bê tông xi măng, hệ thống camera các loại, thiết bị đọc thẻ RFID, biển báo, giá long môn, các thiết bị phụ trợ) thì có thể sử dụng các hạ tầng, thiết bị sẵn có phù hợp.
+
+2.2.4. Sơ đồ minh họa về Trạm KTTTX cố định tự động 1 cấp cân tại Phụ lục A của Quy chuẩn này.
+
+2.3. Yêu cầu thiết kế Trạm KTTTX cố định tự động 1 cấp cân
+
+2.3.1. Khi thiết kế cần căn cứ vào tình hình thực tế trên tuyến để lựa chọn vị trí đặt cân phù hợp; bố trí trên các tuyến đường bộ trọng điểm, đường cao tốc, các hành lang vận tải đường bộ lớn, cửa ngõ giao thông, nơi xuất phát các nguồn hàng lớn, tại trạm thu phí, đường nhánh nối vào đường cao tốc, vị trí trước khi vào đường cao tốc, tại nơi có khả năng tận dụng tối đa cơ sở hạ tầng sẵn có (nếu có) và các vị trí phù hợp khác cần phải KTTTX theo tình hình giao thông thực tế;
+
+2.3.2. Thiết kế vị trí của Trạm KTTTX phải bảo đảm giao thông an toàn, có các giải pháp ngăn ngừa xe quá tải trọng đi vào đường cao tốc (như bố trí đường nhánh để phương tiện vi phạm di chuyển ra khỏi đường cao tốc, bố trí hệ thống camera giám sát phương tiện vi phạm di chuyển ra khỏi đường cao tốc); có thể kiểm soát tối đa các phương tiện lưu thông trên đường bộ (kể cả phương tiện từ các khu vực lân cận, các đầu mối nguồn hàng, cửa khẩu, bến cảng…), hạn chế tối đa hiện tượng xe quá tải trọng đi vòng đường khác để né tránh việc kiểm tra, kiểm soát của Trạm KTTTX;
+
+2.3.3. Vị trí lắp đặt phải đảm bảo có cao độ phù hợp, không ngập nước, hạn chế tối đa việc các phương tiện thuộc đối tượng kiểm tra đi tránh vùng đặt cân; có thiết kế giải pháp ngăn ngừa xe quá tải trọng đi vào đường cao tốc, đường nhánh để phương tiện vi phạm di chuyển ra khỏi đường cao tốc để khắc phục vi phạm và xử lý theo quy định;
+
+2.3.4. Có giải pháp duy trì khoảng cách giữa các xe để đảm bảo trong vùng đặt thiết bị cân chỉ cho từng xe đi vào trên mỗi làn xe nhằm tránh các xe che khuất biển số của nhau và làm sai lệch kết quả cân;
+
+2.3.5. Thiết bị cân tự động có thể tự động kiểm tra các thông số về nhiệt độ (nếu cần), tình trạng hoạt động của từng thiết bị cảm biến cân (sensor), phát hiện vị trí chính xác của thiết bị cảm biến cân bị hỏng (nếu có);
+
+2.3.6. Phải thiết kế hệ thống camera giám sát toàn cảnh để bảo đảm giám sát an ninh, trật tự, an toàn hệ thống cân và thiết bị được lắp đặt, trật tự giao thông vùng cân; thiết kế hệ thống phần mềm xử lý dữ liệu cân có khả năng lập, gửi, lưu trữ tự động thông qua phần mềm của hệ thống KTTTX cố định tự động 1 cấp cân và hệ thống camera.
+
+2.4. Yêu cầu thiết kế quy trình kỹ thuật KTTTX cố định tự động 1 cấp cân
+
+2.4.1. Trước và trong vùng cân phải thiết kế hệ thống báo hiệu đường bộ để bảo đảm phương tiện chạy đúng tốc độ cho phép, giữ khoảng cách xe, chuyển làn theo biển báo hiệu đường bộ và vạch sơn, không dừng xe và đỗ xe trái phép;
+
+2.4.2. Trong vùng cân, phải thiết kế hệ thống cân tự động đo lường (cân) khối lượng từng trục bánh xe, nhận diện biển số xe, xác định một số thông số kỹ thuật của xe, ghi nhận các trường hợp có dấu hiệu vi phạm quy tắc giao thông của xe, lưu trữ và truyền dữ liệu về phần mềm xử lý dữ liệu cân;
+
+2.4.3. Sau vùng cân phải bố trí biển báo VMS, camera, hệ thống cảnh báo gồm đèn quay màu đỏ và còi báo động, các biển báo mũi tên chỉ dẫn hướng phương tiện di chuyển hoặc nhân viên Trạm KTTTX (nếu có) để hướng dẫn xe tiếp tục lưu thông hoặc yêu cầu, giám sát đi theo làn đường di chuyển ra khỏi đường cao tốc hoặc vào khu vực xử lý (nếu có) nếu quá tải trọng;
+
+2.4.4. Phải thiết kế bảo đảm phát hiện và xử lý các tình huống khi người điều khiển xe tìm cách né tránh, không chấp hành sự kiểm tra, kiểm soát của trạm thông qua các hình thức sau:
+
+2.4.4.1. Che biển số xe để thiết bị nhận diện biển số không đọc được biển số xe;
+
+2.4.4.2. Che hoặc làm bẩn hoặc để bẩn hoặc làm cong vênh một phần biển số xe làm cho hệ thống nhận diện sai hoặc không đầy đủ hoặc thừa ký tự biển số xe;
+
+2.4.4.3. Chạy lệch làn xe quy định nhằm vô hiệu hóa hệ thống đo lường và nhận diện biển số xe;
+
+2.4.4.4. Chạy nối đuôi nhau ở cự ly quá gần nhằm né tránh góc quan sát của hệ thống nhận diện biển số xe, làm sai lệch kết quả cân khối lượng tải trọng của xe;
+
+2.4.4.5. Chạy với tốc độ nhanh hơn hoặc chậm hơn tốc độ theo quy định tại trạm nhằm vô hiệu hóa hệ thống đo lường và nhận diện biển số xe.
+
+2.5. Yêu cầu đối với kết cấu hạ tầng Trạm KTTTX cố định tự động 1 cấp cân
+
+2.5.1. Đoạn đường trong vùng cân bao gồm vùng lắp đặt thiết bị cân có chiều dài ≥5 m, trước vùng lắp đặt thiết bị cân có chiều dài ≥35m, sau vùng lắp đặt thiết bị cân có chiều dài ≥25 m.
+
+2.5.2. Kết cấu mặt đường trong vùng cân bằng bê tông xi măng, chất lượng thi công mặt đường đảm bảo độ nhám và độ bằng phẳng theo quy định hiện hành; mặt phẳng trong vùng cân (bao gồm cơ cấu nhận tải) phải đảm bảo có cao độ sai lệch tối đa không quá 10 mm (theo quy định tại ĐLVN 225:2015) để không biến dạng và chuyển vị khi có xe tải nặng đi qua, đáp ứng yêu cầu hoạt động ổn định, chính xác của thiết bị cân; vị trí có gắn các cảm biến đo lường và khu vực lân cận phải có kết cấu đảm bảo sức chịu tải cao hơn bình thường. Tải trọng thiết kế khi tính toán chiều dày kết cấu mặt đường bê tông xi măng phải căn cứ mức độ dự báo quá tải trên đường nhưng tối thiểu phải đảm bảo với quy mô giao thông cấp rất nặng. Phương pháp tính toán khả năng chịu lực và thiết kế mặt đường (bao gồm cả độ bằng phẳng) tuân theo tiêu chuẩn, quy chuẩn kỹ thuật hiện hành.
+
+2.5.3. Đoạn đường vùng lắp đặt thiết bị cân đảm bảo độ dốc dọc ≤1%, đoạn đường trước và sau vị trí lắp đặt thiết bị cân đảm bảo độ dốc dọc ≤2%, độ dốc ngang ≤3%, bán kính cong đoạn đường vùng cân lớn hơn 1.000 m.
+
+2.5.4. Khoảng cách trước và sau đường bê tông xi măng vùng cân ≥ 5 m phải làm đoạn chuyển tiếp cho mặt đường khi độ cứng thay đổi từ mặt đường nhựa sang mặt đường bê tông xi măng, hạn chế lún không đều, làm ảnh hưởng đến chuyển vị hoặc biến dạng của đoạn đường gắn thiết bị đo lường.
+
+2.5.5. Khu vực vùng cân phải bảo đảm yêu cầu về thoát nước nhanh, không bị ngập nước thiết bị cân khi có mưa và không bị úng ngập cục bộ; thiết kế đảm bảo hoạt động chính xác của thiết bị cân và phát huy tác dụng hệ thống an toàn giao thông.
+
+2.5.6. Phân cách giữa các làn xe:
+
+2.5.6.1. Phân cách giữa các làn xe cơ giới tại vị trí vùng cân bằng vạch sơn liền kết hợp đinh phản quang hoặc trụ dẻo sơn phản quang hoặc dải phân cách cứng nhằm dẫn hướng và bắt buộc các xe phải đi đúng làn đường, đảm bảo an toàn;
+
+2.5.6.2. Phân cách giữa làn xe cơ giới và làn xe thô sơ bằng hộ lan tôn sóng hai mặt kết hợp trụ dẻo, đinh phản quang hoặc giải pháp phù hợp khác nhằm dẫn hướng và bắt buộc các xe phải đi đúng làn đường, đảm bảo an toàn giao thông, chống va cả hai mặt để giảm thiểu gây nguy hiểm cho người đi xe máy và xe thô sơ;
+
+2.5.6.3. Trên làn xe mô tô, xe gắn máy và xe thô sơ (nếu có), tại đoạn đầu vùng cân phải lắp đặt khung hạn chế chiều cao để ngăn xe ô tô các loại đi vào.
+
+2.5.7. Các giá long môn:
+
+2.5.7.1. Giá long môn số 1: đặt trước và cách giá long môn số 2 tối thiểu 50 m, trên giá long môn có gắn các biển báo phân làn, loại xe, cự ly tối thiểu giữa các xe, biển báo cấm dừng, cấm đỗ, tốc độ tối đa, tốc độ tối thiểu cho phép xe đi qua vùng cân;
+
+2.5.7.2. Giá long môn số 2: đặt cách điểm đầu vùng lắp đặt thiết bị cân tối thiểu 15 m, trên giá có gắn các biển báo hiệu (nhắc lại) về cự ly tối thiểu giữa các xe, tốc độ tối đa, tốc độ tối thiểu cho phép xe đi qua vùng cân, biển báo cấm dừng, cấm đỗ và đèn chớp vàng, camera đọc biển số sau xe, camera giám sát làn, thiết bị đo kích thước xe (nếu có) và đèn chiếu sáng;
+
+2.5.7.3. Giá long môn số 3: đặt cách điểm cuối vùng lắp đặt thiết bị cân tối thiểu 15 m, trên giá có gắn camera đọc biển số trước xe, camera giám sát làn, camera giám sát toàn cảnh (bao gồm cả giám sát phát hiện hình ảnh xe quá tải trọng nhưng không tuân thủ yêu cầu đi ra khỏi đường cao tốc) và đèn chiếu sáng.
+
+2.5.7.4. Giá long môn phải được tính toán để đảm bảo sức chịu tải, độ ổn định làm việc của các trang thiết bị lắp đặt trên giá. Tĩnh không của các giá long môn ≥ 5,5 m (kể cả điểm thấp nhất của các biển báo, trang thiết bị gắn trên giá).
+
+2.5.7.5. Trường hợp có giải pháp không cần bố trí giá long môn số 1 hoặc giá long môn số 3 thì các thiết bị của giá long môn không bố trí phải được lắp đặt ở giá long môn số 2 hoặc cột, cần vươn để bảo đảm khả năng làm việc của camera chụp hình ảnh biển số trước, biển số sau, camera giám sát toàn cảnh và các thiết bị khác (nếu có).
+
+2.5.8. Các cột lắp đặt tủ điện, tủ kỹ thuật chứa thiết bị máy tính, hệ thống truyền dẫn dữ liệu, thiết bị điều khiển treo trên cột và biển báo VMS đặt trong hành lang an toàn giao thông đường bộ hoặc cần vươn, giá long môn theo thiết kế và yêu cầu của dự án được phê duyệt.
+
+2.5.9. Có thiết kế giải pháp ngăn ngừa xe quá tải trọng đi vào đường cao tốc, đường nhánh ra khỏi đường cao tốc với kết cấu mặt đường và biển báo giao thông phù hợp (bao gồm cả biển báo VMS, đèn quay màu đỏ, còi báo động) cho xe quá tải trọng di chuyển ra ngoài phạm vi đường cao tốc để khắc phục vi phạm và xử lý theo quy định. Đường nhánh ra khỏi đường cao tốc phải được tính toán cách điểm cuối vùng lắp đặt thiết bị cân tuân theo tiêu chuẩn, quy chuẩn kỹ thuật hiện hành, đảm bảo xe quá tải trọng sau khi nhận được thông tin từ biển báo VMS có thể di chuyển vào đường nhánh ra khỏi đường cao tốc an toàn, đáp ứng khoảng cách an toàn tối thiểu giữa hai xe theo quy định. Các biển báo cần thiết phải được đặt trước và sau khi vào đường nhánh để đảm bảo an toàn giao thông.
+
+2.5.10. Quá trình thiết kế kết cấu mặt đường phải tính toán sử dụng chung tối đa các kết cấu hạ tầng, thiết bị có sẵn ở trạm thu phí hoặc công trình đường bộ hiện hữu (đường bê tông xi măng, giá long môn, biển báo phân làn xe, hệ thống camera, các thiết bị phụ trợ).
+
+2.6. Yêu cầu đối với báo hiệu tại Trạm KTTTX cố định tự động 1 cấp cân
+
+2.6.1. Việc thiết kế, bố trí báo hiệu đường bộ tại Trạm KTTTX cố định tự động 1 cấp cân phải tuân thủ theo QCVN 41:2019/BGTVT và Quy chuẩn này.
+
+2.6.2. Báo hiệu đường bộ phía trước hệ thống cân KTTTX cố định tự động 1 cấp cân: phía trước lý trình đầu của đoạn đường có hệ thống cân KTTTX cố định tự động, ở cự ly cách vùng cân tối thiểu 01 km và 500 m, nếu không có nút giao, phải đặt tổ hợp biển báo hiệu thông báo khoảng cách đến vị trí vùng cân KTTTX cố định tự động. Trường hợp phía trước lý trình đầu có nút giao cách không quá 01 km, chỉ đặt một tổ hợp biển báo về khoảng cách đến vị trí vùng cân KTTTX cố định tự động ở ngay sau nút giao. Tổ hợp biển báo theo QCVN 41:2019/BGTVT của Bộ Giao thông vận tải, bao gồm:
+
+Biển I.427(b), nội dung biển được thay bằng cụm từ “TRẠM KTTTX TỰ ĐỘNG” hoặc Biển số IE.463 (đối với đường cao tốc);
+
+Biển S.502:
+
+[]
+
+Hình 1. Mẫu biển báo cự ly đến vị trí lắp đặt Hệ thống cân KTTTX cố định tự động 1 cấp cân
+
+(số ghi trên biển báo S.502 tùy thuộc vào cự ly thực tế đến Hệ thống cân KTTTX cố định tự động 1 cấp cân)
+
+2.6.3. Báo hiệu tại hệ thống cân KTTTX cố định tự động 1 cấp cân: tại lý trình đầu của hệ thống cân KTTTX, đặt biển báo số I.427(b) theo QCVN 41:2019/BGTVT, nội dung biển được thay bằng cụm từ “TRẠM KTTTX TỰ ĐỘNG” hoặc Biển số IE.463 (đối với đường cao tốc).
+
+[]
+
+Hình 2. Mẫu biển báo tại vị trí lắp đặt Hệ thống cân KTTTX cố định tự động 1 cấp cân
+
+2.6.4. Biển báo cự ly tối thiểu giữa các xe: trên giá long môn số 1 và số 2 cần phải đặt biển báo số P.121 theo QCVN 41:2019/BGTVT để khống chế cự ly tối thiểu giữa các xe lưu thông liền kề nhằm đảm bảo độ chính xác của hệ thống quan sát, nhận diện biển số xe. Giá trị cự ly khống chế cụ thể tùy thuộc tính năng yêu cầu của hệ thống thiết bị nhận diện áp dụng và quy định của pháp luật về khoảng cách an toàn tối thiểu giữa hai xe. Trước và sau vùng lắp đặt thiết bị cân bố trí vạch, biển báo xác định khoảng cách xe trên đường theo QCVN 41:2019/BGTVT.
+
+[]
+
+Hình 3. Mẫu biển báo khống chế cự ly tối thiểu giữa hai xe
+
+(Số ghi 30m trên biển báo chỉ là ví dụ)
+
+2.6.5. Báo hiệu phân làn xe: trên giá long môn số 1 đặt biển báo R.412f và R.412g phân chia làn dành cho xe cơ giới, xe thô sơ và xe gắn máy để các xe chạy đúng làn đường trước khi vào vùng cân. Trường hợp cần phân làn riêng cho các loại xe tải thì sử dụng Biển số R.412c "Làn đường dành cho xe ôtô tải" hoặc các biển báo phù hợp theo QCVN 41:2019/BGTVT.
+
+[]
+
+Hình 4. Mẫu biển báo phân làn dành cho các xe qua vùng cân
+
+2.6.6. Báo hiệu hạn chế tốc độ xe: trên giá long môn số 1 và số 2 đặt biển báo khống chế tốc độ tối đa và tối thiểu theo QCVN 41:2019/BGTVT (biển P.127 và biển R.306) để việc đo lường đảm bảo độ chính xác.
+
+[]
+
+Hình 5. Mẫu biển báo tốc độ tối đa và tốc độ tối thiểu cho phép các phương tiện qua vùng cân (các số là ví dụ minh họa)
+
+2.6.7. Báo hiệu cấm dừng xe và đỗ xe: trên giá long môn số 1 và số 2 đặt biển báo P.130 theo QCVN 41:2019/BGTVT để cấm xe dừng và đỗ.
+
+[]
+
+Hình 6. Mẫu biển báo “Cấm dừng xe và đỗ xe”
+
+2.6.8. Đèn giao thông: bố trí đèn chớp vàng cảnh báo được đặt trên giá long môn số 2 và trên khung hạn chế chiều cao tại làn xe thô sơ và xe gắn máy (nếu có) để cảnh báo cho các loại xe giảm tốc độ trước khi vào vùng cân và có chướng ngại vật.
+
+[]
+
+Hình 7. Mẫu đèn chớp vàng
+
+2.6.9. Biển báo VMS: bao gồm các biển báo điện tử đặt trên giá long môn hoặc cột hoặc cần vươn sau vùng cân để thông tin giá trị cân khối lượng trục xe, tổng khối lượng xe tương ứng với biển số xe; hướng dẫn phương tiện tiếp tục hành trình hoặc ra khỏi đường cao tốc hoặc vào khu vực chỉ định để xử lý quá tải trọng xe. Vị trí lắp đặt biển báo VMS phải tính toán để lái xe có thể quan sát tốt nhất và nhận được đầy đủ thông tin.
+
+2.6.9.1. Các thông báo chuẩn bao gồm:
+
+(1) Biển số kết hợp với tải trọng trục đơn thứ n;
+
+(2) Biển số kết hợp với tải trọng trục kép thứ n;
+
+(3) Biển số kết hợp với tải trọng trục ba thứ n;
+
+(4) Biển số kết hợp với tổng khối lượng xe.
+
+Trường hợp dùng thiết bị tự động để đo kích thước xe thì có thêm một biển báo VMS thông báo các kích thước xe và cảnh báo vi phạm.
+
+2.6.9.2. Báo hiệu các hướng đi thích hợp:
+
+(1) Trường hợp phương tiện không vi phạm thì biển báo VMS hiển thị dòng chữ màu xanh “XE KHÔNG VI PHẠM, TIẾP TỤC HÀNH TRÌNH”.
+
+(2) Trường hợp phương tiện vi phạm thì biển báo VMS hiển thị dòng chữ màu đỏ “XE VI PHẠM TẢI TRỌNG, YÊU CẦU ĐI RA KHỎI ĐƯỜNG CAO TỐC” hoặc “XE VI PHẠM TẢI TRỌNG, YÊU CẦU ĐI VÀO KHU VỰC XỬ LÝ” và bố trí hệ thống cảnh báo gồm đèn quay màu đỏ và còi báo động, bố trí các biển báo mũi tên chỉ dẫn hướng phương tiện di chuyển.
+
+2.6.10. Báo hiệu tại các khu vực khác:
+
+2.6.10.1. Trường hợp cần phân làn đường để cho nhóm phương tiện đi vào khu vực cân KTTTX xe, phải bố trí biển báo làn đường dành riêng cho từng loại xe hoặc nhóm xe trên các giá long môn hoặc cột, cần vươn trước vùng cân trên cơ sở thiết kế của Trạm KTTTX và theo QCVN 41:2019/BGTVT.
+
+2.6.10.2. Tại nút giao chuyển hướng và các nút giao nhập dòng, cần phải xem xét bố trí các biển báo chỉ hướng, báo nguy hiểm và biển cấm phù hợp trên các giá long môn hoặc cột, cần vươn trên cơ sở thiết kế của Trạm KTTTX và theo QCVN 41:2019/BGTVT.
+
+2.6.10.3. Các vị trí trên mặt đường, cần phải thiết kế sơn kẻ các mũi tên chỉ hướng cho phù hợp với QCVN 41:2019/BGTVT.
+
+2.7. Yêu cầu đối với hệ thống thiết bị chính của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.7.1. Hệ thống cân động có khả năng cân động ở tốc độ thấp và tốc độ cao, tối thiểu có cấp chính xác F10 theo quy định của pháp luật về đo lường đối với phương tiện đo nhóm 2; có tích hợp tính năng tự động phát hiện chính xác loại xe, cấu trúc trục xe, khoảng cách trục xe, chiều dài xe và cân khối lượng trục, cụm trục, tổng khối lượng xe, tốc độ xe chạy, tình trạng, thời gian, địa điểm khi xe chạy qua cân; kiểm soát xe qua cân để cân khối lượng trục tối thiểu 30 tấn nhưng phải tính toán thiết kế đảm bảo sức chịu tải và tránh hư hỏng thiết bị cân do xe quá tải trọng gây ra; hoạt động 24/24h trong mọi điều kiện thời tiết; phải chống nước tối thiểu đạt chuẩn IP68 trở lên; đảm bảo duy trì độ chính xác, ổn định, tin cậy, bền vững giữa hai chu kỳ kiểm định; phải hoạt động độc lập khi mất kết nối với trung tâm.
+
+2.7.2. Hệ thống camera nhận diện biển số xe tự động nhận diện được cả biển số trước và biển số sau (bao gồm xe đầu kéo, kéo sơ mi rơ mooc hoặc kéo rơ mooc, xe thân liền kéo rơ mooc); camera nhận diện biển số xe và camera giám sát làn phải có khả năng quan sát, nhận diện được cả ngày lẫn đêm, chống nước tối thiểu đạt chuẩn IP66 trở lên.
+
+2.7.3. Camera giám sát toàn cảnh là loại camera PTZ có khả năng quan sát cả ngày lẫn đêm, chống nước tối thiểu đạt chuẩn IP66 trở lên; có khả năng giám sát an ninh, trật tự và trật tự giao thông vùng cân hoạt động 24/24h trong mọi điều kiện thời tiết. Vị trí lắp đặt camera phải được tính toán đảm bảo hiệu quả quan sát cao nhất.
+
+2.7.4. Hệ thống phần mềm xử lý dữ liệu cân và phần mềm tự động nhận diện biển số xe qua hình ảnh camera được tích hợp thành một hệ thống tự động, có khả năng tích hợp toàn bộ các thông tin, dữ liệu thu được và truy xuất thông tin dữ liệu của xe; xác định được các thông số, dữ liệu cân khối lượng xe, phân loại xe, thời gian, tốc độ xe qua thiết bị cân, làn đường đặt thiết bị cân, nhận diện biển số xe, phân tích các hình ảnh hoặc tín hiệu để phát hiện các xe vi phạm quy tắc giao thông đường bộ, thống kê, báo cáo; đáp ứng yêu cầu liên kết, truyền dẫn, khai thác và sử dụng dữ liệu cân của cơ quan quản lý Trạm KTTTX và cơ quan quản lý có thẩm quyền; bảo đảm tính toàn vẹn, đầy đủ và liên tục của dữ liệu cân.
+
+2.7.5. Hệ thống chống sét và hệ thống tiếp đất cho toàn bộ thiết bị Trạm KTTTX cố định tự động 1 cấp cân phải đáp ứng yêu cầu của TCVN 9385:2012, TCVN 9358:2012 và quy định hiện hành có liên quan.
+
+2.8. Yêu cầu đối với hệ thống thiết bị khác của Trạm KTTTX cố định tự động 1 cấp cân
+
+2.8.1. Máy chủ và hệ thống lưu trữ phải đáp ứng khả năng xử lý và lưu trữ dữ liệu cân (về kết quả cân, tập tin video giám sát làn; các tập tin hình ảnh chụp phương tiện lưu thông qua trạm) tối thiểu 12 tháng và đáp ứng yêu cầu của cơ quan có thẩm quyền để phục vụ cho công tác hậu kiểm; riêng đối với các trường dữ liệu cân sử dụng cho mục đích thu thập, phân tích, đánh giá tác động của tải trọng xe đến an toàn đường bộ (không bao gồm trường dữ liệu hình ảnh xe) phải lưu trữ tối thiểu 10 năm. Phần mềm máy tính phải được bảo đảm an toàn thông tin theo quy định, không thể can thiệp, sửa chữa, thay đổi kết quả thu được từ hệ thống thiết bị cân, kiểm soát quyền truy cập sử dụng, bảo đảm tính toàn vẹn, đầy đủ và liên tục của dữ liệu cân.
+
+2.8.2. Máy tính làn (nếu có) phải là loại máy tính công nghiệp (chuyên dụng) có tốc độ xử lý và khả năng hoạt động ổn định trong môi trường làm việc khắc nghiệt ngoài hiện trường (như nhiệt độ, độ ẩm, bụi bẩn, ăn mòn, mưa, gió, bão); cấu hình của máy tính phải đáp ứng yêu cầu thiết kế, bảo đảm tính toàn vẹn, đầy đủ và liên tục của dữ liệu cân.
+
+2.8.3. Hệ thống truyền dẫn dữ liệu phải có chế độ dự phòng, đảm bảo yêu cầu làm việc liên tục không gây sự cố cho hệ thống thiết bị Trạm KTTTX; có khả năng kết nối đồng bộ và chia sẻ dữ liệu giữa các cơ quan quản lý có liên quan.
+
+2.8.4. Hệ thống cung cấp nguồn phải đảm bảo hoạt động 24/24h không bị gián đoạn và có khả năng tự động chuyển nguồn cấp điện. Thiết bị lưu điện phục vụ cung cấp điện năng cho máy tính và các thiết bị khác ở tình huống mất điện sử dụng ắc-quy ngoài với dung lượng có thể thay đổi được. Công suất và dung lượng của thiết bị lưu điện cần lựa chọn phù hợp để đáp ứng sự làm việc liên tục của các thiết bị nói trên trong thời gian chờ nguồn điện dự phòng hoạt động.
+
+2.8.5. Tủ kỹ thuật phải là loại tủ chuyên dùng ngoài trời đạt tối thiểu IP54, có hệ thống cách nhiệt, thông gió cưỡng bức, có khóa cửa và có hệ thống cảnh báo từ xa khi cửa bị mở.
+
+2.8.6. Hệ thống thiết bị khai thác dữ liệu cân (máy tính, máy in, trang thiết bị sử dụng để quản lý, khai thác dữ liệu cân) được kết nối truyền dẫn dữ liệu với phần mềm hệ thống cân để khai thác, xử lý dữ liệu cân và phải bảo đảm an toàn thông tin theo quy định.
+
+2.8.7. Hệ thống công nghệ thông tin phải đáp ứng yêu cầu an toàn hệ thống thông tin theo cấp độ theo quy định của pháp luật về an toàn thông tin mạng; bảo đảm kiểm soát quyền truy cập dữ liệu, không thể can thiệp, sửa chữa, thay đổi dữ liệu kết quả thu được từ hệ thống thiết bị cân, kể cả hình ảnh thu được từ hệ thống camera.
+
+2.9. Yêu cầu về dữ liệu cân
+
+Phải bảo đảm độ chính xác tối thiểu 93% (trừ trường hợp biển số bị che, khuất, bẩn, cong vênh nên không nhận diện được, biển số không đúng quy định, xe chạy lệch làn, chạy nối đuôi nhau ở cự ly quá gần, chạy nhanh hơn hoặc chậm hơn tốc độ quy định tại trạm, không truy xuất được dữ liệu đăng kiểm phương tiện do lỗi khách quan).
+
+3. Quy định về quản lý
+
+3.1. Trạm KTTTX khi đầu tư xây dựng và đưa vào hoạt động, khai thác, vận hành phải đáp ứng yêu cầu theo quy định tại Quy chuẩn này.
+
+3.2. Yêu cầu đối với Trạm KTTTX cố định tự động 1 cấp cân trước khi đưa vào khai thác, sử dụng:
+
+3.2.1. Phải được công bố hợp quy đối với hệ thống thiết bị tại khoản 2.7 và khoản 2.9 của Quy chuẩn này theo quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN;
+
+3.2.2. Phương thức đánh giá sự phù hợp đối với Trạm KTTTX cố định tự động 1 cấp cân áp dụng theo phương thức 8 (được quy định tại Phụ lục II của Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật ban hành kèm theo Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012, được sửa đổi, bổ sung tại Thông tư số 02/2017/TT-BKHCN ngày 31/3/2017 của Bộ trưởng Bộ Khoa học và Công nghệ).
+
+3.2.3. Công bố hợp quy:
+
+3.2.3.1. Tổ chức, cá nhân đầu tư, quản lý, khai thác Trạm KTTTX phải công bố hợp quy theo quy định khoản 3.2.1 của Quy chuẩn này. Khi công bố hợp quy, tổ chức, cá nhân phải đăng ký bản công bố hợp quy tại Sở Giao thông vận tải địa phương nơi tổ chức, cá nhân đó đăng ký hoạt động kinh doanh;
+
+3.2.3.2. Việc công bố hợp quy phải dựa trên kết quả thử nghiệm, chứng nhận hợp quy của tổ chức đánh giá sự phù hợp được Cục Đường bộ Việt Nam chỉ định theo quy định.
+
+4. Tổ chức thực hiện
+
+4.1. Cục Đường bộ Việt Nam có trách nhiệm tổ chức thực hiện Quy chuẩn này.
+
+4.2. Tổ chức, cá nhân đầu tư, quản lý, khai thác Trạm KTTTX có trách nhiệm:
+
+4.2.1. Căn cứ vào các quy định của Quy chuẩn này để đầu tư xây dựng, nâng cấp, cải tạo, quản lý, bảo trì, đưa vào sử dụng, vận hành khai thác Trạm KTTTX;
+
+4.2.2. Thực hiện công bố hợp quy đối với hệ thống KTTTX cố định tự động 1 cấp cân theo quy định tại khoản 3.2.1 của Quy chuẩn này và quy định có liên quan; đánh giá an toàn hệ thống thông tin đối với hệ thống công nghệ thông tin theo quy định.
+
+4.3. Tổ chức đánh giá sự phù hợp có trách nhiệm thử nghiệm, chứng nhận Trạm KTTTX cố định tự động 1 cấp cân theo quy định tại Quy chuẩn này và quy định của pháp luật có liên quan.
+
+4.4. Trong trường hợp các quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật, văn bản kỹ thuật, văn bản pháp luật viện dẫn tại Quy chuẩn này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật, văn bản kỹ thuật, văn bản pháp luật viện dẫn được sửa đổi, bổ sung hoặc thay thế đó./.
+
+PHỤ LỤC A - Sơ đồ minh họa Trạm KTTTX cố định tự động 1 cấp cân
+
+[]
+
+Hình A-1: Sơ đồ minh họa mô hình chung Trạm KTTTX cố định tự động 1 cấp cân
+
+[]
+
+Hình A-2: Sơ đồ minh họa mô hình Trạm KTTTX cố định tự động 1 cấp cân (01 làn)
+
+[]
+
+Hình A-3: Sơ đồ minh họa mô hình Trạm KTTTX cố định tự động 1 cấp cân (01 làn, trước trạm thu phí)
+
+[]
+
+Hình A-4: Sơ đồ minh họa mô hình Trạm KTTTX cố định tự động 1 cấp cân (nhiều làn, trước trạm thu phí)
+
+[]
+
+Hình A-5: Sơ đồ minh họa mô hình Trạm KTTTX cố định tự động 1 cấp cân (01 làn, sau trạm thu phí)
+
+[]
+
+Hình A-6: Sơ đồ minh họa mô hình Trạm KTTTX cố định tự động 1 cấp cân (nhiều làn, sau trạm thu phí)

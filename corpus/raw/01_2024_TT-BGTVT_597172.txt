@@ -1,0 +1,1154 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                            Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 01/2024/TT-BGTVT               Hà Nội, ngày 26 tháng 01 năm 2024
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+QUY ĐỊNH VỀ VIỆC KIỂM TRA CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT
+
+Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017;
+
+Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa; Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP và Nghị định số 13/2022/NĐ-CP ngày 21 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số 132/2008/NĐ-CP và Nghị định số 74/2018/NĐ-CP;
+
+Căn cứ Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt; Nghị định số 01/2022/NĐ-CP ngày 04 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP và Nghị định số 91/2023/NĐ-CP ngày 14 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP và Nghị định số 01/2022/NĐ-CP;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về việc kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Thông tư này quy định về việc kiểm tra, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với thiết bị sử dụng trên phương tiện giao thông đường sắt, phương tiện giao thông đường sắt trong kiểm tra sản xuất, lắp ráp, nhập khẩu, hoán cải, định kỳ để vận hành trên đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng có nối ray với đường sắt quốc gia và đường sắt chuyên dùng không nối ray với đường sắt quốc gia có đi qua khu dân cư, giao cắt với đường bộ.
+
+2. Thông tư này không áp dụng đối với thiết bị sử dụng trên phương tiện giao thông đường sắt được lắp trên phương tiện giao thông đường sắt nhập khẩu nguyên chiếc.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với các tổ chức, cá nhân liên quan đến nhập khẩu, sản xuất, lắp ráp, hoán cải, sửa chữa định kỳ và khai thác thiết bị sử dụng trên phương tiện giao thông đường sắt, phương tiện giao thông đường sắt vận hành trên các hệ thống đường sắt và các tổ chức liên quan đến quản lý, kiểm tra, cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với thiết bị sử dụng trên phương tiện giao thông đường sắt, phương tiện giao thông đường sắt quy định tại Điều 1 Thông tư này.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Cơ sở sản xuất là doanh nghiệp có hoạt động sản xuất, lắp ráp thiết bị sử dụng trên phương tiện giao thông đường sắt, phương tiện giao thông đường sắt theo quy định của pháp luật.
+
+2. Doanh nghiệp nhập khẩu là doanh nghiệp có hoạt động nhập khẩu thiết bị sử dụng trên phương tiện giao thông đường sắt , phương tiện giao thông đường sắt theo quy định của pháp luật.
+
+3. Cơ sở sửa chữa là doanh nghiệp có hoạt động hoán cải, sửa chữa thiết bị sử dụng trên phương tiện giao thông đường sắt, phương tiện giao thông đường sắt theo quy định của pháp luật.
+
+4. Toa xe đường sắt đô thị là phương tiện chuyên chở hành khách vận hành trên đường sắt đô thị.
+
+5. Phương tiện chuyên dùng di chuyển trên đường sắt (sau đây gọi tắt là phương tiện chuyên dùng) là phương tiện dùng để vận chuyển người, vật tư, thiết bị phục vụ cho các mục đích: cứu viện; cứu hộ tai nạn giao thông đường sắt; kiểm tra, thi công, bảo trì, sửa chữa công trình đường sắt.
+
+6. Thiết bị sử dụng trên phương tiện giao thông đường sắt (sau đây gọi tắt là thiết bị) bao gồm giá chuyển hướng, van phân phối đầu máy, van hãm toa xe, bộ móc nối đỡ đấm, thiết bị tín hiệu đuôi tàu, bộ trục bánh xe.
+
+7. Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường (sau đây gọi tắt là Giấy chứng nhận) là chứng chỉ xác nhận thiết bị, phương tiện giao thông đường sắt đã được kiểm tra theo các tiêu chuẩn, quy chuẩn kỹ thuật quốc gia tương ứng về chất lượng an toàn kỹ thuật và bảo vệ môi trường.
+
+8. Tem kiểm định chất lượng an toàn kỹ thuật và bảo vệ môi trường (sau đây gọi tắt là tem kiểm định) là biểu trưng cấp cho phương tiện giao thông đường sắt đã được chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường.
+
+9. Cơ quan kiểm tra là Cục Đăng kiểm Việt Nam trực thuộc Bộ Giao thông vận tải thực hiện nhiệm vụ kiểm tra, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cho thiết bị, phương tiện giao thông đường sắt.
+
+Chương II
+
+QUY ĐỊNH VỀ KIỂM TRA CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG
+
+Điều 4. Loại hình kiểm tra
+
+Các loại hình kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường gồm:
+
+1. Kiểm tra sản xuất, lắp ráp.
+
+2. Kiểm tra nhập khẩu.
+
+3. Kiểm tra hoán cải.
+
+4. Kiểm tra định kỳ.
+
+Điều 5. Kiểm tra sản xuất, lắp ráp
+
+1. Kiểm tra sản xuất, lắp ráp được thực hiện đối với: thiết bị, phương tiện sản xuất, lắp ráp mới.
+
+2. Điều kiện kiểm tra: cơ sở sản xuất phải chuẩn bị thiết bị, phương tiện và bảo đảm điều kiện để Cơ quan kiểm tra thực hiện các nội dung kiểm tra theo quy chuẩn kỹ thuật quốc gia tương ứng.
+
+3. Nội dung kiểm tra: thực hiện theo những nội dung thuộc phạm vi của Cơ quan kiểm tra được quy định tại các quy chuẩn kỹ thuật quốc gia tương ứng đối với từng loại thiết bị, phương tiện. Đối với thiết bị tín hiệu đuôi tàu, nội dung kiểm tra theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+
+4. Phương thức kiểm tra
+
+a) Kiểm tra từng thiết bị, phương tiện;
+
+b) Đối với toa xe đường sắt đô thị, kiểm tra toa xe ở trạng thái tĩnh và kiểm tra vận hành trên đường khi ghép thành đoàn tàu theo cấu hình khai thác;
+
+c) Đối với bộ trục bánh xe, kiểm tra mẫu điển hình ngẫu nhiên cho từng lô bộ trục bánh xe.
+
+Điều 6. Kiểm tra nhập khẩu
+
+1. Kiểm tra nhập khẩu được thực hiện đối với: thiết bị, phương tiện nhập khẩu mới; phương tiện nhập khẩu đã qua sử dụng.
+
+2. Điều kiện kiểm tra: doanh nghiệp nhập khẩu phải chuẩn bị thiết bị, phương tiện và bảo đảm điều kiện để Cơ quan kiểm tra thực hiện các nội dung kiểm tra theo quy chuẩn kỹ thuật quốc gia tương ứng.
+
+3. Nội dung kiểm tra: thực hiện theo những nội dung thuộc phạm vi của Cơ quan kiểm tra được quy định tại các quy chuẩn kỹ thuật quốc gia tương ứng đối với từng loại thiết bị, phương tiện. Đối với thiết bị tín hiệu đuôi tàu, nội dung kiểm tra theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+
+4. Phương thức kiểm tra
+
+a) Kiểm tra từng thiết bị, phương tiện;
+
+b) Đối với toa xe đường sắt đô thị, kiểm tra toa xe ở trạng thái tĩnh và kiểm tra vận hành trên đường khi ghép thành đoàn tàu theo cấu hình khai thác;
+
+c) Đối với bộ trục bánh xe, kiểm tra mẫu điển hình ngẫu nhiên cho từng lô bộ trục bánh xe.
+
+Điều 7. Kiểm tra hoán cải
+
+1. Kiểm tra hoán cải được thực hiện đối với phương tiện chạy trên đường sắt quốc gia, phương tiện chạy trên đường sắt chuyên dùng có thay đổi các nội dung sau:
+
+a) Bội suất hãm, kiểu loại xy lanh hãm của phương tiện; các bộ phận chịu lực chính của kết cấu thép thân phương tiện gồm: xà đầu, xà kéo, xà gối, xà dọc giữa, xà ngang chính, xà dọc cạnh (trừ trường hợp gia cường để tăng độ cứng vững) khác với thiết kế ban đầu hoặc hồ sơ kiểm tra hoán cải gần nhất;
+
+b) Tính năng, mục đích sử dụng của phương tiện dẫn tới việc phải thay đổi cách bố trí, lắp đặt trang thiết bị của phương tiện khác với lần đăng kiểm gần nhất;
+
+c) Kiểu loại của động cơ diesel (đầu máy), động cơ điện kéo, máy phát điện chính (đầu máy), máy nén khí, bộ truyền động thủy lực, giá chuyển hướng, bộ móc nối đỡ đấm, van phân phối, van hãm lắp trên phương tiện khác với lần đăng kiểm gần nhất.
+
+2. Điều kiện kiểm tra: cơ sở sửa chữa phải chuẩn bị phương tiện và bảo đảm điều kiện để Cơ quan kiểm tra thực hiện các nội dung kiểm tra theo quy chuẩn kỹ thuật quốc gia tương ứng đối với nội dung hoán cải của từng loại phương tiện.
+
+3. Nội dung kiểm tra: kiểm tra nội dung hoán cải của phương tiện so với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+4. Phương thức kiểm tra: kiểm tra từng phương tiện.
+
+Điều 8. Kiểm tra định kỳ
+
+1. Kiểm tra định kỳ được thực hiện đối với: phương tiện chạy trên đường sắt quốc gia, phương tiện chạy trên đường sắt chuyên dùng, phương tiện chạy trên đường sắt đô thị; thiết bị tín hiệu đuôi tàu.
+
+2. Điều kiện kiểm tra: cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện phải chuẩn bị thiết bị, phương tiện và bảo đảm điều kiện để Cơ quan kiểm tra thực hiện các nội dung kiểm tra theo quy chuẩn kỹ thuật quốc gia tương ứng.
+
+3. Nội dung kiểm tra: thực hiện theo những nội dung thuộc phạm vi của Cơ quan kiểm tra được quy định tại các quy chuẩn kỹ thuật quốc gia tương ứng đối với từng loại phương tiện. Đối với thiết bị tín hiệu đuôi tàu, nội dung kiểm tra theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+
+4. Phương thức kiểm tra
+
+a) Kiểm tra từng thiết bị, phương tiện;
+
+b) Đối với toa xe đường sắt đô thị, kiểm tra toa xe ở trạng thái tĩnh và kiểm tra vận hành trên đường khi ghép thành đoàn tàu theo cấu hình khai thác.
+
+5. Chu kỳ kiểm tra định kỳ
+
+a) Chu kỳ kiểm tra định kỳ theo quy định tại Phụ lục II ban hành kèm theo Thông tư này;
+
+b) Đối với đầu máy, toa xe chạy trên đường sắt quốc gia, việc kiểm tra được thực hiện cùng thời điểm phương tiện được sửa chữa, bảo dưỡng định kỳ.
+
+Chương III
+
+TRÌNH TỰ CẤP, CẤP LẠI, SỬ DỤNG GIẤY CHỨNG NHẬN VÀ TEM KIỂM ĐỊNH
+
+Điều 9. Giấy chứng nhận
+
+1. Đối với hồ sơ giấy: các liên của Giấy chứng nhận được phát hành gồm liên lưu (nhập khẩu, sản xuất lắp ráp, hoán cải), liên lưu hành, liên sử dụng để giải quyết thủ tục hải quan (nhập khẩu) và liên đăng ký phương tiện (nhập khẩu, sản xuất lắp ráp, hoán cải).
+
+2. Đối với hồ sơ điện tử: phát hành bản giấy Giấy chứng nhận khi cơ quan có liên quan chưa thực hiện việc kết nối sử dụng dữ liệu điện tử với Cơ quan kiểm tra.
+
+Điều 10. Hồ sơ đăng ký kiểm tra
+
+Hồ sơ đăng ký kiểm tra bao gồm:
+
+1. Đơn đăng ký kiểm tra theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này.
+
+2. Báo cáo kết quả kiểm tra hoặc báo cáo kết quả thử nghiệm theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng (bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý) kèm theo ảnh chụp thể hiện rõ số hiệu, hình ảnh tổng thể thiết bị, phương tiện.
+
+3. Đối với thiết bị, phương tiện sản xuất, lắp ráp, nhập khẩu, hoán cải: tài liệu kỹ thuật của thiết bị, phương tiện theo quy định tại Phụ lục IV ban hành kèm theo Thông tư này (bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý).
+
+Điều 11. Cấp Giấy chứng nhận và tem kiểm định đối với trường hợp kiểm tra sản xuất, lắp ráp
+
+1. Cơ sở sản xuất lập 01 bộ hồ sơ đăng ký kiểm tra theo quy định tại Điều 10 của Thông tư này và nộp cho Cơ quan kiểm tra bằng hình thức gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+
+2. Cơ quan kiểm tra tiếp nhận, kiểm tra thành phần hồ sơ đăng ký kiểm tra và hướng dẫn để cơ sở sản xuất hoàn thiện hồ sơ (trường hợp hồ sơ chưa đầy đủ thành phần) trong vòng một (01) ngày làm việc, riêng đối với toa xe đường sắt đô thị trong vòng mười (10) ngày làm việc.
+
+3. Cơ quan kiểm tra tiến hành đối chiếu nội dung hồ sơ đăng ký kiểm tra với nội dung của quy chuẩn kỹ thuật quốc gia tương ứng trong vòng năm (05) ngày làm việc, riêng đối với toa xe đường sắt đô thị trong vòng ba mươi (30) ngày.
+
+a) Trường hợp nội dung hồ sơ đăng ký kiểm tra hợp lệ, Cơ quan kiểm tra gửi thông báo về thời gian kiểm tra hiện trường theo mẫu quy định tại Phụ lục V ban hành kèm theo Thông tư này;
+
+b) Trường hợp nội dung hồ sơ đăng ký kiểm tra chưa hợp lệ, Cơ quan kiểm tra gửi thông báo hoàn thiện hồ sơ theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư này. Thời hạn giải quyết sẽ được tính lại từ đầu, sau khi Cơ quan kiểm tra nhận lại đủ hồ sơ đăng ký kiểm tra.
+
+4. Cơ quan kiểm tra tiến hành kiểm tra thiết bị, phương tiện tại hiện trường theo các nội dung của quy chuẩn kỹ thuật quốc gia tương ứng.
+
+a) Trường hợp thiết bị, phương tiện và hồ sơ đăng ký kiểm tra phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng, Cơ quan kiểm tra thực hiện quy trình cấp Giấy chứng nhận theo quy định tại điểm a khoản 5 Điều này;
+
+b) Trường hợp thiết bị, phương tiện hoặc hồ sơ đăng ký kiểm tra chưa phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+Trong thời hạn không quá ba (03) ngày làm việc kể từ ngày kết thúc kiểm tra, Cơ quan kiểm tra gửi thông báo khắc phục theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư này. Cơ sở sản xuất được phép khắc phục nhưng không quá một (01) lần.
+
+Trường hợp cơ sở sản xuất không hoàn thành việc khắc phục trong thời hạn mười (10) ngày làm việc kể từ ngày Cơ quan kiểm tra gửi thông báo khắc phục thì được đánh giá là không đạt.
+
+5. Cấp Giấy chứng nhận/thông báo không đạt và tem kiểm định
+
+a) Trong thời gian không quá ba (03) ngày làm việc kể từ ngày kết thúc kiểm tra và nộp đủ hồ sơ theo quy định, Cơ quan kiểm tra cấp Giấy chứng nhận (bản giấy và/hoặc bản điện tử) đối với từng thiết bị, lô bộ trục bánh xe, phương tiện theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này, đồng thời cấp tem kiểm định cho phương tiện theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư này;
+
+b) Trường hợp kết quả đánh giá không đạt, trong thời hạn một (01) ngày làm việc kể từ thời điểm đánh giá không đạt, Cơ quan kiểm tra ra thông báo không đạt đối với từng thiết bị, lô bộ trục bánh xe, phương tiện theo mẫu quy định tại Phụ lục X ban hành kèm theo Thông tư này.
+
+Điều 12. Cấp Giấy chứng nhận và tem kiểm định đối với trường hợp kiểm tra nhập khẩu
+
+1. Doanh nghiệp nhập khẩu lập 01 bộ hồ sơ đăng ký kiểm tra theo quy định tại Điều 10 của Thông tư này và nộp cho Cơ quan kiểm tra bằng hình thức gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+
+2. Cơ quan kiểm tra tiếp nhận, kiểm tra thành phần hồ sơ đăng ký kiểm tra và hướng dẫn để doanh nghiệp nhập khẩu hoàn thiện hồ sơ (trường hợp hồ sơ chưa đầy đủ thành phần) trong vòng một (01) ngày làm việc, riêng đối với toa xe đường sắt đô thị trong vòng mười (10) ngày làm việc.
+
+3. Cơ quan kiểm tra tiến hành đối chiếu nội dung hồ sơ đăng ký kiểm tra với nội dung của quy chuẩn kỹ thuật quốc gia tương ứng trong vòng năm (05) ngày làm việc, riêng đối với toa xe đường sắt đô thị trong vòng ba mươi (30) ngày.
+
+a) Trường hợp nội dung hồ sơ đăng ký kiểm tra hợp lệ, Cơ quan kiểm tra gửi thông báo về thời gian kiểm tra hiện trường theo mẫu quy định tại Phụ lục V ban hành kèm theo Thông tư này;
+
+b) Trường hợp nội dung hồ sơ đăng ký kiểm tra chưa hợp lệ, Cơ quan kiểm tra gửi thông báo hoàn thiện hồ sơ theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư này, đồng thời gửi đến cơ quan hải quan để giải quyết theo quy định. Thời hạn giải quyết được tính lại từ đầu, sau khi Cơ quan kiểm tra nhận lại đủ hồ sơ đăng ký kiểm tra hợp lệ.
+
+4. Cơ quan kiểm tra tiến hành kiểm tra thiết bị, phương tiện tại hiện trường theo các nội dung của quy chuẩn kỹ thuật quốc gia tương ứng.
+
+a) Trường hợp thiết bị, phương tiện và hồ sơ đăng ký kiểm tra phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng, Cơ quan kiểm tra thực hiện quy trình cấp Giấy chứng nhận theo quy định tại điểm a khoản 5 Điều này;
+
+b) Trường hợp thiết bị, phương tiện hoặc hồ sơ đăng ký kiểm tra chưa phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+Trong thời hạn không quá ba (03) ngày làm việc kể từ ngày kết thúc kiểm tra, Cơ quan kiểm tra gửi thông báo khắc phục theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư này. Doanh nghiệp nhập khẩu được phép khắc phục nhưng không quá một (01) lần (trừ trường hợp toa xe đường sắt đô thị).
+
+Trường hợp doanh nghiệp nhập khẩu không hoàn thành việc khắc phục trong thời hạn mười (10) ngày làm việc kể từ ngày Cơ quan kiểm tra gửi thông báo khắc phục thì được đánh giá là không đạt.
+
+Riêng đối với toa xe đường sắt đô thị, quá thời hạn sáu mươi (60) ngày kể từ ngày Cơ quan kiểm tra gửi thông báo khắc phục, doanh nghiệp nhập khẩu chưa hoàn thành việc khắc phục mà không có văn bản nêu rõ lý do chưa hoàn thành việc khắc phục và cam kết mốc thời gian khắc phục mới thì được đánh giá là không đạt.
+
+5. Cấp Giấy chứng nhận/thông báo không đạt và tem kiểm định
+
+a) Trong thời gian không quá ba (03) ngày làm việc kể từ ngày kết thúc kiểm tra và nộp đủ hồ sơ theo quy định, Cơ quan kiểm tra cấp Giấy chứng nhận (bản giấy và/hoặc bản điện tử) đối với từng thiết bị, lô bộ trục bánh xe, phương tiện theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này, đồng thời cấp tem kiểm định cho phương tiện theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư này;
+
+b) Trường hợp kết quả đánh giá không đạt, trong thời hạn một (01) ngày làm việc kể từ thời điểm đánh giá không đạt, Cơ quan kiểm tra ra thông báo không đạt đối với từng thiết bị, lô bộ trục bánh xe, phương tiện theo mẫu quy định tại Phụ lục X ban hành kèm theo Thông tư này, đồng thời gửi đến cơ quan hải quan để giải quyết theo quy định.
+
+Điều 13. Cấp Giấy chứng nhận và tem kiểm định đối với trường hợp kiểm tra hoán cải
+
+1. Cơ sở sửa chữa lập 01 bộ hồ sơ đăng ký kiểm tra theo quy định tại Điều 10 của Thông tư này và nộp cho Cơ quan kiểm tra bằng hình thức gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+
+2. Cơ quan kiểm tra tiếp nhận, kiểm tra thành phần hồ sơ đăng ký kiểm tra và hướng dẫn để cơ sở sửa chữa hoàn thiện hồ sơ (trong trường hợp hồ sơ chưa đầy đủ thành phần) trong vòng một (01) ngày làm việc.
+
+3. Cơ quan kiểm tra tiến hành kiểm tra phương tiện tại hiện trường theo các nội dung hoán cải của phương tiện so với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+a) Trường hợp phương tiện và hồ sơ đăng ký kiểm tra phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng, Cơ quan kiểm tra thực hiện quy trình cấp Giấy chứng nhận theo quy định tại điểm a khoản 4 Điều này;
+
+b) Trường hợp phương tiện hoặc hồ sơ đăng ký kiểm tra chưa phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+Cơ sở sửa chữa được phép khắc phục nhưng không quá một (01) lần.
+
+Trường hợp cơ sở sửa chữa không hoàn thành việc khắc phục trong thời hạn mười (10) ngày làm việc kể từ ngày kết thúc kiểm tra thì được đánh giá là không đạt.
+
+4. Cấp Giấy chứng nhận/thông báo không đạt
+
+a) Trong thời gian không quá ba (03) ngày làm việc kể từ ngày kết thúc kiểm tra, Cơ quan kiểm tra cấp Giấy chứng nhận (bản giấy và/hoặc bản điện tử) đối với từng phương tiện theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này;
+
+b) Trường hợp kết quả đánh giá không đạt, trong thời hạn một (01) ngày làm việc kể từ thời điểm đánh giá không đạt, Cơ quan kiểm tra ra thông báo không đạt đối với từng phương tiện theo mẫu quy định tại Phụ lục X ban hành kèm theo Thông tư này.
+
+Điều 14. Cấp Giấy chứng nhận và tem kiểm định đối với trường hợp kiểm tra định kỳ
+
+1. Cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện lập 01 bộ hồ sơ đăng ký kiểm tra theo quy định tại Điều 10 của Thông tư này và nộp cho Cơ quan kiểm tra bằng hình thức gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+
+2. Cơ quan kiểm tra tiếp nhận, kiểm tra thành phần hồ sơ đăng ký kiểm tra và hướng dẫn để cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện hoàn thiện hồ sơ (trong trường hợp hồ sơ chưa đầy đủ thành phần) trong vòng một (01) ngày làm việc.
+
+3. Cơ quan kiểm tra tiến hành kiểm tra thiết bị, phương tiện tại hiện trường theo các nội dung của quy chuẩn kỹ thuật quốc gia tương ứng.
+
+a) Trường hợp thiết bị, phương tiện và hồ sơ đăng ký kiểm tra phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng, Cơ quan kiểm tra thực hiện quy trình cấp Giấy chứng nhận theo quy định tại điểm a khoản 4 Điều này;
+
+b) Trường hợp thiết bị, phương tiện hoặc hồ sơ đăng ký kiểm tra chưa phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng.
+
+Cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện được phép khắc phục nhưng không quá một (01) lần.
+
+Trường hợp cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện không hoàn thành việc khắc phục trong thời hạn một (01) ngày làm việc kể từ ngày kết thúc kiểm tra thì được đánh giá là không đạt.
+
+4. Cấp Giấy chứng nhận/thông báo không đạt và tem kiểm định
+
+a) Trong thời gian không quá hai (02) ngày làm việc kể từ ngày kết thúc kiểm tra, Cơ quan kiểm tra cấp Giấy chứng nhận (bản giấy và/hoặc bản điện tử) đối với từng thiết bị, phương tiện theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này và cấp tem kiểm định cho phương tiện theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư này;
+
+b) Trường hợp kết quả đánh giá không đạt, trong thời hạn một (01) ngày làm việc kể từ thời điểm đánh giá không đạt, Cơ quan kiểm tra ra thông báo không đạt đối với từng thiết bị, phương tiện theo mẫu quy định tại Phụ lục X ban hành kèm theo Thông tư này.
+
+Điều 15. Cấp lại Giấy chứng nhận
+
+1. Giấy chứng nhận được cấp lại trong các trường hợp bị mất, hỏng; có sai sót thông tin trên Giấy chứng nhận hoặc doanh nghiệp thay đổi địa chỉ, tên doanh nghiệp mà vẫn còn hiệu lực.
+
+2. Hồ sơ đề nghị cấp lại
+
+Đơn đề nghị cấp lại Giấy chứng nhận của cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện theo mẫu quy định tại Phụ lục XI ban hành kèm theo Thông tư này.
+
+3. Trình tự, cách thức thực hiện
+
+a) Cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện lập 01 bộ hồ sơ theo quy định tại khoản 2 Điều này, nộp cho Cơ quan kiểm tra bằng hình thức gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công;
+
+b) Cơ quan kiểm tra kiểm tra hồ sơ, tiếp nhận và trả kết quả trong vòng một (01) ngày làm việc. Trường hợp hồ sơ chưa hợp lệ, Cơ quan kiểm tra hướng dẫn để doanh nghiệp hoàn thiện hồ sơ ngay trong ngày làm việc;
+
+c) Cơ quan kiểm tra cấp lại Giấy chứng nhận (bản giấy và/hoặc bản điện tử) theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này hoặc thông báo trả lời không cấp lại Giấy chứng nhận đối với trường hợp không đạt yêu cầu.
+
+4. Hiệu lực Giấy chứng nhận cấp lại được xác định theo hiệu lực của Giấy chứng nhận đã cấp.
+
+Điều 16. Thu hồi Giấy chứng nhận
+
+1. Giấy chứng nhận bị thu hồi trong các trường hợp sau đây:
+
+a) Đã có thông báo hết hiệu lực Giấy chứng nhận của Cơ quan kiểm tra theo quy định tại điểm b khoản 2 Điều 17 của Thông tư này (trừ trường hợp đối với phương tiện đã được cấp Giấy chứng nhận, tem kiểm định mới);
+
+b) Khi phát hiện chủ phương tiện, chủ khai thác phương tiện, cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa giả mạo hồ sơ đăng ký kiểm tra.
+
+2. Cơ quan kiểm tra ra văn bản thông báo hết hiệu lực Giấy chứng nhận, gửi các cơ quan liên quan theo quy định và thu hồi Giấy chứng nhận trong trường hợp còn bản giấy Giấy chứng nhận.
+
+Điều 17. Việc sử dụng và thời hạn hiệu lực của Giấy chứng nhận, tem kiểm định
+
+1. Sử dụng Giấy chứng nhận, tem kiểm định
+
+a) Giấy chứng nhận cấp cho thiết bị được sử dụng làm căn cứ cho phép lắp ráp trên phương tiện;
+
+b) Giấy chứng nhận cấp cho thiết bị, phương tiện (bản giấy hoặc bản điện tử) chỉ được sử dụng vào các mục đích: giải quyết thủ tục hải quan, đăng ký phương tiện, lưu hành;
+
+c) Tem kiểm định dán trên phương tiện, vị trí dán được quy định tại Phụ lục VIII ban hành kèm theo Thông tư này.
+
+2. Hiệu lực của Giấy chứng nhận, tem kiểm định
+
+a) Thời hạn hiệu lực của Giấy chứng nhận và tem kiểm định cấp theo chu kỳ kiểm tra quy định tại Phụ lục II ban hành kèm theo Thông tư này;
+
+b) Giấy chứng nhận hết hiệu lực thuộc một trong các trường hợp sau:
+
+Phương tiện đã được cấp Giấy chứng nhận, tem kiểm định mới;
+
+Thông số kỹ thuật thực tế của phương tiện bị thay đổi so với thông số kỹ thuật trên Giấy chứng nhận đã cấp;
+
+Phương tiện bị hư hỏng do tai nạn, thiên tai, hành vi phá hoại hoặc trong quá trình bảo quản, vận chuyển làm biến dạng kết cấu giá chuyển hướng, kết cấu thép chịu lực thân phương tiện đến mức không bảo đảm các yêu cầu an toàn kỹ thuật và bảo vệ môi trường theo quy định.
+
+Chương IV
+
+TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN
+
+Điều 18. Trách nhiệm của Cục Đăng kiểm Việt Nam
+
+1. Thông báo Giấy chứng nhận đã cấp hết hiệu lực và gửi các cơ quan liên quan theo quy định khi nhận được báo cáo của chủ phương tiện hoặc chủ khai thác phương tiện về việc:
+
+a) Thông số kỹ thuật thực tế của phương tiện bị thay đổi so với thông số kỹ thuật trên Giấy chứng nhận đã cấp;
+
+b) Phương tiện bị hư hỏng do tai nạn, thiên tai, hành vi phá hoại hoặc trong quá trình bảo quản, vận chuyển làm biến dạng kết cấu giá chuyển hướng, kết cấu thép chịu lực thân phương tiện đến mức không bảo đảm các yêu cầu an toàn kỹ thuật và bảo vệ môi trường theo quy định.
+
+2. Tổ chức thực hiện kiểm tra đột xuất khi:
+
+a) Cơ quan có thẩm quyền phát hiện phương tiện có dấu hiệu không phù hợp với tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật quốc gia tương ứng;
+
+b) Theo yêu cầu của cơ quan có thẩm quyền.
+
+Trường hợp phát hiện vi phạm trong quá trình kiểm tra đột xuất theo quy định tại Khoản này, cơ quan kiểm tra lập biên bản ghi nhận sự việc và báo cáo cơ quan có thẩm quyền xử lý theo quy định.
+
+3. Thu các khoản lệ phí, giá dịch vụ đăng kiểm, kiểm định theo quy định hiện hành và trả Giấy chứng nhận hoặc thông báo không đạt khi cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa và chủ phương tiện, chủ khai thác phương tiện hoàn thành nghĩa vụ tài chính theo quy định.
+
+Điều 19. Trách nhiệm của cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa, chủ phương tiện và chủ khai thác phương tiện
+
+1. Trách nhiệm của cơ sở sản xuất
+
+a) Xây dựng hệ thống quản lý chất lượng nhằm bảo đảm việc duy trì chất lượng thiết bị, phương tiện xuất xưởng; xây dựng quy trình công nghệ sản xuất thiết bị, phương tiện, quy trình kiểm tra chất lượng thiết bị, phương tiện;
+
+b) Chịu trách nhiệm về chất lượng thiết bị, phương tiện do mình sản xuất, lắp ráp; bảo đảm tổ chức thực hiện việc bảo hành đối với thiết bị, phương tiện sản xuất, lắp ráp;
+
+c) Duy trì và bảo đảm các thiết bị phục vụ sản xuất cần thiết hoạt động tốt theo quy định của nhà sản xuất thiết bị;
+
+d) Tuân thủ các quy định, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia hiện hành khi sản xuất, lắp ráp thiết bị, phương tiện; bảo đảm các điều kiện kiểm tra thiết bị, phương tiện theo các quy chuẩn kỹ thuật quốc gia hiện hành;
+
+đ) Phối hợp và cung cấp thông tin khi được Cơ quan kiểm tra yêu cầu trong quá trình kiểm tra đột xuất;
+
+e) Nộp lại bản giấy Giấy chứng nhận và tem kiểm định khi có thông báo thu hồi của Cơ quan kiểm tra (trừ trường hợp bị mất).
+
+2. Trách nhiệm của doanh nghiệp nhập khẩu
+
+a) Chịu trách nhiệm trước pháp luật về nguồn gốc, xuất xứ, chất lượng thiết bị, phương tiện nhập khẩu;
+
+b) Tuân thủ các quy định, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia hiện hành khi nhập khẩu thiết bị, phương tiện; phối hợp với các bên liên quan để bảo đảm các điều kiện kiểm tra thiết bị, phương tiện theo các quy chuẩn kỹ thuật quốc gia hiện hành;
+
+c) Thông báo bằng văn bản và nộp lại bản giấy Giấy chứng nhận, tem kiểm định cho Cơ quan kiểm tra khi xuất khẩu phương tiện tạm nhập, tái xuất hoặc khi có thông báo thu hồi của Cơ quan kiểm tra (trừ trường hợp bị mất).
+
+3. Trách nhiệm của chủ phương tiện, chủ khai thác phương tiện
+
+a) Thực hiện kiểm tra tình trạng hoạt động của phương tiện để phương tiện bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường trước khi tham gia giao thông;
+
+b) Chịu trách nhiệm sửa chữa, bảo dưỡng bảo đảm quy chuẩn kỹ thuật quốc gia về an toàn kỹ thuật và bảo vệ môi trường của phương tiện giữa hai kỳ kiểm tra của Cơ quan kiểm tra;
+
+c) Theo dõi và kiểm tra đối với các thiết bị, phương tiện sản xuất, lắp ráp và nhập khẩu kiểu loại mới lần đầu đang trong quá trình thử nghiệm vận dụng;
+
+d) Cung cấp tiêu chuẩn cơ sở, quy trình sửa chữa phương tiện cho Cơ quan kiểm tra trước khi kiểm tra định kỳ lần đầu và khi có thay đổi về tiêu chuẩn cơ sở, quy trình sửa chữa;
+
+đ) Chịu trách nhiệm nghiệm thu về mặt chất lượng đối với thiết bị, phương tiện sản xuất, lắp ráp; giám sát việc tuân thủ các tiêu chuẩn, quy trình sửa chữa các cấp đối với phương tiện sửa chữa định kỳ;
+
+e) Bảo quản hồ sơ kỹ thuật, chứng chỉ chất lượng, giấy chứng nhận, tem kiểm định và xuất trình khi có yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+g) Báo cáo Cơ quan kiểm tra khi thông số kỹ thuật thực tế của phương tiện bị thay đổi so với Giấy chứng nhận đã cấp; khi phương tiện bị hư hỏng do tai nạn, thiên tai, hành vi phá hoại hoặc trong quá trình bảo quản, vận chuyển làm biến dạng kết cấu giá chuyển hướng, kết cấu thép chịu lực thân phương tiện đến mức không bảo đảm các yêu cầu an toàn kỹ thuật và bảo vệ môi trường theo quy định; khi có thay đổi kết cấu, hình dáng, tính năng sử dụng của phương tiện ngoài các thay đổi quy định tại khoản 1 Điều 7 Thông tư này;
+
+h) Phối hợp và cung cấp thông tin khi được Cơ quan kiểm tra yêu cầu trong quá trình kiểm tra đột xuất; chia sẻ, cung cấp dữ liệu về phương tiện đang khai thác sử dụng hàng năm cho Cơ quan kiểm tra;
+
+i) Nộp lại bản giấy Giấy chứng nhận và tem kiểm định khi có thông báo thu hồi của Cơ quan kiểm tra (trừ trường hợp bị mất).
+
+4. Trách nhiệm của cơ sở sửa chữa
+
+a) Xây dựng hệ thống quản lý chất lượng nhằm bảo đảm việc duy trì chất lượng phương tiện hoán cải, sửa chữa; xây dựng quy trình kiểm tra chất lượng phương tiện;
+
+b) Chịu trách nhiệm về chất lượng phương tiện do mình hoán cải, sửa chữa; bảo đảm tổ chức thực hiện việc bảo hành đối với phương tiện do mình hoán cải, sửa chữa;
+
+c) Duy trì và bảo đảm các thiết bị phục vụ sửa chữa cần thiết phải hoạt động tốt theo quy định của nhà sản xuất thiết bị;
+
+d) Tuân thủ tiêu chuẩn, quy trình hoán cải, sửa chữa phương tiện các cấp do Chủ phương tiện ban hành; tuân thủ các quy định, quy chuẩn kỹ thuật quốc gia hiện hành trong quá trình sửa chữa phương tiện; bảo đảm các điều kiện kiểm tra phương tiện theo các quy chuẩn kỹ thuật quốc gia hiện hành;
+
+đ) Chịu sự giám sát của chủ phương tiện và/hoặc chủ khai thác phương tiện về chất lượng, việc tuân thủ các tiêu chuẩn, quy trình sửa chữa các cấp;
+
+e) Phối hợp và cung cấp thông tin khi được Cơ quan kiểm tra yêu cầu trong quá trình kiểm tra đột xuất;
+
+g) Nộp lại bản giấy Giấy chứng nhận và tem kiểm định khi có thông báo thu hồi của Cơ quan kiểm tra (trừ trường hợp bị mất).
+
+5. Cơ sở sản xuất, doanh nghiệp nhập khẩu, cơ sở sửa chữa, chủ phương tiện, chủ khai thác phương tiện chịu trách nhiệm về tính hợp pháp, chính xác của các giấy tờ có trong hồ sơ đăng ký kiểm tra và cung cấp đầy đủ thông tin có liên quan; chi trả lệ phí, giá dịch vụ kiểm định và các chi phí phát sinh khác theo quy định hiện hành.
+
+Chương V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 20. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2024.
+
+2. Bãi bỏ các Thông tư sau:
+
+a) Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt.
+
+b) Thông tư số 10/2022/TT-BGTVT ngày 23 tháng 6 năm 2022 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt.
+
+3. Bãi bỏ điều, khoản, điểm tại các Thông tư sau:
+
+a) Điều 1 và khoản 1, khoản 2, khoản 3 Điều 3 của Thông tư số 32/2020/TT-BGTVT ngày 14 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt và Thông tư số 31/2018/TT-BGTVT ngày 15 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về thực hiện đánh giá, chứng nhận an toàn hệ thống đối với đường sắt đô thị.
+
+b) Điều 1 của Thông tư số 01/2022/TT-BGTVT ngày 12 tháng 01 năm 2022 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt và Thông tư số 18/2019/TT-BGTVT ngày 20 tháng 5 năm 2019 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn thực hiện Nghị định số 139/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ quy định về kinh doanh dịch vụ kiểm định xe cơ giới.
+
+Điều 21. Quy định chuyển tiếp
+
+1. Các Giấy chứng nhận và tem kiểm định đã cấp cho phương tiện, thiết bị tín hiệu đuôi tàu trước ngày Thông tư này có hiệu lực vẫn có giá trị cho đến hết thời hạn còn hiệu lực.
+
+2. Khi các quy định được dẫn chiếu tại Thông tư này có sửa đổi, bổ sung hoặc được thay thế thì thực hiện theo quy định tại văn bản mới.
+
+Điều 22. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Cục trưởng các Cục: Đường sắt Việt Nam, Đăng kiểm Việt Nam, Giám đốc Sở Giao thông vận tải, Sở Giao thông - Xây dựng các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  -------------------------------------------------------------------------------
+  Nơi nhận:                                   KT. BỘ TRƯỞNG
+  - Như Điều 22;                              THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                      Nguyễn Danh Huy
+  - Các cơ quan thuộc Chính phủ;              
+  - Các Bộ, cơ quan ngang Bộ;                 
+  - UBND các tỉnh, thành phố trực thuộc TW;   
+  - Bộ trưởng Bộ GTVT;                        
+  - Các Thứ trưởng Bộ GTVT;                   
+  - Cục KSTTHC (Văn phòng Chính phủ);         
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);        
+  - Công báo;                                 
+  - Cổng thông tin điện tử Chính phủ;         
+  - Cổng thông tin điện tử Bộ GTVT;           
+  - Báo Giao thông, Tạp chí GTVT;             
+  - Lưu: VT, KHCN&MT (5).                     
+  ------------------------------------------- -----------------------------------
+
+  -------------------------------------------------------------------------------
+
+PHỤ LỤC I
+
+NỘI DUNG KIỂM TRA THIẾT BỊ TÍN HIỆU ĐUÔI TÀU
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+I. Yêu cầu chung
+
+Thiết bị tín hiệu đuôi tàu phải bảo đảm các yêu cầu sau:
+
+1. Giám sát được áp suất ống hãm tại toa xe cuối đoàn tàu.
+
+2. Giám sát được trạng thái kết nối toa xe trong quá trình đoàn tàu vận hành.
+
+3. Ghi lại áp suất ống hãm tại toa xe cuối đoàn tàu trong quá trình vận hành.
+
+4. Điều khiển việc xả gió ống hãm tại toa xe cuối đoàn tàu để thực hiện hãm khẩn cấp.
+
+5. Báo tín hiệu đuôi tàu.
+
+II. Nội dung kiểm tra
+
+1. Thiết bị tín hiệu đuôi tàu phải gọn nhẹ dễ mang xách, có vỏ bọc cứng, dễ lắp lặt, sử dụng, sửa chữa bảo dưỡng. Thiết bị phải hoạt động bình thường trong điều kiện thời tiết khắc nghiệt như mưa, nắng, gió bão và điều kiện xóc lắc khi lắp đặt trên đầu máy, toa xe.
+
+2. Thiết bị tín hiệu đuôi tàu phải hiển thị rõ các thông tin và đọc được các thông tin bằng mắt thường dưới ánh sáng ban ngày hoặc khi có đèn chiếu sáng vào ban đêm.
+
+3. Thiết bị tín hiệu đuôi tàu phải báo chính xác áp suất ống hãm, sai lệch trị số áp suất hiển thị trên bộ phận tại đuôi tàu và bộ phận tại buồng lái cho phép không quá 0,1 bar. Đồng hồ áp suất báo áp suất hãm trên bộ phận giám sát tại đuôi tàu phải được kiểm định tại tổ chức kiểm định phương tiện đo được chỉ định theo quy định của pháp luật về đo lường.
+
+4. Thiết bị tín hiệu đuôi tàu phải cảnh báo (bằng âm thanh và đèn) cho lái tàu biết khi áp suất ống hãm tại toa xe cuối đoàn tàu giảm áp nhỏ hơn:
+
+a) 4,6 bar đối với đoàn tàu cấp gió ép với áp suất ống hãm 5 bar;
+
+b) 5,6 bar đối với đoàn tàu cấp gió ép với áp suất ống hãm 6 bar.
+
+5. Thiết bị tín hiệu đuôi tàu phải điều khiển được việc xả gió ống hãm tại toa xe cuối đoàn tàu để thực hiện hãm khẩn cấp. Thời gian nhận lệnh điều khiển từ bộ phận tại buồng lái đến bộ phận tại đuôi tàu để kích hoạt van xả gió khẩn cấp ở đuôi tàu không quá 5 giây. Bộ phận tại đuôi tàu khi nhận lệnh hãm phải mở van xả gió khẩn cấp và giữ van ở trạng thái mở trong thời gian từ 15 giây đến 70 giây.
+
+6. Thiết bị tín hiệu đuôi tàu phải truyền được thông tin, dữ liệu và lệnh hãm của lái tàu giữa bộ phận tại đuôi tàu và bộ phận tại buồng lái bằng sóng vô tuyến liên tục trong suốt quá trình vận hành bình thường của đoàn tàu. Tần số phát sóng vô tuyến phải được cơ quan có thẩm quyền cấp phép.
+
+7. Khoảng cách truyền, nhận sóng vô tuyến giữa bộ phận tại đuôi tàu và bộ phận tại buồng lái phải đúng theo quy định của nhà sản xuất và không được nhỏ hơn 1000 m.
+
+8. Điện áp ắc quy phải đúng với quy định của nhà sản xuất. Dung lượng ắc quy phải bảo đảm yêu cầu sau:
+
+a) Đối với Thiết bị tín hiệu đuôi tàu nhập khẩu, sản xuất lắp ráp mới phải cấp được nguồn điện bảo đảm cho thiết bị làm việc liên tục trong thời gian tối thiểu là 36 giờ;
+
+b) Đối với Thiết bị tín hiệu đuôi tàu đang trong quá trình khai thác, sử dụng phải cấp được nguồn điện bảo đảm cho thiết bị làm việc liên tục trong thời gian tối thiểu là 20 giờ.
+
+9. Thiết bị tín hiệu đuôi tàu phải báo tín hiệu đuôi tàu cả ngày lẫn đêm. Bộ phận tại đuôi tàu báo bằng đèn màu đỏ và tự động điều chỉnh được cường độ sáng theo điều kiện của môi trường.
+
+10. Đối với Thiết bị tín hiệu đuôi tàu có cảm biến chuyển động, bộ phận tại buồng lái phải hiển thị tín hiệu trên màn hình để báo cho lái tàu biết trạng thái chuyển động của toa xe cuối cùng trong quá trình đoàn tàu vận hành.
+
+11. Đối với Thiết bị tín hiệu đuôi tàu có kết nối với hệ thống định vị vệ tinh GPS và hệ thống đếm trục bánh toa xe trên đường sắt, bộ phận tại buồng lái phải hiển thị số liệu hỗ trợ cho lái tàu giám sát được tính toàn vẹn của đoàn tàu, chiều dài và sự thay đổi chiều dài đoàn tàu trong quá trình vận hành.
+
+12. Thiết bị tín hiệu đuôi tàu phải ghi và lưu trữ chính xác áp suất ống hãm tại toa xe cuối đoàn tàu trong quá trình vận hành. Dữ liệu ghi lại của thiết bị phải bảo đảm tính liên tục. Dung lượng bộ nhớ thiết bị ghi được dữ liệu vận hành tối thiểu trong 55 giờ. Dữ liệu lưu giữ tại thiết bị phải xuất ra và đọc được trên máy tính.
+
+PHỤ LỤC II
+
+CHU KỲ KIỂM TRA
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Loại phương tiện                                                                                                                                                                                                                                                            | Chu kỳ kiểm tra (tháng)                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                             +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                                                                                             | Chu kỳ đầu                                                                                                                           | Chu kỳ định kỳ                                                                                                                       |
++======================================================================================================================================+======================================================================================================================================+======================================================================================================================================+======================================================================================================================================+
+| 1. Đường sắt quốc gia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 1.1. Phương tiện nhập khẩu và sản xuất, lắp ráp mới                                                                                  | a) Đầu máy, phương tiện chuyên dùng tự hành                                                                                          | 18                                                                                                                                   | -                                                                                                                                    |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe khách                                                                                                                      | 28                                                                                                                                   | -                                                                                                                                    |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Toa xe hàng, phương tiện chuyên dùng không tự hành                                                                                | 36                                                                                                                                   | -                                                                                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 1.2. Phương tiện khai thác dưới hoặc bằng 30 năm tính từ năm sản xuất                                                                | a) Đầu máy, phương tiện chuyên dùng tự hành                                                                                          | -                                                                                                                                    | 18                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe khách                                                                                                                      | -                                                                                                                                    | 14                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Toa xe hàng, phương tiện chuyên dùng không tự hành                                                                                | -                                                                                                                                    | 20                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 1.3. Phương tiện khai thác trên 30 năm tính từ năm sản xuất và còn niên hạn sử dụng (loại trừ đối tượng được quy định tại mục 5)     | a) Đầu máy, phương tiện chuyên dùng tự hành                                                                                          | -                                                                                                                                    | 15                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe khách                                                                                                                      | -                                                                                                                                    | 12                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Toa xe hàng, phương tiện chuyên dùng không tự hành                                                                                | -                                                                                                                                    | 15                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 1.4. Phương tiện đang khai thác ít sử dụng (loại trừ đối tượng được quy định tại mục 5)                                              | a) Đầu máy đẩy; đầu máy dồn tại ga, xưởng chế tạo sửa chữa, kho bãi với km chạy hàng năm nhỏ hơn 40.000 km                           | -                                                                                                                                    | 24                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe công vụ, nhiệm sở có số km chạy hàng năm nhỏ hơn 40.000 km                                                                 | -                                                                                                                                    | 24                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2. Đường sắt đô thị                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2.1. Phương tiện nhập khẩu và sản xuất, lắp ráp mới                                                                                  | a) Phương tiện chuyên dùng tự hành                                                                                                   | 18                                                                                                                                   | -                                                                                                                                    |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe đường sắt đô thị                                                                                                           | 28                                                                                                                                   | -                                                                                                                                    |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Phương tiện chuyên dùng không tự hành                                                                                             | 36                                                                                                                                   | -                                                                                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2.2. Phương tiện khai thác dưới hoặc bằng 30 năm tính từ năm sản xuất                                                                | a) Phương tiện chuyên dùng tự hành                                                                                                   | -                                                                                                                                    | 18                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe đường sắt đô thị                                                                                                           | -                                                                                                                                    | 14                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Phương tiện chuyên dùng không tự hành                                                                                             | -                                                                                                                                    | 20                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2.3. Phương tiện khai thác trên 30 năm tính từ năm sản xuất và còn niên hạn sử dụng                                                  | a) Phương tiện chuyên dùng tự hành                                                                                                   | -                                                                                                                                    | 15                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | b) Toa xe đường sắt đô thị                                                                                                           | -                                                                                                                                    | 12                                                                                                                                   |
+|                                                                                                                                      +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                      | c) Phương tiện chuyên dùng không tự hành                                                                                             | -                                                                                                                                    | 15                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 3. Đường sắt chuyên dùng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 3.1. Phương tiện nhập khẩu và sản xuất, lắp ráp mới                                                                                                                                                                                                                         | 30                                                                                                                                   | -                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 3.2. Phương tiện khai thác dưới hoặc bằng 30 năm tính từ năm sản xuất                                                                                                                                                                                                       | -                                                                                                                                    | 18                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 3.3. Phương tiện khai thác trên 30 năm tính từ năm sản xuất và còn niên hạn sử dụng                                                                                                                                                                                         | -                                                                                                                                    | 15                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 4. Tất cả các phương tiện nhập khẩu đã qua sử dụng                                                                                                                                                                                                                          | 12                                                                                                                                   | *                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 5. Phương tiện khi hết niên hạn được chuyển thành phương tiện không áp dụng quy định về niên hạn sử dụng theo quy định tại khoản 1 Điều 1 Nghị định số 01/2022/NĐ-CP ngày 04 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 5.1. Đầu máy khai thác trên 40 năm tính từ năm sản xuất                                                                                                                                                                                                                     | -                                                                                                                                    | 12                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 5.2. Toa xe khách, toa xe đường sắt đô thị khai thác trên 40 năm tính từ năm sản xuất                                                                                                                                                                                       | -                                                                                                                                    | 9                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 5.3. Toa xe hàng khai thác trên 45 năm tính từ năm sản xuất                                                                                                                                                                                                                 | -                                                                                                                                    | 12                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 6. Các phương tiện hết niên hạn sử dụng được phép hoạt động đến hết ngày 31 tháng 12 năm 2030 theo quy định tại khoản 2 Điều 1 Nghị định số 91/2023/NĐ-CP ngày 14 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt và Nghị định số 01/2022/NĐ-CP ngày 04 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 6.1. Đầu máy khai thác trên 40 năm tính từ năm sản xuất                                                                                                                                                                                                                     | -                                                                                                                                    | 9                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 6.2. Toa xe khách, toa xe đường sắt đô thị khai thác trên 40 năm tính từ năm sản xuất                                                                                                                                                                                       | -                                                                                                                                    | 9                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 6.3. Toa xe hàng khai thác trên 45 năm tính từ năm sản xuất                                                                                                                                                                                                                 | -                                                                                                                                    | 9                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 7. Thiết bị tín hiệu đuôi tàu                                                                                                                                                                                                                                               | 24                                                                                                                                   | 12                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+Ghi chú:
+
+“-”: Không áp dụng.
+
+“*”: Chu kỳ kiểm tra định kỳ áp dụng theo mục 1.2, 1.3, 2.2, 2.3, 3.2, 3.3 của Phụ lục này, tương ứng với từng loại phương tiện.
+
+PHỤ LỤC III
+
+MẪU - ĐƠN ĐĂNG KÝ KIỂM TRA
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+
+…, ngày……..tháng……năm ….
+
+ĐƠN ĐĂNG KÝ KIỂM TRA
+
+Kính gửi: ………….. ¹⁾
+
+Tên tổ chức/doanh nghiệp: ²⁾ ……….…………………………………………….
+
+Người đại diện theo pháp luật: ³⁾ …………………………………………………
+
+Địa chỉ: ⁴⁾ ………………………………..Mã số doanh nghiệp: ⁵⁾ ………………
+
+Điện thoại người liên hệ: ………………...Địa chỉ email: ………………………..
+
+Nội dung đăng ký kiểm tra:
+
+- Loại hình kiểm tra: ⁶⁾ ……………………….
+
+- Đối tượng kiểm tra: ⁷⁾ ………………………
+
+- Số hiệu/số chế tạo: ………………….........
+
+Hồ sơ kèm theo: ⁸⁾
+
+……………………………………………………………………………………
+
+Địa điểm và thời gian kiểm tra dự kiến: ⁹⁾ ………………..………………………..................
+
+……………………………………………………………………………………........................
+
+… ²⁾ cam đoan và chịu trách nhiệm về nội dung khai báo, tính hợp pháp của hồ sơ đăng ký kiểm tra và chất lượng của … ⁷⁾ … ⁶⁾ trước pháp luật.
+
+  -----------------------------------------------------------------------
+                                      Lãnh đạo … ²⁾
+                                      (Ký tên, đóng dấu)
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+____________________
+
+¹⁾ Tên Cơ quan kiểm tra
+
+²⁾ Tên Cơ sở sản xuất/doanh nghiệp nhập khẩu/cơ sở sửa chữa/chủ phương tiện/chủ khai thác phương tiện
+
+³⁾ Tên người đại diện theo quy định pháp luật của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+⁴⁾ Địa chỉ của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+⁵⁾ Mã số doanh nghiệp của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+⁶⁾ Lựa chọn: Sản xuất lắp ráp/nhập khẩu/hoán cải/định kỳ
+
+⁷⁾ Ghi rõ đối tượng: toa xe …/đầu máy …/phương tiện chuyên dùng …/thiết bị …
+
+⁸⁾ Danh mục hồ sơ theo quy định tại Điều 10 của Thông tư này
+
+⁹⁾ Địa điểm và thời gian kiểm tra dự kiến
+
+PHỤ LỤC IV
+
+TÀI LIỆU KỸ THUẬT CỦA THIẾT BỊ, PHƯƠNG TIỆN
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+1. Đối với phương tiện kiểm tra sản xuất, lắp ráp:
+
+a) Bản vẽ kỹ thuật
+
+- Bản vẽ tổng thể phương tiện;
+
+- Bản vẽ kết cấu thân phương tiện;
+
+- Bản vẽ thể hiện lắp đặt giá chuyển hướng, bộ móc nối đỡ đấm, hệ thống hãm, hệ thống cấp điện toa xe (áp dụng đối với toa xe khách), hệ thống điều hòa không khí (áp dụng đối với toa xe khách), hệ thống điện sức kéo (áp dụng đối với đầu máy), hệ thống truyền động trên phương tiện (áp dụng đối với đầu máy);
+
+b) Tài liệu thuyết minh
+
+- Tài liệu thuyết minh đặc tính kỹ thuật cơ bản của phương tiện;
+
+- Tài liệu thuyết minh tính năng động lực học của phương tiện: độ êm dịu vận hành, hệ số ổn định chống lật và hệ số chống trật bánh;
+
+- Tài liệu thuyết minh sức kéo (áp dụng đối với đầu máy);
+
+- Tài liệu thuyết minh sức bền của phương tiện;
+
+- Tài liệu thuyết minh tính năng hãm.
+
+2. Đối với thiết bị kiểm tra sản xuất, lắp ráp:
+
+a) Bản vẽ tổng thể của thiết bị;
+
+b) Bản thuyết minh tính năng, đặc tính kỹ thuật.
+
+3. Đối với thiết bị, phương tiện kiểm tra nhập khẩu:
+
+a) Bản vẽ tổng thể của thiết bị, phương tiện;
+
+b) Tài liệu giới thiệu tính năng, thông số kỹ thuật thiết bị, phương tiện;
+
+c) Chứng chỉ chất lượng (CQ) của nhà sản xuất đối với thiết bị, phương tiện nhập khẩu mới.
+
+4. Đối với phương tiện kiểm tra hoán cải:
+
+a) Bản vẽ tổng thể của phương tiện trước và sau hoán cải;
+
+b) Tài liệu thuyết minh liên quan đến nội dung hoán cải;
+
+c) Tài liệu giới thiệu tính năng, thông số kỹ thuật của động cơ diesel (đầu máy), động cơ điện kéo, máy phát điện chính (đầu máy), máy nén khí, bộ truyền động thủy lực, giá chuyển hướng, bộ móc nối đỡ đấm, van phân phối, van hãm được thay thế trong quá trình hoán cải.
+
+PHỤ LỤC V
+
+MẪU - THÔNG BÁO VỀ THỜI GIAN KIỂM TRA HIỆN TRƯỜNG
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++--------------------------------------------------+-------------------------------------------+
+| BỘ GIAO THÔNG VẬN TẢI                            | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM        |
+| … ¹⁾                                             | Độc lập - Tự do - Hạnh phúc               |
+| -------                                          | ---------------                           |
++:================================================:+==========================================:+
+| Số: …                                            | …, ngày … tháng … năm 20...               |
+|                                                  |                                           |
+| V/v: Thông báo về thời gian kiểm tra hiện trường |                                           |
++--------------------------------------------------+-------------------------------------------+
+
+  ---------------------------------------------------------------------
+  Kính gửi:               - …………………… ²⁾
+  ----------------------- ---------------------------------------------
+
+  ---------------------------------------------------------------------
+
+Ngày … tháng … năm …, … ¹⁾ đã nhận được hồ sơ đăng ký kiểm tra … (phiếu tiếp nhận số …). … ¹⁾ thông báo về thời gian kiểm tra hiện trường tới Quý … ²⁾.
+
+… (Nội dung chi tiết).
+
+…¹⁾ trân trọng thông báo để Quý … ²⁾ được biết và chuẩn bị thiết bị/phương tiện, bảo đảm các điều kiện kiểm tra theo quy định. Nếu có thay đổi về thời gian và địa điểm kiểm tra, đề nghị Quý … ²⁾ thông báo với …¹⁾ trước thời gian kiểm tra trong thông báo tối thiểu 01 ngày làm việc. Trường hợp … ¹⁾ đã tiến hành đi kiểm tra, Quý … ²⁾ sẽ phải chịu các chi phí đi lại, ăn ở có phát sinh trong quá trình kiểm tra của …¹⁾ theo quy định.
+
+Trân trọng./.
+
+  -----------------------------------------------------------------------
+  Nơi nhận:                           Lãnh đạo …¹⁾
+  - Như trên;                         (Ký tên, đóng dấu)
+  ….                                  
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+___________________
+
+¹⁾ Tên Cơ quan kiểm tra
+
+²⁾ Tên Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+PHỤ LỤC VI
+
+MẪU - THÔNG BÁO HOÀN THIỆN HỒ SƠ
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++---------------------------------+-------------------------------------------+
+| BỘ GIAO THÔNG VẬN TẢI           | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM        |
+| … ¹⁾                            | Độc lập - Tự do - Hạnh phúc               |
+| -------                         | ---------------                           |
++:===============================:+==========================================:+
+| Số: …                           | …, ngày … tháng … năm 20...               |
+|                                 |                                           |
+| V/v: Thông báo hoàn thiện hồ sơ |                                           |
++---------------------------------+-------------------------------------------+
+
+  ---------------------------------------------------------------------
+  Kính gửi:               - …………………… ²⁾
+  ----------------------- ---------------------------------------------
+
+  ---------------------------------------------------------------------
+
+Ngày … tháng … năm …, … ¹⁾ đã nhận được hồ sơ đăng ký kiểm tra … (phiếu tiếp nhận số …). Sau khi xem xét, rà soát, đối chiếu nội dung hồ sơ đăng ký kiểm tra với nội dung của quy chuẩn kỹ thuật quốc gia …, … ¹⁾ thông báo tới Quý … ²⁾ các nội dung sau cần phải hoàn thiện:
+
+… (Nội dung chi tiết).
+
+… ¹⁾ trân trọng thông báo để Quý … ²⁾ được biết và hoàn thiện hồ sơ đăng ký kiểm tra theo quy định.
+
+Trân trọng./.
+
+  -----------------------------------------------------------------------
+  Nơi nhận:                           Lãnh đạo …¹⁾
+  - Như trên;                         (Ký tên, đóng dấu)
+  …                                   
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+____________________
+
+¹⁾ Tên Cơ quan kiểm tra
+
+²⁾ Tên Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+PHỤ LỤC VII
+
+MẪU - GIẤY CHỨNG NHẬN CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+Mẫu giấy chứng nhận cấp cho thiết bị, phương tiện sản xuất, lắp ráp, nhập khẩu, hoán cải và kiểm tra định kỳ
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| +--------------------------+-------------------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | BỘ GIAO THÔNG VẬN TẢI    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | … ¹⁾                     | Độc lập - Tự do - Hạnh phúc               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | -------                  | ---------------                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                          |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | MINISTRY OF TRANSPORT    | SOCIALIST REPUBLIC OF VIETNAM             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | … ²⁾                     | Independence - Freedom - Happiness        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +==========================+===========================================+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| GIẤY CHỨNG NHẬN CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG … ³⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CERTIFICATE OF TECHNICAL SAFETY QUALITY AND ENVIRONMENTAL PROTECTION FOR …                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|   -----------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|   Số Giấy chứng nhận:                 Số Tem kiểm định: ⁴⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|   (Certificate N₀):                   (Inspection sticker N₀):                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|   ----------------------------------- -----------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|   -----------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Liên số (Copy N₀):                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ….⁵⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Căn cứ Thông tư số /2024/TT-BGTVT ngày tháng năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt;                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| According to the Circular No …/2024/TT-BGTVT dated of Minister of Ministry of Transport stipulating on inspection of technical safety quality and environmental protection of railway vehicle;                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| +------------------------------------------------------+-------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| | Căn cứ Hồ sơ đăng ký kiểm tra/Hồ sơ đề nghị cấp lại: | Ngày: ..../…/20…⁶⁾      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| |                                                      |                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| | (Based on the technical document):                   | (Dated):                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| +======================================================+=========================+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| | Căn cứ kết quả kiểm tra tại ...                      | Ngày: ..../…/20…⁷⁾      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| |                                                      |                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| | (Based on the Inspection report N₀):                 | (Dated):                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| +------------------------------------------------------+-------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| …¹⁾ CHỨNG NHẬN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| … ²⁾ HAS CERTIFIED THAT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Loại hình kiểm tra: ⁸⁾           | Số hiệu/chế tạo:                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Type of inspection):            | (Component/Vehicle’s N₀):         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +==================================+===================================+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Loại thiết bị/phương tiện:       | Số đăng ký (nếu có): ¹⁰⁾ ¹¹⁾ ¹²⁾  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Component/Vehicle’s type):      | (Registration N₀ (if any)):       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Doanh nghiệp nhập khẩu: ⁹⁾       | Cơ sở sửa chữa: ¹⁰⁾ ¹²⁾           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Importer):                      | (Repairing workshop):             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Cơ sở sản xuất: ¹³⁾              | Phạm vi hoạt động: ¹⁵⁾            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Manufacturer):                  | (Scope of operation):             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Chủ phương tiện: ¹⁰⁾ ¹²⁾         | Năm sản xuất: ¹¹⁾                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Owner):                         | (Year of manufacture):            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Địa chỉ: ¹⁴⁾                     | Nước sản xuất: ¹¹⁾                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Address):                       | (Country of manufacture):         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | Nội dung hoán cải: ¹²⁾           |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| |                                  |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | (Modified items):                |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| +----------------------------------+-----------------------------------+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| THÔNG SỐ KỸ THUẬT CƠ BẢN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| MAJOR TECHNICAL SPECIFICATIONS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| (Thông số kỹ thuật theo từng loại thiết bị/phương tiện cụ thể)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Thiết bị/Phương tiện này đã được kiểm tra phù hợp với …                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| This component/vehicle has been inspected in compliance with …                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Giấy chứng nhận này có hiệu lực đến hết ngày: ... ¹⁶⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| This certificate is valid until …                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|   -----------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                       …, (Date) ngày tháng năm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                       … ¹⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                       (Ký tên, đóng dấu)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|   ----------------------------------- -----------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|   -----------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Ghi chú (Note): ¹⁷⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| - Loại thiết bị/phương tiện, số hiệu/chế tạo, số đăng ký, năm sản xuất, nước sản xuất, phạm vi hoạt động, thôn g số kỹ thuật cơ bản được ghi theo thông tin trên văn bản của Tổ chức/doanh nghiệp đăng ký kiểm tra. Cơ quan kiểm tra không chịu trách nhiệm về các thông tin của Tổ chức/doanh nghiệp đăng ký kiểm tra trong hồ sơ đăng ký kiểm tra và các vấn đề liên quan đến nguồn gốc, xuất xứ, nhãn hiệu hàng hóa, kiểu dáng công nghiệp, sở hữu trí tuệ, các loại thuế (thuế xuất khẩu, nhập khẩu, …), giá trị thương mại đối với thiết bị/phương tiện đăng ký kiểm tra. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| - Các ghi chú khác (nếu có).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Ghi chú (Note): ¹⁸⁾                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| - Các ghi chú khác (nếu có).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
++================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
+
+___________________
+
+¹⁾ Tên Cơ quan kiểm tra bằng tiếng Việt
+
+²⁾ Tên Cơ quan kiểm tra bằng tiếng Anh
+
+³⁾ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT (railway vehicle): Áp dụng đối với phương tiện giao thông đường sắt THIẾT BỊ SỬ DỤNG TRÊN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT (component of railway vehicle): Áp dụng đối với thiết bị sử dụng trên phương tiện giao thông đường sắt
+
+⁴⁾ Không áp dụng đối với thiết bị và phương tiện hoán cải
+
+⁵⁾ Trường hợp cấp lại ghi rõ Cấp lại lần 1, Cấp lại lần 2
+
+⁶⁾ Tính từ ngày Cơ quan kiểm tra nhận được hồ sơ
+
+⁷⁾ Báo cáo kiểm tra phương tiện, thiết bị (không áp dụng đối với trường hợp cấp lại)
+
+⁸⁾ Lựa chọn: Sản xuất lắp ráp/nhập khẩu/hoán cải/định kỳ
+
+⁹⁾ Áp dụng đối với thiết bị, phương tiện nhập khẩu
+
+¹⁰⁾ Áp dụng đối với thiết bị tín hiệu đuôi tàu, phương tiện kiểm tra định kỳ
+
+¹¹⁾ Ghi theo bản khai thông tin thiết bị, phương tiện của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+¹²⁾ Áp dụng đối với phương tiện hoán cải
+
+¹³⁾ Áp dụng đối với thiết bị, phương tiện sản xuất láp ráp, nhập khẩu
+
+¹⁴⁾ Địa chỉ của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+¹⁵⁾ Không áp dụng đối với thiết bị
+
+¹⁶⁾ Không áp dụng đối với thiết bị (trừ thiết bị tín hiệu đuôi tàu), phương tiện hoán cải
+
+¹⁷⁾ Áp dụng đối với trường hợp cấp mới Giấy chứng nhận
+
+¹⁸⁾ Áp dụng đối với trường hợp cấp lại Giấy chứng nhận
+
+PHỤ LỤC VIII
+
+MẪU - TEM KIỂM ĐỊNH VÀ VỊ TRÍ DÁN
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+1. Mẫu tem kiểm định
+
+[]
+
+2. Vị trí dán tem kiểm định
+
+a) Đối với đầu máy, phương tiện chuyên dùng tự hành: tem kiểm định được dán ở ở vị trí dễ quan sát và bảo quản;
+
+b) Đối với toa xe khách và toa xe đường sắt đô thị: tem kiểm định được dán ở trong toa xe tại vị trí dễ quan sát và bảo quản;
+
+c) Đối với toa xe hàng, phương tiện chuyên dùng không tự hành: tem kiểm định được dán tại bệ xe (khu vực xà dọc giữa). Vị trí trên có thể thay đổi tùy theo kết cấu của bệ xe nhưng tem kiểm định phải dán ở vị trí thuận lợi cho việc dán, quan sát và bảo quản.
+
+PHỤ LỤC IX
+
+MẪU - THÔNG BÁO KHẮC PHỤC
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++--------------------------+-------------------------------------------+
+| BỘ GIAO THÔNG VẬN TẢI    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM        |
+| …¹⁾                      | Độc lập - Tự do - Hạnh phúc               |
+| -------                  | ---------------                           |
++:========================:+==========================================:+
+| Số: …                    | …, ngày … tháng … năm 20...               |
+|                          |                                           |
+| V/v: Thông báo khắc phục |                                           |
++--------------------------+-------------------------------------------+
+
+  ---------------------------------------------------------------------
+  Kính gửi:               - ……………………;²⁾
+  ----------------------- ---------------------------------------------
+
+  ---------------------------------------------------------------------
+
+Từ ngày … tháng … năm … đến ngày … tháng … năm …, … ¹⁾ đã tiến hành kiểm tra hiện trường đối với hồ sơ đăng ký kiểm tra … (theo phiếu tiếp nhận số …). Sau khi kết thúc kiểm tra, … ¹⁾ thông báo tới Quý … ²⁾ các nội dung sau cần phải khắc phục:
+
+… (Nội dung chi tiết).
+
+Thời gian khắc phục: … (Theo quy định của Thông tư này)
+
+… ¹⁾ trân trọng thông báo để Quý … ²⁾ được biết và thực hiện theo quy định.
+
+Trân trọng./.
+
+  -----------------------------------------------------------------------
+  Nơi nhận:                           Lãnh đạo …¹⁾
+  - Như trên;                         (Ký tên, đóng dấu)
+  …                                   
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+____________________
+
+¹⁾ Tên Cơ quan kiểm tra
+
+²⁾ Tên Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+PHỤ LỤC X
+
+MẪU - THÔNG BÁO KHÔNG ĐẠT
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++--------------------------+-------------------------------------------+
+| BỘ GIAO THÔNG VẬN TẢI    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM        |
+| …¹⁾                      | Độc lập - Tự do - Hạnh phúc               |
+| -------                  | ---------------                           |
+|                          |                                           |
+| MINISTRY OF TRANSPORT    | SOCIALIST REPUBLIC OF VIETNAM             |
+| …²⁾                      | Independence - Freedom - Happiness        |
++:========================:+==========================================:+
+| Số (N₀):                 |                                           |
++--------------------------+-------------------------------------------+
+
+THÔNG BÁO KHÔNG ĐẠT CHẤT LƯỢNG
+AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG
+NOTICE OF FAILURE OF TECHNICAL SAFETY QUALITY AND ENVIRONMENTAL PROTECTION
+
+Căn cứ Thông tư số /2024/TT-BGTVT ngày tháng năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt;
+
+According to the Circular No …/2024/TT-BGTVT dated … of Minister of Ministry of Transport stipulating on inspection of technical safety quality and environmental protection of railway vehicle;
+
+Căn cứ Hồ sơ đăng ký kiểm tra: Ngày: ..../…/20…³⁾
+
+(Based on the technical document): (Dated):
+
+Căn cứ kết quả kiểm tra ... ⁴⁾ Ngày: ..../…/20…
+
+(Based on the Inspection report N₀): (Dated):
+
+… ¹⁾ THÔNG BÁO
+… ²⁾ HAS NOTIFIED THAT
+
+  -----------------------------------------------------------------------------------------------------------
+  Loại hình kiểm tra (Type of inspection): ⁵⁾             Số hiệu/chế tạo (Component/Vehicle’s N₀):
+  ------------------------------------------------------- ---------------------------------------------------
+  Loại thiết bị/phương tiện (Component/Vehicle’s type):   Số đăng ký (nếu có) (Registration N₀(if any)): ⁸⁾
+
+  Doanh nghiệp nhập khẩu (Importer): ⁶⁾                   Địa chỉ (Address): ⁹⁾
+
+  Cơ sở sản xuất (Manufacturer): ⁷⁾                       Năm sản xuất (Year of manufacture):
+
+  Chủ phương tiện (Owner): ⁸⁾                             Nước sản xuất (Country of manufacture):
+
+  Cơ sở sửa chữa (Repairing workshop):⁸⁾                  
+  -----------------------------------------------------------------------------------------------------------
+
+Thiết bị/Phương tiện này đã được kiểm tra và không đạt yêu cầu theo ….
+
+This vehicle/component has been failed to satisfy the requirements according to ….
+
+Lý do không đạt (Reason for fail) : …
+
+  -----------------------------------------------------------------------
+                                      …, (Date) ngày tháng năm
+                                      …¹⁾
+                                      (Ký tên, đóng dấu)
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+Ghi chú (Note):
+
+Loại thiết bị/phương tiện, số hiệu/chế tạo, số đăng ký, năm sản xuất, nước sản xuất, phạm vi hoạt động , thông số kỹ thuật cơ bản được ghi theo thông tin trên văn bản của Tổ chức/doanh nghiệp đăng ký kiểm tra. Cơ quan kiểm tra không chịu trách nhiệm về các thông tin của Tổ chức/doanh nghiệp đăng ký kiểm tra trong hồ sơ đăng ký kiểm tra và các vấn đề liên quan đến nguồn gốc, xuất xứ, nhãn hiệu hàng hóa, kiểu dáng công nghiệp, sở hữu trí tuệ, các loại thuế (thuế xuất khẩu, nhập khẩu, …), giá trị thương mại đối với thiết bị/phương tiện đăng ký kiểm tra.
+
+- Các ghi chú khác (nếu có)
+
+___________________
+
+¹⁾ Tên Cơ quan kiểm tra bằng tiếng Việt
+
+²⁾ Tên Cơ quan kiểm tra bằng tiếng Anh
+
+³⁾ Tính từ ngày Cơ quan kiểm tra nhận được hồ sơ
+
+⁴⁾ Kết quả kiểm tra phương tiện, thiết bị
+
+⁵⁾ Lựa chọn: Sản xuất, lắp ráp/nhập khẩu/hoán cải/định kỳ
+
+⁶⁾ Áp dụng đối với thiết bị, phương tiện nhập khẩu
+
+⁷⁾ Áp dụng đối với thiết bị, phương tiện sản xuất láp ráp, nhập khẩu
+
+⁸⁾ Áp dụng đối với phương tiện hoán cải, kiểm tra định kỳ
+
+⁹⁾ Địa chỉ của Tổ chức/doanh nghiệp đăng ký kiểm tra
+
+PHỤ LỤC XI
+
+MẪU - ĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY CHỨNG NHẬN
+(Ban hành kèm theo Thông tư số 01/2024/TT-BGTVT ngày 26 tháng 01 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+----------------
+
+…, ngày……..tháng….…năm ….….
+
+ĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY CHỨNG NHẬN
+
+Kính gửi: ………….. ¹⁾
+
+Tên tổ chức/doanh nghiệp: ²⁾ ……….…………………………………………….
+
+Người đại diện theo pháp luật: ³⁾ …………………………………………………
+
+Địa chỉ: ⁴⁾ …………………………………Mã số doanh nghiệp: ⁵⁾ …………….
+
+Điện thoại người liên hệ: …………………..Địa chỉ email: …………………........
+
+Nội dung đề nghị: Cấp lại Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt.
+
+Số Giấy chứng nhận: ⁶⁾
+
+Lý do cấp lại: ⁷⁾ ……………………………………………………………………..
+
+………………………………………………………………………………………..
+
+… ²⁾ cam đoan và chịu trách nhiệm về nội dung khai báo trước pháp luật.
+
+  -----------------------------------------------------------------------
+  Nơi nhận:                           Lãnh đạo … ²⁾
+  - Như trên;                         (Ký tên, đóng dấu)
+  - Lưu…                              
+  ----------------------------------- -----------------------------------
+
+  -----------------------------------------------------------------------
+
+____________________
+
+¹⁾ Tên Cơ quan kiểm tra
+
+²⁾ Tên Cơ sở sản xuất/doanh nghiệp nhập khẩu/cơ sở sửa chữa/chủ phương tiện/chủ khai thác phương tiện
+
+³⁾ Tên người đại diện theo quy định pháp luật của Tổ chức/doanh nghiệp đề nghị cấp lại
+
+⁴⁾ Địa chỉ của Tổ chức/doanh nghiệp đề nghị cấp lại
+
+⁵⁾ Mã số doanh nghiệp của Tổ chức/doanh nghiệp đề nghị cấp lại
+
+⁶⁾ Số Giấy chứng nhận còn hiệu lực của phương tiện đề nghị cấp lại Giấy chứng nhận
+
+⁷⁾ Lý do đề nghị cấp lại Giấy chứng nhận

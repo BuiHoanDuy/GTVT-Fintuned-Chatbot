@@ -1,0 +1,1615 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                            Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 07/2024/TT-BGTVT               Hà Nội, ngày 31 tháng 03 năm 2024
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐÈN CHIẾU SÁNG PHÍA TRƯỚC CỦA PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ
+
+Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật năm 2006;
+
+Căn cứ Luật chất lượng sản phẩm hàng hoá năm 2007;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về đèn chiếu sáng phía trước của phương tiện giao thông cơ giới đường bộ.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về đèn chiếu sáng phía trước của phương tiện giao thông cơ giới đường bộ.
+
+Mã số đăng ký: QCVN 35:2024/BGTVT.
+
+Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2024.
+
+2. Thông tư này bãi bỏ khoản 3 Điều 1 Thông tư số 31/2017/TT-BGTVT ngày 22 tháng 09 năm 2017 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Quy chuẩn kỹ thuật quốc gia về kính an toàn của xe ô tô, Quy chuẩn kỹ thuật quốc gia về lốp hơi dùng cho ô tô, Quy chuẩn kỹ thuật quốc gia về đặc tính quang học đèn chiếu sáng phía trước của phương tiện giao thông cơ giới đường bộ.
+
+3. Quy định chuyển tiếp:
+
+a) Đối với hồ sơ thử nghiệm được đăng ký trước ngày Thông tư này có hiệu lực thì tiếp tục thử nghiệm và chứng nhận chất lượng theo QCVN 35:2017/BGTVT.
+
+b) Đối với những kiểu loại đèn đã được thử nghiệm và chứng nhận theo QCVN 35:2017/BGTVT thì tiếp tục được sử dụng cho đến khi hết thời hạn của giấy chứng nhận chất lượng.
+
+Điều 3. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  -------------------------------------------------------------------------------
+  Nơi nhận:                                   KT. BỘ TRƯỞNG
+  - Như Điều 3;                               THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                      Nguyễn Duy Lâm
+  - Các Bộ, cơ quan ngang Bộ;                 
+  - Các cơ quan thuộc Chính phủ;              
+  - UBND các tỉnh, thành phố trực thuộc TW;   
+  - Bộ Khoa học và Công nghệ (để đăng ký);    
+  - Bộ trưởng Bộ GTVT;                        
+  - Các Thứ trưởng Bộ GTVT;                   
+  - Cục KSTTHC (Văn phòng Chính phủ);         
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);        
+  - Công báo;                                 
+  - Cổng thông tin điện tử Chính phủ;         
+  - Cổng thông tin điện tử Bộ GTVT;           
+  - Báo Giao thông, Tạp chí GTVT;             
+  - Lưu: VT, KHCNMT (NQ.Huy).                 
+  ------------------------------------------- -----------------------------------
+
+  -------------------------------------------------------------------------------
+
+QCVN 35:2024/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐÈN CHIẾU SÁNG PHÍA TRƯỚC CỦA PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ
+
+National technical regulation of road vehicle headlamps
+
+Lời nói đầu
+
+QCVN 35:2024/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 07/2024/TT-BGTVT ngày 31 tháng 03 năm 2024.
+
+QCVN 35:2024/BGTVT được xây dựng trên cơ sở tham khảo quy định UNECE R149 (Revision 03, Amendment 03) của United Nations Economic Commission for Europe.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐÈN CHIẾU SÁNG PHÍA TRƯỚC CỦA PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ
+
+National technical regulation of road vehicle headlamps
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định về thử nghiệm, kiểm tra chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với đèn chiếu sáng phía trước (sau đây được gọi chung là đèn) của phương tiện giao thông cơ giới đường bộ.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các cơ sở sản xuất, nhập khẩu đèn, sản xuất lắp ráp, nhập khẩu phương tiện giao thông cơ giới đường bộ và các tổ chức, cá nhân liên quan đến việc thử nghiệm, kiểm tra chứng nhận chất lượng an toàn kỹ thuật đối với đèn của phương tiện giao thông cơ giới đường bộ.
+
+1.3. Giải thích từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.3.1. Đèn chiếu gần (Passing beam/ Low beam) là thiết bị được sử dụng phát ra chùm sáng chiếu gần để chiếu sáng phần đường phía trước xe không gây chói mắt hoặc khó chịu cho người lái xe ngược chiều và người tham gia giao thông khác.
+
+1.3.2. Đèn chiếu xa (Driving beam/ High beam) là thiết bị được sử dụng phát ra chùm sáng chiếu xa để chiếu sáng trên một khoảng cách xa ở phần đường phía trước xe.
+
+1.3.3. Đèn độc lập (Independent lamps) là đèn có các bộ phận chiếu sáng có bề mặt rõ ràng theo hướng trục tham chiếu, nguồn sáng riêng biệt và thân đèn riêng biệt.
+
+1.3.4. Đèn theo nhóm (Grouped lamps) là đèn có các bộ phận chiếu sáng có bề mặt rõ ràng riêng biệt theo hướng trục tham chiếu, nguồn sáng riêng biệt, nhưng thân đèn chung.
+
+1.3.5 Đèn “liền khối” ("Sealed beam" headlamp unit) là toàn bộ các bộ phận của một tổng thể nguyên vẹn gồm có gương phản xạ, kính đèn và một hoặc nhiều nguồn sáng bằng điện được làm kín trong quá trình sản xuất và không thể tháo rời được mà không làm hư hỏng đèn.
+
+1.3.6. Kính đèn (Lens) là chi tiết phía ngoài cùng của đèn, có chức năng truyền ánh sáng thông qua bề mặt chiếu sáng của đèn.
+
+1.3.7. Lớp phủ (Coating) là một hoặc nhiều lớp vật liệu dùng để phủ một hoặc nhiều lớp lên bề mặt ngoài hoặc mặt trong của kính đèn.
+
+1.3.8. Kiểu loại đèn khác nhau là kiểu loại đèn có sự khác nhau về một trong những đặc điểm cơ bản sau:
+
+1.3.8.1. Tên thương mại hoặc nhãn hiệu;
+
+1.3.8.2. Kết cấu của hệ thống quang học;
+
+1.3.8.3. Đặc tính quang học;
+
+1.3.8.4. Loại chùm sáng được phát ra (Chùm sáng chiếu gần, chùm sáng chiếu xa hoặc cả hai chùm sáng);
+
+1.3.8.5. Vật liệu làm kính đèn và lớp phủ (nếu có);
+
+1.3.8.6. Nguồn sáng.
+
+1.3.9. Đèn chiếu sáng phía trước thích ứng (AFS) là một thiết bị chiếu sáng, tạo các chùm sáng với những đặc điểm khác nhau để tự động thích ứng với các điều kiện sử dụng khác nhau của chùm sáng chiếu gần và chùm sáng chiếu xa (nếu có). Đèn này bao gồm hệ thống điều khiển, một hoặc nhiều thiết bị hỗ trợ vận hành nếu có, và các bộ phận lắp đặt lên phương tiện giao thông cơ giới đường bộ;
+
+1.3.10. Trạng thái trung gian của hệ thống chiếu sáng phía trước thích ứng là trạng thái khi ở chế độ chùm sáng chiếu gần cơ bản hoặc chùm sáng chiếu xa cơ bản (nếu có), được sử dụng trong điều kiện vận hành tối đa và không sử dụng tín hiệu điều khiển AFS;
+
+1.3.11. Bộ tạo tín hiệu là một thiết bị~~,~~ tái tạo một hoặc nhiều tín hiệu để thử nghiệm hệ thống chiếu sáng;
+
+1.3.12. Thiết bị cung cấp và vận hành là một hoặc nhiều bộ phận của hệ thống chiếu sáng cung cấp nguồn điện cho một hoặc nhiều bộ phận của hệ thống, bao gồm bộ điều khiển nguồn điện cho một hoặc nhiều nguồn sáng;
+
+1.3.13. Tâm đèn chiếu gần, tâm đèn chiếu xa là điểm xác định trên mẫu thử để căn chỉnh khi thực hiện thử nghiệm bằng thiết bị đo. Tâm đèn được xác định trong tài liệu kỹ thuật của cơ sở đăng ký thử nghiệm cung cấp (có thể là các ký hiệu trên mẫu thử, ký hiệu trên đồ gá chuyên dụng của mẫu thử) hoặc được xác định bằng hình học là tâm của nguồn sáng, hoặc tâm trung bình của (các) gương phản xạ. Khi thử nghiệm theo quy chuẩn này, mẫu thử được gá lắp theo tâm đèn chiếu gần (trừ trường hợp mẫu thử là đèn chiếu xa độc lập, không có đèn chiếu gần thì việc gá lắp mẫu thử được thực hiện theo tâm đèn chiếu xa).
+
+1.3.14. Ánh sáng màu trắng (White) là tọa độ màu (x, y) của ánh sáng phát ra khi biểu diễn trong hệ tọa độ 3 màu CIE (tiêu chuẩn đo màu CIE 1931) phải nằm trong các vùng màu sắc được giới hạn bởi:
+
+Giới hạn đối với màu xanh da trời x ≥ 0,310
+
+Giới hạn đối với màu vàng x ≤ 0,500
+
+Giới hạn đối với màu xanh lá cây y ≤ 0,150 + 0,640 x
+
+Giới hạn đối với màu vàng-xanh lá cây y ≤ 0,440
+
+Giới hạn đối với màu tím y ≥ 0,050 + 0,750 x
+
+Giới hạn đối với màu đỏ-tím y ≥ 0,382
+
+1.3.15. Ánh sáng màu vàng chọn lọc (Selective-yellow) là tọa độ màu (x, y) của ánh sáng phát ra khi biểu diễn trong hệ tọa độ 3 màu CIE (tiêu chuẩn đo màu CIE 1931) phải nằm trong các vùng màu sắc được giới hạn bởi:
+
+Giới hạn đối với màu đỏ y ≥ 0,138 + 0,580 x
+
+Giới hạn đối với màu xanh lá cây y ≤ 1,290 x - 0,1
+
+Giới hạn đối với màu trắng y ≥ 0,940 - x
+
+Giới hạn đối với màu vàng-trắng y ≤ 0,440
+
+2. QUY ĐỊNH KỸ THUẬT
+
+2.1. Đèn chiếu sáng phía trước của xe gắn máy
+
+Đèn chiếu sáng phía trước của xe gắn máy đạt yêu cầu khi kiểm tra phải đáp ứng các yêu cầu sau:
+
+2.1.1. Yêu cầu kết cấu
+
+Kết cấu của đèn được kiểm tra phải đáp ứng quy định tại điểm 1 của một trong các Phụ lục A đến Phụ lục L của Quy chuẩn này.
+
+2.1.2. Yêu cầu đặc tính quang học
+
+2.1.2.1. Đặc tính quang học của đèn được kiểm tra phải đáp ứng quy định tại điểm 2 của một trong các Phụ lục A đến Phụ lục L của Quy chuẩn này.
+
+2.1.2.2. Đối với đèn độc lập quy định tại điểm 1.3.3, đặc tính quang học đèn chiếu gần độc lập phải đáp ứng quy định tại điểm 2.2 của một trong các Phụ lục A đến Phụ lục L của Quy chuẩn này, đặc tính quang học đèn chiếu xa độc lập phải đáp ứng quy định tại điểm 2.3 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này.
+
+2.1.2.3. Đối với những đèn thử nghiệm theo quy định tại điểm 2 của một trong các Phụ lục A đến Phụ lục H (trừ Phụ lục H loại A) của Quy chuẩn này phải thử nghiệm thêm hạng mục tính ổn định đặc tính quang học của đèn trong quá trình hoạt động theo quy định tại Phụ lục M của Quy chuẩn này.
+
+2.1.3. Yêu cầu về màu sắc ánh sáng
+
+Màu sắc ánh sáng của đèn được kiểm tra phải đáp ứng quy định tại điểm 3 của một trong các Phụ lục A đến Phụ lục L của Quy chuẩn này.
+
+2.2. Đèn chiếu sáng phía trước của xe mô tô
+
+Đèn chiếu sáng phía trước của xe mô tô đạt yêu cầu khi kiểm tra phải đáp ứng các yêu cầu sau:
+
+2.2.1. Yêu cầu kết cấu
+
+Kết cấu của đèn được kiểm tra phải đáp ứng quy định tại điểm 1 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này.
+
+2.2.2. Yêu cầu đặc tính quang học
+
+2.2.2.1. Đặc tính quang học của đèn được kiểm tra phải đáp ứng quy định tại điểm 2 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này.
+
+2.2.2.2. Đối với đèn độc lập như quy định tại điểm 1.3.3, đặc tính quang học đèn chiếu gần độc lập phải đáp ứng quy định tại điểm 2.2 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này, đặc tính quang học đèn chiếu xa độc lập phải đáp ứng quy định tại điểm 2.3 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này.
+
+2.2.3. Yêu cầu về màu sắc ánh sáng
+
+Màu sắc ánh sáng của đèn được kiểm tra phải đáp ứng quy định tại điểm 3 của một trong các Phụ lục A đến Phụ lục H của Quy chuẩn này.
+
+2.2.4. Yêu cầu tính ổn định đặc tính quang học của đèn trong quá trình hoạt động
+
+Tính ổn định đặc tính quang học của đèn trong quá trình hoạt động được kiểm tra phải đáp ứng quy định tại Phụ lục M của Quy chuẩn này.
+
+2.3. Đèn chiếu sáng phía trước của xe ô tô
+
+Đèn chiếu sáng phía trước của xe ô tô đạt yêu cầu khi kiểm tra phải đáp ứng các yêu cầu sau:
+
+2.3.1. Yêu cầu kết cấu
+
+Kết cấu của đèn được kiểm tra phải đáp ứng quy định tại điểm 1 của một trong các Phụ lục C đến Phụ lục G của Quy chuẩn này.
+
+2.3.2. Yêu cầu đặc tính quang học
+
+2.3.2.1. Đặc tính quang học của đèn được kiểm tra phải đáp ứng quy định tại điểm 2 của một trong các Phụ lục C đến Phụ lục G của Quy chuẩn này.
+
+2.3.2.1. Đối với đèn độc lập như quy định tại điểm 1.3.3, đặc tính quang học đèn chiếu gần độc lập phải đáp ứng quy định tại điểm 2.2 của một trong các Phụ lục C đến Phụ lục G của Quy chuẩn này, đặc tính quang học đèn chiếu xa độc lập phải đáp ứng quy định tại điểm 2.3 của một trong các Phụ lục C đến Phụ lục G của Quy chuẩn này.
+
+2.3.3. Yêu cầu về màu sắc ánh sáng
+
+Màu sắc ánh sáng của đèn được kiểm tra phải đáp ứng quy định tại điểm 3 của một trong các Phụ lục C đến Phụ lục G của Quy chuẩn này.
+
+2.3.4. Yêu cầu tính ổn định đặc tính quang học của đèn trong quá trình hoạt động
+
+Tính ổn định đặc tính quang học của đèn trong quá trình hoạt động được kiểm tra phải đáp ứng quy định tại Phụ lục M của quy chuẩn này.
+
+2.4. Yêu cầu đối với đèn sản xuất hàng loạt
+
+Đèn sản xuất hàng loạt được kiểm tra phải đáp ứng quy định tại Phụ lục N của Quy chuẩn này.
+
+2.5. Yêu cầu đối với đèn có nguồn sáng LED
+
+Đèn có nguồn sáng LED được thử nghiệm phải đáp ứng quy định tại Phụ lục G hoặc Phụ lục H, và được thử nghiệm phải đáp ứng quy định tại Phụ lục R của Quy chuẩn này.
+
+2.6. Yêu cầu đối với đèn chiếu sáng phía trước thích ứng (AFS)
+
+Trong trường hợp là đèn chiếu sáng phía trước thích ứng (AFS) được quy định tại điểm 1.3.9 của Quy chuẩn này, các hạng mục thử nghiệm được áp dụng như các loại đèn thông thường khác, nhưng được thực hiện khi kích hoạt ở trạng thái trung gian được quy định tại điểm 1.3.10 của Quy chuẩn này.
+
+3. QUY ĐỊNH QUẢN LÝ
+
+3.1. Phương thức kiểm tra, thử nghiệm
+
+Đèn chiếu sáng phía trước của phương tiện giao thông cơ giới đường bộ sản xuất, lắp ráp, nhập khẩu phải được kiểm tra, thử nghiệm, chứng nhận theo quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường.
+
+3.2. Tài liệu kỹ thuật và mẫu thử
+
+Khi có nhu cầu thử nghiệm, cơ sở sản xuất, tổ chức hoặc cá nhân sản xuất, lắp ráp, nhập khẩu đèn phải cung cấp cho cơ sở thử nghiệm tài liệu kỹ thuật và mẫu thử theo yêu cầu quy định tại điểm 3.2.1 và điểm 3.2.2 của Quy chuẩn này.
+
+3.2.1. Yêu cầu về tài liệu kỹ thuật
+
+Tài liệu kỹ thuật của đèn phải gồm các thông tin sau đây:
+
+3.2.1.1. Đèn dùng để chiếu gần và chiếu xa hoặc một trong hai chức năng này;
+
+3.2.1.2. Đèn được thiết kế phù hợp với luật giao bên phải hoặc luật giao bên trái hoặc cả hai luật giao thông bên phải và bên trái;
+
+3.2.1.3. Loại nguồn sáng:
+
+3.2.1.4. Công suất danh định của đèn;
+
+3.2.1.5. Điện áp danh định của đèn;
+
+3.2.1.6. Điện áp thử nghiệm hoặc dòng điện thử nghiệm;
+
+3.2.1.7. Chùm sáng chiếu gần đối xứng hoặc không đối xứng;
+
+3.2.1.8. Phụ lục đăng ký thử nghiệm: một trong các Phụ lục từ A đến Phụ lục L của Quy chuẩn này và các Phụ lục M (nếu có), Phụ lục N (nếu có), Phụ lục R (nếu có) của Quy chuẩn này.
+
+- Nếu đăng ký thử nghiệm Phụ lục H phải đăng ký loại đèn (đèn chiếu sáng loại A hoặc đèn chiếu sáng loại B hoặc đèn chiếu sáng loại D hoặc đèn chiếu sáng loại E);
+
+- Nếu đăng ký thử nghiệm Phụ lục G phải đăng ký loại đèn (đèn chiếu sáng loại A hoặc đèn chiếu sáng loại B);
+
+3.2.1.9. Đèn chiếu gần kết hợp với đèn chiếu xa để tạo chùm sáng chiếu xa: (Có hoặc Không);
+
+3.2.1.10. Các bản vẽ để nhận biết được kiểu loại đèn phải rõ ràng, dễ đọc, có ký hiệu bản vẽ (Ký hiệu thiết kế) phù hợp, vị trí và ký hiệu trên kính đèn (nếu có), thể hiện được các kích thước cơ bản, các chi tiết để nhận biết được kiểu loại đèn, vị trí các bộ phận phát ra chùm sáng chiếu gần hoặc chùm sáng chiếu xa.
+
+3.2.2. Yêu cầu về mẫu thử
+
+3.2.2.1. Số lượng mẫu thử
+
+Mỗi kiểu loại đèn cần 03 mẫu thử để thử nghiệm, chứng nhận chất lượng kiểu loại trong đó:
+
+- 01 mẫu đèn hoàn chỉnh để thử nghiệm về kết cấu, đặc tính quang học, màu sắc ánh sáng và thử nghiệm theo Phụ lục R (nếu có);
+
+- 02 mẫu đèn hoàn chỉnh để thử nghiệm tính ổn định đặc tính quang học.
+
+3.2.2.2 Yêu cầu kỹ thuật về mẫu thử:
+
+- Đèn mới 100%, phải nguyên bản đúng theo thiết kế của cơ sở sản xuất, không được phép chỉnh sửa, thay đổi các bộ phận của đèn bao gồm cả bóng đèn.
+
+- Ánh sáng của đèn phát ra không được là màu đỏ, bao gồm cả các loại đèn khác được lắp trên cùng thân đèn chiếu sáng phía trước.
+
+- Phụ kiện kèm theo để đảm bảo đèn hoạt động ổn định, bao gồm cả đồ gá thử nghiệm đèn nếu cần thiết.
+
+- Nếu là đèn chiếu sáng phía trước thích ứng (AFS) hoặc đèn không thể kích hoạt chức năng sáng bằng nguồn điện thông thường thì phải bao gồm thiết bị cung cấp và vận hành và Bộ tạo tín hiệu (nếu có) quy định tại điểm 1.3.11, điểm 1.3.12 của Quy chuẩn này.
+
+3.3. Báo cáo thử nghiệm
+
+Cơ sở thử nghiệm có trách nhiệm lập báo cáo thử nghiệm có các nội dung quy định tại Quy chuẩn này.
+
+4. TỔ CHỨC THỰC HIỆN
+
+4.1. Cục Đăng kiểm Việt Nam chịu trách nhiệm triển khai thực hiện Quy chuẩn này.
+
+4.2. Áp dụng quy định
+
+Trong trường hợp các văn bản, tài liệu được viện dẫn trong Quy chuẩn này có sự thay đổi, bổ sung hoặc được thay thế thì thực hiện theo quy định trong văn bản, tài liệu được sửa đổi, bổ sung hoặc thay thế.
+
+Phụ lục A
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của xe mô tô có chùm sáng chiếu gần đối xứng
+
+1. Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2. Yêu cầu đặc tính quang học
+
+2.1. Điều kiện thử
+
+2.1.1. Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2. Giá trị độ rọi trên màn đo tại điểm 2.2.2, điểm 2.3 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3. Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4. Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1. Theo phương nằm ngang, đèn phải được bố trí sao tâm chùm sáng chiếu xa nằm trên đường thẳng đứng v-v (Hình 1);
+
+2.1.4.2. Theo phương thẳng đứng, đèn phải được bố trí sao cho đường ranh giới của chùm sáng chiếu gần nằm dưới và cách đường h-h (Hình 1) là 250 mm.
+
+2.2. Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1. Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường ranh giới phải là đường thẳng nằm ngang trên phạm vi ít nhất 5º hoặc 2187 mm về cả hai phía của đường v-v (Hình 1).
+
+2.2.2. Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong Bảng 1 sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
++-----+-----------------------------------------------+-----------------+
+| STT | Các điểm đo                                   | Độ rọi yêu cầu  |
+|     |                                               |                 |
+|     |                                               | (lux)           |
++:===:+===============================================+:===============:+
+| 1   | Điểm bất kỳ trên và phía trên đường h-h       | ≤ 0,7           |
++-----+-----------------------------------------------+-----------------+
+| 2   | Điểm bất kỳ trên đường 50L-50R, trừ 50V⁽¹⁾    | ≥1,5            |
++-----+-----------------------------------------------+-----------------+
+| 3   | Điểm 50V                                      | ≥ 3             |
++-----+-----------------------------------------------+-----------------+
+| 4   | Điểm bất kỳ trên đường 25L-25R                | ≥ 3             |
++-----+-----------------------------------------------+-----------------+
+| 5   | Điểm bất kỳ trong vùng IV                     | ≥ 1,5           |
++-----+-----------------------------------------------+-----------------+
+
+⁽¹⁾ Cường độ 50R/50V ≥ 0,25
+
+2.3. Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1. Điểm có độ rọi lớn nhất của chùm sáng chiếu xa phải đặt tại vị trí không lớn hơn 0,6º hoặc 262 mm phía trên hoặc dưới đường h-h (hình 1).
+
+2.3.2. Độ rọi lớn nhất (E_(lớn nhất)) của chùm sáng chiếu xa tối thiểu là 32 lux.
+
+2.3.3. Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.3.1. Giao điểm HV (hình 1) của các đường h-h và v-v (hình 1) phải có độ rọi ít nhất bằng 90% độ rọi lớn nhất;
+
+2.3.3.2. Bắt đầu từ điểm HV (hình 1), theo phương nằm ngang sang phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn 12 lux với khoảng cách tới 1125 mm và không nhỏ hơn 3 lux với khoảng cách tới 2250 mm.
+
+3. Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 Quy chuẩn này.
+
+4. Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục B
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của xe mô tô có chùm sáng chiếu gần không đối xứng
+
+1. Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2. Yêu cầu đặc tính quang học
+
+2.1. Điều kiện thử
+
+2.1.1. Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2. Giá trị độ rọi trên màn đo tại điểm 2.2.2, điểm 2.3 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3. Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4. Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1. Ranh giới của chùm sáng chiếu gần nằm bên nửa trái của màn đo là đường nằm ngang;
+
+2.1.4.2. Phần nằm ngang của đường ranh giới chùm sáng gần được định vị trên màn đo ở bên dưới và cách đường h-h (Hình 1) là 250 mm;
+
+2.1.4.3. Điểm gấp khúc của đường ranh giới chùm sáng chiếu gần nằm trên đường v-v (Hình 1).
+
+Nếu chùm sáng chiếu gần không có đường ranh giới có một điểm gấp khúc rõ ràng, đèn phải được điều chỉnh sao cho đáp ứng các yêu cầu về độ rọi tại điểm 75R và 50R (Hình 1);
+
+2.1.4.4. Nếu đèn được điều chỉnh theo các bước như điểm 2.1.4.1, điểm 2.1.4.2, điểm 2.1.4.3 Phụ lục này mà không đáp ứng các yêu cầu tại điểm 2.2.2 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên trái hoặc phải quá 1º hoặc 436 mm. Phần nằm ngang của đường ranh giới chùm sáng chiếu gần không được vượt quá đường h-h (Hình 1).
+
+2.2. Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1. Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Ranh giới phải là một đường thẳng nằm ngang ở bên trái, ở phía bên phải không được kéo dài quá đường gẫy khúc HV H₁H₄ được tạo ra bởi đường thẳng HV H₁ có góc nghiêng 45º với phương nằm ngang và đường thẳng H₁H₄ nằm ở phía trên đường thẳng h-h là 250 mm, hoặc đường thẳng HV H₃ có góc nghiêng 15º so với đường thẳng nằm ngang (Hình 1).
+
+2.2.2. Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong Bảng 1 sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
+  -----------------------------------------------------------------------
+   STT                Các điểm đo                 Độ rọi yêu cầu (lux)
+  ----- --------------------------------------- -------------------------
+    1                    B50L                             ≤ 0,3
+
+    2                     75R                              ≥ 6
+
+    3                     50R                              ≥ 6
+
+    4                     25L                             ≥ 1,5
+
+    5                     25R                             ≥ 1,5
+
+    6       Bất kỳ điểm nào trong vùng III                ≤ 0,7
+
+    7        Bất kỳ điểm nào trong vùng VI                 ≥ 2
+
+    8        Bất kỳ điểm nào trong vùng I                 ≤ 20
+  -----------------------------------------------------------------------
+
+2.3. Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1. Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.1.1. Giao điểm HV của hai đường h-h và v-v (Hình 1) phải có độ rọi ít nhất bằng 90% độ rọi lớn nhất. Giá trị độ rọi lớn nhất đó (E_(lớn nhất)) không được nhỏ hơn 32 lux và không được lớn hơn 240 lux;
+
+2.3.1.2. Bắt đầu từ điểm HV (Hình 1) theo phương nằm ngang sang phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn 16 lux với khoảng cách tới 1125 mm và không nhỏ hơn 4 lux với khoảng cách tới 2250 mm.
+
+3. Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4. Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục C
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của phương tiện giao thông đường bộ có chùm sáng chiếu gần hoặc xa hoặc cả hai không đối xứng trên màn sử dụng 13 điểm và 3 vùng đo
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo tại điểm 2.2.2, điểm 2.3 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1 Ranh giới của chùm sáng chiếu gần nằm bên nửa trái của màn đo là đường nằm ngang;
+
+2.1.4.2 Phần nằm ngang của đường ranh giới chùm sáng chiếu gần được định vị trên màn đo ở bên dưới và cách đường h-h (Hình 1) là 250 mm;
+
+2.1.4.3 Nếu đèn được điều chỉnh theo các bước như điểm 2.1.4.1, điểm 2.1.4.2 Phụ lục này mà không đáp ứng các yêu cầu tại điểm 2.2.2 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên trái hoặc phải quá 10 hoặc 436 mm. Phần nằm ngang của đường ranh giới chùm sáng chiếu gần không được vượt quá đường h-h (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Ranh giới phải là đường thẳng nằm ngang ở bên trái, còn ở phía bên phải nó phải nằm ngang hoặc trong phạm vi góc 15º trên phương ngang (Hình 1).
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong Bảng 1 sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
+  -----------------------------------------------------------------------
+   STT                 Các điểm đo                 Độ rọi yêu cầu (lux)
+  ------ ---------------------------------------- -----------------------
+    1                      B50L                            ≤ 0,4
+
+    2                      75R                              ≥ 6
+
+    3                      50R                              ≥ 6
+
+    4                      25L                             ≥ 1,5
+
+    5                      25R                             ≥ 1,5
+
+    6         Bất kỳ điểm nào trong vùng III               ≤ 0,7
+
+    7         Bất kỳ điểm nào trong vùng VI                 ≥ 2
+
+    8          Bất kỳ điểm nào trong vùng I                ≤ 20
+
+    9                  ”1”+”2”+”3”                         ≥ 0,3
+
+    10                 ”4”+”5”+”6”                         ≥ 0,6
+
+    11                     ”7”                        ≥ 0,1 và ≤ 0,7
+
+    12                     ”8”                        ≥ 0,2 và ≤ 0,7
+  -----------------------------------------------------------------------
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1 Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.1.1 Giao điểm HV của đường thẳng h-h và v-v (Hình 1) phải có độ rọi ít nhất bằng 90% độ rọi lớn nhất. Giá trị lớn nhất này không nhỏ hơn 32 lux;
+
+2.3.1.2 Bắt đầu từ điểm HV (Hình 1)theo phương nằm ngang sang phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn 16 lux với khoảng cách tới 1125 mm và không nhỏ hơn 4 lux với khoảng cách tới 2250 mm.
+
+3 Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+[]
+
+Hình 2. Các điểm đo từ 1 đến 8
+
+Phụ lục D
+
+Thử đặc tính quang học đèn chiếu sáng phía trước liền khối của phương tiện giao thông đường bộ có chùm sáng chiếu gần hoặc xa hoặc cả hai không đối xứng
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+1.3. Các điện cực nối với sợi đốt bóng đèn phải được gia cố và gắn chặt vào khối đèn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo được đề cập trong điểm 2.2.2, điểm 2.3 Phụ lục này được đo bằng quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn liền khối phải được điều chỉnh sao cho:
+
+2.1.4.1 Ranh giới của chùm sáng chiếu gần nằm bên nửa trái của màn đo là đường nằm ngang;
+
+2.1.4.2 Phần nằm ngang của đường ranh giới chùm sáng chiếu gần được định vị trên màn đo ở bên dưới và cách đường h-h (Hình 1) là 250 mm;
+
+2.1.4.3 Nếu đèn được điều chỉnh theo các bước như điểm 2.1.4.1, điểm 2.1.4.2 Phụ lục này mà không đáp ứng các yêu cầu tại điểm 2.2.2 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên trái hoặc phải quá 1º hoặc 436 mm. Phần nằm ngang của đường ranh giới chùm sáng chiếu gần không được vượt quá đường h-h (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Ranh giới phải là đường thẳng nằm ngang ở bên trái; ở phía bên phải nó phải nằm ngang hoặc trong phạm vi góc 15º trên phương ngang (Hình 1).
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong Bảng 1 như sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
+  -----------------------------------------------------------------------
+   STT                 Các điểm đo                 Độ rọi yêu cầu (lux)
+  ------ ---------------------------------------- -----------------------
+    1                      B50L                            ≤ 0,3
+
+    2                      75R                              ≥ 6
+
+    3                      50R                              ≥ 6
+
+    4                      25L                             ≥ 1,5
+
+    5                      25R                             ≥ 1,5
+
+    6         Bất kỳ điểm nào trong vùng III               ≤ 0,7
+
+    7         Bất kỳ điểm nào trong vùng VI                 ≥ 2
+
+    8          Bất kỳ điểm nào trong vùng I                ≤ 20
+  -----------------------------------------------------------------------
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1 Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.1.1 Giao điểm HV của đường thẳng h-h và v-v (Hình 1) phải có độ rọi ít nhất bằng 90% độ rọi lớn nhất. Giá trị lớn nhất này không nhỏ hơn 32 lux;
+
+2.3.1.2 Bắt đầu từ điểm HV (Hình 1), theo phương nằm ngang sang phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn 16 lux với khoảng cách tới 1125 mm và không nhỏ hơn 4 lux với khoảng cách tới 2250 mm.
+
+3 Yêu cầu về màu ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục E
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của phương tiện giao thông đường bộ có chùm sáng chiếu gần hoặc xa hoặc cả hai không đối xứng trên màn sử dụng 18 điểm và 3 vùng đo
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo tại điểm 2.2.2, điểm 2.3 Phụ lục này được đo bằng quang kế có diện tích hữu ích nằm trong vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1 Ranh giới của chùm sáng chiếu gần nằm bên nửa trái của màn đo là đường nằm ngang;
+
+2.1.4.2 Phần nằm ngang của đường ranh giới chùm sáng chiếu gần được định vị trên màn đo ở bên dưới và cách đường h-h (Hình 1) là 250 mm;
+
+2.1.4.3 Điểm gấp khúc của đường ranh giới chùm sáng chiếu gần nằm trên đường v- v (Hình 1);
+
+Nếu chùm sáng chiếu gần không có đường ranh giới có một điểm gấp khúc rõ ràng, đèn phải được điều chỉnh sao cho đáp ứng các yêu cầu về độ rọi tại điểm 75R và 50 R (Hình 1);
+
+2.1.4.4 Nếu đèn được điều chỉnh như vậy mà không đáp ứng các yêu cầu tại điểm 2.2.2 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên trái hoặc phải quá 1º hoặc 436 mm. Phần nằm ngang của đường ranh giới chùm sáng chiếu gần không được vượt quá đường h-h (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Ranh giới phải là một đường thẳng nằm ngang ở bên trái, ở phía bên phải nó không được kéo dài quá đường gẫy khúc HV H₁H₄ được tạo ra bởi đường thẳng HV H₁ có góc nghiêng 45º với phương nằm ngang và đường thẳng H₁H₄ nằm ở phía trên đường thẳng h-h là 250 mm, hoặc đường thẳng HV H₃ có góc nghiêng 15º so với đường thẳng nằm ngang (Hình 1).
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong Bảng 1 sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
+  -----------------------------------------------------------------------
+   STT                 Các điểm đo                 Độ rọi yêu cầu (lux)
+  ------ --------------------------------------- ------------------------
+    1                     B50L                            ≤ 0,4
+
+    2                      75R                             ≥ 12
+
+    3                      75L                             ≤ 12
+
+    4                      50L                             ≤ 15
+
+    5                      50R                             ≥ 12
+
+    6                      50V                             ≥ 6
+
+    7                      25L                             ≥ 2
+
+    8                      25R                             ≥ 2
+
+    9        Bất kỳ điểm nào trong vùng III               ≤ 0,7
+
+    10        Bất kỳ điểm nào trong vùng VI                ≥ 3
+
+    11        Bất kỳ điểm nào trong vùng I             ≤ 2 x (E50R)
+
+    12                 ”1”+”2”+”3”                        ≥ 0,3
+
+    13                 ”4”+”5”+”6”                        ≥ 0,6
+
+    14                     ”7”                        ≥ 0,1 và ≤ 0,7
+
+    15                     ”8”                        ≥ 0,2 và ≤ 0,7
+  -----------------------------------------------------------------------
+
+E50R là giá trị độ rọi đo tại điểm 50R
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1 Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.1.1 Giao điểm HV của các đường h-h và v-v (Hình 1) phải có độ rọi ít nhất bằng 80% độ rọi lớn nhất. Giá trị độ rọi lớn nhất (EM) không được nhỏ hơn 48 lux. Giá trị lớn nhất này không được vượt quá 240 lux. Trong trường hợp đèn chiếu xa và đèn chiếu gần kết hợp với nhau để tạo ra chùm sáng chiếu xa thì giá trị lớn nhất này không được lớn hơn 16 lần độ rọi đo được của đèn chiếu gần tại điểm 75R (Hình 1);
+
+2.3.1.2 Bắt đầu từ điểm HV (Hình 1), theo phương nằm ngang về hai bên phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn 24 lux với khoảng cách tới 1125 mm và không nhỏ hơn 6 lux với khoảng cách tới 2250 mm.
+
+3 Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+[]
+
+Hình 2. Các điểm đo từ 1 đến 8
+
+Phụ lục G
+
+Thử nghiệm đặc tính quang học đèn chiếu sáng phía trước của phương tiện giao thông đường bộ có chùm sáng chiếu gần hoặc xa hoặc cả hai không đối xứng đối với loại đèn A và B
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo chiếu sáng của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị cường độ chiếu sáng trên màn đo tại điểm 2.2.2, điểm 2.3 Phụ lục này được đo bằng quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1 Ranh giới của chùm sáng chiếu gần nằm bên nửa trái của màn đo là đường nằm ngang;
+
+2.1.4.2 Phần nằm ngang của đường ranh giới chùm sáng chiếu gần được định vị trên màn đo ở bên dưới và cách đường H-H (Hình 1) là 250 mm;
+
+2.1.4.3 Điểm gấp khúc của đường ranh giới chùm sáng chiếu gần nằm trên đường v- v (Hình1);
+
+2.1.4.4 Nếu đèn được điều chỉnh theo các bước như điểm 2.1.4.1, điểm 2.1.4.2, điểm 2.1.4.3 Phụ lục này mà không đáp ứng các yêu cầu được nêu tại điểm 2.2.2 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên trái 0,5º hoặc phải quá 0,75º và không lệch lớn hơn 0,25º lên trên hoặc xuống dưới so với vị trí ban đầu quy định tại điểm 2.1.4.2 Phụ lục này.
+
+2.1.4.5 Trong trường hợp chùm sáng chiếu xa và chiếu gần có cơ cấu điều chỉnh riêng biệt thì cho phép cân chỉnh đèn chiếu xa sao cho vùng cường độ sáng lớn nhất tập trung trên giao cắt của đường H-H và V-V (Hình 2) khi thử nghiệm đèn chiếu xa.
+
+2.1.4.6 Trong trường hợp đèn chiếu sáng chỉ tạo ra chùm sáng chiếu xa, đèn này sẽ được điều chỉnh để vùng sáng tối đa tập trung tại điểm giao nhau của đường H-H và V-V (hình 2).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường ranh giới phải là một đường thẳng nằm ngang ở bên trái, trong trường hợp không xác định được đường ranh giới trên màn đo bằng phương pháp quan sát, thì sử dụng phương pháp dùng thiết bị nêu tại Phụ lục O của Quy chuẩn này.
+
+2.2.2 Yêu cầu cường độ chiếu sáng của chùm sáng chiếu gần phải đáp ứng Bảng 1 và 2 dưới đây:
+
+Bảng 1
+
++-------------------------------------------------------------+-------------------------+-------------------------+
+|                                                             | Đèn loại A              | Đèn loại B              |
++:============================:+:============================:+:==========:+:==========:+:==========:+:==========:+
+| Điểm đo                      | Tọa độ                       | Cường độ sáng (cd)      | Cường độ sáng (cd)      |
+|                              |                              +------------+------------+------------+------------+
+|                              |                              | Lớn nhất   | Nhỏ nhất   | Lớn nhất   | Nhỏ nhất   |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| B 50 L                       | 0.57U, 3.43L                 | 350        |            | 350        |            |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| BR                           | 1.0 U, 2.5R                  | 1750       |            | 1750       |            |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 75 R                         | 0.57D, 1.15R                 |            | 5100       |            | 10100      |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 75 L                         | 0.57D, 3.43L                 | 10600      |            | 10600      |            |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 50 L                         | 0.86D, 3.43L                 | 13200**    |            | 13200**    |            |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 50 R                         | 0.86D, 1.72R                 |            | 5100       |            | 10100      |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 50 V                         | 0.86D, 0                     |            |            |            | 5100       |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 25 L                         | 1.72D, 9.0L                  |            | 1250       |            | 1700       |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| 25 R                         | 1.72D, 9.0R                  |            | 1250       |            | 1700       |
++------------------------------+------------------------------+------------+------------+------------+------------+
+| Bất kỳ điểm nào trong vùng III                              | 625        |            | 625        |            |
+| (có tọa độ giới hạn bởi các điểm)                           |            |            |            |            |
+|                                                             |            |            |            |            |
+|   -----------------------------------------------------     |            |            |            |            |
+|    8 L   8 L   8 R   8 R    6 R     1.50 R   V-V   4 L      |            |            |            |            |
+|   ----- ----- ----- ----- -------- -------- ----- -----     |            |            |            |            |
+|    1 U   4 U   4 U   2 U   1.50 U   1.50 U   H-H   H-H      |            |            |            |            |
+|                                                             |            |            |            |            |
+|   -----------------------------------------------------     |            |            |            |            |
++-------------------------------------------------------------+------------+------------+------------+------------+
+| Bất kỳ điểm nào trong vùng IV                               |            | 1700       |            | 2500       |
+| (0.86D - 1.72D, 5.15 L - 5.15 R)                            |            |            |            |            |
++-------------------------------------------------------------+------------+------------+------------+------------+
+| Bất kỳ điểm nào trong vùng I                                | 17600      |            | < 2I*      |            |
+| (1.72D - 4D, 9 L - 9 R)                                     |            |            |            |            |
++-------------------------------------------------------------+------------+------------+------------+------------+
+
+Chú thích:
+
+Chữ L có nghĩa là các điểm nằm bên trái đường V-V
+
+Chữ R có nghĩa là các điểm nằm bên phải đường V-V
+
+Chữ U có nghĩa là các điểm nằm trên đường H-H
+
+Chữ D có nghĩa là các điểm nằm dưới đường H-H
+
+* Giá trị đo thực tế tại điểm 50R
+
+** Trong trường hợp đèn LED tạo ra chùm sáng chiếu gần thì giá trị đo được không lớn hơn 18500 cd
+
+Bảng 2
+
++-----------------+---------------------------+-------------------------------------+
+| Điểm đo         | Tọa độ điểm đo            | Yêu cầu cường độ sáng nhỏ nhất (cd) |
++:===============:+:=========================:+:===================================:+
+| 1               | 4U, 8L                    | Các điểm 1+2+3                      |
+|                 |                           |                                     |
+|                 |                           | 190                                 |
++-----------------+---------------------------+                                     |
+| 2               | 4U, 0                     |                                     |
++-----------------+---------------------------+                                     |
+| 3               | 4U, 8R                    |                                     |
++-----------------+---------------------------+-------------------------------------+
+| 4               | 2U, 4L                    | Các điểm 4+5+6                      |
+|                 |                           |                                     |
+|                 |                           | 375                                 |
++-----------------+---------------------------+                                     |
+| 5               | 2U, 0                     |                                     |
++-----------------+---------------------------+                                     |
+| 6               | 2U, 4R                    |                                     |
++-----------------+---------------------------+-------------------------------------+
+| 7               | 0, 8L                     | 65                                  |
++-----------------+---------------------------+-------------------------------------+
+| 8               | 0, 4L                     | 125                                 |
++-----------------+---------------------------+-------------------------------------+
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1 Cường độ chiếu sáng của chùm sáng chiếu xa trên màn đo phải đáp ứng các yêu cầu sau:
+
+Bảng 3
+
++---------------------------------+--------------------+--------------------+
+|                                 | Đèn loại A         | Đèn loại B         |
++:==============:+:==============:+:==================:+:==================:+
+| Điểm đo        | Tọa độ điểm đo | Cường độ sáng (cd) | Cường độ sáng (cd) |
+|                |                +--------------------+--------------------+
+|                |                | Nhỏ nhất           | Nhỏ nhất           |
++----------------+----------------+--------------------+--------------------+
+| I_(max)        |                | 27000              | 40500              |
++----------------+----------------+--------------------+--------------------+
+| H-5L           | 0.0, 5.0 L     | 3400               | 5100               |
++----------------+----------------+--------------------+--------------------+
+| H-2.5L         | 0.0, 2.5 L     | 13500              | 20300              |
++----------------+----------------+--------------------+--------------------+
+| H-2.5R         | 0.0, 2.5 R     | 13500              | 20300              |
++----------------+----------------+--------------------+--------------------+
+| H-5R           | 0.0, 5.0 R     | 3400               | 5100               |
++----------------+----------------+--------------------+--------------------+
+
+2.3.1.1 Giao điểm HV của đường h-h và v-v (Hình 2) phải có cường độ chiếu sáng bằng ít nhất 80% cường độ chiếu sáng lớn nhất. Giá trị cường độ chiếu sáng lớn nhất (Imax) không được vượt quá 215000 cd.
+
+3 Yêu cầu màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+H-H mặt phẳng nằm ngang, V-V mặt phẳng thẳng đứng đi qua tâm trục quang học của đèn
+
+Hình 1. Màn đo đèn chiếu gần loại A và B
+
+[]
+
+Hình 2. Màn đo đèn chiếu xa
+
+Phụ lục H
+
+Thử nghiệm đặc tính quang học đèn chiếu sáng phía trước của xe gắn máy, xe mô tô có chùm sáng chiếu gần hoặc xa hoặc cả hai đối xứng
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo chiếu sáng của đèn phải sử dụng một màn đo (Hình 1, 2, 3, 4, 5) đặt phía trước cách đèn 25 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1, 2 ,3, 4, 5).
+
+2.1.2 Giá trị cường độ chiếu sáng trên màn đo tại điểm 2.2.3, điểm 2.3 Phụ lục này được đo bằng quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh sao cho:
+
+2.1.4.1 Chùm sáng chiếu gần đối xứng qua đường thẳng V-V (Hình 1, 2, 3);
+
+2.1.4.2 Đường ranh giới nằm ngang của chùm sáng chiếu gần phải nằm phía dưới cách đường H-H (Hình 1, 2, 3) là 250 mm.
+
+2.1.4.3 Trong trường hợp chùm sáng chiếu xa và chiếu gần có cơ cấu điều chỉnh riêng biệt thì cho phép cân chỉnh đèn chiếu xa sao cho vùng cường độ sáng lớn nhất tập trung trên giao cắt của đường h-h và v-v (Hình 4, 5) khi thử nghiệm đèn chiếu xa.
+
+2.1.4.4 Trong trường hợp đèn chiếu sáng chỉ tạo ra chùm sáng xa, đèn này sẽ được điều chỉnh để vùng sáng tối đa tập trung tại điểm giao nhau của đường H-H và V-V (Hình 4, 5).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường này phải nằm ngang trên phạm vi ít nhất ± 3 độ với đèn loại A, C, D, E và ít nhất ± 5 độ với đèn loại B.
+
+Trong trường hợp không xác định được đường ranh giới trên màn đo bằng phương pháp quan sát, thì sử dụng phương pháp dùng thiết bị nêu tại Phụ lục P của Quy chuẩn này.
+
+2.2.2 Nếu đèn được điều chỉnh theo các bước như điểm 2.1.4 Phụ lục này mà không đáp ứng các yêu cầu nêu tại điểm 2.2.3 và điểm 2.3 Phụ lục này thì có thể điều chỉnh lại với điều kiện là trục của chùm sáng không được lệch sang bên phải hoặc trái quá 0,5º, không lệch lên hoặc xuống quá 0,25º theo chiều dọc phần nằm ngang của đường ranh giới chùm sáng chiếu gần không được vượt quá đường H-H (Hình 1, 2, 3).
+
+2.2.3 Yêu cầu chiếu sáng trên màn đo của chùm sáng chiếu gần đáp ứng các bảng sau:
+
+2.2.3.1 Đối với đèn chiếu sáng loại A:
+
+Bảng 1. Yêu cầu chiếu sáng các điểm đo
+
++------------------------------------------+-----------------------+-----------------------+
+| Điểm/đường/vùng đo                       | Tọa độ*               | Yêu cầu cường độ sáng |
++==========================================+:=========:+:=========:+:=====================:+
+| Bất kỳ điểm nào trong Vùng 1             | 0° - 15°U | 5°L - 5°R | ≤ 320 cd              |
++------------------------------------------+-----------+-----------+-----------------------+
+| Bất kỳ điểm nào trên đường 25L - 25R     | 1.72°D    | 5°L - 5°R | ≥ 1100 cd             |
++------------------------------------------+-----------+-----------+-----------------------+
+| Bất kỳ điểm nào trên đường 12.5L - 12.5R | 3.43°D    | 5°L - 5°R | ≥ 550 cd              |
++------------------------------------------+-----------+-----------+-----------------------+
+
+*0,25º dung sai được cho phép độc lập tại mỗi điểm kiểm tra trắc quang trừ khi được quy định khác.
+
+2.2.3.2 Đối với đèn chiếu sáng loại B
+
+Bảng 2. Yêu cầu chiếu sáng tại các điểm đo
+
++------------------------------+---------------------------------+-----------------------+
+| Điểm/Đường/ vùng đo          | Tọa độ*                         | Yêu cầu cường độ sáng |
++==============================+:===============:+:=============:+:=====================:+
+| Bất kỳ điểm nào trong vùng 1 | 0° - 15°U       | 5°L - 5°R     | ≤ 700 cd              |
++------------------------------+-----------------+---------------+-----------------------+
+| Đường 50L - 50R trừ điểm 50V | 0.86°D          | 2.5°L - 2.5°R | ≥ 1100 cd             |
++------------------------------+-----------------+---------------+-----------------------+
+| Điểm 50V                     | 0.86°D          | 0             | ≥ 2200 cd             |
++------------------------------+-----------------+---------------+-----------------------+
+| Đường 25L - 25R              | 1.72°D          | 5°L - 5°R     | ≥ 2200 cd             |
++------------------------------+-----------------+---------------+-----------------------+
+| Bất kỳ điểm nào trong vùng 2 | 0.86°D - 1.72°D | 5°L - 5°R     | ≥ 1100 cd             |
++------------------------------+-----------------+---------------+-----------------------+
+
+*0,25° dung sai được cho phép độc lập tại mỗi điểm kiểm tra trắc quang trừ khi được quy định khác.
+
+2.2.3.3 Đối với đèn chiếu sáng loại C và D, E:
+
+Bảng 3. Yêu cầu chiếu sáng tại các điểm/đường/vùng đo
+
++----------------------+-----------------------------------------------------------------------------+-----------------------------------------------------+
+| Điểm/ đường/ vùng đo | Tọa độ*                                                                     | Yêu cầu cường độ sáng [cd]                          |
+|                      |                                                                             +--------------------------------------+--------------+
+|                      |                                                                             | Nhỏ nhất                             | Lớn nhất     |
+|                      |                                                                             +------------+------------+------------+--------------+
+|                      |                                                                             | Loại C     | Loại D     | Loại E     | Loại C, D, E |
++:====================:+:====================================:+:====================================:+:==========:+:==========:+:==========:+:============:+
+| 1                    | 0.86°D                               | 3.5°R                                | 2000       | 2000       | 2500       | 13750        |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 2                    | 0.86°D                               | 0                                    | 2450       | 4900       | 4900       | --           |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 3                    | 0.86°D                               | 3.5°L                                | 2000       | 2000       | 2500       | 13750        |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 4                    | 0.50°U                               | 1.50°L và 1.50°R                     | --         | --         | --         | 900          |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 5                    | 2.00°D                               | 15°L và 15°R                         | 550        | 1100       | 1100       | --           |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 6                    | 4.00°D                               | 20°L và 20°R                         | 150        | 300        | 600        | --           |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 7                    | 0                                    | 0                                    | --         | --         | --         | 1700         |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| Đường 1              | 2.00°D                               | 9°L - 9°R                            | 1350       | 1350       | 1900       | --           |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 8**                  | 4.00°U                               | 8.0°L                                | ∑ 8 + 9 + 10 ≥ 150 cd**              | 700          |
++----------------------+--------------------------------------+--------------------------------------+                                      +--------------+
+| 9**                  | 4.00°U                               | 0                                    |                                      | 700          |
++----------------------+--------------------------------------+--------------------------------------+                                      +--------------+
+| 10**                 | 4.00°U                               | 8.0°R                                |                                      | 700          |
++----------------------+--------------------------------------+--------------------------------------+--------------------------------------+--------------+
+| 11**                 | 2.00°U                               | 4.0°L                                | ∑ 11 + 12 + 13 ≥ 300 cd**            | 900          |
++----------------------+--------------------------------------+--------------------------------------+                                      +--------------+
+| 12**                 | 2.00°U                               | 0                                    |                                      | 900          |
++----------------------+--------------------------------------+--------------------------------------+                                      +--------------+
+| 13**                 | 2.00°U                               | 4.0°R                                |                                      | 900          |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 14**                 | 0                                    | 8.0°L và 8.0°R                       | 50 cd**    | 50 cd**    | 50 cd**    | --           |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| 15**                 | 0                                    | 4.0°L và 4.0°R                       | 100 cd**   | 100 cd**   | 100 cd**   | 900          |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| Vùng 1               | 1°U/8°L-4°U/8°L-4°U/8°R-1°U/8°R-0/4°R-0/1°R-0.6°U/0-0/1°L-0/4°L-1°U/8°L     | --         | --         | --         | 900          |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+| Vùng 2               | >4U - <15U                           | 8°L - 8°R                            | --         | --         | --         | 700          |
++----------------------+--------------------------------------+--------------------------------------+------------+------------+------------+--------------+
+
+*0,25º dung sai được cho phép độc lập tại mỗi điểm kiểm tra trắc quang trừ khi được quy định khác.
+
+** Theo yêu cầu của cơ sở đăng ký thử nghiệm khi đo cường độ sáng tại điểm này, nếu đèn vị trí phía trước sáng kết hợp với đèn chiếu sáng phía trước thì đèn vị trí phía trước được chuyển sang bật.
+
+Chú thích: "D" dưới đường H-H; "U" trên đường H-H; "R" bên phải đường V-V; "L" bên trái đường V-V (Hình 1, 2, 3, 4, 5);
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+2.3.1 Trừ đèn chiếu sáng loại A, yêu cầu chiếu sáng trên màn của đèn phải đáp ứng các yêu cầu sau:
+
+2.3.1.1 Cường độ sáng áp dụng theo Bảng 4 hoặc 5 dưới đây. Bảng 4 được áp dụng trong trường hợp khi đèn chiếu xa chính gây ra từ một nguồn đơn. Bảng 5 áp dụng trong trường hợp chùm sáng chiếu xa gây ra bởi đèn chiếu sáng thứ cấp hoạt động kết hợp với đèn chiếu xa hoặc đèn chiếu gần chính.
+
+Bảng 4. Yêu cầu chiếu sáng các điểm đo
+
++---------+---------------------------+-----------------------------------------------------------------------------+
+| Điểm đo | Tọa độ*                   | Yêu cầu cường độ sáng [cd]                                                  |
+|         |                           +-------------------------+-------------------------+-------------------------+
+|         |                           | Loại B                  | Loại C                  | Loại D, E               |
+|         |                           +------------+------------+------------+------------+------------+------------+
+|         |                           | Nhỏ nhất   | Lớn nhất   | Nhỏ nhất   | Lớn nhất   | Nhỏ nhất   | Lớn nhất   |
++:=======:+===========================+===========:+===========:+===========:+===========:+===========:+===========:+
+| 1       | H-V                       | 16000      | ---        | 20000      | ---        | 30000      | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+| 2       | H-2.5°.R và 2.5°L         | 9000       | ---        | 10000      | ---        | 20000      | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+| 3       | H-5°.R và 5°L             | 2500       | ---        | 3500       | ---        | 5000       | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+| 4       | H-9°.R và 9°L             | ---        | ---        | 2000       | ---        | 3400       | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+| 5       | H-12°.R và 12°L           | ---        | ---        | 600        | ---        | 1000       | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+| 6       | 2°.U-V                    | ---        | ---        | 1000       | ---        | 1700       | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+|         | Giá trị nhỏ nhất của (IM) | 20000      | ---        | 25000      | ---        | 40000      | ---        |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+|         | Giá trị lớn nhất của (IM) | ---        | 215000     | ---        | 215000     | ---        | 215000     |
++---------+---------------------------+------------+------------+------------+------------+------------+------------+
+
+*0,25º dung sai được cho phép độc lập tại mỗi điểm kiểm tra trắc quang trừ khi được quy định khác.
+
+Bảng 5. Yêu cầu chiếu sáng các điểm đo.
+
++---------+------------------------------+-----------------------------------------------------------------------------+
+| Điểm đo | Tọa độ*                      | Yêu cầu cường độ sáng [cd]                                                  |
+|         |                              +-------------------------+-------------------------+-------------------------+
+|         |                              | Loại B                  | Loại C                  | Loại D, E               |
+|         |                              +------------+------------+------------+------------+------------+------------+
+|         |                              | Nhỏ nhất   | Lớn nhất   | Nhỏ nhất   | Lớn nhất   | Nhỏ nhất   | Lớn nhất   |
++:=======:+==============================+===========:+===========:+===========:+===========:+===========:+===========:+
+| 1       | H-V                          | 16000      | ---        | 20000      | ---        | 30000      | ---        |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+| 2       | H-2.5°R và 2.5°L             | 9000       | ---        | 10000      | ---        | 20000      | ---        |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+| 3       | H-5°R và 5°L                 | 2500       | ---        | 3500       | ---        | 5000       | ---        |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+| 6       | 2°U-V                        | ---        | ---        | 1000       | ---        | 1700       | ---        |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+|         | Giá trị nhỏ nhất của (I_(M)) | 20000      | ---        | 25000      | ---        | 40000      | ---        |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+|         | Giá trị lớn nhất của (I_(M)) | ---        | 215000     | ---        | 215000     | ---        | 215000     |
++---------+------------------------------+------------+------------+------------+------------+------------+------------+
+
+*0,25º dung sai được cho phép độc lập tại mỗi điểm kiểm tra trắc quang trừ khi được quy định khác.
+
+3 Yêu cầu màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo cho đèn loại A
+
+[]
+
+Hình 2. Màn đo cho đèn loại B
+
+[]
+
+Hình 3. Màn đo cho đèn loại C và D, E
+
+[]
+
+Hình 4. Màn đo cho đèn chiếu xa chính (Bảng 4)
+
+[]
+
+Hình 5. Màn đo cho đèn chiếu xa thứ cấp (Bảng 5)
+
+Phụ lục I
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của xe gắn máy phát ra một chùm sáng chiếu gần loại đơn ở khoảng cách 10 m
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 10 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo tại điểm 2.2.2 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh như sau:
+
+2.1.4.1 Theo phương nằm ngang, chùm sáng đối xứng với đường thẳng V-V (Hình 1);
+
+2.1.4.2 Theo phương thẳng đứng, độ rọi tại điểm HV là 2 lux. Theo điều kiện này, đường ranh giới phải nằm chính giữa đường thẳng H-H và đường thẳng H-100 mm (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường ranh giới phải là đường gần như nằm ngang và có chiều dài đoạn thẳng nằm ngang tối thiểu là ± 900 mm.
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu sau:
+
+2.2.2.1 Tại điểm bất kỳ trên và phía trên đường thẳng H-H (Hình 1): không lớn hơn 2 lux;
+
+2.2.2.2 Trên đường thẳng nằm phía dưới, cách đường thẳng H-H là 300 mm và suốt chiều rộng 900 mm về cả hai phía của đường thẳng đứng V-V (Hình 1): không nhỏ hơn 8 lux;
+
+2.2.2.3 Trên đường thẳng nằm phía dưới, cách đường thẳng H-H là 600 mm và suốt chiều rộng 900 mm về cả hai phía của đường thẳng đứng V-V (Hình 1): không nhỏ hơn 4 lux;
+
+3 Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục K
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của xe gắn máy phát ra chùm sáng chiếu xa và chùm sáng chiếu gần
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 10 m và vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo tại điểm 2.2.2 và điểm 2.3 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh như sau:
+
+2.1.4.1 Theo phương nằm ngang, chùm sáng chiếu gần đối xứng với đường thẳng V- V (Hình 1);
+
+2.1.4.2 Theo phương thẳng đứng, đường ranh giới chùm sáng chiếu gần nằm dưới đường H-H là 100 mm (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường ranh giới phải là đường gần như nằm ngang và có chiều dài đoạn thẳng nằm ngang tối thiểu là ± 900 mm.
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu sau:
+
+2.2.2.1 Tại điểm bất kỳ trên và phía trên đường thẳng H-H (Hình 1): không lớn hơn 2 lux;
+
+2.2.2.2 Trên đường thẳng nằm phía dưới, cách đường thẳng H-H là 300 mm và suốt chiều rộng 900 mm về cả hai phía của đường thẳng đứng V-V (Hình 1): không nhỏ hơn 8 lux;
+
+2.2.2.3 Trên đường thẳng nằm phía dưới, cách đường thẳng H-H là 600 mm và suốt chiều rộng 900 mm về cả hai phía của đường thẳng đứng V-V (Hình 1): không nhỏ hơn 4 lux.
+
+2.3 Yêu cầu đối với chùm sáng chiếu xa
+
+Độ rọi trên màn đo của chùm sáng chiếu xa phải đáp ứng các yêu cầu sau:
+
+2.3.1 Giao điểm HV của đường H-H và V-V (Hình 1) phải có độ rọi ít nhất bằng 80% độ rọi lớn nhất.
+
+2.3.2 Độ rọi lớn nhất (E_(M)) của chùm sáng chiếu xa ít nhất phải bằng 50 lux.
+
+2.3.3 Bắt đầu từ điểm HV (Hình 1), theo phương nằm ngang sang phải và trái, độ rọi của chùm sáng chiếu xa không được nhỏ hơn E_(M) /4 với khoảng cách tới 900 mm.
+
+3 Yêu cầu về màu sắc ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục L
+
+Thử đặc tính quang học đèn chiếu sáng phía trước của xe gắn máy phát ra một chùm sáng chiếu gần loại đơn ở khoảng cách 25 m
+
+1 Yêu cầu kết cấu
+
+1.1. Các bộ phận để cố định nguồn sáng và cơ cấu phản xạ phải được chế tạo sao cho có thể lắp đặt chắc chắn vào đúng vị trí của nó.
+
+1.2. Các bộ phận khác của đèn phải được lắp đặt một cách chắc chắn.
+
+2 Yêu cầu đặc tính quang học
+
+2.1 Điều kiện thử
+
+2.1.1 Khi đo độ rọi của đèn phải sử dụng một màn đo (Hình 1) đặt phía trước cách đèn 25 m và vuông góc với vuông góc với đường thẳng nối tâm đèn quy định tại điểm 1.3.13 của Quy chuẩn này với điểm HV (Hình 1).
+
+2.1.2 Giá trị độ rọi trên màn đo tại điểm 2.2.2 Phụ lục này phải được đo bởi quang kế có diện tích hữu ích nằm trong hình vuông có cạnh bằng 65 mm.
+
+2.1.3 Điện áp thử
+
+Theo tài liệu kỹ thuật của đèn.
+
+2.1.4 Đèn phải được điều chỉnh như sau:
+
+2.1.4.1 Theo phương nằm ngang, chùm sáng đối xứng với đường thẳng V-V (Hình 1);
+
+2.1.4.2 Theo phương thẳng đứng, đường ranh giới nằm dưới đường thẳng H-H và cách 250 mm (Hình 1).
+
+2.2 Yêu cầu đối với chùm sáng chiếu gần
+
+2.2.1 Bằng phương pháp quan sát, chùm sáng chiếu gần phải có một đường ranh giới rõ nét để có thể xác định được vị trí trên màn đo. Đường ranh giới phải là đường gần như nằm ngang và có chiều dài đoạn thẳng nằm ngang tối thiểu là ± 2250 mm.
+
+2.2.2 Độ rọi trên màn đo của chùm sáng chiếu gần phải đáp ứng các yêu cầu trong bảng sau:
+
+Bảng 1. Yêu cầu độ rọi các điểm đo
+
+  -------------------------------------------------------------------------------
+    STT                     Điểm đo                      Độ rọi yêu cầu (lux)
+  -------- ----------------------------------------- ----------------------------
+     1      Điểm bất kỳ trên và phía trên đường H-H             ≤ 0,7
+
+     2      Điểm bất kỳ trên đường 35L-35R trừ 35V               ≥ 1
+
+     3                     Điểm 35V                              ≥ 2
+
+     4          Điểm bất kỳ trên đường 25L-25R                   ≥ 2
+
+     5          Điểm bất kỳ trên đường 15L-15R                  ≥ 0,5
+  -------------------------------------------------------------------------------
+
+3 Yêu cầu màu của ánh sáng
+
+Đèn phải phát ra ánh sáng màu trắng được quy định tại điểm 1.3.14 của Quy chuẩn này hoặc ánh sáng màu vàng chọn lọc quy định tại điểm 1.3.15 của Quy chuẩn này.
+
+4 Màn đo
+
+[]
+
+Hình 1. Màn đo
+
+Phụ lục M
+
+Thử nghiệm về tính ổn định đặc tính quang học của đèn trong quá trình hoạt động
+
+1 Thử tính ổn định đặc tính quang học
+
+Các thử nghiệm phải được thực hiện trong điều kiện khô ráo và không có gió tại nhiệt độ môi trường 23ºC ± 5ºC.
+
+Đèn phải được hoạt động trong vòng 12 giờ như mô tả trong điểm 1.1 và được thử nghiệm theo quy định trong điểm 1.2 Phụ lục này.
+
+1.1 Quy trình thử
+
+1.1.1 Trong trường hợp đèn có chức năng chiếu xa và đèn có chức năng chiếu gần (kể cả đèn có sợi đốt kép hoặc có hai đèn sợi đốt cho hai chức năng chiếu xa và chiếu gần):
+
+- Đèn phải được thử theo đúng chu trình sau cho đến hết thời gian quy định tại điểm 1 Phụ lục này:
+
++ 15 phút chiếu sáng đối với chùm sáng chiếu gần;
+
++ 5 phút chiếu sáng đối với tất cả các loại chùm sáng.
+
+- Nếu nhà sản xuất khai báo trong một thời điểm chỉ sử dụng đèn chiếu gần hoặc đèn chiếu xa (đèn chiếu gần không kết hợp với đèn chiếu xa để tạo chùm sáng chiếu xa), khi thử nghiệm phải kích hoạt từng chức năng một cách liên tục trong một nửa thời gian quy định tại điểm 1 Phụ lục này;
+
+1.1.2 Trong trường hợp đèn độc lập:
+
+Trong trường hợp khi đèn được thiết kế chỉ có một chức năng chiếu sáng (đèn chiếu xa hoặc đèn chiếu gần, thì (các) nguồn sáng tương ứng phải được bật sáng trong thời gian quy định tại điểm 1 Phụ lục này.
+
+1.1.3 Điện áp thử
+
+Thử nghiệm ở 90% điện áp thử nghiệm của bóng đèn theo đăng ký của cơ sở đăng ký thử nghiệm (nếu đèn được thử nghiệm theo các Phụ lục A, B, C, D, E) hoặc
+
+Thử nghiệm ở các điện áp 6.3 V (6.75V đối với nguồn sáng LED), 13.2 V hoặc 28.0 V (tùy theo hệ thống điện áp của xe lắp loại đèn đó) đối với đèn được thử nghiệm theo Phụ lục G, Phụ lục H.
+
+Nếu cơ sở đăng ký thử nghiệm đăng ký điện áp thử khác thì áp dụng giá trị điện áp đó khi thử nghiệm.
+
+1.2 Kết quả thử nghiệm
+
+1.2.1 Kiểm tra bằng quan sát
+
+Khi đèn đã hoạt động ổn định ở điều kiện môi trường xung quanh, kính đèn và lớp phủ bên ngoài (nếu có) phải được lau sạch bằng khăn bông thấm nước mềm và sạch. Sau đó quan sát bề ngoài xem có bị méo mó, biến dạng, nứt vỡ hoặc thay đổi màu sắc của kính đèn hoặc lớp phủ bên ngoài hay không.
+
+1.2.2 Thử nghiệm quang học
+
+Giá trị quang học phải được kiểm tra tại các điểm sau:
+
+Đối với đèn chiếu gần:
+
+- 50R, 50L, HV, B50 (đối với loại đèn quy định tại Phụ lục A);
+
+- 0.86D/3.5R, 0.86D/3.5L, 0.50U/1.5L và 0.50U/1.5R (đối với đèn loại C, D, E quy định tại Phụ lục H);
+
+- 50R, 50L, 0.50U/1.5L và 0.50U/1.5R (đối với đèn loại B của Phụ lục H);
+
+- 50R, B50L, 25L (đối với đèn quy định tại Phụ lục G);
+
+- 50R, B50L, HV (đối với đèn quy định tại Phụ lục B, C, D, E);
+
+- Đối với đèn chiếu xa: điểm có độ rọi lớn nhất E_(M) hoặc cường độ sáng lớn nhất IM.
+
+- Yêu cầu về giá trị quang học:
+
+- Cho phép sai lệch 10% giữa giá trị đo tại các điểm trên trước và sau khi thử.
+
+- Ngoại trừ điểm 0.50U/1.5L và 0.50U/1.5R cho phép sai lệch không quá 255 cd giữa giá trị đo trước và sau khi thử đối với đèn theo Phụ lục H và điểm B50L cho phép sai lệch không quá 170 cd giữa giá trị đo trước và sau khi thử đối với đèn theo Phụ lục G.
+
+2 Thử sự thay đổi vị trí theo phương thẳng đứng của đường ranh giới dưới ảnh hưởng của nhiệt
+
+Phép thử này bao gồm thử trôi đi theo chiều thẳng đứng của đường ranh giới chùm sáng chiếu gần do tác động của nhiệt không được vượt quá giá trị quy định trong điểm 2.2 Phụ lục này.
+
+2.1 Thử nghiệm
+
+Thử nghiệm phải được thực hiện trong điều kiện khô ráo và khí quyển tĩnh tại nhiệt độ môi trường là 23ºC ± 5ºC.
+
+Sử dụng các bóng đèn sản xuất hàng loạt mà đã thử nghiệm ít nhất 1 giờ. Khi thử nghiệm điện áp cung cấp phải đáp ứng điểm 1.1.3 Phụ lục này.
+
+Đối với chùm sáng chiếu gần của đèn phát ra chùm sáng đối xứng, vị trí của đường ranh giới trên phần năm ngang của nó (giữa đường thẳng đứng qua điểm 50L và 50R đối với đèn loại B của Phụ lục H và các Phụ lục khác, 3.5L và 3.5R đối với đèn loại C, D, E của Phụ lục H) phải được thử riêng biệt từng lần trong vòng 3 phút (r3) và 60 phút (r60) sau khi hoạt động.
+
+Đối với chùm sáng chiếu gần của đèn phát ra chùm sáng không đối xứng, vị trí của đường ranh giới trên phần nằm ngang của nó (giữa đường v-v và đường thẳng đứng đi qua điểm B50L) sẽ được thử riêng biệt từng lần trong vòng 3 phút (r₃) và 60 phút (r₆₀) sau khi hoạt động.
+
+2.2 Kết quả thử nghiệm
+
+2.2.1 Kết quả được biểu diễn theo đơn vị mrad và được đánh giá là đáp ứng yêu cầu nếu giá trị tuyệt đối Δr₁ = | r₃ - r₆₀ | đo được không lớn hơn 1.0 mrad (Δr₁ ≤ 1.0 mrad).
+
+Đối với đèn quy định tại phụ lục G: giá trị tuyệt đối Δr₁ = | r₃ - r₆₀ | đo được không lớn hơn 1.0 mrad (Δr₁ ≤ 1,0 mrad) theo hướng lên trên và 2.0 mrad (Δr₁ ≤ 2.0 mrad) theo hướng xuống dưới.
+
+2.2.2 Nếu giá trị Δr₁ này lớn hơn 1,0 mrad nhưng không vượt qua 1.5 mrad (1.0 mrad ≤ Δr₁ ≤ 1.5 mrad), riêng đối với đèn quy định tại Phụ lục G nếu giá trị Δr₁ này lớn hơn 1 mrad nhưng không vượt quá 1.5 mrad (1.0 mrad ≤ Δr₁ ≤ 1.5 mrad) theo hướng lên trên và theo hướng xuống dưới (2.0 mrad ≤ Δr₁ ≤ 3.0 mrad) thì một đèn thứ 2 sẽ được thử theo quy định trong điểm 2.1 Phụ lục này. Để làm ổn định vị trí của các bộ phận cơ học của đèn trên gá thử như lắp đặt thật trên xe, phải thử 3 lần liên tiếp với quy trình mô tả như sau:
+
+- Đèn chiếu gần làm việc trong 1 giờ (điện áp phải được điều chỉnh theo quy định trong điểm 1.1.3 Phụ lục này).
+
+- Thời gian nghỉ 1 giờ.
+
+Kiểu loại đèn được đánh giá là đáp ứng yêu cầu nếu giá trị trung bình của giá trị tuyệt đối Δr₁ đo được ở mẫu đầu tiên và Δr₂ đo được ở mẫu thứ hai không lớn hơn 1.0 mrad
+
+(Δr₁ + Δr₂)/2 ≤ 1.0 mrad
+
+Riêng đối với đèn quy định tại Phụ lục G được đánh giá là đáp ứng yêu cầu nếu giá trị tuyệt đối Δr đáp ứng yêu cầu điểm 2.2.1 Phụ lục này.
+
+Phụ lục N
+
+Yêu cầu đối với đèn sản xuất hàng loạt
+
+1. Kiểu loại đèn đã được cấp chứng nhận chất lượng được kiểm tra sự phù hợp đột xuất hoặc định kỳ của cơ quan cấp giấy chứng nhận trong quá trình sản xuất hàng loạt.
+
+2. Yêu cầu về kết cấu
+
+Các yêu cầu về sự phù hợp được coi là đáp ứng nếu không có sự sai khác về kết cấu của đèn so với kiểu loại đèn đã được cấp chứng nhận chất lượng.
+
+3. Yêu cầu về đặc tính quang học
+
+Các sai lệch về độ rọi hoặc cường độ sáng như sau:
+
+3.1. Các giá trị độ rọi hoặc cường độ sáng đo được không được sai lệch lớn hơn 20% so với các giá trị quy định tại Quy chuẩn này. Các giá trị độ rọi tại điểm B50L, vùng III và Vùng I như sau:
+
+- Điểm B50L sai lệch cho phép là 0,2 lux đối với các Phụ lục B, Phụ lục C, Phụ lục D, Phụ lục E hoặc sai lệch cho phép 170 cd đối với Phụ lục G;
+
+- Vùng III (đối với các đèn quy định tại Phụ lục A đến Phụ lục G) sai lệch cho phép là 0,3 lux (hoặc 255 cd đối với Phụ lục G)
+
+- Vùng I (đối với đèn loại B, C, D, E quy định tại Phụ lục H) sai lệch cho phép là 255 cd.
+
+3.2. Đối với chùm sáng chiếu xa, điểm HV nằm trong vùng có độ rọi ít nhất bằng 0,75 E_(max) ngoại trừ đèn quy định tại Phụ lục H. Sai số cho phép là +20% đối với giá trị lớn nhất và -20% đối với giá trị nhỏ nhất với các giá trị đặc tính quang học tại bất kỳ điểm đo nào quy định tại Quy chuẩn này.
+
+3.3. Đối với các đèn chiếu sáng phía trước được thử nghiệm để đánh giá lại hiệu lực giấy chứng nhận chất lượng thì phải đáp ứng các yêu cầu của Phụ lục tương ứng đã được thử nghiệm khi tiến hành đăng ký cấp giấy chứng nhận kiểu loại lần đầu.
+
+Phụ lục O
+
+Xác định đường ranh giới chùm sáng chiếu gần không đối xứng bằng thiết bị
+
+1 Đo chất lượng đường ranh giới
+
+Để xác định độ sắc nét tối thiểu, các phép đo sẽ được thực hiện bằng cách quét theo chiều dọc qua một phần của đường ranh giới nằm ngang với bước nhảy 0,05º hoặc 22 mm tại những khoảng cách đo khác nhau:
+
+- 10 m với đầu dò có đường kính xấp xỉ 10 mm; hoặc
+
+- 25 m với đầu dò có đường kính xấp xỉ 30 mm.
+
+Để xác định độ sắc nét lớn nhất, các phép đo được thực hiện bằng cách quét theo chiều dọc qua một phần của đường ranh giới nằm ngang với bước nhảy 0,05º hoặc 22 mm bằng đầu dò có đường kính xấp xỉ 30 mm tại khoảng cách đo 25 m.
+
+Chất lượng của đường ranh giới xem như được chấp nhận nếu các yêu cầu của điểm 1.1 đến điểm 1.3 Phụ lục này tuân theo ít nhất 1 điều chỉnh của các phép đo.
+
+1.1 Hiển thị không nhiều hơn một đường ranh giới
+
+1.2 Độ sắc nét của đường ranh giới
+
+Hệ số sắc nét G được xác định bằng việc quét dọc đường thẳng cách đường V-V một góc 2,5º hoặc 1092 mm (Hình 1) qua một phần của đường ranh giới nằm ngang khi đó:
+
+G = (log E_(β) - log E_((β + 0.1º))) (1)
+
+trong đó: β là vị trí thẳng đứng theo góc;
+
+E_(β) là giá trị độ rọi tại vị trí β,
+
+Giá trị của G không bé hơn 0,13 (độ sắc nét tối thiểu) và không lớn hơn 0,4 (độ sắc nét tối đa).
+
+1.3 Độ tuyến tính
+
+Phần của đường ranh giới nằm ngang dùng để điều chỉnh phương thẳng đứng phải nằm giữa 2 đường thẳng lần lượt cách đường V-V một góc 1,5º hoặc 655 mm và 3,5º hoặc 1529 mm (xem Hình 1).
+
+Các điểm uốn của đường ranh giới trên các đường thẳng cách đường V-V lần lượt các góc 1,5º, 2,5º, 3,5º được đo bởi công thức sau:
+
+(d² (log E)/dβ² = 0). (2)
+
+Khoảng cách dọc lớn nhất giữa các điểm uốn trên không qua 0,2º hoặc 87 mm.
+
+2 Điều chỉnh dọc và ngang
+
+Nếu đường ranh giới phù hợp yêu cầu chất lượng của điểm 1 Phụ lục này, sự điều chỉnh chùm sáng có thể được thực hiện bằng thiết bị.
+
+[]
+
+Hình 1. Phương pháp đo chất lượng đường ranh giới
+
+2.1 Điều chỉnh dọc
+
+Quét dọc từ dưới lên theo đường thẳng cách đường V-V một góc 2,5º hoặc 1092 mm (xem Hình 2). Điểm uốn tại đó được xác định và điều chỉnh vị trí về đường B-B nằm dưới cách đường H-H một góc 0,57º hoặc 250 mm.
+
+2.2 Điều chỉnh ngang
+
+2.2.1 Phương pháp đường thẳng 0,2 D (xem Hình 2)
+
+Một đường thẳng nằm ngang phía dưới và cách đường H-H một góc 0,2º hoặc 87 mm được quét từ vị trí lệch trái 5º hoặc 2187 mm đến lệch phải 5º sau khi đèn đã được điều chỉnh dọc. Giá trị G lớn nhất được xác định bằng công thức: G = (log E_(β) - log E_((β + 0.1º))) sẽ không nhỏ hơn 0,08.
+
+Điểm uốn (điểm có G lớn nhất) tìm thấy trên đường 0,2 D phải được đặt trên đường A-A (Hình 2).
+
+[]
+
+Hình 2. Điều chỉnh dọc và ngang bằng thiết bị - phương pháp quét theo đường ngang
+
+2.2.2 Phương pháp 3 đường (xem Hình 3)
+
+Quét dọc từ vị trí lệch dưới 2º hoặc 873 mm đến lệch trên 2º hoặc 873 mm theo 3 đường thẳng lần lượt cách đường V-V về bên phải 1º hoặc 436 mm, 2º hoặc 873 mm, 3º hoặc 1310 mm sau khi đèn đã được điều chỉnh dọc. Các giá trị G lớn nhất tương ứng được xác
+
+định bằng công thức:
+
+G = (log E_(β) - log E_((β + 0.1º))) (3)
+
+trong đó: β là vị trí dọc tính bằng độ;
+
+E_(β) là giá trị độ rọi tại vị trí β.
+
+Giá trị G không được nhỏ hơn 0,08. Các điểm uốn (điểm có G lớn nhất) của 3 đường thẳng trên được sử dụng để định ra 1 đường thẳng. Giao điểm của đường thẳng này với đường B-B phải được đặt lên trên đường V-V (Hình 3).
+
+[]
+
+Hình 3. Điều chỉnh dọc và ngang bằng thiết bị - phương pháp quét 3 đường thẳng
+
+Phụ lục P
+
+Xác định đường ranh giới chùm sáng chiếu gần đối xứng bằng thiết bị
+
+1 Tổng quan
+
+Phân bố cường độ ánh sáng của chùm ánh sáng đối xứng của đèn chiếu sáng phía trước xen kẽ với đường ranh giới cho phép chùm ánh sáng đối xứng được điều chỉnh 1 cách chính xác các phép đo độ sáng và định hướng cho phương tiện. Các đặc tính của đường ranh giới phải đáp ứng các yêu cầu quy định trong tại điểm 2, 3, 4 Phụ lục này.
+
+2 Hình dạng của đường ranh giới
+
+2.1 Việc điều chỉnh bằng mắt đường ranh giới của chùm sáng gần đối xứng sẽ cung cấp một đường nằm ngang để sự điều chỉnh chùm sáng gần đối xứng của đèn chiếu sáng phía trước mở rộng sang 2 bên của đường V-V (xem Hình 1).
+
+[]
+
+Hình 1. Hình dạng và vị trí của đường ranh giới
+
+3 Điều chỉnh chùm sáng gần đối xứng của đèn
+
+3.1 Điều chỉnh theo phương ngang
+
+Chùm sáng cùng đường ranh giới của nó phải được đặt tại vị trí mà hình dạng chùm sáng dự kiến gần như đối xứng qua đường V-V.
+
+3.2 Điều chỉnh theo phương dọc
+
+Sau khi điều chỉnh theo phương ngang chùm sáng gần đối xứng đèn chiếu sáng phía trước theo điểm 3.1 Phụ lục này, sự điều chỉnh dọc được thực hiện để chùm sáng và với đường ranh giới của nó di chuyển đi lên từ vị trí bên dưới cho đến khi đường ranh giới được đặt tại vị trí dọc danh định. Đối với sự điều chỉnh dọc danh định đường ranh giới được đặt tại vị trí trên đường v-v tại 1% dưới đường h-h (250 mm).
+
+Nếu phần nằm ngang không thẳng mà hơi cong hoặc nghiêng, đường ranh giới không được vượt quá phạm vi dọc tạo lên bởi hai đường nằm ngang chạy từ vị trí 3º phải sang 3º trái đường v-v ở 0,2º cho loại B và 0,3º cho loại A, C và D, E ở trên và dưới vị trí danh định của đường ranh giới (xem Hình 1).
+
+3.3 Khi điều chỉnh theo phương dọc của 3 lớp khác nhau khác hơn 0,2º cho loại B, 0,3º cho loại A, C và D, E, phần nằm ngang của đường ranh giới là giả định không cung cấp đủ độ tuyến tính và nét cho việc điều chỉnh hình ảnh trực quan. Trong trường hợp này đặc tính của các đường ranh giới sẽ được thử bằng thiết bị theo đúng các yêu cầu như sau.
+
+4 Đo chất lượng đường ranh giới
+
+4.1 Phép đo phải được thực hiện bằng cách quét theo phương dọc qua phần nằm ngang của đường ranh giới với bước nhảy không qua 0,050 hoặc 22 mm tại những khoảng cách đo khác nhau.
+
+- Tại khoảng cách đo là 10 m với đầu dò có đường kính xấp xỉ 10 mm; hoặc
+
+- Tại khoảng cách đo là 25 m với đầu dò có đường kính xấp xỉ 30 mm.
+
+Phép đo chất lượng đường ranh giới là phù hợp nếu yêu cầu của điểm 4.1.2 Phụ lục này đáp ứng ít nhất một phép đo tại khoảng cách 10 m hoặc 25 m.
+
+Việc quét được thực hiện từ dưới lên qua đường ranh giới theo các đường dọc (Hình 2) lần lượt cách đường V-V các góc ± 3º hoặc ± 1310 mm. Khi đo như vậy, chất lượng của đường ranh giới phải phù hợp các yêu cầu sau đây:
+
+4.1.1 Hiển thị không nhiều hơn một đường ranh giới
+
+4.1.2 Độ sắc nét của đường ranh giới
+
+Nếu quét theo phương dọc qua phần đường ranh giới nằm ngang dọc theo 2 đường thẳng cách đường V-V ± 2,5º hoặc ± 1092 mm (Hình 1), giá trị lớn nhất đo được theo công thức:
+
+G = (log E_(V) - log E_((V + 0.1°))) (4)
+
+Được gọi là hệ số sắc nét G của đường ranh giới. Giá trị của G không được phép nhỏ hơn 0,13 đối với đèn loại B và 0,08 đối với đèn loại A, C và D, E. Vị trí tại đó giá trị G đạt giá trị lớn nhất được xem là vị trí của đường ranh giới.
+
+4.1.3 Độ tuyến tính: phần của đường ranh giới mà dùng để điều chỉnh dọc sẽ nằm ngang từ vị trí -3º hoặc -1310 mm đến +3º hoặc +1310 mm đối với đường V-V. Yêu cầu này được cho là thỏa mãn nếu các vị trí dọc của các điểm có G lớn nhất trên các đường thẳng lần lượt cách đường V-V về hai phía góc 1,5º hoặc 655 mm, 3º hoặc 1310 mm (Hình 2) không khác quá 0,2º hoặc 87 mm đối với lớp B và 0,3º hoặc 130 mm đối với loại A, C và D, E từ vị trí của đường ranh giới.
+
+5 Điều chỉnh theo phương dọc
+
+Nếu đường ranh giới đáp ứng các yêu cầu Phụ lục này, việc điều chỉnh dọc chùm sáng được thực hiện bằng cách dịch đường ranh giới xác định ở điểm 4.1.2 Phụ lục này về vị trí phía dưới và cách đường H-H là 250 mm.
+
+[]
+
+Hình 2. Vị trí đường ranh giới
+
+Phụ lục R
+
+Yêu cầu đối với các cụm đèn LED và đèn chiếu sáng gồm có đèn LED
+
+1. Yêu cầu kĩ thuật chung
+
+1.1 Với mỗi mẫu LED phải phù hợp với thông số kỹ thuật có liên quan với QPuy chuẩn này, khi thử nghiệm với bộ điều khiển nguồn sáng thích hợp, nếu có.
+
+1.2 Các hạng mục LED được thiết kế nhằm duy trì tình trạng hoạt động tốt trong điều kiện sử dụng thông thường. Hơn nữa chúng không được chứa lỗi trong thiết kế và sản xuất. Một cụm đèn LED bị cho là hỏng nếu một phần nào đó của nó bị hỏng.
+
+1.3 Các cụm đèn LED phải có chức năng chống lại việc tu sửa.
+
+1.4 Thiết kế của các cụm đèn LED tháo rời được sẽ như sau:
+
+1.4.1 Khi cụm đèn LED được tháo ra và được thay thế bởi một cụm đèn khác bởi cơ sở đăng ký thử nghiệm và mang cùng mã nhận dạng của nguồn sáng, thông số ánh sáng của đèn pha sẽ được đáp ứng;
+
+1.4.2 Cụm đèn LED với mã nguồn sáng khác nhau trong cùng đế đèn, không thể thay thế được cho nhau.
+
+2. Sản xuất
+
+2.1 Các bóng LED trên cụm đèn LED sẽ được gắn với các thành phần cố định phù hợp.
+
+2.2 Các thành phần cố định và đảm bảo chắc chắn cho các LEDS và cụm LED.
+
+3. Điều kiện thử nghiệm
+
+3.1 Áp dụng.
+
+3.1.1 Tất cả các mẫu sẽ được thử nghiệm như trong phần 4 dưới đây.
+
+3.2 Điều kiện hoạt động.
+
+3.2.1 Điều kiện hoạt động cụm đèn LED
+
+Tất cả các mẫu sẽ được thử nghiệm dưới điều kiện tại Phụ lục G hoặc H của Quy chuẩn này. Nếu như không được quy định khác đi như trong Phụ lục này các cụm LED sẽ phải thử nghiệm bên trong đèn như cơ sở đề nghị thử nghiệm cung cấp.
+
+4. Các yêu cầu và kiểm tra cụ thể
+
+4.1 Tạo màu
+
+4.1.1 Hàm lượng màu đỏ
+
+Cùng với phương pháp đo như mô tả trong điểm 3 Phụ lục G, H của Quy chuẩn này, phần màu đỏ tối thiểu của ánh sáng cụm đèn LED hoặc đèn kết hợp với cụm đèn LED thử nghiệm tại 50V như sau:
+
+[]
+
+E_(e)(λ) (đơn vị: W) là sự phân bổ quang phổ của bức xạ;
+
+V(λ) (đơn vị: 1) là hiệu suất phát sáng của quang phổ;
+
+(λ) (đơn vị: nm) là bước sóng.
+
+Giá trị này được tính bằng cách sử dụng đơn vị đo nanometer.
+
+4.2 Bức xạ UV
+
+Bức xạ UV của đèn LED có UV thấp phải đảm bảo:
+
+[]
+
+S(λ)(đơn vị: 1) là tỷ trọng hàm phổ;
+
+k_(m) = 683 lm/W (là giá trị lớn nhất của hiệu quả chiếu sáng của bức xạ).
+
+(ký hiệu khác xem tại điểm 4.1.1 Phụ lục này)
+
+Giá trị này sẽ được tính bằng cách sử dụng đơn vị đo nanometrer. Tia bức xạ UV sẽ có tỷ trọng dựa theo giá trị như chỉ dẫn tại bảng UV bên dưới:
+
+[]

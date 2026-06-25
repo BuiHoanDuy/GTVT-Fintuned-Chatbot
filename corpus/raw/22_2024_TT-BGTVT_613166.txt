@@ -1,0 +1,551 @@
+  ----------------------- -------------------------------------------
+   BỘ GIAO THÔNG VẬN TẢI      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                 Độc lập - Tự do - Hạnh phúc
+                                        ---------------
+
+   Số: 22/2024/TT-BGTVT        Hà Nội, ngày 10 tháng 06 năm 2024
+  ----------------------- -------------------------------------------
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG CHỐNG HÀ TÀU BIỂN
+
+Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015;
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về hệ thống chống hà tàu biển.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về hệ thống chống hà tàu biển.
+
+Mã số đăng ký: QCVN 74:2024/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 12 năm 2024.
+
+2. Thông tư này bãi bỏ khoản 1 Điều 1 của Thông tư số 24/2014/TT-BGTVT ngày 30 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về hệ thống chống hà tàu biển, Quy chuẩn kỹ thuật quốc gia về hoạt động kéo trên biển, Quy chuẩn kỹ thuật quốc gia về phân cấp và chế tạo phao neo, phao tín hiệu và Quy chuẩn kỹ thuật quốc gia về các hệ thống ngăn ngừa ô nhiễm biển của tàu.
+
+Điều 3. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+  ------------------------------------------------------ -------------------------------
+  Nơi nhận:                                                       KT. BỘ TRƯỞNG
+  - Bộ trưởng (để b/c);                                            THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                                        Nguyễn Xuân Sang
+  - Các Bộ, cơ quan ngang Bộ; Cơ quan thuộc Chính phủ;   
+  - UBND các tỉnh, thành phố trực thuộc TW;              
+  - Các Thứ trưởng;                                      
+  - Bộ Khoa học và Công nghệ (để đăng ký);               
+  - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);              
+  - Công báo; Cổng TTĐT Chính phủ;                       
+  - Cổng TTĐT Bộ GTVT;                                   
+  - Báo Giao thông, Tạp chí GTVT;                        
+  - Lưu: VT, KHCNMT.                                     
+
+  ------------------------------------------------------ -------------------------------
+
+ 
+
+QCVN 74:2024/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG CHỐNG HÀ TÀU BIỂN
+
+National Technical Regulation on Anti-Fouling Systems of Sea-going Ships
+
+ 
+
+Lời nói đầu
+
+Quy chuẩn kỹ thuật quốc gia về hệ thống chống hà tàu biển QCVN 74:2024/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 22 /2024/TT-BGTVT ngày 10tháng 06năm 2024.
+
+QCVN 74:2024/BGTVT thay thế QCVN 74:2014/BGTVT.
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG CHỐNG HÀ TÀU BIỂN
+
+National Technical Regulation on Anti-Fouling Systems of Sea-going Ships
+
+ 
+
+MỤC LỤC
+
+MỤC LỤC
+
+I  QUY ĐỊNH CHUNG
+
+1.1  Phạm vi điều chỉnh và đối tượng áp dụng
+
+1.2  Tài liệu viện dẫn và giải thích từ ngữ
+
+II  QUY ĐỊNH KỸ THUẬT
+
+CHƯƠNG 1  QUY ĐỊNH CHUNG
+
+1.1  Quy định chung
+
+CHƯƠNG 2  HỆ THỐNG CHỐNG HÀ VÀ LỚP CHẮN
+
+2.1  Quy định chung
+
+2.2  Hệ thống chống hà
+
+2.3  Loại bỏ hệ thống chống hà không phù hợp hiện có hoặc áp dụng lớp chắn
+
+III  QUY ĐỊNH VỀ QUẢN LÝ
+
+1.1  Quy định chung
+
+1.2  Kiểm tra hệ thống chống hà
+
+1.3  Chứng nhận
+
+IV  TRÁCH NHIỆM CỦA CÁC TỔ CHỨC, CÁ NHÂN
+
+1.1  Trách nhiệm của các chủ tàu, công ty khai thác tàu, cơ sở đóng mới, hoán cải, phục hồi và sửa chữa tàu
+
+1.2  Trách nhiệm của Cục Đăng kiểm Việt Nam
+
+V  TỔ CHỨC THỰC HIỆN
+
+PHỤ LỤC A - MẪU BẢN KHAI SỬ DỤNG HỆ THỐNG CHỐNG HÀ
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG CHỐNG HÀ TÀU BIỂN
+
+National Technical Regulation on Anti-Fouling Systems of Sea-going Ships
+
+I  QUY ĐỊNH CHUNG
+
+1.1  Phạm vi điều chỉnh và đối tượng áp dụng
+
+1.1.1  Phạm vi điều chỉnh
+
+1  Quy chuẩn kỹ thuật quốc gia này (sau đây viết tắt là "Quy chuẩn") áp dụng cho các hệ thống được sử dụng trên tàu biển Việt Nam, tàu lặn, giàn cố định hoặc di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) (sau đây gọi chung là “tàu”) nhằm kiểm soát và ngăn ngừa các sinh vật không mong muốn bám vào tàu.
+
+2  Quy chuẩn này không áp dụng cho các hệ thống chống hà trên các tàu có chiều dài nhỏ hơn 24 m.
+
+1.1.2  Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các tổ chức và cá nhân có hoạt động liên quan đến hệ thống chống hà trên tàu biển thuộc phạm vi điều chỉnh nêu tại 1.1.1 là: Cục Đăng kiểm Việt Nam (sau đây viết tắt là "Đăng kiểm"); các chủ tàu; cơ sở đóng mới, hoán cải, phục hồi, sửa chữa và khai thác tàu.
+
+1.2  Tài liệu viện dẫn và giải thích từ ngữ
+
+1.2.1  Các tài liệu viện dẫn
+
+1  Thông tư số 40/2016/TT-BGTVT ngày 07 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm tàu biển Việt Nam và Thông tư số 17/2023/TT- BGTVT ngày 30 tháng 6 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 40/2016/TT-BGTVT ngày 07 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm tàu biển Việt Nam và Thông tư số 51/2017/TT-BGTVT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm viên và nhân viên nghiệp vụ đăng kiểm tàu biển.
+
+2  Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+
+3  Quy chuẩn kỹ thuật quốc gia về đo dung tích tàu biển.
+
+4  Công ước quốc tế về kiểm soát các hệ thống chống hà độc hại của tàu (International Convention on the Control of Harmful Anti-Fouling Systems on Ships) được Tổ chức Hàng hải quốc tế (IMO) thông qua ngày 05 tháng 10 năm 2001 và các sửa đổi, bổ sung.
+
+5  Công ước quốc tế về đo dung tích tàu biển năm 1969 (International Convention on Tonnage Measurement of Ships, 1969).
+
+6  Nghị quyết MEPC.356(78) được IMO thông qua ngày 10 tháng 06 năm 2022: Hướng dẫn năm 2022 đối với việc lấy mẫu nhanh hệ thống chống hà trên tàu (2022 Guidelines for Brief Sampling of Anti-Fouling Systems on Ships).
+
+1.2.2  Giải thích từ ngữ
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được định nghĩa và giải thích như sau.
+
+(1) “Hệ thống chống hà” là lớp phủ, sơn, biện pháp xử lý bề mặt, bề mặt hoặc thiết bị được sử dụng trên tàu nhằm hạn chế hoặc ngăn chặn các sinh vật không mong muốn bám vào tàu.
+
+(2) “Công ước” là Công ước quốc tế về kiểm soát các hệ thống chống hà độc hại của tàu (International Convention on the Control of Harmful Anti-Fouling Systems on Ships), 2001 và các sửa đổi, bổ sung.
+
+(3) Thay đổi hệ thống chống hà là việc loại bỏ hoàn toàn hoặc bất cứ phần nào của hệ thống chống hà hiện có mà không tuân thủ các yêu cầu ở 2.2 Mục II của Quy chuẩn này; hoặc bất cứ thay đổi nào về kiểu của các hệ thống đó trên tàu.
+
+(4) Thay thế hệ thống chống hà là việc sử dụng bất kỳ hệ thống chống hà nào giống hệt hệ thống đã được sử dụng trước đó và tuân thủ các yêu cầu đưa ra ở 2.2 Mục II của Quy chuẩn này.
+
+(5) “Chiều dài tàu” là chiều dài để xác định mạn khô được định nghĩa ở 1.2.21 Phần 1A Mục II của Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+
+(6) “Tổng dung tích” (GT) là giá trị tổng dung tích được xác định theo Công ước quốc tế về đo dung tích tàu biển năm 1969 hoặc Quy chuẩn kỹ thuật quốc gia về đo dung tích tàu biển.
+
+(7) “Tàu hoạt động tuyến quốc tế” là tàu có chuyến đi biển đến hoặc xuất phát từ một cảng, nhà máy đóng tàu hoặc bến ngoài khơi thuộc quyền tài phán của một quốc gia khác.
+
+II  QUY ĐỊNH KỸ THUẬT
+
+CHƯƠNG 1  QUY ĐỊNH CHUNG
+
+1.1  Quy định chung
+
+1.1.1  Quy định chung
+
+Mục này của Quy chuẩn đưa ra các quy định kỹ thuật đối với hệ thống chống hà của tàu nhằm kiểm soát các chất có hại cho môi trường biển. Việc kiểm tra của Đăng kiểm đối với hệ thống chống hà được quy định ở 1.2 Mục III của Quy chuẩn.
+
+CHƯƠNG 2  HỆ THỐNG CHỐNG HÀ VÀ LỚP CHẮN
+
+2.1  Quy định chung
+
+2.1.1  Phạm vi áp dụng
+
+Các quy định tại Chương này áp dụng cho hệ thống chống hà trên tất cả các tàu thuộc phạm vi điều chỉnh nêu tại 1.1 Mục I của Quy chuẩn này.
+
+2.2  Hệ thống chống hà
+
+2.2.1  Quy định chung
+
+Hệ thống chống hà trên tàu phải được kiểm soát để hạn chế bất cứ chất nào có hại đối với môi trường biển được sử dụng trong hệ thống chống hà theo các quy định tại 2.2.2 và 2.2.3 dưới đây.
+
+2.2.2  Kiểm soát hợp chất hữu cơ có chứa thiếc
+
+1  Tàu không được sử dụng mới hoặc sử dụng lại hệ thống chống hà có chứa hợp chất hữu cơ chứa thiếc kể từ ngày 01 tháng 01 năm 2003.
+
+2  Mặc dù quy định ở -1 trên, hệ thống chống hà được phép chứa một lượng nhỏ hợp chất hữu cơ chứa thiếc với điều kiện hàm lượng thiếc không được vượt quá 2.500 mg trong 1 kg sơn khô.
+
+2.2.3  Kiểm soát chất Cybutryne
+
+1  Tàu không được sử dụng mới hoặc sử dụng lại hệ thống chống hà có chứa chất Cybutryne (CAS No. 28159-98-0) kể từ ngày 01 tháng 01 năm 2023.
+
+2  Mặc dù quy định ở -1 trên, hệ thống chống hà được phép chứa một lượng nhỏ Cybutryne với điều kiện hàm lượng Cybutryne không vượt quá các giá trị tại (1) hoặc (2) dưới đây.
+
+(1) 1.000 mg trong 1 kg sơn khô nếu mẫu sơn được lấy trực tiếp từ thân tàu; hoặc
+
+(2) 200 mg trong 1 kg sơn khô nếu mẫu sơn được lấy từ thùng sơn ướt.
+
+2.3  Loại bỏ hệ thống chống hà không phù hợp hiện có hoặc áp dụng lớp chắn
+
+2.3.1  Quy định chung
+
+1  Trong trường hợp hệ thống chống hà không tuân thủ yêu cầu ở 2.2 của Mục này đã được áp dụng trên tàu trước ngày 01 tháng 01 năm 2023 thì tàu phải loại bỏ hệ thống chống hà đó hoặc phải được phủ bằng lớp bọc tuân thủ yêu cầu ở (1) và (2) dưới đây.
+
+(1) Lớp bọc phải là loại sơn được nhà sản xuất khuyến cáo nhằm tạo thành lớp chắn ngăn không cho các chất quy định ở 2.2.2 và/hoặc 2.2.3 của Mục này thấm ra ngoài; và
+
+(2)  Màu của lớp bọc phải có thể phân biệt được so với màu của hệ thống chống hà bên dưới và màu của hệ thống chống hà được áp dụng mới lên trên lớp bọc đó.
+
+2  Quy định tại -1 trên phải được áp dụng tại thời điểm thay mới hệ thống chống hà theo kế hoạch sau ngày 01 tháng 01 năm 2023 nhưng không muộn hơn 60 tháng tính từ ngày gần nhất áp dụng hệ thống chống hà hiện có của tàu.
+
+2.3.2  Các miễn giảm
+
+Mặc dù quy định tại 2.3.1 trên, các tàu nêu ở (1) và (2) dưới đây không cần phải loại bỏ hệ thống chống hà hiện có hoặc áp dụng lớp chắn:
+
+(1) Trường hợp hệ thống chống hà hiện có của tàu có chứa hợp chất hữu cơ chứa thiếc: giàn cố định hoặc di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) được đóng trước ngày 01 tháng 01 năm 2003 và chưa được đưa lên ụ khô vào hoặc sau ngày 01 tháng 01 năm 2003.
+
+(2) Trường hợp hệ thống chống hà hiện có của tàu có chứa chất Cybutryne:
+
+(a) Giàn cố định hoặc di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) được đóng trước ngày 01 tháng 01 năm 2023 và chưa được đưa lên ụ khô vào hoặc sau ngày 01 tháng 01 năm 2023; và
+
+(b) Tàu không hoạt động tuyến quốc tế.
+
+III  QUY ĐỊNH VỀ QUẢN LÝ
+
+1.1  Quy định chung
+
+Hệ thống chống hà của tàu phải được kiểm tra và chứng nhận như quy định tương ứng ở các mục 1.2 và 1.3 dưới đây.
+
+1.2  Kiểm tra hệ thống chống hà
+
+1.2.1  Quy định chung
+
+1  Các loại kiểm tra
+
+(1) Hệ thống chống hà trên tàu phải chịu các hình thức kiểm tra như dưới đây:
+
+(a) Kiểm tra lần đầu hệ thống chống hà (sau đây gọi tắt là "Kiểm tra lần đầu")
+
+(i) Kiểm tra lần đầu trong quá trình đóng mới
+
+Kiểm tra lần đầu được tiến hành trong quá trình kiểm tra phân cấp tàu trong đóng mới, dựa trên đề nghị kiểm tra được đưa ra trước khi áp dụng bất kỳ hệ thống chống hà nào lên tàu.
+
+(ii) Kiểm tra lần đầu đối với tàu không có kiểm tra của Đăng kiểm trong đóng mới
+
+(b) Kiểm tra trong quá trình tàu hoạt động
+
+(i) Kiểm tra chu kỳ;
+
+(ii) Kiểm tra bất thường.
+
+(2) Mặc dù quy định ở (1) trên, giàn cố định hoặc di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) không phải áp dụng kiểm tra chu kỳ.
+
+2  Thời điểm kiểm tra được quy định từ (1) đến (4) dưới đây. Việc kiểm tra quy định ở (1), (3) và (4) thường được thực hiện trong ụ khô hoặc trên triền. Đối với các tàu hoạt động tuyến quốc tế có tổng dung tích (GT) ≥ 400, trừ giàn di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO), có hệ thống chống hà hiện có đã tuân thủ quy định 2.2.3-2 của Mục II hoặc có hệ thống chống hà không sử dụng chất Cybutryne trước ngày 01 tháng 01 năm 2023, Đăng kiểm phải kiểm tra xác nhận không muộn hơn ngày 31 tháng 12 năm 2024 dựa trên các hồ sơ được trình để tham khảo nêu ở 1.2.3-2(1) của Mục này.
+
+(1) Kiểm tra lần đầu phải được tiến hành tại thời điểm đề nghị kiểm tra;
+
+(2) Kiểm tra chu kỳ phải được tiến hành tại thời điểm kiểm tra trên đà đối với phân cấp tàu (tại các thời điểm nêu ở 1.1.3-1(3) và (4) Phần 1B Mục II của Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép);
+
+(3) Kiểm tra bất thường phải được tiến hành khi xảy ra các trường hợp dưới đây mà không rơi vào thời điểm kiểm tra lần đầu hoặc kiểm tra chu kỳ. Để thực hiện kiểm tra bất thường, thay cho cách kiểm tra thông thường mà cần có mặt của đăng kiểm viên thì Đăng kiểm có thể chấp nhận các phương pháp kiểm tra khác với điều kiện việc kiểm tra đó có thể mang lại các thông tin tương đương. Kiểm tra chu kỳ có thể thay thế cho kiểm tra bất thường trong các trường hợp mà nguyên nhân của việc tiến hành kiểm tra bất thường đã được làm rõ tại lần kiểm tra chu kỳ.
+
+(a) Trong trường hợp mà hệ thống chống hà trên tàu bị thay đổi hoặc thay thế. Nếu việc sửa chữa chỉ làm ảnh hưởng đến hệ thống chống hà dưới 25% về mặt diện tích thì hệ thống chống hà đó không bị coi là thay đổi hoặc thay thế. Nếu tàu có hệ thống chống hà không phù hợp và đã được bọc bằng lớp chắn tuân thủ quy định ở 2.3 Mục II thì việc tính toán vừa nêu phải dựa trên diện tích của hệ thống chống hà nằm bên dưới lớp chắn. Trong mọi trường hợp, hệ thống chống hà được áp dụng mới lên tàu phải tuân thủ quy định ở 2.2 của Mục II và các bản vẽ, hồ sơ (hoặc bản sao) liên quan đến việc sửa chữa phải được lưu giữ ở trên tàu giống như đối với các bản vẽ, hồ sơ quy định ở 1.2.2-2 và 1.2.3-2 của Mục này.
+
+(b) Trong trường hợp tàu có bất kỳ hoán cải lớn nào mà gây ảnh hưởng đến hệ thống chống hà trên tàu. Các hoán cải lớn này gồm có:
+
+(i) Hoán cải làm ảnh hưởng đến các kích thước chủ yếu của tàu (chiều dài, chiều rộng hoặc chiều cao mạn);
+
+(ii) Hoán cải làm thay đổi đáng kể đến kết cấu thân tàu, bao gồm việc thay đổi và sửa chữa các cơ cấu thân tàu gây ảnh hưởng đến hệ thống chống hà vượt quá 25% về mặt diện tích;
+
+(iii) Các hoán cải khác ngoài trường hợp được nêu ở (i) và (ii) trên mà làm ảnh hưởng đến hệ thống chống hà của tàu vượt quá 25% về mặt diện tích.
+
+(c) Trong trường hợp chủ tàu đề nghị kiểm tra.
+
+3  Kiểm tra chu kỳ trước thời hạn và hoãn kiểm tra
+
+Các yêu cầu đối với việc kiểm tra chu kỳ trước thời hạn và hoãn kiểm tra chu kỳ phải phù hợp với các yêu cầu liên quan tới kiểm tra chu kỳ đối với phân cấp tàu, được quy định tương ứng ở 1.1.4 và 1.1.5 Phần 1B Mục II của Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+
+4  Tàu ngừng hoạt động
+
+(1) Tàu ngừng hoạt động không phải kiểm tra chu kỳ. Tuy nhiên, tàu có thể thực hiện kiểm tra bất thường nếu chủ tàu yêu cầu.
+
+(2) Khi tàu ngừng hoạt động chuẩn bị được đưa vào khai thác thì phải thực hiện các loại hình kiểm tra sau đây và thực hiện cả việc kiểm tra liên quan tới các vấn đề cụ thể mà bị hoãn lại do tàu ngừng hoạt động, nếu có.
+
+(a) Nếu chưa đến hạn kiểm tra chu kỳ khi tàu ngừng hoạt động thì phải thực hiện kiểm tra với nội dung tương đương kiểm tra chu kỳ quy định ở 1.2.4 của Mục này.
+
+(b) Nếu đã quá hạn kiểm tra chu kỳ khi tàu ngừng hoạt động thì phải thực hiện kiểm tra chu kỳ quy định ở 1.2.4 của Mục này.
+
+5  Chuẩn bị kiểm tra và các vấn đề liên quan khác
+
+(1) Khi tàu cần kiểm tra theo yêu cầu của Quy chuẩn này, chủ tàu có trách nhiệm thông báo trước cho đăng kiểm viên địa điểm kiểm tra, thời gian tiến hành kiểm tra để đăng kiểm viên có thể thực hiện công việc kiểm tra vào thời điểm thích hợp.
+
+(2) Chủ tàu hoặc đại diện của chủ tàu phải có trách nhiệm thực hiện việc chuẩn bị cho quá trình kiểm tra lần đầu, kiểm tra chu kỳ và các hình thức kiểm tra khác quy định ở 1.2 của Mục này.
+
+(3) Chủ tàu phải bố trí một người hỗ trợ nắm vững các hạng mục kiểm tra để chuẩn bị tốt công việc phục vụ kiểm tra và giúp đỡ đăng kiểm viên khi có yêu cầu trong suốt quá trình kiểm tra.
+
+(4) Kiểm tra có thể bị hoãn trong trường hợp không có đầy đủ sự chuẩn bị cần thiết, không có mặt của người hỗ trợ phù hợp với yêu cầu ở (3) trên, hoặc đăng kiểm viên thấy rằng việc kiểm tra không được đảm bảo an toàn.
+
+(5) Dựa trên kết quả kiểm tra, nếu thấy cần thiết phải sửa chữa, đăng kiểm viên phải thông báo kết quả kiểm tra của mình cho chủ tàu. Sau khi nhận được thông báo này, chủ tàu phải tiến hành công việc sửa chữa cần thiết và kết quả sửa chữa phải được đăng kiểm viên kiểm tra xác nhận.
+
+1.2.2  Kiểm tra lần đầu trong đóng mới
+
+1  Quy định chung
+
+Đối với việc kiểm tra lần đầu trong đóng mới, các vấn đề liên quan đến hệ thống chống hà trên tàu phải được kiểm tra chi tiết để đảm bảo việc tuân thủ các yêu cầu liên quan trong Quy chuẩn này.
+
+2  Các bản vẽ và hồ sơ trình để tham khảo
+
+(1) Khi kiểm tra lần đầu trong quá trình đóng mới, các bản vẽ và hồ sơ sau phải được trình cho Đăng kiểm. Bản sao phải được lưu ở trên tàu.
+
+(a) Đơn đặt hàng hệ thống chống hà;
+
+(b) Giấy biên nhận hệ thống chống hà của nhà sản xuất;
+
+(c) Bản vẽ và/hoặc hồ sơ mà trong đó có các thông số kỹ thuật của hệ thống chống hà dùng trên tàu, bao gồm bản vẽ, hồ sơ mà chỉ ra các khu vực áp dụng hệ thống chống hà và các quy trình, bảng thông số an toàn hóa chất (MSDS) cho hệ thống chống hà sử dụng trên tàu;
+
+(d) Bản khai chứng nhận rằng hệ thống chống hà sử dụng trên tàu tuân thủ các quy định ở 2.2 của Mục II do nhà sản xuất cấp, trong đó bao gồm cả Số đăng ký hóa chất quốc tế (CAS No.).
+
+(2) Đối với tàu có tổng dung tích < 400 và hoạt động tuyến quốc tế; giàn di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) bất kể tổng dung tích và hoạt động tuyến quốc tế, bản khai theo mẫu nêu ở Phụ chương 2 của Phụ lục 4 của Công ước được chủ tàu hoặc đại diện chủ tàu ký phải được lưu ở trên tàu và bản sao phải được trình Đăng kiểm.
+
+(3) Đối với tàu không hoạt động tuyến quốc tế, bản khai theo mẫu nêu ở Phụ lục A của Quy chuẩn này được chủ tàu hoặc đại diện chủ tàu ký phải được lưu ở trên tàu và bản sao phải được trình Đăng kiểm.
+
+3  Sự có mặt của đăng kiểm viên
+
+Đăng kiểm viên phải có mặt ở những bước công việc sau đây mà liên quan đến hệ thống chống hà. Tuy nhiên, quy định này có thể được thay đổi khi xem xét đến tình trạng thực tế của cơ sở vật chất, khả năng kỹ thuật và kiểm soát chất lượng ở các cơ sở sản xuất đó.
+
+(1) Thời điểm mà vật liệu hoặc sơn của hệ thống chống hà được áp dụng lên tàu;
+
+(2) Những thời điểm thích hợp trong hoặc sau quá trình áp dụng hệ thống chống hà.
+
+1.2.3  Kiểm tra lần đầu đối với tàu không có kiểm tra của Đăng kiểm trong đóng mới
+
+1  Quy định chung
+
+(1) Đối với kiểm tra lần đầu những tàu không có kiểm tra của Đăng kiểm trong đóng mới, các vấn đề liên quan đến hệ thống chống hà áp dụng trên tàu nêu ở (a) đến (c) dưới đây phải được kiểm tra để đảm bảo tuân thủ các yêu cầu liên quan trong Quy chuẩn. Trong trường hợp các hồ sơ nêu ở -2 dưới đây không phù hợp quy định, Đăng kiểm có thể yêu cầu lấy mẫu lớp sơn theo quy định nêu ở (2) dưới đây đối với bất kỳ hệ thống chống hà hiện có nào để kiểm tra lại sự tuân thủ.
+
+(a) Trong trường hợp hệ thống chống hà tuân thủ những yêu cầu ở 2.2 của Mục II đã được sử dụng trên tàu: hệ thống chống hà hiện có và hệ thống chống hà được áp dụng mới và việc áp dụng hệ thống chống hà mới này;
+
+(b) Trong trường hợp hệ thống chống hà không tuân thủ các yêu cầu ở 2.2 của Mục II đã được sử dụng trên tàu và hệ thống chống hà phù hợp được áp dụng lên tàu sau khi loại bỏ hệ thống chống hà không phù hợp: việc loại bỏ hệ thống chống hà không phù hợp hiện có và hệ thống chống hà phù hợp được áp dụng mới và việc áp dụng hệ thống chống hà mới này;
+
+(c) Trong trường hợp hệ thống chống hà không tuân thủ các yêu cầu ở 2.2 của Mục II đã được sử dụng trên tàu và hệ thống chống hà phù hợp được áp dụng lên trên lớp chắn của hệ thống chống hà không phù hợp hiện có và hệ thống chống hà phù hợp đó được áp dụng theo các quy định ở 2.3 của Mục II: lớp chắn và hệ thống chống hà được áp dụng mới và việc áp dụng lớp chắn cùng hệ thống chống hà mới.
+
+(2) Việc lấy mẫu lớp sơn nêu ở (1) trên, nếu thực hiện, phải tuân thủ các yêu cầu sau:
+
+(a) Vị trí lấy mẫu trên thân tàu phải được lựa chọn theo hướng dẫn của đăng kiểm viên. Khi lấy mẫu, phải lựa chọn 9 vị trí ở đáy và hai mạn của phần mũi, giữa và đuôi tàu.
+
+(b) Việc lấy mẫu và phân tích lớp sơn phải được thực hiện bởi nhà sản xuất sơn hoặc tổ chức được Đăng kiểm công nhận. Việc lấy mẫu và phân tích phải được thực hiện theo hướng dẫn nêu ở Phụ lục của Nghị quyết MEPC.356(78).
+
+(c) Tiêu chuẩn chấp nhận của kết quả phân tích phải phù hợp với các quy định liên quan tại 2.2 của Mục II.
+
+2  Các bản vẽ và hồ sơ trình để tham khảo
+
+(1) Trong trường hợp nêu ở -1(1)(a) trên, các bản vẽ và hồ sơ sau đây phải được trình Đăng kiểm và bản sao phải được lưu trên tàu. Nếu các bản vẽ và hồ sơ này không được cung cấp đầy đủ thì hệ thống chống hà đó không được coi là tuân thủ quy định nêu ở 2.2 Mục II và việc kiểm tra phải được thực hiện theo các quy định nêu ở - 1(1)(b) hoặc -1(1)(c) trên.
+
+(a) Đơn đặt hàng hệ thống chống hà;
+
+(b) Giấy biên nhận hệ thống chống hà của nhà sản xuất;
+
+(c) Bản vẽ và/ hoặc hồ sơ chỉ ra các đặc tính của bất kỳ hệ thống chống hà hiện có được áp dụng trên tàu (bao gồm bất kỳ hệ thống được áp dụng trước đó mà còn lại dưới dạng lớp sơn hiện có), bao gồm các bản vẽ, hồ sơ chỉ ra những khu vực mà hệ thống chống hà được áp dụng và quy trình áp dụng chúng, bản thông số an toàn hóa chất (MSDS) cho bất cứ hệ thống chống hà nào áp dụng trên tàu;
+
+(d) Giấy chứng nhận hoặc bản khai chứng nhận bất kỳ hệ thống chống hà nào sử dụng trên tàu tuân thủ các quy định nêu ra ở 2.2 Mục II do nhà sản xuất cấp, trong đó bao gồm cả Số đăng ký hóa chất quốc tế (CAS No.);
+
+(e) Hồ sơ hoặc Giấy chứng nhận chỉ ra sự bắt đầu áp dụng của hệ thống chống hà hiện có do đơn vị đóng và/ hoặc nhà thầu cấp;
+
+(f) Trong trường hợp mà hệ thống chống hà được áp dụng mới lên tàu, các bản khai do nhà sản xuất cấp chứng nhận rằng bất kỳ hệ thống chống hà được sử dụng trên tàu đều tuân thủ các yêu cầu ở 2.2 của Mục II, trong đó bao gồm cả Số đăng ký hóa chất quốc tế (CAS No.), và hồ sơ hoặc Giấy chứng nhận chỉ ra sự bắt đầu áp dụng các hệ thống chống hà đó do đơn vị đóng và/ hoặc nhà thầu cấp.
+
+(2) Trong trường hợp nêu ở -1(1)(b) trên, ngoài các bản vẽ và hồ sơ liệt kê ở (1)(a), (b), (e) và (f) bên trên thì các bản vẽ và hồ sơ sau đây phải được trình Đăng kiểm. Bản sao phải được lưu trên tàu.
+
+(a) Bản vẽ và/ hoặc hồ sơ chỉ ra các đặc điểm của công việc loại bỏ bất kỳ hệ thống chống hà nào hiện có trên tàu;
+
+(b) Hồ sơ hoặc Giấy chứng nhận do đơn vị đóng và/ hoặc nhà thầu cấp, chỉ ra sự khởi đầu của bất kỳ công việc nào để loại bỏ hệ thống chống hà hiện có;
+
+(c) Ngoài các hồ sơ nêu ở trên, trong trường hợp chỉ có một phần của hệ thống chống hà hiện có được loại bỏ và phần còn lại được phủ bằng lớp chắn phù hợp: bản vẽ và/ hoặc hồ sơ chỉ rõ phần được loại bỏ và phần được che phủ.
+
+(3) Trong trường hợp nêu ở -1(1)(c) trên, ngoài các bản vẽ và hồ sơ liệt kê ở (1)(a), (b), (c), (e) và (f) bên trên thì các bản vẽ và hồ sơ sau đây phải được trình Đăng kiểm. Bản sao phải được lưu trên tàu.
+
+(a) Đơn đặt hàng lớp bọc;
+
+(b) Giấy biên nhận lớp bọc của nhà sản xuất;
+
+(c) Bản vẽ và/ hoặc hồ sơ chỉ ra đặc tính của các công việc nhằm che phủ tất cả các hệ thống chống hà hiện có trên tàu;
+
+(d) Giấy chứng nhận hoặc bản khai của lớp bọc do nhà sản xuất cấp, trong đó bao gồm cả Số đăng ký hóa chất quốc tế (CAS No.);
+
+(e) Hồ sơ hoặc Giấy chứng nhận do đơn vị đóng và/hoặc nhà thầu cấp, chỉ ra sự khởi đầu của bất kỳ công việc nào để che phủ hệ thống chống hà hiện có trên tàu;
+
+(f) Ngoài các hồ sơ nêu ở trên, trong trường hợp chỉ có một phần của hệ thống chống hà hiện có được loại bỏ và phần còn lại được phủ bằng lớp chắn phù hợp: bản vẽ và/ hoặc hồ sơ chỉ rõ phần được loại bỏ và phần được che phủ.
+
+(4) Đối với tàu có tổng dung tích < 400 và hoạt động tuyến quốc tế; giàn di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO) bất kể tổng dung tích và hoạt động tuyến quốc tế, bản khai theo mẫu nêu ở Phụ chương 2 của Phụ lục 4 của Công ước được chủ tàu hoặc đại diện chủ tàu ký phải được lưu ở trên tàu và bản sao phải được trình Đăng kiểm.
+
+(5) Đối với tàu không hoạt động tuyến quốc tế, bản khai theo mẫu nêu ở Phụ lục A của Quy chuẩn này được chủ tàu hoặc đại diện chủ tàu ký phải được lưu ở trên tàu và bản sao phải được trình Đăng kiểm.
+
+3  Sự có mặt của đăng kiểm viên
+
+Đăng kiểm viên phải có mặt ở những bước công việc sau đây mà liên quan đến hệ thống chống hà. Tuy nhiên, quy định này có thể được thay đổi khi xem xét đến tình trạng thực tế của cơ sở vật chất, khả năng kỹ thuật và kiểm soát chất lượng ở các cơ sở sản xuất đó.
+
+(1) Thời điểm mà vật liệu hoặc sơn của hệ thống chống hà được áp dụng lên tàu;
+
+(2) Trong các trường hợp mà bất kỳ hệ thống chống hà không phù hợp hiện có trên tàu bị loại bỏ hoặc được bọc bằng lớp chắn: các thời điểm thích hợp trong hoặc sau khi thực hiện công việc loại bỏ hoặc bọc bằng lớp chắn. Đối với việc loại bỏ hệ thống chống hà hiện có, cần phải kiểm tra để đảm bảo hệ thống chống hà không phù hợp với yêu cầu ở 2.2 Mục II không còn lại trên thân tàu sau khi hoàn thành việc loại bỏ, trong đó có xét đến lịch sử của lớp sơn;
+
+(3) Trong các trường hợp mà bất kỳ hệ thống chống hà phù hợp nào được áp dụng mới lên tàu: các thời điểm thích hợp trong hoặc sau khi thực hiện các công việc đối với hệ thống chống hà đó.
+
+1.2.4  Kiểm tra chu kỳ
+
+1  Quy định chung
+
+(1) Trong kiểm tra chu kỳ, phải kiểm tra tình trạng quản lý các bản vẽ và hồ sơ nêu ở 1.2.2-2 hoặc 1.2.3-2 của Mục này, tùy thuộc trường hợp nào được áp dụng. Đăng kiểm có thể yêu cầu lấy mẫu lớp sơn của hệ thống chống hà để kiểm tra lại sự phù hợp trong các trường hợp dưới đây.
+
+(a) Các bản vẽ và hồ sơ quy định ở 1.2.2-2 hoặc 1.2.3-2 của Mục này không còn lưu đầy đủ; hoặc
+
+(b) Có bằng chứng về thực hiện công việc sơn đáng kể trên thân tàu làm thay đổi hệ thống chống hà vượt quá 25% về mặt diện tích sau đợt kiểm tra trước đó.
+
+(2) Trong bất kỳ đợt kiểm tra chu kỳ nào mà được tiến hành vào thời gian kiểm tra trên đà trong ụ khô hoặc trên triền, ngoài những yêu cầu nêu ở (1) trên, thì cũng phải kiểm tra tình trạng của lớp chắn che phủ hệ thống chống hà hiện có. Trong trường hợp Đăng kiểm thấy rõ ràng là lớp chắn hoặc hệ thống chống hà được áp dụng lên lớp chắn không còn duy trì ở trên thân tàu thì có thể yêu cầu lấy mẫu lớp sơn của hệ thống chống hà để kiểm tra lại sự phù hợp đó.
+
+(3) Không phụ thuộc vào các quy định ở (1) và (2) nêu trên, kiểm tra chu kỳ mà thay thế cho kiểm tra bất thường theo quy định ở 1.2.1-2(3) của Mục này thì phải được tiến hành phù hợp với các quy định nêu ở 1.2.5 dưới đây.
+
+(4) Việc lấy mẫu lớp sơn nêu ở (1) và (2) trên, nếu thực hiện, phải phù hợp với các yêu cầu nêu ở 1.2.3-1(2) của Mục này.
+
+1.2.5  Kiểm tra bất thường
+
+1  Quy định chung
+
+(1) Trong trường hợp mà hệ thống chống hà được sửa đổi hoặc thay thế, thì phải tiến hành kiểm tra bất thường và hệ thống chống hà trên tàu đó phải được xác nhận là tuân thủ các yêu cầu của Quy chuẩn này và các yêu cầu tại 1.2.3 của Mục này.
+
+(2) Không phụ thuộc vào yêu cầu ở (1) nêu trên, trong các trường hợp mà hệ thống chống hà không bị sửa đổi và tất cả các bản vẽ và hồ sơ liệt kê ở 1.2.3-2 của Mục này được trình Đăng kiểm và thông qua các bản vẽ, hồ sơ đó có thể xác nhận được việc hệ thống chống hà đó có phù hợp với Quy chuẩn hay không thì có thể bỏ qua việc kiểm tra tại hiện trường của đăng kiểm viên.
+
+(3) Để thực hiện kiểm tra, thay cho cách kiểm tra thông thường mà cần có mặt của đăng kiểm viên, thì Đăng kiểm có thể chấp nhận các phương pháp kiểm tra khác với điều kiện việc kiểm tra đó có thể mang lại các thông tin tương đương.
+
+1.3  Chứng nhận
+
+1  Việc cấp giấy chứng nhận cho tàu nêu ở mục 1.3 này áp dụng đối với các tàu hoạt động tuyến quốc tế có tổng dung tích (GT) ≥ 400, trừ giàn cố định hoặc di động, kho chứa nổi (FSU) và kho chứa nổi dùng để sản xuất, chứa và xuất dầu (FPSO).
+
+2  Tàu có hệ thống chống hà tuân thủ các yêu cầu của Quy chuẩn này sẽ được cấp "Giấy chứng nhận quốc tế về hệ thống chống hà của tàu" cùng với “Bản ghi hệ thống chống hà” theo mẫu quy định ở Phụ chương 1 của Phụ lục 4 của Công ước. Các tàu có hệ thống chống hà phù hợp được áp dụng lên tàu trước ngày 01 tháng 01 năm 2023 phải được cấp lại giấy chứng nhận theo mẫu vừa nêu không muộn hơn ngày 01 tháng 01 năm 2025.
+
+3  Mặc dù quy định ở -2 trên, các tàu đã áp dụng hệ thống chống hà có chứa chất Cybutryne không tuân thủ quy định nêu ở 2.2.3-2 Mục II trước ngày 01 tháng 01 năm 2023 mà chưa được loại bỏ hoặc áp dụng lớp chắn phù hợp với quy định 2.3.1-1 Mục II vào hoặc trước ngày 01 tháng 01 năm 2025 thì phải được cấp lại Giấy chứng nhận theo mẫu nêu ở -2 trên không muộn hơn ngày 01 tháng 01 năm 2025.
+
+4  Trừ trường hợp nêu ở -3 trên, Giấy chứng nhận quốc tế về hệ thống chống hà của tàu không có thời hạn với điều kiện hệ thống chống hà của tàu được duy trì phù hợp với các yêu cầu của Quy chuẩn này và tự mất hiệu lực nếu hệ thống chống hà của tàu không được duy trì phù hợp với Quy chuẩn này hoặc bị thay đổi, thay thế mà không được kiểm tra, xác nhận phù hợp.
+
+5  Thủ tục cấp giấy chứng nhận nêu ở -2 trên được quy định tại Thông tư số 40/2016/TT- BGTVT ngày 07 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm tàu biển Việt Nam và Thông tư số 17/2023/TT-BGTVT ngày 30 tháng 6 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 40/2016/TT-BGTVT ngày 07 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm tàu biển Việt Nam và Thông tư số 51/2017/TT-BGTVT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm viên và nhân viên nghiệp vụ đăng kiểm tàu biển.
+
+IV  TRÁCH NHIỆM CỦA CÁC TỔ CHỨC, CÁ NHÂN
+
+1.1  Trách nhiệm của các chủ tàu, công ty khai thác tàu, cơ sở đóng mới, hoán cải, phục hồi và sửa chữa tàu
+
+Thực hiện đầy đủ các quy định nêu trong Quy chuẩn này khi hệ thống chống hà được áp dụng mới, thay đổi hoặc thay thế nhằm đảm bảo hệ thống chống hà tuân thủ các quy định kỹ thuật liên quan nêu trong Quy chuẩn này.
+
+1.2  Trách nhiệm của Cục Đăng kiểm Việt Nam
+
+1.2.1  Kiểm tra
+
+Bố trí đăng kiểm viên thực hiện việc kiểm tra hệ thống chống hà khi được đề nghị, phù hợp với các yêu cầu kỹ thuật nêu trong Quy chuẩn này.
+
+1.2.2  Kiểm soát các miễn giảm và thay thế tương đương
+
+Các trường hợp mà trong Quy chuẩn này giao cho đăng kiểm viên xem xét quyết định thì khi áp dụng, đăng kiểm viên phải báo cáo và được kiểm soát bởi Cục Đăng kiểm Việt Nam.
+
+1.2.3  Hướng dẫn thực hiện, áp dụng
+
+Hướng dẫn thực hiện các quy định của Quy chuẩn này đối với các chủ tàu, công ty khai thác tàu, cơ sở đóng mới, hoán cải, phục hồi và sửa chữa tàu, các đơn vị Đăng kiểm trong phạm vi cả nước.
+
+1.2.4  Rà soát và cập nhật Quy chuẩn
+
+Báo cáo và kiến nghị Bộ Giao thông vận tải về việc rà soát, sửa đổi, bổ sung Quy chuẩn này theo định kỳ 5 năm một lần hoặc sớm hơn khi cần thiết, kể từ ngày ban hành.
+
+V  TỔ CHỨC THỰC HIỆN
+
+1.1  Cục Đăng kiểm Việt Nam tổ chức in ấn, phổ biến Quy chuẩn này cho các tổ chức và cá nhân có liên quan thực hiện.
+
+1.2  Trong trường hợp các tài liệu được viện dẫn trong Quy chuẩn này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo nội dung đã được sửa đổi, bổ sung hoặc thay thế có hiệu lực của tài liệu đó.
+
+ 
+
+PHỤ LỤC A - MẪU BẢN KHAI SỬ DỤNG HỆ THỐNG CHỐNG HÀ
+
+AFS.BD
+
+BẢN KHAI SỬ DỤNG HỆ THỐNG CHỐNG HÀ
+
+Bản khai này dựa theo QCVN 74: 2024/BGTVT về hệ thống chống hà của tàu
+
+Đặc điểm tàu
+
+Tên tàu : ......................................................................................
+
+Số phân biệt hoặc hô hiệu : ......................................................................................
+
+Cảng đăng ký : ......................................................................................
+
+Chiều dài tàu : ......................................................................................
+
+Số phân cấp : ......................................................................................
+
+Tổng dung tích : ......................................................................................
+
+Tôi cam kết rằng hệ thống sơn chống hà được sử dụng cho tàu thỏa mãn QCVN 74: 2024/BGTVT
+
+ 
+
+  ----------------------------------------------- -----------------------------------------------
+   ---------------------------------------------   ---------------------------------------------
+                       Ngày                              Chủ tàu hoặc đại diện cho chủ tàu
+
+  ----------------------------------------------- -----------------------------------------------
+
+ 
+
+Xác nhận hệ thống sơn chống hà được dùng
+
+Loại hệ thống chống hà được dùng và ngày áp dụng:
+
+  ----------------------------------------------- -----------------------------------------------
+   ---------------------------------------------   ---------------------------------------------
+                       Ngày                              Chủ tàu hoặc đại diện cho chủ tàu
+
+  ----------------------------------------------- -----------------------------------------------
+
+Loại hệ thống chống hà được dùng và ngày áp dụng:
+
+  ----------------------------------------------- -----------------------------------------------
+   ---------------------------------------------   ---------------------------------------------
+                       Ngày                              Chủ tàu hoặc đại diện cho chủ tàu
+
+  ----------------------------------------------- -----------------------------------------------
+
+Loại hệ thống chống hà được dùng và ngày áp dụng:
+
+  ----------------------------------------------- -----------------------------------------------
+   ---------------------------------------------   ---------------------------------------------
+                       Ngày                              Chủ tàu hoặc đại diện cho chủ tàu
+
+  ----------------------------------------------- -----------------------------------------------
+
+ 
+
+ 

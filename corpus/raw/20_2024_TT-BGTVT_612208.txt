@@ -1,0 +1,254 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           --------                           Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 20/2024/TT-BGTVT               Hà Nội, ngày 03 tháng 06 năm 2024
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ KHUNG XE MÔ TÔ, XE GẮN MÁY
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về khung xe mô tô, xe gắn máy.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về khung xe mô tô, xe gắn máy.
+
+Mã số đăng ký: QCVN 30:2024/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 12 năm 2024.
+
+2. Thông tư này bãi bỏ khoản 4 Điều 1 Thông tư số 36/2010/TT-BGTVT ngày 01/12/2010 của Bộ trưởng Bộ Giao thông vận tải ban hành 04 Quy chuẩn kỹ thuật quốc gia về phụ tùng xe mô tô, xe gắn máy.
+
+3. Điều khoản chuyển tiếp
+
+a) Đối với hồ sơ thử nghiệm được đăng ký trước ngày Thông tư này có hiệu lực thì tiếp tục thử nghiệm và chứng nhận chất lượng theo QCVN 30:2010/BGTVT;
+
+b) Trong thời hạn 01 năm kể từ ngày Thông tư này có hiệu lực, các khung xe mô tô, xe gắn máy đã được thử nghiệm hoặc chứng nhận phù hợp theo quy chuẩn QCVN 30:2010/BGTVT thì không phải thử nghiệm lại.
+
+Điều 3. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  -------------------------------------------------------------------------------------
+  Nơi nhận:                                           KT. BỘ TRƯỞNG
+  - Như Điều 3;                                       THỨ TRƯỞNG
+  - Bộ trưởng (để b/c);                               Nguyễn Duy Lâm
+  - Các Thứ trưởng Bộ GTVT;                           
+  - Văn phòng Chính phủ;                              
+  - Các Bộ, cơ quan ngang Bộ;                         
+  - Các cơ quan thuộc Chính phủ;                      
+  - UBND các tỉnh, thành phố trực thuộc Trung ương;   
+  - Bộ Khoa học và Công nghệ (để đăng ký);            
+  - Cục KSTTHC (Văn phòng Chính phủ);                 
+  - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);           
+  - Công báo; Cổng thông tin điện tử Chính phủ;       
+  - Cổng thông tin điện tử Bộ GTVT;                   
+  - Báo Giao thông, Tạp chí GTVT;                     
+  - Lưu: VT, KHCN&MT(Hn)                              
+  --------------------------------------------------- ---------------------------------
+
+  -------------------------------------------------------------------------------------
+
+QCVN 30:2024/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA
+
+VỀ KHUNG XE MÔ TÔ, XE GẮN MÁY
+
+National technical regulation on frame of motorcycles and mopeds
+
+LỜI NÓI ĐẦU
+
+QCVN 30:2024/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành kèm theo Thông tư số /2024/TT-BGTVT ngày tháng năm 2024.
+
+Quy chuẩn QCVN 30:2024/BGTVT thay thế QCVN 30:2010/BGTVT.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA
+
+VỀ KHUNG XE MÔ TÔ, XE GẮN MÁY
+
+National technical regulation on frame of motorcycles and mopeds
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định về yêu cầu kỹ thuật và phương pháp thử đối với khung xe mô tô hai bánh, khung xe gắn máy hai bánh (sau đây gọi là khung).
+
+Quy chuẩn này không áp dụng đối với các khung sử dụng vào mục đích quốc phòng, an ninh.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các cơ sở sản xuất, lắp ráp, nhập khẩu khung; cơ sở sản xuất, lắp ráp xe mô tô hai bánh, xe gắn máy hai bánh và các tổ chức, cá nhân liên quan đến việc thử nghiệm, kiểm tra, chứng nhận chất lượng an toàn kỹ thuật đối với khung.
+
+1.3. Giải thích từ ngữ
+
+1.3.1. Khung cùng kiểu loại là các khung có cùng kiểu dáng, cùng các thông số trong tài liệu kỹ thuật và cùng một dây chuyền công nghệ.
+
+1.3.2. Tải trọng khung được tính bằng tổng khối lượng người và hàng hóa cho phép chở của loại xe tương ứng, và tổng khối lượng các cụm chi tiết, tổng thành, phụ kiện được đặt, treo lên khung.
+
+2. QUY ĐỊNH VỀ KỸ THUẬT
+
+2.1. Quy định chung
+
+2.1.1. Kết cấu và thông số kỹ thuật của khung phù hợp với tài liệu kỹ thuật của cơ sở đăng ký thử nghiệm cung cấp:
+
+2.1.1.1. Sai số khối lượng khung theo đăng ký của cơ sở đăng ký thử nghiệm nhưng không vượt quá ± 10%
+
+2.1.1.2. Sai số kích thước chiều dày các chi tiết chính của khung (ống cổ, thân chính, thân khung) theo đăng ký của cơ sở đăng ký thử nghiệm nhưng không vượt quá ± 10%.
+
+2.1.1.3. Sai số kích thước bao của mặt cắt ngang các chi tiết chính của khung (ống cổ, thân chính, thân khung) và các kích thước chiều dài khác theo đăng ký của cơ sở đăng ký thử nghiệm nhưng không vượt quá ± 5%.
+
+2.1.2. Khung không được có vết nứt, gãy.
+
+2.1.3. Mối hàn trên khung (đối với khung có kết cấu hàn) không được bong, nứt.
+
+2.1.4. Các mối ghép trên khung như mối ghép đinh tán, mối ghép bu lông, các loại mối ghép khác (nếu có) phải chắc chắn.
+
+2.1.5. Khung có khả năng chống han gỉ bằng cách sử dụng vật liệu chế tạo hoặc lớp phủ bảo vệ. Lớp phủ bảo vệ (nếu có) không được bong tróc, phồng rộp.
+
+2.1.6. Khung phải được đóng mã nhận dạng khung trên chi tiết cố định của khung hoặc trên tấm kim loại gắn cố định trên khung và phải là duy nhất. Mã nhận dạng khung có thể trùng mã nhận dạng phương tiện (VIN). Trường hợp mã nhận dạng khung không trùng với mã VIN, mã nhận dạng khung phải bao gồm các ký tự để nhận biết được nhà sản xuất khung, dây chuyền sản xuất, kiểu dáng, năm sản xuất và số thứ tự sản xuất (trừ trường hợp khung nhập khẩu để thay thế, bảo hành).
+
+2.2. Quy định về độ bền khung
+
+2.2.1. Khung phải được thử nghiệm độ bền theo điểm 2.3.3 của Quy chuẩn này.
+
+2.2.2. Sau khi thử nghiệm độ bền khung theo điểm 2.3.3 của Quy chuẩn này, khung không bị biến dạng, không bị nứt, gãy; các mối hàn, mối ghép không bị hư hỏng, phá hủy.
+
+2.3. Phương pháp thử
+
+2.3.1. Quan sát để kiểm tra bề mặt khung, mối hàn, bề mặt lớp phủ bảo vệ, mã nhận dạng khung.
+
+2.3.2. Quan sát, dùng tay lay, lắc để kiểm tra độ chắc chắn của mối ghép (nếu có).
+
+2.3.3. Thử nghiệm độ bền khung
+
+Khung được thử nghiệm trên thiết bị theo điểm 2.3.3.1 và 2.3.3.2 của Quy chuẩn này.
+
+Quan sát để kiểm tra tình trạng khung sau khi thử độ bền.
+
+2.3.3.1. Thử nghiệm độ bền khung với tải trọng tĩnh
+
+[]
+
+Hình 1. Hình minh họa sơ đồ thử nghiệm độ bền khung với tải trọng tĩnh
+
+Trong đó, yêu cầu giá trị của các lực:
+
+F₁ ≥ 7000 N; F₂ ≥ 2500 N; F₃ ≥ 2000 N
+
+Duy trì đồng thời lực tác dụng của F₁, F₂, F₃ lên khung trong thời gian ít nhất 15 phút.
+
+2.3.3.2. Thử độ bền khung với tải trọng động
+
+Khung được thử nghiệm trên thiết bị theo một trong hai phương pháp như hình 2 hoặc hình 3 dưới đây.
+
+Phương pháp 1. Thử trên thiết bị tạo dao động bằng vấu cam và quả lô
+
+[]
+
+Hình 2. Hình minh họa sơ đồ thiết bị tạo dao động bằng vấu cam và quả lô
+
+Trong đó:
+
+P₁ là tổng khối lượng người và hàng hóa cho phép chở của loại xe tương ứng.
+
+P₂ là tổng khối lượng các cụm chi tiết, tổng thành, phụ kiện được đặt, treo lên khung.
+
+Đường kính quả lô: ≥ 750 mm
+
+Chiều cao vấu cam: từ 15 mm đến 25 mm
+
+Số vấu cam: ≥ 2
+
+Số chu kỳ thử: tối thiểu 5 x 10⁵ chu kỳ
+
+Vận tốc vòng n: từ 120 vòng/phút đến 160 vòng/phút
+
+Phương pháp 2. Thử trên thiết bị tạo dao động bằng vấu cam và con đội
+
+[]
+
+Hình 3. Hình minh họa sơ đồ thiết bị tạo dao động bằng vấu cam và con đội
+
+Trong đó:
+
+P₁ là tổng khối lượng người và hàng hóa cho phép chở của loại xe tương ứng.
+
+P₂ là tổng khối lượng các cụm chi tiết, tổng thành, phụ kiện được đặt, treo lên khung.
+
+Chiều cao vấu cam h: từ 15 mm đến 25 mm
+
+Số chu kỳ thử: tối thiểu 5 x 10⁵ chu kỳ
+
+Vận tốc vòng n: từ 120 vòng/phút đến 160 vòng/phút
+
+3. QUY ĐỊNH VỀ QUẢN LÝ
+
+3.1. Phương thức kiểm tra, thử nghiệm
+
+Khung sản xuất, lắp ráp, nhập khẩu phải được kiểm tra, thử nghiệm, chứng nhận theo quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với linh kiện, phụ tùng xe mô tô hai bánh, xe gắn máy hai bánh.
+
+3.2. Tài liệu kỹ thuật và mẫu thử
+
+Khi đăng ký thử nghiệm, cơ sở đăng ký cung cấp tài liệu kỹ thuật và mẫu thử như sau:
+
+3.2.1. Tài liệu kỹ thuật
+
+3.2.1.1. Bản vẽ tổng thể của khung và các bản vẽ ống cổ, thân chính, thân khung.
+
+3.2.1.2. Bản đăng ký thông số kỹ thuật gồm ít nhất các thông tin được quy định tại Phụ lục của Quy chuẩn này.
+
+3.2.2. Mẫu thử
+
+01 khung thành phẩm đã có mã nhận dạng khung.
+
+01 khung thành phẩm đã có mã nhận dạng khung, được lắp hệ thống treo, hệ thống chuyển động, hệ thống điều khiển và yên xe.
+
+3.3. Báo cáo thử nghiệm
+
+Cơ sở thử nghiệm có trách nhiệm lập báo cáo thử nghiệm đối với các nội dung thử nghiệm được quy định tại Điều 2 của Quy chuẩn này.
+
+4. TỔ CHỨC THỰC HIỆN
+
+Cục Đăng kiểm Việt Nam chịu trách nhiệm tổ chức thực hiện Quy chuẩn này.
+
+PHỤ LỤC
+
+BẢN ĐĂNG KÝ THÔNG SỐ KỸ THUẬT VÀ MÃ NHẬN DẠNG KHUNG
+
+1. Tên cơ sở đăng ký thử nghiệm:.......................................................................
+
+2. Nhãn hiệu (nếu có): .........................................................................................
+
+3. Ký hiệu thiết kế hoặc ký hiệu sản phẩm: .........................................................
+
+4. Tổng khối lượng người và hàng hóa cho phép chở của loại xe tương ứng (P₁): .....................................................................................................................
+
+5. Tổng khối lượng các cụm chi tiết, tổng thành, phụ kiện được đặt, treo lên khung (P₂): ..........................................................................................................
+
+6. Tổng khối lượng các chi tiết tổng thành, phụ kiện được đặt, treo lên khung đối với mẫu đưa đi thử nghiệm: ...........................................................................
+
+7. Khối lượng khung: ...........................................................................................
+
+8. Vật liệu cơ sở chế tạo khung: .........................................................................
+
+9. Ảnh chụp khung, có thể hiện được kiểu dáng khung và vị trí mã nhận dạng khung
+
+[]
+
+Hình minh họa ảnh chụp khung và vị trí mã nhận dạng khung
+
+10. Giải thích mã nhận dạng khung: ...................................................................

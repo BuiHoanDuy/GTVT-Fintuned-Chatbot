@@ -1,0 +1,1202 @@
+  ----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI             CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                           Độc lập - Tự do - Hạnh phúc
+                                                         ---------------
+  -------------------------- -------------------------------------------
+     Số: 37/2020/TT-BGTVT              Hà Nội, ngày 28 tháng 12 năm 2020
+
+  ----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH 02 QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ PHỤC VỤ QUẢN LÝ ĐÀO TẠO LÁI XE
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Tổng cục trưởng Tổng cục Đường bộ Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành 02 Quy chuẩn kỹ thuật quốc gia về thiết bị phục vụ quản lý đào tạo lái xe.
+
+Điều 1. Ban hành kèm theo Thông tư này 02 Quy chuẩn kỹ thuật quốc gia về thiết bị phục vụ quản lý đào tạo lái xe như sau:
+
+1. Quy chuẩn kỹ thuật quốc gia về thiết bị giám sát thời gian và quãng đường học thực hành lái xe
+
+Mã số đăng ký: QCVN 105:2020/BGTVT.
+
+2. Quy chuẩn kỹ thuật quốc gia về thiết bị mô phỏng để đào tạo lái xe ô tô - cabin học lái xe ô tô.
+
+Mã số đăng ký: QCVN 106:2020/BGTVT.
+
+Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021.
+
+Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Tổng cục trưởng Tổng Cục Đường bộ Việt Nam, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  ---------------------------------------------------------------------------------------
+  Nơi nhận:                                              KT. BỘ TRƯỞNG
+  - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;   THỨ TRƯỞNG
+  - UBND các tỉnh, thành phố trực thuộc TW;              Lê Đình Thọ
+  - Tổng cục TCĐLCL-Bộ KHCN (để đăng ký);                
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);                   
+  - Công báo; Cổng Thông tin điện tử Chính phủ;          
+  - Cổng Thông tin điện tử Bộ Giao thông vận tải;        
+  - Báo GT, Tạp chí GTVT;                                
+  - Lưu: VT, KHCN.                                       
+  ------------------------------------------------------ --------------------------------
+
+  ---------------------------------------------------------------------------------------
+
+QCVN 105:2020/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ GIÁM SÁT THỜI GIAN VÀ QUÃNG ĐƯỜNG HỌC THỰC HÀNH LÁI XE
+
+Nationai technicai regulation on distance and time measuring device for driving school vehicles
+
+Lời nói đầu
+
+QCVN 105:2020/BGTVT do Tổng cục Đường bộ Việt Nam biên soạn, Bộ Khoa học và Công nghệ thẩm định, Vụ Khoa học - Công nghệ trình Bộ trưởng Bộ Giao thông vận tải ban hành kèm theo Thông tư số 37/2020/TT-BGTVT ngày 28 tháng 12 năm 2020.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ GIÁM SÁT THỜI GIAN VÀ QUÃNG ĐƯỜNG HỌC THỰC HÀNH LÁI XE
+
+Nationai technical regulation on distance and time measuring device for driving school vehicles
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật tối thiểu đối với thiết bị giám sát thời gian và quãng đường được lắp đặt trên các xe ô tô tập lái để dạy thực hành lái xe trên đường tại các cơ sở đào tạo lái xe ô tô.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân có liên quan đến sản xuất, lắp ráp, nhập khẩu, thử nghiệm, chứng nhận chất lượng, quản lý và khai thác sử dụng thiết bị giám sát thời gian và quãng đường lắp trên các xe ô tô tập lái dạy thực hành lái xe tại các cơ sở đào tạo lái xe.
+
+1.3. Giải thích từ ngữ
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.3.1. Thiết bị giám sát thời gian và quãng đường thực hành lái xe (sau đây gọi tắt là thiết bị DAT) là thiết bị điện tử được lắp trên xe ô tô để ghi, lưu trữ, xác thực và truyền nhận các thông tin bắt buộc liên quan trong quá trình dạy và thực hành lái xe.
+
+1.3.2. Phiên học thực hành lái xe được tính từ thời điểm mỗi học viên bắt đầu điều khiển xe tập lái đến thời điểm kết thúc.
+
+1.3.3. Quãng đường thực hành lái xe được xác định bằng tổng chiều dài quãng đường của từng phiên học thực hành lái xe mà mỗi học viên học thực hành lái xe trong quá trình học.
+
+1.3.4. Thời gian học thực hành lái xe được xác định bằng tổng thời gian của từng phiên học thực hành lái xe mà mỗi học viên học thực hành lái xe trong quá trình học.
+
+1.3.5. Thẻ: là các loại thẻ từ, thẻ chip sử dụng để định danh học viên, giáo viên.
+
+1.4. Các từ viết tắt
+
+Bảng 1. Danh mục các từ viết tắt
+
+  ---------------------------------------------------------------------------------------
+   Tên viết tắt  Tên đầy đủ                           Ý nghĩa
+  -------------- ------------------------------------ -----------------------------------
+       DAT       Distance and Time                    Thời gian và quãng đường
+
+       GNSS      Globai Navigation Satellite System   Hệ thống vệ tinh định vị toàn cầu
+
+        HD       High Definition                      Độ phân giải cao
+  ---------------------------------------------------------------------------------------
+
+2. QUY ĐỊNH KỸ THUẬT
+
+2.1. Yêu cầu về chức năng hoạt động
+
+Thiết bị DAT phải có các chức năng tối thiểu sau đây:
+
+2.1.1. Chức năng hiển thị thông tin và thông báo trạng thái hoạt động
+
+Thiết bị DAT phải có chức năng tự kiểm tra khi khởi động ban đầu và trong suốt quá trình hoạt động và có các tín hiệu, báo hiệu bằng đèn, bằng âm thanh hoặc thông qua màn hình, để thông báo trạng thái hoạt động, bao gồm:
+
+- Tình trạng tín hiệu viễn thông di động;
+
+- Tình trạng có kết nối, mất kết nối với máy chủ;
+
+- Tình trạng có tín hiệu, mất tín hiệu GNSS;
+
+- Tình trạng hoạt động của bộ nhớ lưu trữ dữ liệu;
+
+- Tình trạng hoạt động của camera;
+
+- Trạng thái đăng nhập, đăng xuất của giáo viên và học viên;
+
+- Hiển thị thông báo thông tin học viên sau khi đăng nhập bao gồm: mã số học viên (ID), mã khóa học, tên học viên, tên giáo viên. Phát âm thanh thông báo: đúng, sai, hoàn thành khi đăng nhập, đăng xuất và khi nhận dạng sai khuôn mặt học viên so với đăng nhập.
+
+- Hiển thị theo thời gian thực, bao gồm: kết quả xác thực, số liệu thời gian, quãng đường đã học của phiên học thực hành lái xe.
+
+- Hiển thị số liệu thời gian, quãng đường của học viên đã luyện tập và còn phải luyện tập tiếp so với quy định.
+
+2.1.2. Chức năng ghi nhận thay đổi người dạy và học trên xe
+
+- Người dạy thực hành và học viên sử dụng thẻ hoặc vân tay chạm vào đầu đọc thẻ hoặc đầu đọc vân tay của thiết bị để đăng nhập hoặc đăng xuất hệ thống.
+
+- Thiết bị DAT phải ghi lại được thời điểm, tọa độ đăng nhập, đăng xuất của người dạy thực hành và học viên, đồng thời phải có báo hiệu để nhận biết các sự thay đổi này.
+
+- Việc đăng nhập, đăng xuất chỉ thực hiện được khi xe dừng hoặc đỗ.
+
+2.1.3. Chức năng xác thực người học qua camera
+
+- Thiết bị DAT có khả năng sử dụng camera nhận dạng khuôn mặt để xác thực học viên.
+
+- Tần suất xác thực là 5 phút/lần.
+
+- Thiết bị DAT ghi nhận thời điểm, tọa độ, kết quả xác thực tại thời điểm xác thực.
+
+2.1.4. Chức năng cảnh báo
+
+Thiết bị DAT phải phát tín hiệu cảnh báo bằng đèn Led nháy sáng hoặc màn hình hiển thị:
+
+- So sánh nhận dạng khuôn mặt học viên không trùng khớp với thông tin đã được đăng ký qua thẻ hoặc vân tay của học viên;
+
+- Phần cứng lỗi bao gồm: mất tín hiệu GNSS, mất tín hiệu viễn thông di động, lỗi bộ nhớ, camera bị lỗi;
+
+- Không kết nối được với máy chủ quản lý.
+
+2.1.5. Chức năng ghi và lưu trữ dữ liệu trên thiết bị
+
+Thiết bị DAT phải ghi và lưu trữ dữ liệu trong bộ nhớ thiết bị các thông tin tối thiểu như sau:
+
+2.1.5.1. Thông tin về người dạy và học viên
+
+- Thông tin định danh học viên qua mã thẻ hoặc vân tay và hình ảnh khuôn mặt.
+
+- Thông tin định danh giáo viên qua mã thẻ hoặc vân tay.
+
+- Thời điểm, tọa độ bắt đầu và kết thúc phiên học thực hành lái xe của từng học viên.
+
+- Thời gian, quãng đường học thực hành tích lũy và thời gian, quãng đường thực hành trong ngày của từng học viên.
+
+2.1.5.2. Thông tin hành trình xe chạy và kết quả xác thực khuôn mặt học viên
+
+- Hành trình xe chạy (thời gian, tọa độ, tốc độ) với tần suất ghi và lưu trữ không quá 30 giây một lần khi xe trong phiên dạy thực hành.
+
+- Kết quả xác thực khuôn mặt học viên (đúng, sai) với tần suất ghi và lưu trữ không quá 5 phút một lần khi xe đang có học viên học thực hành.
+
+- Ảnh chụp thời điểm đăng nhập và đăng xuất thành công. Ảnh chụp tại thời điểm thiết bị phát hiện Khuôn mặt học viên và định danh qua thẻ hoặc vân tay là không cùng một người.
+
+2.1.6. Chức năng truyền dữ liệu về máy chủ
+
+- Dữ liệu theo quy định tại mục 2.1.5 của Quy chuẩn này phải được truyền về máy chủ quản lý với tần suất không quá 5 phút một lần khi xe trong phiên thực hành và được quản lý, lưu trữ theo quy định tại mục 2.6 của Quy chuẩn này.
+
+- Trong trường hợp mất kết nối với máy chủ do gián đoạn đường truyền, thiết bị DAT phải gửi lại đầy đủ dữ liệu đã ghi nhận được trước đó về máy chủ ngay sau khi đường truyền hoạt động trở lại, theo thứ tự thời gian từ trước đến sau (cho phép gửi song song dữ liệu cũ và dữ liệu hiện thời).
+
+2.2. Yêu cầu về phần cứng
+
+Thiết bị DAT phải có vỏ bọc cứng, đảm bảo hoạt động bình thường trong môi trường làm việc của xe, đảm bảo không làm mất hay thay đổi dữ liệu đã được ghi, lưu trữ tại thiết bị DAT. Kết cấu thiết bị DAT phải có các bộ phận sau:
+
+- Bộ vi xử lý;
+
+- Bộ phận thu nhận hình ảnh (camera): độ phân giải tối thiểu HD (1280 x 720 pixel), chụp ảnh rõ trong mọi điều kiện ánh sáng;
+
+- Bộ phận đăng nhập và đăng xuất hệ thống để nhận dạng học viên (thông qua đầu đọc thẻ hoặc đầu đọc vân tay);
+
+- Bộ phận nhận tín hiệu GNSS:
+
+- Bộ phận thu phát tín hiệu viễn thông di động, tối thiểu công nghệ 3G;
+
+- Bộ phận hiển thị và cảnh báo: màn hình (có kích thước tối thiểu 7 Inch), đèn tín hiệu, loa;
+
+- Bộ nhớ đảm bảo dung lượng để lưu giữ các dữ liệu tối thiểu 30 ngày gần nhất các thông tin quy định tại mục 2.1.5 của Quy chuẩn này;
+
+- Đồng hồ thời gian thực được đồng bộ thời gian vệ tinh (khi có tín hiệu vệ tinh) và hiệu chỉnh theo giờ Việt Nam;
+
+- Có ít nhất một cổng kết nối theo chuẩn USB để trích xuất dữ liệu từ thiết bị DAT theo quy định tại mục 2.1.5 của Quy chuẩn này.
+
+2.3. Yêu cầu về phần mềm quản lý, khai thác của cơ sở đào tạo
+
+Phần mềm phải cài đặt được trên máy tính, các giao diện và kết quả hiển thị bằng tiếng Việt. Phần mềm phải có tối thiểu các tính năng sau đây:
+
+2.3.1. Tiếp nhận thông tin học viên
+
+Phần mềm có khả năng tiếp nhận:
+
+- Thông tin học viên thông qua việc nhập tệp dữ liệu báo cáo 1 được kết xuất từ phần mềm quản lý cơ sở đào tạo của Tổng cục Đường bộ Việt Nam:
+
+- Danh sách học viên học viên đã được kiểm tra đạt yêu cầu môn Pháp luật giao thông đường bộ. Kỹ thuật lái xe và danh sách học viên đã được kiểm tra đạt yêu cầu môn Pháp luật giao thông đường bộ và Kiến thức mới về xe nâng hạng (đối với học viên đào tạo nâng hạng);
+
+- Dữ liệu xác thực hình ảnh của học viên.
+
+2.3.2. Kết nối
+
+- Có khả năng kết nối, truyền dữ liệu tại mục 2.1.5 của Quy chuẩn này đến máy chủ của cơ quan quản lý và cung cấp cho cơ quan quản lý có thẩm quyền khi có yêu cầu;
+
+- Có khả năng kết nối với thiết bị DAT được lắp đặt trên xe tập lái.
+
+2.3.3. Giám sát trực tuyến
+
+- Đối với học viên: Họ và tên, ảnh chân dung, mã số học viên, thông tin tích lũy (tổng thời gian và quãng đường học thực hành từ khi nhập học), thông tin trong phiên học (tổng thời gian và quãng đường học thực hành);
+
+- Đối với giáo viên dạy thực hành: Họ và tên, ảnh chân dung, số Giấy chứng nhận giáo viên dạy thực hành lái xe;
+
+- Đối với xe tập lái: Biển số xe, số Giấy phép xe tập lái, tốc độ tức thời, tọa độ của xe, vị trí xe trên bản đồ số;
+
+- Đối với thông tin phiên học: Thông tin xuất phát (thời điểm, tọa độ), thông tin kết thúc (thời điểm, tọa độ), tình trạng nhận diện học viên, ảnh chụp thời điểm gần nhất, hành trình của xe trên bản đồ số.
+
+2.3.4. Quản lý, khai thác dữ liệu
+
+- Có khả năng thiết lập cấu hình thiết bị DAT tương ứng với xe tập lái.
+
+- Truy cập, tìm kiếm, lập bảng biểu, báo cáo, thống kê các dữ liệu theo biểu mẫu tại Phụ lục A, B, C của Quy chuẩn này.
+
+- Thông báo trạng thái hoạt động của Thiết bị DAT: trạng thái của thiết bị tương ứng lắp trên xe hoạt động bình thường hoặc mất tín hiệu quá 30 phút trong phiên dạy thực hành.
+
+2.4. Yêu cầu về khả năng xác thực
+
+2.4.1. Xác thực khuôn mặt:
+
+- Chu kỳ nhận dạng: ≤ 5 phút một lần:
+
+- Độ nghiêng tối đa của gương mặt cần nhận dạng theo phương thẳng đứng: 30°;
+
+- Độ nghiêng tối đa của gương mặt cần nhận dạng theo phương ngang: 25°.
+
+2.4.2. Xác thực qua thẻ hoặc vân tay
+
+- Tốc độ: ≤ 5 giây.
+
+2.5. Yêu cầu về độ chính xác xác định thời gian và quãng đường thực hành lái xe
+
+- Thời gian thực hành: sai số không vượt quá ± 0,5% giá trị đo.
+
+- Quãng đường thực hành: sai số không vượt quá ± 5% giá trị đo.
+
+2.6. Yêu cầu về tính an toàn và lưu trữ dữ liệu
+
+- Các dữ liệu được ghi và lưu giữ trong thiết bị DAT và máy chủ phải đảm bảo không bị xóa, không bị thay đổi trong suốt thời gian lưu trữ theo quy định.
+
+- Thời gian lưu trữ dữ liệu từ thiết bị DAT quy định mục 2.1.5 của Quy chuẩn này tại máy chủ quản lý tối thiểu là 05 năm.
+
+- Kênh truyền từ thiết bị DAT đến máy chủ quản lý phải được mã hóa và bảo mật truyền thông.
+
+2.7. Yêu cầu về nguồn điện sử dụng
+
+Thiết bị DAT sử dụng nguồn điện của xe ô tô. Mức điện áp sử dụng của thiết bị DAT phải phù hợp với mức điện áp danh định của xe và có khả năng chịu cắm ngược cực quy định tại Bảng 2 dưới đây.
+
+Bảng 2. Điện áp danh định và điện áp thử nghiệm của thiết bị DAT
+
+  -----------------------------------------------------------------------
+     Điện áp danh định (V)        Điện áp thử nghiệm cắm ngược cực (V)
+  ---------------------------- ------------------------------------------
+               12                               14 ± 0,1
+
+               24                               28 ± 0,2
+
+               36                               42 ± 0,2
+  -----------------------------------------------------------------------
+
+2.8. Quy định về lắp đặt thiết bị DAT trên xe ô tô
+
+- Phải lắp đặt thiết bị DAT ở vị trí giáo viên dạy lái xe và học viên quan sát được màn hình hiển thị, đèn báo trạng thái hoạt động của thiết bị, bảng hướng dẫn sử dụng.
+
+- Bộ phận thu nhận hình ảnh phải được lắp đặt sao cho chụp được toàn bộ khuôn mặt học viên đang thực hành lái xe, nhưng không được gây cản trở tầm nhìn bên ngoài.
+
+- Bảng hướng dẫn sử dụng thiết bị DAT phải thể hiện các thông tin sau:
+
++ Số điện thoại, địa chỉ liên hệ của nhà cung cấp thiết bị DAT;
+
++ Thao tác đăng nhập, đăng xuất lái xe;
+
++ Trạng thái hoạt động của thiết bị thông qua tín hiệu, báo hiệu.
+
+3. QUY ĐỊNH QUẢN LÝ
+
+3.1. Quản lý, chứng nhận sản phẩm
+
+3.1.1. Thiết bị DAT trước khi lưu thông trên thị trường phải thực hiện công bố hợp quy theo quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (Thông tư số 28/2012/TT-BKHCN) và Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (Thông tư số 02/2017/TT-BKHCN) và phải ghi nhãn hàng hóa theo quy định.
+
+3.1.1.1. Đối với sản phẩm thiết bị DAT sản xuất, lắp ráp trong nước: thực hiện đánh giá sự phù hợp theo phương thức 5 quy định tại Phụ lục II của Thông tư số 28/2012/TT-BKHCN và Thông tư số 02/2017/TT-BKHCN.
+
+3.1.1.2. Đối với sản phẩm thiết bị DAT nhập khẩu: thực hiện đánh giá sự phù hợp theo phương thức 7 quy định trong Phụ lục II của Thông tư số 28/2012/TT-BKHCN và Thông tư số 02/2017/BKHCN.
+
+3.1.2. Công bố hợp quy
+
+3.1.2.1. Sản phẩm thiết bị DAT công bố hợp quy phải dựa trên kết quả chứng nhận hợp quy của tổ chức chứng nhận được Bộ Giao thông vận tải chỉ định theo quy định tại Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa (được sửa đổi, bổ sung bởi Nghị định số 74/2018/NĐ-CP ngày 15 tháng 05 năm 2018 và Nghị định số 54/2018/NĐ-CP ngày 09 tháng 11 năm 2018).
+
+3.1.2.2. Tổng cục Đường bộ Việt Nam là cơ quan quản lý chuyên ngành, thực hiện việc tiếp nhận hồ sơ công bố hợp quy của tổ chức, cá nhân sản xuất kinh doanh thiết bị DAT theo quy định của pháp luật.
+
+3.2. Yêu cầu về ghi nhãn hàng hóa
+
+3.2.1. Việc ghi nhãn hàng hóa phải thực hiện theo Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa. Nhãn hàng hóa phải được dán, gắn, in hoặc đúc trực tiếp lên sản phẩm và bao bì thương phẩm ở vị trí để quan sát. Nhãn hàng hóa phải thể hiện các thông tin tối thiểu sau:
+
+- Tên và số sê-ri hàng hóa;
+
+- Tên và số điện thoại đơn vị sản xuất, nhập khẩu chịu trách nhiệm về chất lượng hàng hóa;
+
+- Tháng, năm sản xuất;
+
+- Điện áp sử dụng;
+
+- Xuất xứ hàng hóa.
+
+3.2.2. Dấu hợp quy được sử dụng để in trên bao bì, trong tài liệu kỹ thuật đi kèm và phải được gắn trên sản phẩm thiết bị DAT ở vị trí dễ quan sát. Dấu hợp quy phải được thiết kế, thể hiện cùng một màu, dễ nhận biết, không dễ tẩy xóa và không thể bóc ra gắn lại.
+
+3.3. Tổ chức thực hiện
+
+3.3.1. Tổng cục Đường bộ Việt Nam chịu trách nhiệm quản lý hoạt động công bố hợp quy, phối hợp với các cơ quan có liên quan kiểm tra việc thực hiện Quy chuẩn này.
+
+3.3.2. Trong trường hợp các tiêu chuẩn, quy chuẩn và quy định của pháp luật được viện dẫn trong Quy chuẩn này có sự thay đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản mới./.
+
+Phụ lục A
+
+BÁO CÁO QUÁ TRÌNH ĐÀO TẠO CỦA HỌC VIÊN
+
+(Ngày báo cáo:…/…/…)
+
+I. Thông tin học viên
+
++----------------------------------------------------+----------+-------+
+| 1. Họ và tên:                                      |          |       |
+|                                                    |          |       |
+| 2. Mã học viên:                                    |          |       |
+|                                                    |          |       |
+| 3. Ngày sinh:                                      |          |       |
+|                                                    |          |       |
+| 4. Mã khóa học:                                    |          |       |
+|                                                    |          |       |
+| 5. Hạng đào tạo:                                   |          |       |
+|                                                    |          |       |
+| 6. Cơ sở đào tạo:                                  |          |       |
+|                                                    +----------+       |
+|                                                    | Ảnh chân |       |
+|                                                    | dung     |       |
+|                                                    +----------+       |
+|                                                    |          |       |
++====================================================+==========+=======+
+
+II. Thông tin quá trình đào tạo (nếu click vào “Phiên đào tạo”, nhảy đến bản đồ số chi tiết lộ trình phiên đó)
+
++--------------+---------------+--------------------+--------------+-------------------+---------------------+
+| STT          | Phiên đào tạo | Biển số xe tập lái | Ngày đào tạo | Thời gian đào tạo | Quảng đường đào tạo |
++:============:+===============+====================+=============:+===================+=====================+
+| 1            |               |                    |              |                   |                     |
++--------------+---------------+--------------------+--------------+-------------------+---------------------+
+| 2            |               |                    |              |                   |                     |
++--------------+---------------+--------------------+--------------+-------------------+---------------------+
+| …            |               |                    |              |                   |                     |
++--------------+---------------+--------------------+--------------+-------------------+---------------------+
+| Tổng                                                             |                   |                     |
++------------------------------------------------------------------+-------------------+---------------------+
+
+Phụ lục B
+
+BÁO CÁO QUÁ TRÌNH ĐÀO TẠO CỦA XE TẬP LÁI
+
+(Ngày báo cáo:.../.../....)
+
+I. Thông tin xe tập lái
+
++----+-----------------------------------------------------------------+
+| 1. | Biển số xe:                                                     |
+|    |                                                                 |
+| 2  | Hạng xe:                                                        |
+|    |                                                                 |
+| 3. | Chủ sở hữu:                                                     |
+|    |                                                                 |
+| 4. | Cơ sở đào tạo:                                                  |
+|    |                                                                 |
+| 5. | Từ ngày …./…./…. đến ngày …./…./….                              |
++====+=================================================================+
+
+II. Thông tin quá trình đào tạo (nếu click vào "Phiên đào tạo", nhảy đến bản đồ số chi tiết lộ trình phiên đó)
+
++-------------+---------------+------------------+--------------+-------------------+---------------------+
+| STT         | Phiên đào tạo | Học viên tập lái | Ngày đào tạo | Thời gian đào tạo | Quãng đường đào tạo |
++:===========:+:=============:+:================:+:============:+:=================:+:===================:+
+| 1           |               |                  |              |                   |                     |
++-------------+---------------+------------------+--------------+-------------------+---------------------+
+| 2           |               |                  |              |                   |                     |
++-------------+---------------+------------------+--------------+-------------------+---------------------+
+| ...         |               |                  |              |                   |                     |
++-------------+---------------+------------------+--------------+-------------------+---------------------+
+| Tổng                                                          |                   |                     |
++---------------------------------------------------------------+-------------------+---------------------+
+
+Phụ lục C
+
+BÁO CÁO KẾT QUẢ THỰC HÀNH LÁI XE CỦA KHÓA HỌC
+
+(Ngày báo cáo:…/…/…)
+
+I. Thông tin khóa học
+
++-----------------------------------------------------------------------+
+| 1. Mã khóa học:                                                       |
+|                                                                       |
+| 2. Hạng đào tạo:                                                      |
+|                                                                       |
+| 3. Ngày khai giảng:                                                   |
+|                                                                       |
+| 4. Ngày bế giảng:                                                     |
+|                                                                       |
+| 5. Cơ sở đào tạo:                                                     |
++=======================================================================+
+
+II. Thông tin quá trình đào tạo (nếu click vào “Họ và tên” hoặc “Mã học viên”, nhảy đến báo cáo toàn bộ phiên đào tạo theo mẫu Phụ lục A)
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+   STT   Họ và tên    Ngày sinh   Mã học viên   Thời gian đào tạo   Quãng đường đào tạo   Ghi chú (Đáp ứng hoặc không đáp ứng quy định)
+  ----- ------------ ----------- ------------- ------------------- --------------------- -----------------------------------------------
+    1                                                                                    
+
+    2                                                                                    
+
+    …                                                                                    
+  --------------------------------------------------------------------------------------------------------------------------------------
+
+QCVN 106:2020/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ MÔ PHỎNG ĐỂ ĐÀO TẠO LÁI XE- CABIN HỌC LÁI XE Ô TÔ
+
+National technical regulation on Car driving training simulator
+
+Lời nói đầu
+
+QCVN 106:2020/BGTVT do Tổng cục Đường bộ Việt Nam biên soạn. Bộ Khoa học và Công nghệ thẩm định, Vụ Khoa học - Công nghệ trình Bộ trưởng Bộ Giao thông vận tải ban hành Kèm theo Thông tư số 37/2020/TT-BGTVT ngày 28 tháng 12 năm 2020.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ MÔ PHỎNG ĐỂ ĐÀO TẠO LÁI XE- CABIN HỌC LÁI XE Ô TÔ
+
+National technical regulation on Car driving training simulator
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật tối thiểu đối với thiết bị mô phỏng để đào tạo lái xe ô tô.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân có liên quan đến sản xuất, lắp ráp, nhập khẩu, chứng nhận chất lượng, quản lý và khai thác sử dụng thiết bị mô phỏng để đào tạo lái xe ô tô.
+
+1.3. Giải thích từ ngữ
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.3.1. Thiết bị mô phỏng đào tạo lái xe ô tô: là thiết bị cơ khí, điện tử được sử dụng để hướng dẫn việc học lái xe ô tô (sau đây gọi tắt là thiết bị mô phỏng dạy lái xe).
+
+1.3.2. Thẻ: là các loại thẻ từ, thẻ chip sử dụng để định danh học viên, giáo viên.
+
+1.4. Từ viết tắt
+
+  ------------------------------------------------------------------------
+    TT      Từ viết tắt     Ý nghĩa
+  ------ ------------------ ----------------------------------------------
+    1           TBMP        Thiết bị mô phỏng để đào tạo lái xe ô tô
+
+    2           PMGV        Phần mềm vận hành và giám sát của giáo viên
+
+    3           KHCN        Khoa học công nghệ
+  ------------------------------------------------------------------------
+
+2. QUY ĐỊNH KỸ THUẬT
+
+2.1. Quy định phần cứng
+
+2.1.1. Cấu trúc
+
+Thiết bị mỏ phỏng để đào tạo lái xe bao gồm 5 thành phần chính:
+
+(1) Cabin lái.
+
+(2) Hệ thống hiển thị và âm thanh.
+
+(3) Hệ thống máy tính và phần mềm mô phỏng.
+
+(4) Hệ thống mô phỏng chuyển động.
+
+(5) Bàn vận hành và giám sát của giáo viên.
+
+2.1.2. Số lượng các thiết bị
+
+Yêu cầu: M (bắt buộc trang bị chính xác số lượng). MM (bắt buộc trang bị với số lượng tối thiểu).
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   STT  Thành phần                                                                            ĐVT      Số lượng      Yêu cầu                   Ghi chú
+  ----- ----------------------------------------------------------------------------------- ------- -------------- ------------ -------------------------------------
+    1   Cabin lái                                                                             Bộ          1                     
+
+   1.1  Hệ thống điều khiển                                                                                                     
+
+    -   Vô lăng                                                                               Bộ          1             M       
+
+    -   Cần số                                                                                Cái         1             M       
+
+    -   Chân ga                                                                               Cái         1             M       
+
+    -   Chân côn                                                                              Cái         1             M        Chỉ có tác dụng trong chế độ số sàn
+
+    -   Phanh tay                                                                             Cái         1             M       
+
+    -   Chân phanh                                                                            Cái         1             M       
+
+   1.2  Ghế ngồi                                                                              Cái         1             MM      
+
+   1.3  Hệ thống đồng hồ                                                                                                        
+
+    -   Đồng hồ tốc độ xe, đồng hồ tốc độ vòng quay động cơ, đèn báo pha/cốt, đèn báo rẽ.     Cái         1             M       
+
+   1.4  Khung cabin                                                                                                             
+
+    -   Khung cabin                                                                           Cái         1             M       
+
+   1.5  Nút bấm còi xe                                                                        Cái         1             M       
+
+   1.6  Dây an toàn                                                                           Cái         1             MM            Tương ứng với số ghế ngồi
+
+   1.7  Cần điều khiển tín hiệu đèn (đèn pha, xi nhan)                                        Cái         1             M       
+
+   1.8  Cần điều khiển gạt nước                                                               Cái         1             M       
+
+   1.9  Chìa khóa hoặc nút bấm khởi động                                                      Cái         1             M       
+
+    2   Hệ thống hiển thị và âm thanh                                                                                           
+
+   2.1  Thiết bị mô phỏng góc nhìn phía trước lái xe                                          Bộ          1             M       
+
+   2.2  Thiết bị mô phỏng gương chiếu hậu                                                                                       
+
+    -   Mô phỏng gương chiếu hậu hai bên (bên trái)                                           Cái         1             M       
+
+    -   Mô phỏng gương chiếu hậu hai bên (bên phải)                                           Cái         1             M       
+
+    -   Mô phỏng gương chiếu hậu trong xe.                                                    Cái         1             M       
+
+   2.3  Loa                                                                                   Bộ          1             M       
+
+    3   Hệ thống máy tính và phần mềm mô phỏng                                                                                  
+
+   3.1  Máy tính cài đặt phần mềm mô phỏng đào tạo lái xe                                     Cái         1             MM      
+
+    4   Hệ thống mô phỏng chuyển động                                                         Bộ          1             M       
+
+    5   Bàn vận hành và giám sát của giáo viên                                                                                  
+
+    -   Màn hình                                                                              Cái         1             MM      
+
+    -   Phần mềm vận hành và giám sát của giáo viên                                           Bộ          1             M       
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bảng 1: Quy định số lượng các thiết bị mô phỏng để đào tạo lái xe
+
+2.2. Quy định kỹ thuật
+
+2.2.1. Cabin lái
+
+2.2.1.1. Hệ thống điều khiển
+
+a) Vô lăng
+
+- Đối xứng và có bề rộng tối thiểu 300mm;
+
+- Có giới hạn hành trình quay theo hai chiều (tối thiểu 1,75 vòng mỗi bên);
+
+- Có lực phản hồi lên vô lăng tại các tốc độ xe và góc đánh lái khác nhau, momen lực lớn nhất trong khoảng từ 2 ÷ 5 Nm;
+
+- Có khả năng tự quay về vị trí trung gian khi xe quay vòng và thôi tác dụng lực lên vành tay lái.
+
+b) Cần số
+
+- Phải có ký hiệu để nhận biết được vị trí các số;
+
+- Cải đặt số phải được chỉ định đúng theo danh mục thiết bị (thủ công/tự động);
+
+- Đối với bộ điều khiển số thủ công, cần có cơ cấu khóa vị trí cần số được điều khiển bởi bàn đạp ly hợp. Bàn đạp ly hợp và cơ cấu khóa liên động vị trí cần số phải đáng tin cậy (phải đạp bàn đạp ly hợp mới có thể chuyển vị trí cần số);
+
+- Đối với bộ điều khiển cần số tự động, cần có cơ cấu khóa vị trí cần số được điều khiển bằng bàn đạp phanh. Bàn đạp phanh và cơ cấu khóa liên động vị trí cần số phải đáng tin cậy (phải đạp bàn đạp phanh mới có thể chuyển vị trí cần số ra khỏi vị trí P, từ D về R, từ D về 1 hoặc 2, từ R và D về P);
+
+- Lực tác động của cần truyền phải nằm trong phạm vi từ 10N đến 50N.
+
+- Các ký hiệu tay số được quy định tại Bảng 2 dưới đây;
+
+  --------------------------------------------------------------------------------------------------
+    TT    Loại cabin tập lái                   Ký hiệu các vị trí số
+  ------- ------------------------------------ -----------------------------------------------------
+     1    Xe số điều khiển thủ công (số sàn)   Số N; Số tiến: 1, 2 , 3, 4, 5; số lùi: R
+
+     2    Xe số tự động                        Số P, N; Số D, số M (+,-) / số L, Số 1, 2; số lùi R
+  --------------------------------------------------------------------------------------------------
+
+Bảng 2 : Quy định về số lượng các vị trí số trên cần số
+
+c) Chân ga
+
+- Có trang bị cơ cấu đảm bảo bàn đạp tự hồi vị về vị trí ban đầu khi thôi tác dụng lực;
+
+- Tổng hành trình của bàn đạp ga nằm trong phạm vi (0 ÷ 100) mm;
+
+- Lực đạp phải nằm trong phạm vi (0 ÷ 100) N.
+
+d) Chân phanh
+
+- Có trang bị cơ cấu đảm bảo bàn đạp tự hồi vị về vị trí ban đầu khi thôi tác dụng lực;
+
+- Lực phản hồi không tuyến tính theo hành trình đạp: mô phỏng được hiện tượng lực phản hồi khác biệt giữa 2 giai đoạn (Giai đoạn 1: hành trình tự do khi má phanh chưa tiếp xúc, Giai đoạn 2: khi phanh bắt đầu có tác dụng);
+
+- Hành trình tối đa của bàn đạp phanh nằm trong phạm vi (0 ÷ 135) mm;
+
+- Lực đạp phải nằm trong phạm vi (0 ÷ 500) N.
+
+đ) Phanh tay
+
+- Lực kéo của cần phanh đỗ phải nằm trong khoảng từ 20 N đến 100 N.
+
+e) Chân ly hợp (Chân côn)
+
+- Có trang bị cơ cấu đảm bảo bàn đạp tự hồi vị về vị trí ban đầu khi thôi tác dụng lực;
+
+- Lực phản hồi không tuyến tính theo hành trình đạp: mô phỏng được hiện tượng lực phản hồi khác biệt giữa 2 giai đoạn (giai đoạn 1: từ lúc bắt đầu đạp ly hợp đến lúc ly hợp bắt đầu ngắt, giai đoạn 2: từ lúc ly hợp bắt đầu ngắt đến lúc ly hợp ngắt hoàn toàn);
+
+- Hành trình tối đa của bàn đạp còn nằm trong phạm vi (0 ÷ 120) mm;
+
+- Lực đạp phải nằm trong phạm vi (0 ÷ 150) N.
+
+2.2.1.2. Ghế ngồi
+
+- Có thể điều chỉnh được vị trí trước/sau, cao/thấp, ngả lưng ghế;
+
+- Độ lệch tâm giữa ghế lái và trục lái của vô lăng ≤ 40 mm.
+
+2.2.1.3. Hệ thống mô phỏng đồng hồ
+
+Hiển thị trong bảng điều khiển:
+
+- Tốc độ của xe, tốc độ vòng quay động cơ;
+
+- Đèn báo phanh đỗ, đèn báo rẽ trái và phải, đèn báo pha, cos và đèn báo dây an toàn;
+
+- Đồng hồ đo nhiên liệu và đồng hồ đo nhiệt độ nước;
+
+Khi thiết bị hoạt động, hiển thị của đồng hồ phải ổn định, không bị nhảy hoặc bị kẹt và sẽ trở về 0 khi không hoạt động.
+
+2.2.1.4. Khung cabin
+
+- Khung cabin được làm bằng kim loại, đảm bảo chắc chắn.
+
+2.2.1.5. Cần điều khiển gạt nước
+
+Có 3 vị trí tương ứng với 3 tốc độ gạt nước khác nhau.
+
+2.2.1.6. Cần điều khiển tín hiệu đèn
+
+Có các vị trí cho phép điều khiển các loại đèn khác nhau bao gồm: đèn pha, cốt, dừng, sương mù, xi nhan, đèn báo nguy hiểm.
+
+2.2.2. Hệ thống hiển thị và âm thanh
+
+2.2.2.1. Hệ thống mô phỏng góc nhìn phía trước
+
+- Loại thiết bị hiển thị: màn hình hoặc màn chiếu;
+
+- Chỉ tiêu thiết bị hiển thị: kích thước chiều ngang vùng hiển thị ≥ 1800mm.
+
+2.2.2.2. Mô phỏng gương chiếu hậu
+
+Sử dụng thiết bị riêng biệt hoặc tích hợp chung với hệ thống mô phỏng góc nhìn phía trước, có khả năng điều chỉnh góc nhìn gương chiếu hậu.
+
+2.2.2.3. Hệ thống âm thanh
+
+- Tối thiểu hệ thống âm thanh Stereo.
+
+2.2.3. Hệ thống máy tính và phần mềm mô phỏng
+
+2.2.3.1. Hệ thống máy tính
+
+Hệ thống máy tính có cấu hình phù hợp, được cài đặt hệ điều hành đảm bảo phù hợp để phần mềm mô phỏng lái hoạt động ổn định.
+
+2.2.3.2. Phần mềm mỏ phỏng lái xe
+
+Phần mềm mô phỏng lái xe có giao diện và kết quả hiển thị bằng Tiếng Việt, mô phỏng luyện tập thực hành lái xe cho các hạng xe B, C, D, E, FB, FC, FD, FE.
+
+Phần mềm mô phỏng phải có đầy đủ các tính năng theo quy định sau đây:
+
+a) Tiếp nhận thông tin học viên
+
+Tiếp nhận thông tin học viên thông qua việc nhập tệp dữ liệu báo cáo đăng ký sát hạch lái xe (báo cáo 1) được trích xuất từ phần mềm quản lý cơ sở đào tạo của Tổng cục Đường bộ Việt Nam.
+
+b) Chức năng đăng nhập và đăng xuất
+
+Học viên phải đăng nhập để bắt đầu một phiên luyện tập bằng mã học viên/thẻ RFID/vân tay (đồng bộ với phương thức nhận dạng học viên của Thiết bị giám sát học lý thuyết của cơ sở đào tạo).
+
+c) Chức năng bài tập
+
+Hệ thống phải được cài đặt điều kiện thời tiết (ngày/đêm; trời mưa to, gió lớn/ trời nắng) và tối thiểu 08 bài lái theo quy định bao gồm:
+
+- Bài tập lái xe tổng hợp:
+
+- Bài lái xe trong đô thị;
+
+- Bài lái xe trên đường cao tốc;
+
+- Bài lái xe trên đường đồi núi;
+
+- Bài lái xe lên, xuống phà;
+
+- Bài lái xe trên đường lầy;
+
+- Bài lái xe trong điều kiện sương mù;
+
+- Bài lái xe qua đường ngập nước, lái xe qua ngầm.
+
+Quy định cụ thể đối với từng bài tập như sau:
+
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài tập                                                                       | Yêu cầu                                                                                                                           |
++===============================================================================+===================================================================================================================================+
+| Bài tập lái xe tổng hợp                                                       | Địa hình theo quy định:                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xuất phát                                                                                                                       |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Dừng xe nhường đường cho người đi bộ                                                                                            |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Dừng và khởi xe trên dốc                                                                                                        |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Qua vệt bánh xe và đường vuông góc                                                                                              |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Đi qua ngã tư có tín hiệu điều khiển giao thông                                                                                 |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Đi xe qua đường vòng quanh co (chữ S)                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Ghép xe dọc vào nơi đỗ                                                                                                          |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Tạm dừng ở chỗ có đường sắt chạy qua                                                                                            |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Thay đổi số trên đường bằng                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Ghép xe ngang vào nơi đỗ                                                                                                        |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Tình huống nguy hiểm                                                                                                            |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Kết thúc                                                                                                                        |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe trong đô thị                                                       | Quãng đường tối thiểu: 10 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường một chiều, đường hai chiều, giao cắt đường sắt, ngã ba, ngã tư, cầu vượt, hầm đường bộ, phà |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 50)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe trên đường cao tốc                                                 | Quảng đường tối thiểu: 30 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Loại hình giao thông: cao tốc 2 chiều, mỗi chiều tối thiểu 3 làn đường                                                            |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe container (10)                                                                                                               |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe trên đường đồi núi (nhiều đường quanh co, lên dốc, xuống dốc, ...) | Quãng đường tối thiểu: 10 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường đất/đường nhựa, đường lên dốc/xuống dốc; Góc leo dốc tối đa: 10%                            |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (Số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 50)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe lên, xuống phà                                                     | Quãng đường tối thiểu: 3 km                                                                                                       |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường bê tông, đường lên dốc/xuống dốc; Góc leo dốc tối đa: 10%                                   |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 05)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 05)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 20)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe trên đường lầy                                                     | Quãng đường tối thiểu: 10 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường đất/đường nhựa, đường lên dốc/xuống dốc; Góc leo dốc tối đa: 10%                            |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 50)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Bài lái xe trong điều kiện sương mù                                           | Quảng đường tối thiểu: 10 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường đất/đường nhựa, đường lên dốc/xuống dốc; Góc leo dốc tối đa: 10%                            |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 50)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| Lái xe qua đường ngập nước, lái xe qua ngầm                                   | Quãng đường tối thiểu: 10 km                                                                                                      |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Các loại hình đường giao thông: đường đất/đường nhựa, đường lên dốc/xuống dốc; góc leo dốc tối đa: 10%                            |
+|                                                                               +-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                               | Chủng loại và số lượng phương tiện khác lưu thông trong bài tập: Tối thiểu bao gồm                                                |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe tải (số lượng: 10)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe con (số lượng: 30)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe cứu thương (Số lượng: 1)                                                                                                     |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe khách (số lượng: 10)                                                                                                         |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Xe máy (Số lượng: 50)                                                                                                           |
+|                                                                               |                                                                                                                                   |
+|                                                                               | - Người đi bộ (Số lượng 30)                                                                                                       |
++-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+
+Bảng 3: Yêu cầu các bài tập lái
+
+c) Tính năng quan sát phía trước
+
+Hệ thống phải có chức năng hiển thị góc nhìn phía trước của lái xe với các thông số như sau:
+
+- Trường nhìn: Tối thiểu 120° x 22,5° (Rộng x Cao);
+
+- Tốc độ khung hình: Tối thiểu 30 fps;
+
+- Chất lượng hình ảnh hiển thị đáp ứng: số màu ≥ 24 bits, độ chi tiết tương ứng của góc nhìn và số điểm ảnh: tối thiểu 2,0 arcmin/pixel, độ tương phản tối thiểu 15:1;
+
+- Trường hợp sử dụng máy chiếu để làm màn hình mô phỏng, phải nhìn rõ trong điều kiện ánh sáng 300 Lux.
+
+d) Tính năng quan sát gương chiếu hậu
+
+Hệ thống phải có chức năng hiển thị 3 góc nhìn quan sát gương chiếu hậu cho lái xe, bao gồm: gương chiếu hậu hai bên (bên trái), gương chiếu hậu hai bên (bên phải), gương chiếu hậu trên kính chắn gió, vị trí hiển thị mô phỏng gương chiếu hậu phù hợp với từng hạng xe B, C, D, E, FB, FC, FD, FE.
+
+d) Tính năng mô phỏng đèn chiếu sáng và đèn tín hiệu
+
+Hệ thống phải có chức năng mô phỏng hoạt động của các đèn chiếu sáng và các đèn tín hiệu. Cụ thể như sau:
+
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Loại đèn                 | Yêu cầu                                                                                                                |
++==========================+========================================================================================================================+
+| Đèn chiếu xa phía trước  | - Màu trắng hoặc vàng.                                                                                                 |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn chiếu gần phía trước | - Trắng hoặc vàng.                                                                                                     |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn báo rẽ trước         | - Màu vàng.                                                                                                            |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn báo rẽ sau           | - Màu vàng/đỏ.                                                                                                         |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn phanh                | - Màu đỏ.                                                                                                              |
+|                          |                                                                                                                        |
+|                          | - Cường độ 20 ÷ 100 cd hoặc trong điều kiện ánh sáng ban ngày phải bảo đảm nhận biết được tín hiệu ở khoảng cách 20 m. |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn lùi                  | - Màu trắng.                                                                                                           |
+|                          |                                                                                                                        |
+|                          | - Cường độ 80 ÷ 600 cd hoặc trong điều kiện ánh sáng ban ngày phải bảo đảm nhận biết được tín hiệu ở khoảng cách 20 m  |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Đèn vị trí trước         | Màu trắng hoặc vàng.                                                                                                   |
++--------------------------+------------------------------------------------------------------------------------------------------------------------+
+
+Bảng 4: Mô phỏng tín hiệu đèn
+
+e) Tính năng mô phỏng hoạt động của các phương tiện khác
+
+Ngoại trừ bài tập sa hình, các bài tập khác phải mô phỏng các phương tiện khác cùng tham gia giao thông bao gồm nhưng không giới hạn gồm: người đi bộ, xe con, xe khách, xe tải, xe máy...
+
+Các phương tiện này phải được vận hành tự động theo tình huống, không cần sự điều khiển.
+
+g) Tính năng mô phỏng âm thanh
+
+Hệ thống phải có tính năng mô phỏng được tối thiểu các loại âm thanh sau:
+
+- Khởi động bật công tắc đánh lửa, dòng điện được cung cấp sẽ có âm thanh khởi động động cơ;
+
+- Âm thanh động cơ (thay đổi theo tốc độ và tải);
+
+- Âm thanh báo khi phanh gấp;
+
+- Âm thanh xung quanh, mô phỏng âm thanh lái xe của các phương tiện khác trong khung cảnh lái xe, mô phỏng mưa và sấm sét trong thời tiết mưa;
+
+- Tiếng rơ le đóng ngắt theo chu kỳ đèn xi nhan nháy;
+
+- Tiếng phát ra từ cần gạt mưa tỷ lệ với chu kỳ và tốc độ gạt;
+
+- Tiếng va chạm tỷ lệ với mức độ va chạm với chướng ngại vật;
+
+- Tiếng hướng dẫn bài và đọc điểm chấm khi đi trong sa hình chuẩn các hạng.
+
+2.2.3.3. Phần mềm tạo và hiển thị hình ảnh IG (Image Generator)
+
+  -------------------------------------------------------------------------------------------------------
+  Tính năng                                                Yêu cầu           Ghi chú
+  ---------------------------------------------- --------------------------- ----------------------------
+  Tốc độ khung hình (framerate)                           ≥ 30 fps           
+
+  Độ phân giải hình ảnh quan sát của lái xe          ≥ 5760 x 1080 pixel     
+
+  Độ phân giải hình ảnh quan sát của giáo viên       ≥ 1920 x 1080 pixel     
+
+  Mô phỏng thời gian trong ngày                           Ngày/đêm           Có thể điều chỉnh theo 24h
+
+  Hỗ trợ SpeedTree. Glass                                    Có              
+
+  Hỗ trợ công nghệ LOD (Levei of Detail)                     Có              
+
+  Hiệu ứng thời tiết                              Nắng, mưa, băng, tuyết...  
+
+  Hiệu ứng khác                                       Khói xe, bụi....       
+  -------------------------------------------------------------------------------------------------------
+
+Bảng 5: Tính năng phần mềm hiển thị
+
+2.2.3.4. Phần mềm vận hành và giám sát của giáo viên
+
+Phần mềm vận hành và giám sát của giáo viên (PMGV) phải có đầy đủ các tính năng như sau:
+
+a) Tính năng lựa chọn thông số bài tập
+
+PMGV phải cho phép giáo viên lựa chọn được các các thông số trước hoặc trong khi thực hiện bài tập, bao gồm:
+
+- Thời gian thực hiện bài tập: ngày/đêm (có thể chọn 24 thời điểm trong ngày);
+
+- Điều kiện thời tiết: mưa, nắng, sương mù, tuyết;
+
+- Chọn tình huống bất ngờ.
+
+b) Tính năng quan sát toàn cảnh
+
+- PMGV phải cho phép giáo viên chọn được 8 góc quan sát xung quanh xe trong bài tập, bao gồm: góc nhìn từ trước xe, góc nhìn từ sau xe, góc nhìn từ bên trái xe, góc nhìn từ bên phải xe và 4 góc nhìn chéo;
+
+- Chất lượng hình ảnh màn hình quan sát toàn cảnh: tối thiểu 1920 x 1080 pixel (Full HD).
+
+[]
+
+Hình: Vị trí 8 góc nhìn toàn cảnh xung quanh xe
+
+c) Tính năng chấm điểm và thông báo lỗi
+
+Với bài tập sa hình PMGV phải cho phép chấm điểm tự động theo quy định. Các lỗi của học viên trong quá trình thực hiện bài tập phải được thông báo trên màn hình và trên hệ thống loa.
+
+d) Ghi lưu và tái hiện
+
+PMGV phải có chức năng ghi lại quá trình thực hiện bài tập của học viên và sau đó cho phép tái hiện lại.
+
+Tốc độ tái hiện có thể điều chỉnh nhanh, chậm theo các mức:
+
+  -----------------------------------------------------------------------
+        Tốc độ tái hiện       Diễn giải
+  --------------------------- -------------------------------------------
+              1x              Tốc độ bình thường
+
+              2x              Tốc độ nhanh gấp 2 lần
+  -----------------------------------------------------------------------
+
+đ) Tính năng xuất báo cáo kết quả người học
+
+PMGV phải có tính năng lưu trữ và theo dõi lịch sử đào tạo của học viên. Các thông tin lưu trữ bao gồm:
+
+Thông tin học viên: Họ và tên, ngày tháng năm sinh.
+
+Kết quả đào tạo: Số lần học, thời gian học, điểm, các lỗi và tần suất mắc lỗi trong quá trình học.
+
+Có chức năng in kết quả của học viên.
+
+e) Tính năng thay đổi ngôn ngữ giao diện phần mềm
+
+Hệ thống phải cho phép thay đổi được ngôn ngữ hiển thị trên giao diện phần mềm. Các ngôn ngữ bao gồm: Tiếng Anh, Tiếng Việt (Ngôn ngữ mặc định lúc khởi tạo có thể được cấu hình bởi quản trị hệ thống).
+
+g) Tính năng chọn tình huống bất ngờ
+
+Hệ thống phải có chức năng cho phép giáo viên có thể lựa chọn và áp dụng các tình huống giao thông bất ngờ trong quá trình luyện tập. Các tình huống bao gồm và không giới hạn các tình huống sau:
+
+- Người đi bộ hoặc động vật băng cắt qua đường;
+
+- Gặp xe ô tô đi lùi trên cao tốc;
+
+- Gặp xe ô tô đi ngược chiều trên cao tốc:
+
+- Xe tải, xe máy đổi hướng mà không có tín hiệu xi nhan;
+
+- Xe ô tô phía trước đột ngột dừng lại.
+
+2.2.3.5. Chỉ tiêu tính năng mô phỏng chuyển động của xe ô tô
+
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Chỉ tiêu                                                                                   | Yêu cầu                                                                      | Ghi chú   |
++============================================================================================+:============================================================================:+===========+
+| Tốc độ mô phỏng                                                                            |                                                                              |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Tốc độ tính toán mô phỏng trạng thái hoạt động xe                                          | ≥ 60 Hz                                                                      |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Độ trễ truyền thông                                                                        | ≤ 50 ms                                                                      |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Độ chính xác các tín hiệu điều khiển                                                       |                                                                              |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Độ phân giải tín hiệu góc vô lăng                                                          | ≤ 0,5 độ                                                                     |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Độ phân giải tín hiệu chân ga, chân phanh, côn                                             | ≤ 0,5 độ                                                                     |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Các chế độ truyền động xe                                                                  |                                                                              |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Số lượng chế độ truyền động mô phỏng                                                       | 2                                                                            |           |
+|                                                                                            | (số sàn, số tự động)                                                         |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Chế độ số sàn                                                                              | Mô phỏng được các hiện tượng:                                                |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Phải đạp chân côn khi sang số                                              |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Quá trình đóng/mở ly hợp khi nhả/đạp chân côn dẫn tới thay đổi vận tốc xe. |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Mô phỏng các trường hợp hiện tượng chết máy xảy ra khi xe quá tải          |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+| Mô phỏng tiếp xúc của bánh xe với các loại vật liệu đường và điều kiện mặt đường khác nhau | Tối thiểu 4 loại đường:                                                      |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Đường nhựa (điều kiện khô ráo/ướt)                                         |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Đường bê tông (điều kiện khô ráo/ướt)                                      |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Đường sỏi đất                                                              |           |
+|                                                                                            |                                                                              |           |
+|                                                                                            | - Đường đất có phủ cỏ                                                        |           |
++--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+-----------+
+
+Bảng 6: Yêu cầu tính năng mô phỏng chuyển động
+
+2.2.4. Hệ thống mô phỏng chuyển động
+
+Tối thiểu 3 bậc tự do (tịnh tiến theo phương thẳng đứng, lắc quanh trục ngang, lắc quanh trục dọc).
+
+• Yêu cầu chung
+
+  ------------------------------------------------------------------------------------------------------------
+  Thành phần                        Yêu cầu               Ghi chú
+  -------------------- ---------------------------------- ----------------------------------------------------
+  Loại truyền động         Truyền động điện/thủy khí      
+
+  Số bậc tự do                  Tối thiểu 3 bậc           Tịnh tiến theo trục z, quay quanh trục x và trục y
+
+  Tải trọng                     Tối thiểu 250kg           
+  ------------------------------------------------------------------------------------------------------------
+
+• Yêu cầu về chuyển động
+
+  -------------------------------------------------------------------------------------
+  Thành phần                 Biên độ tối thiểu   Vận tốc tối thiểu   Gia tốc tối thiểu
+  ------------------------- ------------------- ------------------- -------------------
+  Tịnh tiến theo phương Z          140mm              200mm/s             2 m/s²
+
+  Góc ngẩng (pitch)                ±15°                15°/s              120°/s²
+
+  Góc lật (roll)                   ±15°                15°/s              120°/s²
+
+  Độ chính xác                     2 mm                             
+  -------------------------------------------------------------------------------------
+
+Bảng 7: Yêu cầu cơ cấu mô phỏng chuyển động
+
+2.2.5. Bàn vận hành và giám sát của giáo viên
+
+Có khả năng kết nối đến nhiều TBMP cùng lúc để vận hành, giám sát hoạt động của các TBMP.
+
+Màn hình hiển thị:
+
+- Kích thước tối thiểu 23 inch;
+
+- Độ phân giải: Tối thiểu 1920x1080 pixel (Full HD).
+
+2.3. Tính an toàn của dữ liệu
+
+Các dữ liệu lịch sử đào tạo của học viên được ghi và lưu giữ trong TBMP và máy chủ phải đảm bảo không bị xóa, không bị thay đổi trong suốt thời gian lưu trữ theo quy định.Thời gian lưu trữ dữ liệu của TBMP tại máy chủ tối thiểu là 2 năm.
+
+2.4. Nguồn điện sử dụng
+
+TBMP sử dụng nguồn điện là 220 VAC hoặc 380 VAC. Mức điện áp sử dụng của TBMP phải phù hợp với mức điện áp điều khiển là 24 VDC.
+
+2.5. Tương thích điện từ và an toàn điện thấp
+
+2.5.1. Tương thích điện từ (EMC 2014/30/EU)
+
+TBMP phải thỏa mãn các tiêu chuẩn tương thích điện từ: EN55014-1:2017; EN 55014-2:2015.
+
+2.5.2. An toàn điện áp thấp
+
+TBMP phải tuân theo tiêu chuẩn LVD 2014/35/EU (Các tiêu chuẩn tham chiếu: EN60335-1:2012+A11:2014+A13:2017; EN60335-2-82:2003+A1:2008: EN62233:2008.
+
+2.6. Quy định về lắp đặt TBMP
+
+Mỗi đơn vị phải bố trí phòng riêng dành để lắp đặt TBMP và bố trí cho học viên được học trên TBMP tại phòng này. Căn cứ vào diện tích chiếm chỗ của TBMP để bố trí phù hợp, khoảng cách tối thiểu để lắp đặt giữa 2 TBMP là 01 m.
+
+3. QUY ĐỊNH QUẢN LÝ
+
+3.1. Quản lý, chứng nhận sản phẩm
+
+3.1.1. Sản phẩm TBMP trước khi lưu thông trên thị trường phải thực hiện công bố hợp quy theo quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (Thông tư số 28/2012/TT-BKHCN) và Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (Thông tư số 02/2017/TT-BKHCN) và phải ghi nhãn hàng hóa theo quy định.
+
+3.1.1.1. Đối với sản phẩm TBMP sản xuất, lắp ráp trong nước: thực hiện đánh giá sự phù hợp theo phương thức 5 quy định tại Phụ lục II của Thông tư số 28/2012/TT-BKHCN và Thông tư số 02/2017/TT-BKHCN.
+
+3.1.1.2. Đối với sản phẩm TBMP nhập khẩu: thực hiện đánh giá sự phù hợp theo phương thức 8 quy định trong Phụ lục II của Thông tư số 28/2012/TT-BKHCN và Thông tư số 02/2017/BKHCN.
+
+3.1.2. Công bố hợp quy
+
+3.1.2.1. Sản phẩm TBMP công bố hợp quy phải dựa trên kết quả chứng nhận hợp quy của tổ chức chứng nhận được Bộ Giao thông vận tải chỉ định theo quy định tại Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa (được sửa đổi, bổ sung bởi Nghị định số 74/2018/NĐ-CP ngày 15 tháng 05 năm 2018 và Nghị định số 54/2018/NĐ-CP ngày 09 tháng 11 năm 2018).
+
+3.1.2.2. Tổng cục Đường bộ Việt Nam là cơ quan quản lý chuyên ngành, thực hiện việc tiếp nhận hồ sơ công bố hợp quy của tổ chức, cá nhân sản xuất kinh doanh TBMP theo quy định của pháp luật.
+
+3.2. Yêu cầu về ghi nhãn hàng hóa
+
+3.2.1. Việc ghi nhãn hàng hóa phải thực hiện theo Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa. Nhãn hàng hóa phải được dán, gắn, in hoặc đúc trực tiếp lên sản phẩm và bao bì thương phẩm ở vị trí để quan sát. Nhãn hàng hóa phải thể hiện các thông tin tối thiểu sau:
+
+- Tên và số sê-ri hàng hóa;
+
+- Tên và số điện thoại đơn vị sản xuất, nhập khẩu chịu trách nhiệm về chất lượng hàng hóa;
+
+- Tháng, năm sản xuất;
+
+- Điện áp sử dụng;
+
+- Xuất xứ hàng hóa.
+
+3.2.2. Dấu hợp quy được sử dụng để in trên bao bì, trong tài liệu kỹ thuật đi kèm và phải được gắn trên sản phẩm TBMP ở vị trí dễ quan sát. Dấu hợp quy phải được thiết kế, thể hiện cùng một màu, để nhận biết, không dễ tẩy xóa và không thể bóc ra gắn lại.
+
+3.3. Tổ chức thực hiện
+
+3.3.1. Tổng cục Đường bộ Việt Nam chịu trách nhiệm quản lý hoạt động công bố hợp quy, phối hợp với các cơ quan có liên quan kiểm tra việc thực hiện Quy chuẩn này.
+
+3.3.2. Trong trường hợp các tiêu chuẩn, quy chuẩn và quy định của pháp luật được viện dẫn trong Quy chuẩn này có sự thay đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản mới./.

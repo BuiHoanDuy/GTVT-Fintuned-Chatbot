@@ -1,0 +1,852 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                            Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 46/2023/TT-BGTVT               Hà Nội, ngày 29 tháng 12 năm 2023
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ VÀNH BÁNH XE MÔ TÔ, XE GẮN MÁY
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và các sửa đổi, bổ sung;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học-Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về yêu cầu kỹ thuật và phương pháp thử vành bánh xe mô tô, xe gắn máy.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về yêu cầu kỹ thuật và phương pháp thử vành bánh xe mô tô, xe gắn máy
+
+Mã số đăng ký: QCVN 113:2023/BGTVT
+
+Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 07 năm 2024.
+
+2. Thông tư này bãi bỏ Thông tư số 52/2012/TT-BGTVT ngày 21 tháng 12 năm 2012 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành 03 Quy chuẩn kỹ thuật quốc gia về phụ tùng xe mô tô, xe gắn máy.
+
+3. Quy định chuyển tiếp
+
+a) Đối với hồ sơ thử nghiệm được đăng ký trước ngày QCVN 113:2023/BGTVT có hiệu lực thì tiếp tục thử nghiệm và chứng nhận chất lượng theo QCVN 44:2012/BGTVT hoặc QCVN 46:2012/BGTVT.
+
+b) Trong vòng 01 năm kể từ ngày Thông tư này có hiệu lực, các vành, vành bánh xe đã được chứng nhận chất lượng theo QCVN 44:2012/BGTVT hoặc QCVN 46:2012/BGTVT không phải thử nghiệm, chứng nhận lại.
+
+Điều 3. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  ------------------------------------------------------------------------------
+  Nơi nhận:                                   KT. BỘ TRƯỞNG
+  - Như điều 3;                               THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                      Lê Đình Thọ
+  - Các Cơ quan thuộc Chính phủ;              
+  - Các Bộ, cơ quan ngang Bộ;                 
+  - UBND các tỉnh, thành phố trực thuộc TW;   
+  - Bộ trưởng Bộ GTVT;                        
+  - Các Thứ trưởng Bộ GTVT;                   
+  - Cục KSTTHC (Văn phòng Chính phủ);         
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);        
+  - Công báo;                                 
+  - Cổng Thông tin điện tử Chính phủ;         
+  - Cổng Thông tin điện tử Bộ GTVT;           
+  - Báo Giao thông, Tạp chí GTVT;             
+  - Lưu: VT, KHCN&MT _((NQ. Huy)).            
+  ------------------------------------------- ----------------------------------
+
+  ------------------------------------------------------------------------------
+
+QCVN 113:2023/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ VÀNH BÁNH XE MÔ TÔ, XE GẮN MÁY
+
+National technical regulation on technical requirements and test methods for wheels of motorcycles and mopeds
+
+Lời nói đầu
+
+QCVN 113:2023/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học, Công nghệ và Môi trường trình duyệt, Bộ Khoa học và công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành kèm theo Thông tư số …..…/2023/TT-BGTVT ngày …tháng …năm 2023.
+
+Quy chuẩn kỹ thuật quốc gia QCVN 113:2023/BGTVT thay thế cho QCVN 44:2012/BGTVT và QCVN 46:2012/BGTVT của Bộ Giao thông vận tải.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ VÀNH BÁNH XE MÔ TÔ, XE GẮN MÁY
+
+National technical regulation on technical requirements and test methods for wheels of motorcycles and mopeds
+
+1. QUY ĐỊNH CHUNG
+
+1.1 Phạm vi điều chỉnh
+
+1.1.1 Quy chuẩn này quy định về yêu cầu kỹ thuật và phương pháp thử đối với vành, vành bánh xe dùng cho xe mô tô, xe gắn máy (bao gồm vành bánh xe làm bằng thép, hợp kim).
+
+1.1.2 Quy chuẩn này không áp dụng đối với vành, vành bánh xe sử dụng vào mục đích an ninh, quốc phòng.
+
+1.2 Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các cơ sở sản xuất, nhập khẩu vành hoặc vành bánh xe dùng cho xe mô tô, xe gắn máy, cơ sở sản xuất lắp ráp xe mô tô, xe gắn máy và các cơ quan, tổ chức liên quan đến việc quản lý, thử nghiệm, kiểm tra chứng nhận chất lượng đối với vành, vành bánh xe dùng cho xe mô tô, xe gắn máy.
+
+1.3 Giải thích từ ngữ
+
+1.3.1 Vành (Rim): Chi tiết của vành bánh xe để lắp với lốp và giữ lốp.
+
+1.3.2 Mâm vành bánh xe (wheel disc): Chi tiết của vành bánh xe, là bộ phận ở giữa trục và vành.
+
+1.3.3 Vành bánh xe (wheel): Bộ phận chịu tải ở giữa lốp và trục, thường gồm có hai chi tiết chính là vành và mâm vành bánh xe, có thể được chế tạo liền khối hoặc kết cấu ghép.
+
+1.3.4 Vành bánh xe có kết cấu liền khối (unit construction wheel): Vành bánh xe có vành và mâm vành bánh xe được chế tạo liền thành một khối.
+
+1.3.5 Vành bánh xe có kết cấu ghép (composite construction wheel): Vành bánh xe có vành, mâm vành bánh xe được liên kết lại thành một khối thông qua các mối ghép (có thể tháo được).
+
+1.3.6 Kiểu loại vành, vành bánh xe: Vành, vành bánh xe được coi là cùng kiểu loại nếu có cùng thiết kế, nhãn hiệu, cở sở sản xuất, địa chỉ cơ sở sản xuất và không có sự khác biệt về một trong các đặc tính kỹ thuật sau đây:
+
+Mã đường kính và mã chiều rộng danh nghĩa; Kết cấu vành, vành bánh xe;
+
+Sử dụng cho lốp (có săm hoặc không săm);
+
+Tải trọng lớn nhất cho phép tác dụng lên bánh xe;
+
+Vật liệu chế tạo vành, vành bánh xe.
+
+2. QUY ĐỊNH VỀ KỸ THUẬT
+
+2.1 Yêu cầu chung
+
+2.1.1 Vành, vành bánh xe phải được chế tạo đúng theo thiết kế hoặc tài liệu kỹ thuật của cơ sở sản xuất;
+
+2.1.2 Bề mặt vành, vành bánh xe không được có vết rạn, nứt và các khuyết tật khác có thể nhìn thấy được;
+
+2.1.3 Trên vành, vành bánh xe phải ghi mã đường kính và mã chiều rộng danh nghĩa của vành (ghi theo hướng dẫn Phụ lục A) tại các vị trí có thể nhìn thấy được sau khi lắp lốp;
+
+2.1.4 Vành, vành bánh xe phải có khả năng chống gỉ sét (mạ, sơn phủ, vật liệu chống gỉ …). Không áp dụng cho những phần không nhìn thấy trên bề mặt vành, vành bánh xe sau khi lắp lốp;
+
+2.1.5 Kích thước và dung sai của vành, vành bánh xe phải đúng theo tài liệu thiết kế hoặc tài liệu kỹ thuật của cơ sở sản xuất. Vành tâm lõm (kiểu WM, MT, LF) phải có kích thước và dung sai theo phụ lục A của Quy chuẩn này.
+
+2.2. Các yêu cầu kỹ thuật đối với vành
+
+Vành sử dụng trong vành bánh xe có kết cấu ghép sử dụng nan hoa phải đáp ứng các yêu cầu sau:
+
+2.2.1 Sai lệch đường kính
+
+Sai lệch đường kính vành (hiệu giữa giá trị lớn nhất và nhỏ nhất của đường kính vành của vành bánh xe có kết cấu ghép) không được lớn hơn 1,2 mm.
+
+2.2.2 Độ đồng phẳng
+
+Độ đồng phẳng của vành được đo bằng cách đặt vành lên mặt phẳng chuẩn như Hình 1. Khe hở lớn nhất giữa vành và mặt phẳng chuẩn không được lớn hơn 0,8 mm.
+
+[]
+
+Hình 1 - Độ đồng phẳng của vành
+
+2.2.3 Độ bền biến dạng
+
+Vành không bị gãy hoặc rạn nứt khi tác dụng một lực F vào vành theo mô tả ở hình B1. Độ biến dạng của vành đạt tới giá trị ghi trong bảng 1 thì lực tác dụng không được nhỏ hơn giá trị ghi trong bảng 2.
+
+Phương pháp thử được mô tả trong Phụ lục B
+
+Bảng 1 - Độ biến dạng
+
++-----------------------------------+-----------------------------------------------------+
+| Mã chiều rộng danh nghĩa của vành | Đường kính danh nghĩa của vành (inch)               |
+|                                   +-----------------+-----------------+-----------------+
+|                                   | ≤15             | 16, 17, 18      | ≥19             |
+|                                   +-----------------+-----------------+-----------------+
+|                                   | Độ biến dạng (mm)                                   |
++:=================================:+:===============:+:===============:+:===============:+
+| Từ 1.10 đến 6.00                  | 10              | 15              | 20              |
++-----------------------------------+-----------------+-----------------+-----------------+
+
+Bảng 2 - Lực nén hướng kính
+
+  ------------------------------------------------------------------------------------------
+   Mã chiều rộng danh nghĩa       Lực (kN)       Mã chiều rộng danh nghĩa      Lực (kN)
+  -------------------------- ------------------ -------------------------- -----------------
+             1.10                   0,98                   2.75                  6,37
+
+             1.20                   1,47                   3.00                  6,37
+
+             1.40                   1,96                   3.50                  6,37
+
+             1.50                   2,45                   4.00                  6,37
+
+             1.60                   3,43                   4.50                  6,37
+
+             1.85                   4,41                   5.00                  6,37
+
+             2.15                   4,90                   5.50                  6,37
+
+             2.50                   6,37                   6.00                  6,37
+  ------------------------------------------------------------------------------------------
+
+2.3 Các yêu cầu kỹ thuật đối với vành bánh xe
+
+Vành, vành bánh xe phải đáp ứng các yêu cầu sau (không áp dụng yêu cầu này cho vành bánh xe có kết cấu ghép sử dụng nan hoa):
+
+2.3.1 Khả năng chịu tải trọng hướng kính
+
+Sau khi thử khả năng chịu tải trọng hướng kính theo Phụ lục C ban hành kèm theo Quy chuẩn này, bề mặt vành bánh xe không được xuất hiện các vết nứt, không có sự biến dạng rõ rệt hoặc bất kỳ sự tháo lỏng không bình thường nào tại các chỗ nối ghép.
+
+2.3.2 Khả năng chịu va đập hướng kính
+
+Sau khi thử khả năng chịu va đập hướng kính (tải trọng đơn hoặc tải trọng kép) theo phụ lục D ban hành kèm theo Quy chuẩn này, bề mặt vành bánh xe không được xuất hiện các vết nứt, không có sự biến dạng rõ rệt hoặc bất kỳ sự tháo lỏng không bình thường nào tại các chỗ nối ghép hay sự rò rỉ không khí đột ngột do vành bị hỏng.
+
+2.3.3 Khả năng chịu mô men xoắn
+
+Sau khi thử khả năng chịu mô men xoắn theo Phụ lục E ban hành kèm theo Quy chuẩn này, bề mặt vành bánh xe không được xuất hiện các vết nứt, không có sự biến dạng rõ rệt hoặc bất kỳ sự tháo lỏng không bình thường nào tại các chỗ nối ghép. Chỉ áp dụng yêu cầu kỹ thuật này cho vành bánh xe dùng trong bánh xe dẫn động. Không áp dụng cho vành bánh xe có chứa động cơ điện bên trong.
+
+2.3.4 Độ kín khí đối với vành lắp lốp không săm
+
+Vành bánh xe sử dụng cho lốp không săm phải thử độ kín khí. Sau khi thử độ kín khí theo Phụ lục G ban hành kèm theo Quy chuẩn này, không được có sự rò rỉ không khí qua vành bánh xe thể hiện ở dạng bọt khí có thể nhìn thấy được.
+
+3. QUY ĐỊNH VỀ QUẢN LÝ
+
+3.1 Phương thức kiểm tra, thử nghiệm
+
+Vành, vành bánh xe sản xuất, lắp ráp và nhập khẩu phải được kiểm tra thử nghiệm, chứng nhận theo quy định hiện hành về chất lượng an toàn kỹ thuật và bảo vệ môi trường.
+
+3.2 Tài liệu kỹ thuật và mẫu thử
+
+Khi có nhu cầu thử nghiệm, tổ chức hoặc cá nhân sản xuất, nhập khẩu vành, vành bánh xe phải cung cấp cho cơ sở thử nghiệm tài liệu kỹ thuật và mẫu thử theo yêu cầu nêu tại điểm 3.2.1 và điểm 3.2.2 của Quy chuẩn này.
+
+3.2.1 Yêu cầu về tài liệu kỹ thuật
+
+3.2.1.1. Bản vẽ kỹ thuật của vành, vành bánh xe phải thể hiện kết cấu và các thông số kích thước theo quy định kỹ thuật tại Điều 2 của Quy chuẩn này;
+
+3.2.1.2. Bản đăng ký thông số kỹ thuật phải thể hiện các thông tin sau đây: Loại vành; Mã đường kính và mã chiều rộng danh nghĩa; Ký hiệu kích cỡ lốp lắp cho vành/vành bánh xe; Áp suất lốp; Vị trí lắp trên xe; Tải trọng cho phép lớn nhất tác dụng lên bánh xe; Kết cấu vành bánh xe.
+
+3.2.2. Yêu cầu về mẫu thử
+
+02 mẫu vành phục vụ thử nghiệm theo điểm 2.2 của Quy chuẩn này;
+
+03 mẫu bao gồm: 01 vành bánh xe và 02 vành bánh xe có lắp đầy đủ lốp, săm (nếu có), ổ bi và trục bánh xe phục vụ thử nghiệm theo điểm 2.3 của Quy chuẩn này.
+
+3.3 Báo cáo thử nghiệm
+
+Cơ sở thử nghiệm có trách nhiệm lập báo cáo thử nghiệm có các nội dung quy định tại Quy chuẩn này.
+
+4. TỔ CHỨC THỰC HIỆN
+
+4.1 Cục Đăng kiểm Việt Nam chịu trách nhiệm triển khai, thực hiện Quy chuẩn này.
+
+4.2. Áp dụng kể từ ngày Quy chuẩn này có hiệu lực.
+
+Phụ lục A: Vành tâm lõm
+
+A.1 Vành tâm lõm được phân loại theo bảng:
+
+Bảng A.1 - Phân loại vành
+
++--------------------------+----------+--------+---------+---------------------+
+| Loại                     | Viết tắt | Kiểu   | Hình    | Ghi chú             |
++:========================:+:========:+:======:+:=======:+:===================:+
+| Vành tâm lõm             | DC       | WM     | Hình A1 | Đế tanh hình trụ    |
+|                          |          +--------+---------+---------------------+
+|                          |          | MT     | Hình A2 | Đế tanh hình côn 5o |
+|                          |          |        +---------+                     |
+|                          |          |        | Hình A6 |                     |
+|                          |          +--------+---------+                     |
+|                          |          | LF     | Hình A8 |                     |
++--------------------------+----------+--------+---------+---------------------+
+
+A.2 Ký hiệu của vành: 18 x 1.85
+
+Vành có thể được ghi thêm các ký hiệu khác (tùy theo nhà sản xuất).
+
+A.3 Mặt cắt ngang và kích thước của vành
+
+A.3.1 Mặt cắt ngang, kích thước và dung sai của:
+
+Vành tâm lõm WM theo hình A.1 và bảng A.2, A.3
+
+Vành tâm lõm MT theo hình A.2 đến hình A.5 và bảng A.4 đến bảng A.7; hình A.6, A.7 và bảng A.8 đến bảng A.10
+
+Vành tâm lõm LF theo hình A.8 đến hình A.10 và bảng A.11, A.12
+
+A.3.2 Mặt cắt trái và phải của vành phải đối xứng nhau, sai lệch kích thước giữa bên phải và bên trái được tạo ra khi gập đôi hình chiếu mặt cắt ngang của vành qua trục đối xứng không được lớn hơn 0,5 mm.
+
+[]
+
+Hình A.1 - Vành tâm lõm WM
+
+Bảng A.2 - Kích thước của vành tâm lõm WM (mm)
+
++-----------------------------------+---------------------------+------------+---------------------------+---------------------------+---------------------------+-----+-------------+------+-------------+-------------+------+
+| Mã chiểu rộng danh nghĩa của vành | A                         | B Nhỏ nhất | G                         | H                         | P                         | J   | R₁ Nhỏ nhất | R₂   | R₃ Lớn nhất | R₄ Nhỏ nhất | R₅   |
+|                                   +--------------+------------+            +--------------+------------+--------------+------------+--------------+------------+     |             |      |             |             |      |
+|                                   |   Kích thước |   Dung sai |            |   Kích thước |   Dung sai |   Kích thước |   Dung sai |   Kích thước |   Dung sai |     |             |      |             |             |      |
++:=================================:+:============:+:==========:+:==========:+:============:+:==========:+:============:+:==========:+:============:+:==========:+:===:+:===========:+:====:+:===========:+:===========:+:====:+
+| 1.10                              | 28,0         | +1,0       | 5,0        | 7,0          | ±0,5       | 7,0          | +1,0       | 3,0          | +2,0       | 2,0 | 1.5         | 5,5  | 1,5         | 5,0         | 7,0  |
+|                                   |              |            |            |              |            |              |            |              |            |     |             |      |             |             |      |
+|                                   |              | -0,5       |            |              |            |              | 0,5        |              | 0          |     |             |      |             |             |      |
++-----------------------------------+--------------+            +------------+--------------+            |              |            |              |            +-----+             +------+             |             |      |
+| 1.20                              | 30,5         |            | 5,5        | 9,0          |            |              |            |              |            | 3,5 |             | 6,0  |             |             |      |
++-----------------------------------+--------------+            +------------+--------------+            +--------------+            +--------------+            +-----+-------------+------+             |             +------+
+| 1.40                              | 36,0         |            | 6,5        | 10,0         |            | 8,0          |            | 3,5          |            | 4,0 | 2.0         | 6,5  |             |             | 10,0 |
++-----------------------------------+--------------+            +------------+--------------+            |              |            +--------------+            |     |             +------+-------------+-------------+------+
+| 1.50                              | 38,0         |            | 7,5        | 10,5         |            |              |            | 4,0          |            |     |             | 7,0  | 2,0         | 5,5         | 11,5 |
++-----------------------------------+--------------+            |            +--------------+            |              |            +--------------+            +-----+             +------+             |             +------+
+| 1.60                              | 40,5         |            |            | 12,0         |            |              |            | 4,5          |            | 4,5 |             | 8,0  |             |             | 13,0 |
++-----------------------------------+--------------+            +------------+--------------+            +--------------+            +--------------+            +-----+             +------+             +-------------+------+
+| 1.85                              | 47,0         |            | 8,5        | 14,0         |            | 9,0          |            | 5,0          |            | 3,5 |             | 12,5 |             | 6,0         | 15,0 |
++-----------------------------------+--------------+            |            |              |            |              |            +--------------+            |     |             |      |             +-------------+------+
+| 2.15                              | 55,0         |            |            |              |            |              |            | 7,5          |            |     |             |      |             | 7,0         | 18,5 |
++-----------------------------------+--------------+            +------------+              |            |              |            |              |            |     |             |      +-------------+             +------+
+| 2.50                              | 63,5         |            | 9,5        |              |            |              |            |              |            |     |             |      | 3,0         |             | 19,0 |
++-----------------------------------+--------------+            +------------+              |            +--------------+            +--------------+            |     +-------------+      |             |             |      |
+| 2.75                              | 70,0         |            | 10,5       |              |            | 12,0         |            | 11,0         |            |     | 3.0         |      |             |             |      |
++-----------------------------------+--------------+------------+------------+--------------+------------+--------------+------------+--------------+------------+-----+-------------+------+-------------+-------------+------+
+
+Bảng A.3 - Đường kính D và chu vi vành tâm lõm WM (mm)
+
++-----------------------------------+-------------+----------------------------------------+
+| Mã đường kính danh nghĩa của vành | D           | Chu vi ứng với đường kính D            |
+|                                   |             +--------------------+-------------------+
+|                                   |             | Kích thước         | Dung sai          |
++:=================================:+:===========:+:==================:+:=================:+
+| 14                                | 357,1       | 1121,9             | +2,0              |
+|                                   |             |                    |                   |
+|                                   |             |                    | -0,5              |
++-----------------------------------+-------------+--------------------+                   |
+| 15                                | 382,5       | 1201,7             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 16                                | 405,6       | 1274,2             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 17                                | 433,3       | 1361,2             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 18                                | 458,7       | 1441,0             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 19                                | 484,1       | 1520,8             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 20                                | 509,5       | 1600,6             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 21                                | 534,9       | 1680,4             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 22                                | 558,8       | 1755,5             |                   |
++-----------------------------------+-------------+--------------------+                   |
+| 23                                | 584,2       | 1835,3             |                   |
++-----------------------------------+-------------+--------------------+-------------------+
+
+[]
+
+Hình A.2 - Vành tâm lõm MT
+
+Bảng A.4 - Kích thước của vành tâm lõm MT (mm)
+
++-----------------------------------+-----------------------+---------------------+-----------------------+-----------------------+------+-----------------------+----------+------+----------+-----------------------+----------+----------+-----------------------+
+| Mã chiều rộng danh nghĩa của vành | A                     | B                   | G                     | H                     | C    | E                     | R₁       | R₂   | R₃       | R₄                    | R₅       | R₆       | R₇                    |
+|                                   +------------+----------+----------+----------+------------+----------+------------+----------+------+------------+----------+----------+------+----------+------------+----------+----------+----------+------------+----------+
+|                                   | Kích thước | Dung sai | Nhỏ nhất | Lớn nhất | Kích thước | Dung sai | Kích thước | Dung sai |      | Kích thước | Dung sai | Nhỏ nhất |      | Lớn nhất | Kích thước | Dung sai | Nhỏ nhất | Lớn nhất | Kích thước | Dung sai |
++:=================================:+:==========:+:========:+:========:+:========:+:==========:+:========:+:==========:+:========:+:====:+:==========:+:========:+:========:+:====:+:========:+:==========:+:========:+:========:+:========:+:==========:+:========:+
+| MT 1.85                           | 47,0       | +1,0     | 9,0      | 12,5     | 14,0       | ±0,5     | 9,0        | +1,0     | 10,5 | 10,5       | +0,5     | 3,0      | 12,5 | 2,5      | 2,5        | ±0,5     | 3,0      | 2,5      | 2,5        | ±0,5     |
+|                                   |            |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+|                                   |            | -0,5     |          |          |            |          |            | 0        |      |            | 0        |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      +------------+          |          |      |          +------------+          |          +----------+            |          |
+| MT 2.15                           | 55,0       |          |          |          |            |          |            |          |      | 13,0       |          |          |      |          | 3,0        |          |          | 3,0      |            |          |
++-----------------------------------+------------+----------+          |          |            +----------+------------+          |      |            +----------+          |      |          +------------+          |          |          |            |          |
+| MT 2.50                           | 63,5       | +1,5     |          |          |            | +1,0     | 12,0       |          |      |            | +2,0     |          |      |          | 5,5        |          |          |          |            |          |
+|                                   |            |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+|                                   |            | -1,0     |          |          |            | -0,5     |            |          |      |            | 0        |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      +------------+          |          |      |          |            |          |          |          |            |          |
+| MT 2.75                           | 70,0       |          |          |          |            |          |            |          |      | 14,0       |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          +------------+          |      +------------+          |          |      |          |            |          |          |          |            |          |
+| MT 3.00                           | 76,0       |          |          |          |            |          | 13,0       |          |      | 15,0       |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 3.50                           | 89,0       |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      +------------+          |          |      |          |            |          |          |          |            |          |
+| MT 4.00                           | 101,5      |          |          |          |            |          |            |          |      | 16,0       |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 4.50                           | 114,5      |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 5.00                           | 127,0      |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 5.50                           | 140,0      |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 6.00                           | 152,5      |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+----------+----------+----------+------------+----------+------------+----------+------+------------+----------+----------+------+----------+------------+----------+----------+----------+------------+----------+
+
+Ghi chú:
+
+1. Đường biên như ở hình A.3 có thể sử dụng cho đường biên của vành có chiều rộng danh nghĩa MT 1.85 và MT 2.15.
+
+2. Đường biên như ở hình A.4 có thể sử dụng cho phần vành có đục lỗ.
+
+3. Phần có đục lỗ của những vành có chiều rộng danh nghĩa không nhỏ hơn MT 2.50 có thể chỉ cần một bán kính lượn R như hình A.5 với điều kiện giá trị của R phải theo sự thoả thuận giữa các bên có liên quan với nhà cung cấp.
+
+Bảng A.5 - Đường kính D và chu vi vành tâm lõm MT (mm)
+
++-----------------------------------+-----------+---------------------------------------+-------------------------------------------+
+| Mã đường kính danh nghĩa của vành | D         | Chu vi tương ứng với đường kính D     | Chu vi tương ứng với đường kính D_(H)     |
+|                                   |           +-------------------+-------------------+---------------------+---------------------+
+|                                   |           | Kích thước        | Dung sai          | Kích thước          | Dung sai            |
++:=================================:+:=========:+:=================:+:=================:+:===================:+:===================:+
+| 14 M/C                            | 357,6     | 1123,4            | +1,5              | 1121,3              | +2,0                |
+|                                   |           |                   |                   |                     |                     |
+|                                   |           |                   | -0,5              |                     | -1,0                |
++-----------------------------------+-----------+-------------------+                   +---------------------+                     |
+| 15 M/C                            | 383,0     | 1203,2            |                   | 1201,1              |                     |
++-----------------------------------+-----------+-------------------+-------------------+---------------------+                     |
+| 16                                | 406,0     | 1275,5            | ±0,1              | 1273,4              |                     |
++-----------------------------------+-----------+-------------------+-------------------+---------------------+                     |
+| 17                                | 433,8     | 1362,8            | +1,5              | 1360,7              |                     |
++-----------------------------------+-----------+-------------------+-------------------+---------------------+---------------------+
+| 18                                | 459,2     | 1442,6            | -0,5              | 1440,5              |                     |
++-----------------------------------+-----------+-------------------+                   +---------------------+                     |
+| 19                                | 484,6     | 1522,4            |                   | 1520,3              |                     |
++-----------------------------------+-----------+-------------------+                   +---------------------+                     |
+| 20                                | 510,0     | 1602,2            |                   | 1600,1              |                     |
++-----------------------------------+-----------+-------------------+                   +---------------------+                     |
+| 21                                | 535,4     | 1682,0            |                   | 1679,9              |                     |
++-----------------------------------+-----------+-------------------+                   +---------------------+                     |
+| 23                                | 584,7     | 1836,9            |                   | 1834,8              |                     |
++-----------------------------------+-----------+-------------------+-------------------+---------------------+---------------------+
+
+[]
+
+Hình A3
+
+Bảng A.6 - Kích thước P và R4 (mm)
+
++-----------------------------------+-----------------------------------+----------+
+| Mã chiều rộng danh nghĩa của vành | P                                 | R₄       |
+|                                   |                                   |          |
+|                                   |                                   | Nhỏ nhất |
+|                                   +-----------------+-----------------+          |
+|                                   | Kích thước      | Dung sai        |          |
++:=================================:+:===============:+:===============:+:========:+
+| MT 1.85                           | 8,0             | +2,0            | 6,5      |
+|                                   |                 |                 |          |
+|                                   |                 | 0               |          |
++-----------------------------------+-----------------+                 |          |
+| MT 2.15                           | 11,0            |                 |          |
++-----------------------------------+-----------------+-----------------+----------+
+
+[]
+
+Hình A.4
+
+Bảng A.7- Kích thước R₅ và R₉ (mm)
+
++-----------------------------------+-----------------+-----------------+
+| Mã chiều rộng danh nghĩa của vành | R₅              | R₉              |
+|                                   |                 |                 |
+|                                   | Nhỏ nhất        | Nhỏ nhất        |
++:=================================:+:===============:+:===============:+
+| MT 1.85                           | 3,0             | 20,0            |
++-----------------------------------+                 |                 |
+| MT 2.15                           |                 |                 |
++-----------------------------------+                 +-----------------+
+| MT 2.50                           |                 | 30,0            |
++-----------------------------------+                 |                 |
+| MT 2.75                           |                 |                 |
++-----------------------------------+                 +-----------------+
+| MT 3.00                           |                 | 40,0            |
++-----------------------------------+                 |                 |
+| MT 3.50                           |                 |                 |
++-----------------------------------+                 |                 |
+| MT 4.00                           |                 |                 |
++-----------------------------------+                 |                 |
+| MT 4.50                           |                 |                 |
++-----------------------------------+                 |                 |
+| MT 5.00                           |                 |                 |
++-----------------------------------+                 |                 |
+| MT 5.50                           |                 |                 |
++-----------------------------------+                 |                 |
+| MT 6.00                           |                 |                 |
++-----------------------------------+-----------------+-----------------+
+
+[]
+
+Hình A.5
+
+[]
+
+Hình A.6 - Vành tâm lõm MT
+
+Bảng A.8 - Kích thước của vành tâm lõm MT (mm)
+
++-----------------------------------+-----------------------+---------------------+-----------------------+-----------------------+------+-----------------------+----------+------+----------+-----------------------+----------+----------+-----------------------+
+| Mã chiều rộng danh nghĩa của vành | A                     | B                   | G                     | H                     | C    | E                     | R₁       | R₂   | R₃       | R₄                    | R₅       | R₆       | R₇                    |
+|                                   +------------+----------+----------+----------+------------+----------+------------+----------+------+------------+----------+----------+------+----------+------------+----------+----------+----------+------------+----------+
+|                                   | Kích thước | Dung sai | Nhỏ nhất | Lớn nhất | Kích thước | Dung sai | Kích thước | Dung sai |      | Kích thước | Dung sai | Nhỏ nhất |      | Lớn nhất | Kích thước | Dung sai | Nhỏ nhất | Lớn nhất | Kích thước | Dung sai |
++:=================================:+:==========:+:========:+:========:+:========:+:==========:+:========:+:==========:+:========:+:====:+:==========:+:========:+:========:+:====:+:========:+:==========:+:========:+:========:+:========:+:==========:+:========:+
+| MT 1.85                           | 47,0       | +1,0     | 9,0      | 12,5     | 14,0       | ±0,5     | 9,0        | +1,0     | 10,5 | 10,5       | +0,5     | 3,0      | 12,5 | 2,5      | 2,5        | ±0,5     | 3,0      | 2,5      | 2,5        | ±0,5     |
+|                                   |            |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+|                                   |            | -0,5     |          |          |            |          |            | 0        |      |            | 0        |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      +------------+          |          |      |          +------------+          |          +----------+            |          |
+| MT 2.15                           | 55,0       |          |          |          |            |          |            |          |      | 13,0       |          |          |      |          | 3,0        |          |          | 3,0      |            |          |
++-----------------------------------+------------+----------+          |          |            +----------+------------+          |      |            +----------+          |      |          +------------+          |          |          |            |          |
+| MT 2.50                           | 63,5       | +1,5     |          |          |            | +1,0     | 12,0       |          |      |            | +2,0     |          |      |          | 5,5        |          |          |          |            |          |
+|                                   |            |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+|                                   |            | -1,0     |          |          |            | -0,5     |            |          |      |            | 0        |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      +------------+          |          |      |          |            |          |          |          |            |          |
+| MT 2.75                           | 70,0       |          |          |          |            |          |            |          |      | 14,0       |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          +------------+          |      +------------+          |          |      |          |            |          |          |          |            |          |
+| MT 3.00                           | 76,0       |          |          |          |            |          | 13,0       |          |      | 15,0       |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
+| MT 3.50                           | 89,0       |          |          |          |            |          |            |          |      |            |          |          |      |          |            |          |          |          |            |          |
++-----------------------------------+------------+----------+----------+----------+------------+----------+------------+----------+------+------------+----------+----------+------+----------+------------+----------+----------+----------+------------+----------+
+
+Ghi chú: Đường biên như ở hình A.7 có thể sử dụng cho trường hợp chiều rộng danh nghĩa của vành MT 1.85 và MT 2.15.
+
+Bảng A.9 - Đường kính D và chu vi vành tâm lõm MT (mm)
+
++-----------------------------------+-------+-----------------------------------+-----------------------------------+
+| Mã đường kính danh nghĩa của vành | D     | Chu vi ngoài của đường kính D     | Chu vi ngoài của đường kính DH    |
+|                                   |       +-----------------+-----------------+-----------------+-----------------+
+|                                   |       | Kích thước      | Dung sai        | Kích thước      | Dung sai        |
++:=================================:+:=====:+:===============:+:===============:+:===============:+:===============:+
+| 10                                | 253,2 | 795,4           | +1,5            | 793,3           | +2,0            |
+|                                   |       |                 |                 |                 |                 |
+|                                   |       |                 | -0,5            |                 | -1,0            |
++-----------------------------------+-------+-----------------+                 +-----------------+                 |
+| 12                                | 304,0 | 995,0           |                 | 952,9           |                 |
++-----------------------------------+-------+-----------------+-----------------+-----------------+-----------------+
+
+[]
+
+Hình A.7
+
+Bảng A.10 - Kích thước P và R4 (mm)
+
++-----------------------------------+-----------------------------------+----------+
+| Mã chiều rộng danh nghĩa của vành | P                                 | R₄       |
+|                                   |                                   |          |
+|                                   |                                   | Nhỏ nhất |
+|                                   +-----------------+-----------------+          |
+|                                   | Kích thước      | Dung sai        |          |
++:=================================:+:===============:+:===============:+:========:+
+| MT 1.85                           | 8,0             | +2,0            | 6,5      |
+|                                   |                 |                 |          |
+|                                   |                 | 0               |          |
++-----------------------------------+-----------------+                 |          |
+| MT 2.15                           | 11,0            |                 |          |
++-----------------------------------+-----------------+-----------------+----------+
+
+[]
+
+Hình A.8 - Vành tâm lõm LF
+
+Bảng A.11 - Kích thước của vành tâm lõm LF (mm)
+
++-----------------------------------+-----------------------+---------------------+-----------------------+-----------------------+-----+-----------------------+----------+-----+----------+----------+----------+-----------------+
+| Mã chiều rộng danh nghĩa của vành | A                     | B                   | G                     | H                     | C   | P                     | R1       | R2  | R3       | R4       | R5       | α(^(o))         |
+|                                   +------------+----------+----------+----------+------------+----------+------------+----------+-----+------------+----------+----------+-----+----------+----------+----------+------+----------+
+|                                   | Kích thước | Dung sai | Nhỏ nhất | Lớn nhất | Kích thước | Dung sai | Kích thước | Dung sai |     | Kích thước | Dung sai | Nhỏ nhất |     | Lớn nhất | Nhỏ nhất | Nhỏ nhất | Độ   | Dung sai |
++:=================================:+:==========:+:========:+:========:+:========:+:==========:+:========:+:==========:+:========:+:===:+:==========:+:========:+:========:+:===:+:========:+:========:+:========:+:====:+:========:+
+| 1.20                              | 30,5       | +1.0     | 5,5      | 7,5      | 9,0        | ±0,5     | 10,0       | ±1,0     | 5,5 | 4,0        | +2,0     | 1,5      | 6,0 | 1,5      | 4,5      | 3,0      | 10   | ±5       |
+|                                   |            |          |          |          |            |          |            |          |     |            |          |          |     |          |          |          |      |          |
+|                                   |            | -0,5     |          |          |            |          |            |          |     |            | 0        |          |     |          |          |          |      |          |
++-----------------------------------+------------+          +----------+----------+------------+          |            |          +-----+            |          +----------+-----+----------+----------+          |      |          |
+| 1.50                              | 38,0       |          | 7,5      | 11,5     | 10,5       |          |            |          | 6,5 |            |          | 3,0      | 7,0 | 2,0      | 5,5      |          |      |          |
++-----------------------------------+------------+          |          |          |            |          |            |          |     +------------+          |          |     |          +----------+          +------+----------+
+| 1.85                              | 47,0       |          |          |          |            |          |            |          |     | 8,0        |          |          |     |          | 6,5      |          | 22   | 0        |
+|                                   |            |          |          |          |            |          |            |          |     |            |          |          |     |          |          |          |      |          |
+|                                   |            |          |          |          |            |          |            |          |     |            |          |          |     |          |          |          |      | -5       |
++-----------------------------------+------------+          |          |          |            |          |            |          |     +------------+          |          |     |          |          |          |      |          |
+| 2.15                              | 55,0       |          |          |          |            |          |            |          |     | 11,0       |          |          |     |          |          |          |      |          |
++-----------------------------------+------------+----------+----------+----------+------------+----------+------------+----------+-----+------------+----------+----------+-----+----------+----------+----------+------+----------+
+
+Ghi chú
+
+1. Trường hợp chiều rộng danh nghĩa của vành là 1.85 có thể tạo thêm phần lồi như ở hình A.9.
+
+2. Trường hợp chiều rộng danh nghĩa của vành là 2.15 có thể tạo thêm phần lồi như ở hình A.10.
+
+3. Trường hợp chiều rộng danh nghĩa của vành là 1.20 và 1.50 và đường kính danh nghĩa của vành là 10, kích thước cho phép nhỏ nhất của H là 8,0.
+
+[]
+
+Hình A.9 - Hình dạng của phần lồi
+
+[]
+
+Hình A.10 - Hình dạng của phần lồi
+
+Bảng A.12 - Đường kính D và chu vi vành tâm lõm LF (mm)
+
++-----------------------------------+----------+---------------------------------------+---------------------------------------+
+| Mã đường kính danh nghĩa của vành | D        | Chu vi tương ứng với đường kính D     | Chu vi tương ứng với đường kính DH    |
+|                                   |          +-------------------+-------------------+-------------------+-------------------+
+|                                   |          | Kích thước        | Dung sai          | Kích thước        | Dung sai          |
++:=================================:+:========:+:=================:+:=================:+:=================:+:=================:+
+| 8                                 | 202,4    | 635,8             | +1,5              | 633,7             | +2,0              |
+|                                   |          |                   |                   |                   |                   |
+|                                   |          |                   | -0,5              |                   | -1,0              |
++-----------------------------------+----------+-------------------+                   +-------------------+                   |
+| 10                                | 253,2    | 795,4             |                   | 793,3             |                   |
++-----------------------------------+----------+-------------------+                   +-------------------+                   |
+| 12                                | 304,0    | 955,0             |                   | 952,9             |                   |
++-----------------------------------+----------+-------------------+-------------------+-------------------+-------------------+
+
+Phụ lục B
+
+Phương pháp thử độ bền
+
+Việc tác dụng lực được thực hiện như sau:
+
+Đặt vành thẳng đứng trên một đế có bề mặt đặt vành không nhỏ hơn chiều rộng danh nghĩa của vành thép theo phương nằm ngang. Tác dụng lực từ từ theo phương hướng kính của vành.
+
+[]
+
+Hình B.1 - Sơ đồ nguyên lý thử nén vành
+
+Phụ lục C
+
+Thử khả năng chịu tải trọng hướng kính
+
+C.1 Thiết bị thử
+
+Thiết bị thử (ví dụ minh họa trên hình C.1) phải đáp ứng các yêu cầu sau :
+
++ Thiết bị thử phải có một trống thử, đường kính không nhỏ hơn 400 mm, bề mặt trống phải nhẵn, êm và có chiều rộng lớn hơn chiều rộng của lốp bánh xe được thử
+
++ Trống thử phải được quay với vận tốc không đổi
+
++ Thiết bị thử phải cho phép tác dụng một tải trọng hướng kính không đổi (sai số của sự thay đổi tải trọng hướng kính trong quá trình thử là ±5%) vào bánh xe theo phương từ tâm của bánh xe đến tâm của trống thử và phải đảm bảo sao cho bánh xe luôn tiếp xúc với trống thử.
+
+[]
+
+Hình C.1 - Thiết bị thử khả năng chịu tải trọng hướng kính
+
+Ghi chú :
+
+1 - Trống thử;
+
+2 - Lốp;
+
+3 - Vành hợp kim;
+
+4 - Tải trọng hướng kính.
+
+C.2 Điều kiện thử
+
+C.2.1 Tải trọng hướng kính tĩnh
+
+Tải trọng hướng kính Qt, tính theo niutơn được xác định theo công thức sau:
+
+Q_(t) = S_(r).W
+
+Trong đó: S_(r) là hệ số, bằng 2,25;
+
+W là tải trọng cho phép lớn nhất tác dụng lên bánh xe (niutơn).
+
+C.2.2 Áp suất lốp bánh xe
+
+Áp suất không khí trong lốp bánh xe trước khi thử, tính theo kilo Pascal, ít nhất phải phù hợp với tải trọng lớn nhất theo thiết kế của lốp bánh xe được thử. Trong trường hợp lốp bị hỏng, phép thử phải được tiếp tục sau khi thay lốp.
+
+C.2.3 Tiến hành thử
+
+Lắp vành bánh xe có lốp được bơm tới áp suất tối thiểu bằng áp suất được ghi trên bánh xe với thiết bị thử (xem hình C.1) theo phương pháp như đã được dùng để lắp đặt bánh xe trên xe. Trống thử được quay trong khi tác dụng tải trọng hướng kính Q phù hợp với C.2.1.
+
+Số vòng quay của trống thử phải không nhỏ hơn 5 x 10₅ vòng.
+
+Phụ lục D
+
+Thử khả năng chịu va đập hướng kính
+
+D.1 Thiết bị thử
+
+Thiết bị thử phải có các đặc tính sau:
+
++ Vành bánh xe đã được lắp với lốp có thể lắp được trên băng;
+
++ Băng hoặc khung giá trên đó lắp vành bánh xe thử phải có đủ độ cứng vững;
+
++ Khối tải trọng va đập phải có chiếu rộng ít nhất bắng 1,5 lần chiều rộng của vành bánh xe và phải rơi tự do lên bộ phận bánh xe.
+
+Ví dụ minh họa về thiết bị sử dụng cho phép thử này xem ở hình D.1a hoặc D.1b
+
+[]
+
+Hình D.1a - Thiết bị thử khả năng chịu va đập hướng kính tải trọng đơn
+
+Ghi chú:
+
+1 - Khối tải trọng va đập ;
+
+2 - Cơ cấu nhả nhanh;
+
+3 - Khung thiết bị thử;
+
+4 - Rãnh dẫn hướng;
+
+5 - Chiều cao thả rơi khối tải trọng va đập.
+
+[]
+
+Hình D.1b Thiết bị thử khả năng chịu va đập hướng kính tải trọng kép
+
+Ghi chú :
+
+  ---------------------------------------------------------------------------------
+  1- Cơ cấu nhả nhanh;               5 - Tải trọng phụ;
+  ---------------------------------- ----------------------------------------------
+  2 - Tải trọng chính;               6 - Lò xo xoắn (2 cái);
+
+  3 - Khung thiết bị thử;            7 - Chiều cao thả rơi khối tải trọng va đập.
+
+  4 - Rãnh dẫn hướng;                
+  ---------------------------------------------------------------------------------
+
+D.2 Điều kiện thử
+
+D.2.1 Tải trọng va đập và chiều cao rơi
+
+D.2.1.1 Thiết bị thử khả năng chịu va đập hướng kính tải trọng đơn
+
+Khối lượng của tải trọng va đập Qv với sai số 2% của khối lượng được xác định theo công thức sau:
+
+[]
+
+Trong đó: Q_(v) là khối lượng va đập tính bằng kilôgam;
+
+K - là hệ số bằng 1 đối với cả vành trước và vành sau ;
+
+W - là tải trọng cho phép lớn nhất tác dụng lên bánh xe (niutơn);
+
+g - là gia tốc trọng trường (bằng 9,8 m/s²);
+
+Chiều cao rơi đối với vành trước là 180 mm;
+
+Chiều cao rơi đối với vành sau là 120 mm.
+
+D.2.1.2 Thiết bị thử khả năng chịu va đập hướng kính tải trọng kép
+
+Khối lượng tổng cộng của hai khối tải trọng va đập Qv với sai số 2% của khối lượng được xác định theo công thức sau:
+
+[]
+
+Trong đó: Qv là khối lượng tổng của hai khối va đập tính bằng kilôgam;
+
+K là hệ số bằng 2,5 đối với vành trước và 1,5 đối với vành sau;
+
+W là tải trọng cho phép lớn nhất tác dụng lên bánh xe (niutơn);
+
+g là gia tốc trọng trường (bằng 9,8 m/s2).
+
+(Khối lượng của tải trọng va đập phụ bao gồm cả khối lượng của hai lò xo bằng 40 kg)
+
+Chiều cao rơi đối với cả vành trước và vành sau là 150 mm.
+
+D.2.2 Áp suất lốp bánh xe
+
+Áp suất không khí trong lốp bánh xe trước khi thử (tính theo kilo Pascal), được xác định như sau : p = (áp suất không khí phù hợp với tải trọng lớn nhất theo thiết kế của lốp bánh xe được thử x 1,15) ± 10.
+
+D.3 Tiến hành thử
+
+Lắp lốp nhỏ nhất thích hợp với tải trọng thiết kế của bánh xe lên giá đỡ theo phương pháp như được dùng để lắp đặt bánh xe với xe. Vị trí tương đối phải được xác định sao cho khi va đập thì véctơ vận tốc đi qua tâm của bánh xe.
+
+Phụ lục E
+
+Thử khả năng chịu mô men xoắn
+
+E.1 Thiết bị thử
+
+Thiết bị thử phải cho phép tạo ra mô men xoắn tác dụng giữa moayơ và vành bánh xe. Ví dụ về thiết bị này được nêu trên hình E.1a và E.1b
+
+[]
+
+Hình E.1a - Thiết bị thử khả năng chịu mô men xoắn
+
+Ghi chú:
+
+  ---------------------------------------------------------------------
+  1 - Bu lông xiết chặt.             4 - Mặt tựa vành.
+  ---------------------------------- ----------------------------------
+  2 - Vành bánh xe.                  5 - Cánh tay đòn.
+
+  3 - Đồ gá kẹp chặt.                6 - Điểm đặt lực.
+  ---------------------------------------------------------------------
+
+[]
+
+Hình E.1b - Thiết bị thử khả năng chịu mô men xoắn
+
+  ---------------------------------------------------------------------
+  1 - Vành bánh xe.                  5 - Cánh tay đòn.
+  ---------------------------------- ----------------------------------
+  2 - Đĩa chặn.                      6 - Điểm đặt lực.
+
+  3 - Mặt tựa vành.                  7 - Bu lông giữ vành bánh xe.
+
+  4 - Đồ gá kẹp chặt.                
+  ---------------------------------------------------------------------
+
+E.2 Điều kiện thử
+
+Mô men xoắn T tính theo niutơn mét được xác định theo công thức sau:
+
+T = ± W.R
+
+Trong đó: W là tải trọng lớn nhất tác dụng lên vành (niutơn) ;
+
+R là bán kính tĩnh lớn nhất của lốp có thể lắp với vành (mét).
+
+E.3 Tiến hành thử
+
+Cố định gờ vành bánh xe với giá đỡ và tác dụng mô men xoắn được xác định theo E.2 vào vành bánh xe theo hướng đối xứng nhau qua bề mặt tiếp xúc của moayơ. Chiều dài của của cánh tay đòn phải bằng bán kính của lốp nhỏ nhất thích hợp với vành bánh xe.
+
+Cho phép cố định vành bánh xe trên giá đỡ thông qua bề mặt tiếp xúc của mayơ và tác dụng mô men xoắn vào vành bánh xe thông qua một vòng hình khuyên được lắp chặt vào vành bánh xe.
+
+Số lần tác dụng mô men xoắn không nhỏ hơn 10⁵.
+
+Phụ lục G
+
+Thử độ kín khí đối với vành, vành bánh xe lắp lốp không săm
+
+G.1 Mục đích
+
+Phụ lục này nhằm đánh giá độ kín khí của vành, vành bánh xe sử dụng lốp không săm.
+
+Độ kín khí của vành, vành bánh xe lắp lốp không săm được đánh giá, thử nghiệm theo một trong hai phương pháp sau:
+
+G.2 Phương pháp 1
+
+G.2.1 Điều kiện thử
+
+Vành bánh xe được lắp lốp không săm phù hợp theo quy định của nhà sản xuất.
+
+Áp suất không khí trong lốp khi thử nghiệm:
+
+a) 300 kPa; hoặc
+
+b) hai lần áp suất danh nghĩa được quy định cho lốp có áp suất lớn nhất sử dụng để lắp cho vành bánh xe.
+
+G.2.2 Tiến hành thử
+
+Sau khi bơm căng lốp đến áp suất quy định, ngâm bánh xe ngập vào trong nước, để bánh xe ổn định trong nước rồi kiểm tra sự rò rỉ khí từ bánh xe.
+
+Thời gian thử ít nhất là 2 phút.
+
+G.3 Phương pháp 2
+
+G.3.1 Thiết bị thử nghiệm
+
+Thiết bị thử nghiệm độ kín khí đối với vành bánh xe sử dụng lốp không săm nêu trên hình G.1
+
+[]
+
+Hình G.1 - Thiết bị thử độ kín khít đối với vành lắp lốp không săm
+
+Ghi chú:
+
+  ---------------------------------------------------------------------
+  1 - Nước;                          3 - Đĩa ép;
+  ---------------------------------- ----------------------------------
+  2 - Vòng cao su làm kín;           4 - Đường bơm hơi tạo áp suất;
+
+  5 - Vành bánh xe hợp kim nhẹ.      
+  ---------------------------------------------------------------------
+
+G.3.2 Điều kiện thử
+
+Áp suất không khí được dùng phải lớn hơn hoặc bằng 300 kPa.
+
+G.3.3 Tiến hành thử
+
+Ép kín khít một cách chắc chắn cả hai bên mép của vành hợp kim bằng các tấm ép (xem hình G.1) và bơm không khí vào bên trong lòng của vành hợp kim để kiểm tra sự kín khí của vành hợp kim.
+
+Thời gian thử ít nhất là 2 phút.

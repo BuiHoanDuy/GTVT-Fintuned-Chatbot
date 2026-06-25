@@ -1,0 +1,1028 @@
+  ----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI             CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                           Độc lập - Tự do - Hạnh phúc
+                                                         ---------------
+  -------------------------- -------------------------------------------
+     Số: 45/2023/TT-BGTVT              Hà Nội, ngày 29 tháng 12 năm 2023
+
+  ----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI XE MÁY CHUYÊN DÙNG
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và các sửa đổi, bổ sung;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học-Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe máy chuyên dùng
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe máy chuyên dùng.
+
+Mã số đăng ký: QCVN 13:2023/BGTVT.
+
+Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 07 năm 2024.
+
+2. Thông tư này bãi bỏ khoản 5 Điều 1 Thông tư số 56/2011/TT-BGTVT ngày 11 tháng 07 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành 06 Quy chuẩn kỹ thuật quốc gia về phương tiện cơ giới đường bộ.
+
+3. Quy định chuyển tiếp
+
+a) Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng, Phiếu xuất xưởng hoặc Biên bản nghiệm thu cải tạo cấp theo Quy chuẩn QCVN 13:2011/BGTVT thì vẫn tiếp tục được sử dụng cho đến khi hết hiệu lực;
+
+b) Đối với xe máy chuyên dùng nhập khẩu có ngày cập cảng hoặc về cửa khẩu Việt Nam trước ngày QCVN 13:2023/BGTVT có hiệu lực thì áp dụng QCVN 13:2011/BGTVT.
+
+Điều 3. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+  -----------------------------------------------------------------------------
+  Nơi nhận:                                   KT. BỘ TRƯỞNG
+  - Như điều 3;                               THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                      Lê Đình Thọ
+  - Các Cơ quan thuộc Chính phủ;              
+  - Các Bộ, cơ quan ngang Bộ;                 
+  - UBND các tỉnh, thành phố trực thuộc TW;   
+  - Bộ trưởng Bộ GTVT;                        
+  - Các Thứ trưởng Bộ GTVT;                   
+  - Cục KSTTHC (Văn phòng Chính phủ);         
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);        
+  - Công báo;                                 
+  - Cổng Thông tin điện tử Chính phủ;         
+  - Cổng Thông tin điện tử Bộ GTVT;           
+  - Báo Giao thông, Tạp chí GTVT;             
+  - Lưu: VT, KHCN&MT.                         
+  ------------------------------------------- ---------------------------------
+
+  -----------------------------------------------------------------------------
+
+QCVN 13:2023/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI XE MÁY CHUYÊN DÙNG
+
+National technical regulation on safety and environmental protection for construction machinery
+
+Lời nói đầu
+
+QCVN 13:2023/BGTVT do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành kèm theo Thông tư số /2023/TT-BGTVT ngày tháng năm 2023.
+
+QCVN 13:2023/BGTVT thay thế QCVN 13:2011/BGTVT.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI XE MÁY CHUYÊN DÙNG
+
+National technical regulation on safety and environmental protection for construction machinery
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe máy chuyên dùng (sau đây được gọi tắt là XMCD) trong sản xuất, lắp ráp; nhập khẩu; cải tạo và khai thác sử dụng thuộc Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn ban hành kèm theo Thông tư số 12/2022/TT-BGTVT ngày 30/6/2022 của Bộ trưởng Bộ Giao thông vận tải.
+
+1.2. Đối tượng áp dụng
+
+1.2.1. Quy chuẩn này áp dụng đối với các cơ sở sản xuất, lắp ráp; người nhập khẩu và chủ sở hữu XMCD trong sử dụng; tổ chức, cá nhân liên quan đến việc quản lý, kiểm tra, thử nghiệm và chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường XMCD.
+
+1.2.2. Quy chuẩn này không áp dụng đối với các loại XMCD thuộc Bộ Công an và Bộ Quốc phòng sử dụng vào mục đích an ninh, quốc phòng.
+
+1.3. Giải thích từ ngữ
+
+1.3.1. XMCD có thiết bị nâng: là các XMCD có lắp đặt thiết bị phục vụ cho việc nâng hạ người hoặc hàng hóa.
+
+1.3.2. Xe tự đổ (dumpers): là các xe được định nghĩa tại Tiêu chuẩn quốc gia TCVN 13219:2020 Máy làm đất - Xe tự đổ - Thuật ngữ và đặc tính kỹ thuật trong thương mại (ISO 7132:2003 Earth-moving machinery Dumpers Terminology and commercial specifications).
+
+1.3.3. Hệ thống phanh (braking system): là tổ hợp các bộ phận để dừng xe, giữ xe đứng yên bao gồm các hệ thống điều khiển, hệ thống chấp hành và các cơ cấu phanh.
+
+1.3.4. Hệ thống phanh dự phòng (secondary brake system): là hệ thống được sử dụng để dừng xe trong trường hợp bất kỳ bộ phận nào của hệ thống phanh chính bị lỗi.
+
+1.3.5. Hệ thống phanh thủy tĩnh (Hydrostatic brake system): là hệ thống truyền động thủy tĩnh, các hệ thống tương tự đáp ứng được một hoặc nhiều yêu cầu của hệ thống phanh.
+
+1.3.6. Khối lượng thử (machine test mass): là khối lượng của XMCD ở trạng thái hoạt động bao gồm ca bin, mái che (canopy), các chi tiết bảo vệ (nếu có trang bị), trang bị kèm theo của nhà sản xuất, người điều khiển và các chất lỏng được đổ đầy. Xe lu có xi téc chứa nước để phun thì xi téc này phải đầy nước, xe cạp đất có kéo theo các sơ mi rơ moóc, rơ moóc và các loại xe tự đổ, khối lượng thử phải bao gồm cả khối lượng của hàng hoá được nêu trong tài liệu của nhà sản xuất, các loại xe khác thì không bao gồm khối lượng tải.
+
+1.3.7. Khoảng cách dừng (Stopping distance): là chiều dài quãng đường dịch chuyển của xe, được tính từ thời điểm người lái bắt đầu kích hoạt bộ phận điều khiển phanh cho đến khi xe dừng hẳn.
+
+2. QUY ĐỊNH KỸ THUẬT
+
+2.1 QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XMCD CHƯA QUA SỬ DỤNG
+
+2.1.1 Yêu cầu chung
+
+2.1.1.1. XMCD được sản xuất, lắp ráp từ các linh kiện hoàn toàn mới, lắp đặt chắc chắn, phù hợp với thiết kế, tài liệu kỹ thuật của nhà sản xuất, hoạt động ổn định ở điều kiện bình thường.
+
+2.1.1.2. XMCD phải đảm bảo các tính năng kỹ thuật nêu trong tài liệu của nhà sản xuất.
+
+2.1.1.3. Không được rò rỉ các chất lỏng dùng để: làm mát, bôi trơn, dẫn động thủy lực.
+
+2.1.1.4. Có đầy đủ các chi tiết kẹp chặt, phòng lỏng theo tài liệu của nhà sản xuất.
+
+2.1.1.5. Có nhãn hàng hoá (bao gồm cả nhãn phụ) thể hiện các nội dung sau: Tên nhà sản xuất; Nhãn hiệu, tên thương mại (Commercial name), mã kiểu loại (Model code); Số khung (có thể là số PIN hoặc số VIN hoặc số Serial); Thông số kỹ thuật đặc trưng; Năm sản xuất; Thông tin cảnh báo (nếu có).
+
+2.1.1.6. Số khung được đóng trên thân xe hoặc thể hiện trên tem nhãn của nhà sản xuất và các ký tự rõ ràng.
+
+2.1.1.7. Số động cơ được đóng trên thân động cơ hoặc thể hiện trên tem nhãn của nhà sản xuất (có thể là số Serial) và các ký tự rõ ràng.
+
+2.1.2 Động cơ và hệ thống truyền động
+
+2.1.2.1. Động cơ
+
+2.1.2.1.1. Lắp đặt chắc chắn.
+
+2.1.2.1.2. Hoạt động ổn định, không có tiếng kêu lạ.
+
+2.1.2.1.3. Động cơ không cho phép khởi động khi cần số ở vị trí số tiến hoặc số lùi đối với xe có trang bị hộp số tự động.
+
+2.1.2.1.4. Bầu giảm thanh và đường ống dẫn khí thải được bố trí để không ảnh hưởng đến các bộ phận khác.
+
+2.1.2.1.5. Miệng thoát khí thải của ống xả không được hướng về phía trước và không được hướng về phía bên phải theo chiều tiến của xe(1).
+
+2.1.2.2. Hệ thống truyền động
+
+2.1.2.2.1. Hệ thống truyền động cơ khí
+
+2.1.2.2.1.1. Truyền động ma sát trực tiếp: Hoạt động êm dịu, đóng mở dứt khoát, độ chùng của dây đai phải nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.1.2.2.1.2. Truyền động ăn khớp trực tiếp: Ăn khớp, hoạt động êm dịu, không bị giật cục.
+
+2.1.2.2.2. Hệ thống truyền động thuỷ lực
+
+2.1.2.2.2.1. Lắp đặt chắc chắn;
+
+2.1.2.2.2.2. Bơm, mô tơ thuỷ lực, các van thủy lực hoạt động ổn định và không bị kẹt;
+
+2.1.2.2.2.3. Đường ống thuỷ lực không bẹp, nứt;
+
+2.1.2.2.2.4. Áp suất thể hiện trên đồng hồ nằm trong giới hạn cho phép của nhà sản xuất;
+
+2.1.3 Hệ thống di chuyển
+
+2.1.3.1. Bánh lốp
+
+2.1.3.1.1. Lắp đặt chắc chắn.
+
+2.1.3.1.2. Lốp trên cùng một trục của xe phải cùng kiểu loại.
+
+2.1.3.1.3. Lốp đủ số lượng, khả năng chịu tải của lốp lớn hơn hoặc bằng khối lượng toàn bộ của xe phân bố lên các trục, phù hợp với tài liệu kỹ thuật và thiết kế của nhà sản xuất.
+
+2.1.3.1.4. Vành bánh xe không bị biến dạng, nứt, vỡ.
+
+2.1.3.1.5. Moay ơ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn
+
+2.1.3.2. Bánh xích
+
+2.1.3.2.1. Lắp đặt chắc chắn.
+
+2.1.3.2.2. Moay ơ, con lăn tì, con lăn đỡ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn.
+
+2.1.3.2.3. Xích và bánh xích phải ăn khớp với nhau.
+
+2.1.3.2.4. Xích phải đảm bảo không trượt ra ngoài khi xe quay vòng tại chỗ.
+
+2.1.3.3. Bánh thép
+
+2.1.3.3.1. Lắp đặt chắc chắn.
+
+2.1.3.3.2. Moay ơ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn.
+
+2.1.3.3.3. Khi vận hành không có tiếng kêu lạ.
+
+2.1.4 Hệ thống lái và hệ thống điều khiển
+
+2.1.4.1. Hệ thống lái
+
+2.1.4.1.1. Lái bằng vành tay lái
+
+2.1.4.1.1.1. Đảm bảo cho xe chuyển hướng chính xác, điều khiển nhẹ nhàng.
+
+2.1.4.1.1.2. Đảm bảo cho xe có khả năng duy trì hướng chuyển động thẳng khi đang chạy thẳng và tự quay về hướng chuyển động thẳng khi thôi tác dụng lực lên vành tay lái⁽¹⁾.
+
+2.1.4.1.1.3. Khi hoạt động các cơ cấu chuyển động của hệ thống lái không được chạm với bất kỳ bộ phận nào của xe.
+
+2.1.4.1.1.4. Khi quay vành tay lái về bên phải và bên trái thì không được có sự khác biệt đáng kể về lực tác động lên vành tay lái.
+
+2.1.4.1.1.5. Độ rơ vành tay lái: Không lớn hơn 15 ⁰⁽¹⁾.
+
+2.1.4.1.2. Lái bằng cần lái
+
+2.1.4.1.2.1. Cần lái lắp đặt chắc chắn, có ký hiệu rõ ràng chiều chuyển hướng của xe.
+
+2.1.4.1.2.2. Điều khiển nhẹ nhàng, êm dịu, tự trả về vị trí ban đầu khi thôi lực tác dụng.
+
+2.1.4.2. Hệ thống điều khiển
+
+2.1.4.2.1. Hoạt động nhẹ nhàng, êm dịu, không bị kẹt.
+
+2.1.4.2.2. Được bố trí tại các vị trí dễ dàng và an toàn cho việc thao tác của người điều khiển.
+
+2.1.4.2.3. Có ký hiệu, biểu tượng nhận biết rõ ràng với từng chức năng điều khiển.
+
+2.1.4.2.4. Độ rơ nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.1.4.2.5. Lắp đặt chắc chắn, đúng vị trí, đảm bảo chắc chắn khi di chuyển.
+
+2.1.5 Hệ thống phanh
+
+2.1.5.1. Yêu cầu chung
+
+2.1.5.1.1. XMCD phải được trang bị hệ thống phanh (hoặc tự phanh khi đỗ) đảm bảo dừng được xe khi điều khiển dừng.
+
+2.1.5.1.2. Hệ thống phanh phải đảm bảo hoạt động đúng tính năng theo tài liệu của nhà sản xuất .
+
+2.1.5.1.3. Dầu phanh, khí nén không được rò rỉ; đường ống dẫn dầu phanh hoặc khí nén không bị bẹp, nứt và phải được lắp đặt chắc chắn.
+
+2.1.5.1.4. Dẫn động cơ khí của phanh phải linh hoạt, nhẹ nhàng và có hiệu lực. Hành trình tự do của bàn đạp hoặc tay kéo phanh phù hợp với tài liệu của nhà sản xuất.
+
+2.1.5.1.5. Hệ thống phanh chính, phanh đỗ, phanh dự phòng có thể sử dụng chung các cơ cấu, bộ phận chức năng và không bắt buộc phải là ba hệ thống riêng biệt, tách rời.
+
+2.1.5.1.6. Hệ thống phanh đỗ phải có khả năng duy trì được hoạt động mà không cần có lực tác động liên tục của người lái. Nếu phanh đỗ tham gia vào việc dừng chuyển động của xe thì phanh đỗ phải cho phép thực hiện việc phanh XMCD ngay khi xe đang di chuyển.
+
+2.1.5.1.7. Phải đo khoảng cách dừng đối với hệ thống phanh chính và phanh dự phòng khi phanh còn nguội, ngoại trừ xe có hệ thống phanh truyền động thủy tĩnh (hydrostatic brake systems). ⁽²⁾
+
+2.1.5.1.8. Đối với hệ thống phanh của cần trục bánh lốp có vận tốc thiết kế lớn nhất không nhỏ hơn 60 km/h phải thỏa mãn yêu cầu về hệ thống phanh quy định tại mục 2.5 của QCVN 09:2015/BGTVT Quy chuẩn kỹ thuật quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe ô tô⁽¹⁾.
+
+2.1.5.2. Yêu cầu đối với đường thử phanh ⁽²⁾
+
+2.1.5.2.1. Bề mặt đường thử phải cứng, khô, bằng phẳng.
+
+2.1.5.2.2. Đường thử để thử xe tự đổ có khối lượng thử lớn hơn 32000 kg phải đáp ứng với phép thử có độ dốc xuống 8~10% theo hướng di chuyển của xe.
+
+2.1.5.2.3. Đường chạy đà để thử phải đảm bảo xe thử đạt được vận tốc quy định trước khi tác động vào hệ thống phanh.
+
+2.1.5.2.4. Đường dùng để thử khả năng giữ xe đứng yên có độ dốc phù hợp
+
+2.1.5.3. Yêu cầu đối với hiệu quả phanh
+
+2.1.5.3.1. Hiệu quả phanh của các xe được đánh giá theo chỉ tiêu khoảng cách dừng và thỏa mãn yêu cầu như trong Bảng 1, trừ các loại xe bánh xích có vận tốc thiết kế lớn nhất không lớn hơn 20 km/h.
+
+2.1.5.3.2. Vận tốc thử phanh cho phép dung sai trong khoảng ±2 km/h:
+
+2.1.5.3.2.1. Đối với xe tự đổ có khối lượng thử không lớn hơn 32000 kg, thử tại vận tốc 80% vận tốc di chuyển lớn nhất của xe theo thiết kế hoặc tại vận tốc 32 km/h, nếu vận tốc nào lớn hơn.
+
+2.1.5.3.2.2. Đối với các XMCD có vận tốc di chuyển lớn nhất theo thiết kế nhỏ hơn 32 km/h, thử tại vận tốc lớn nhất theo tài liệu của nhà sản xuất.
+
+2.1.5.3.2.3. Đối với tất cả các XMCD còn lại, thử tại vận tốc lớn nhất của hai giá trị sau: 80 % vận tốc di chuyển lớn nhất theo thiết kế của xe, vận tốc 32 km/h.
+
+2.1.5.3.3. Thử khoảng cách dừng đối với phanh chính và phanh dự phòng (trừ hệ thống phanh thuỷ lực) được tiến hành khi cơ cấu phanh còn nguội. Phải tiến hành 2 lần thử khi xe di chuyển theo chiều tiến theo hai hướng ngược nhau. Thời gian giữa 2 lần thử tối thiểu là 10 phút.
+
+2.1.5.3.4. Khoảng cách dừng đối với phanh chính và phanh dự phòng đối với XMCD sử dụng bánh xe để di chuyển và XMCD bánh xích cao su có vận tốc lớn hơn 20km/h được xác định theo Bảng 1 và là giá trị trung bình của hai lần thử.
+
+Bảng 1 - Khoảng cách dừng của XMCD
+
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Loại phương tiện                                                                                                                         | Khoảng cách dừng tối đa                                   |
+|                                                                                                                                          +-----------------------------+-----------------------------+
+|                                                                                                                                          | Phanh chính                 | Phanh phụ                   |
++==========================================================================================================================================+:===========================:+:===========================:+
+| Máy cạp, xe tự đổ khung cứng và xe tự đổ khung khớp nối có khối lượng thử ≤32 000 kg và máy tự đổ nửa rơ moóc có khối lượng bất kỳ^((*)) | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Máy cạp, máy xúc lật khung cứng và máy xúc lật khung khớp nối với khối lượng thử >32 000 kg                                              | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Xe lu các loại                                                                                                                           | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Các XMCD khác, bao gồm các xe kéo rơ móc có tải                                                                                          | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| [] là vận tốc thử (km/h)                                                                                                                                                                             |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| a là độ dốc kiểm tra (8-10%)                                                                                                                                                                         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Chú thích *: Xóa công thức 0,1(32-v) đối với các xe có tốc độ lớn hơn 32 km/h                                                                                                                        |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.1.5.3.5. Khả năng giữ xe đứng yên ngang dốc của hệ thống phanh chính và phanh đỗ đối với XMCD sử dụng bánh xe để di chuyển và XMCD bánh xích cao su có vận tốc lớn hơn 20km/h thỏa mãn yêu cầu như trong Bảng 2.
+
+Bảng 2 - Khả năng giữ XMCD đứng yên ngang dốc
+
++-----------------------------------+------------------------------------------------------------------------------------+-----------------------------------+
+| Loại phanh                        | Loại xe                                                                            | Độ dốc (%)                        |
++:=================================:+====================================================================================+:=================================:+
+| Phanh chính                       | Xe tự đổ có khối lượng thử > 32000 kg                                              | 20                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe lu các loại                                                                     | 20                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe tự đổ, sơ mi rơ moóc tự đổ được kết hợp với xe kéo có khối lượng thử ≤ 32000 kg | 25                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Tất cả các XMCD khác                                                               | 25                                |
++-----------------------------------+------------------------------------------------------------------------------------+-----------------------------------+
+| Phanh đỗ                          | Xe tự đổ, xe cạp đất được kết hợp với xe kéo                                       | 15                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe lu các loại                                                                     | 20                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Sơ mi rơ moóc tự đổ                                                                | 20                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Tất cả các XMCD khác ( trừ xe nâng hàng)                                           | 20                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe nâng loại nhặt hàng tầng cao                                                    | 5%                                |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe nâng loại nhặt hàng tầng thấp                                                   | 10%                               |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe nâng tay - palet                                                                | 10%                               |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe nâng dạng ngồi lái                                                              | 15%                               |
+|                                   +------------------------------------------------------------------------------------+-----------------------------------+
+|                                   | Xe nâng dạng đứng lái                                                              | 15%                               |
++-----------------------------------+------------------------------------------------------------------------------------+-----------------------------------+
+| Chú ý:                                                                                                                                                     |
+|                                                                                                                                                            |
+| 1. Khi thử phanh cần ngắt hệ thống truyền lực, động cơ hoạt động ở trạng thái không tải hoặc dừng                                                          |
+|                                                                                                                                                            |
+| 2. Không áp dụng đối với các XMCD có hệ thống phanh truyền động thủy tĩnh hoặc tương tự.                                                                   |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.1.5.3.6. Khả năng giữ XMCD đứng yên ngang dốc của hệ thống phanh chính và phanh đỗ đối với XMCD bánh xích cao su có vận tốc không lớn hơn 20km/h thỏa mãn yêu cầu như trong Bảng 3
+
+2.1.5.3.7.
+
+Bảng 3 - Lực kéo dùng thử phanh
+
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Loại phanh                                                                                                                                 | Lực hãm phanh                                                                                                                              |
++:==========================================================================================================================================:+:==========================================================================================================================================:+
+| Phanh chính                                                                                                                                | 9,8M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Phanh dự phòng                                                                                                                             | 4,9M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Phanh đỗ                                                                                                                                   | 9,8M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| - ɑ là góc nghiêng lớn nhất, đơn vị đo là độ: độ dốc kiểm tra hiệu suất phanh cho một XMCD cụ thể từ 17 đến 45 độ hoặc độ dốc lớn nhất do nhà sản xuất.                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                         |
+| - M là khối lượng máy khi thử (machine test mass).                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                         |
+| a) Tất cả các thông số liên quan đến hệ thống phanh phải nằm trong thông số kỹ thuật của nhà sản xuất, nghĩa là điều chỉnh phanh, áp suất phanh, độ căng của xích, v.v. Không được thực hiện bất kỳ điều chỉnh thủ công nào đối với hệ thống phanh trong bất kỳ phép thử đơn lẻ nào;    |
+|                                                                                                                                                                                                                                                                                         |
+| b) Mỗi lần thử phanh phải được thực hiện mà không bị ảnh hưởng bởi hệ thống phanh khác của XMCD;                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                         |
+| c) Các mối nối để kéo hoặc kéo phải được thực hiện ở mức thấp nhất có thể trên thanh kéo hoặc điểm nối thích hợp khác. Lực kéo phải được tác dụng theo chiều ngang để không ảnh hưởng đến sự tiếp xúc với mặt đất của XMCD được đo.                                                     |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.1.5.3.8. Lực tác động lên các cơ cấu điều khiển: Trong suốt quá trình thử phanh, lực tác động lên các cơ cấu điều khiển được quy định trong bảng 4.
+
+Bảng 4- Lực lớn nhất cho phép tác động lên cơ cấu điều khiển hệ thống phanh
+
++----------------------------------------------------------------+------------------+
+| Loại điều khiển                                                | Lực lớn nhất (N) |
++================================================================+:================:+
+| Bằng ngón tay (lật hoặc gạt)                                   | 20               |
++----------------------------------------------------------------+------------------+
+| Bằng nắm tay                                                   |                  |
++----------------------------------------------------------------+------------------+
+| - Đẩy lên trên                                                 | 400              |
+|                                                                |                  |
+| - Kéo xuống, gạt sang bên, ấn                                  | 300              |
++----------------------------------------------------------------+------------------+
+| Đạp xoay bằng bàn chân (khớp cổ chân kiểm soát việc đạp phanh) | 350              |
++----------------------------------------------------------------+------------------+
+| Đạp pedal phanh (cẳng chân kiểm soát việc đạp phanh)           | 600              |
++----------------------------------------------------------------+------------------+
+
+2.1.6 Hệ thống treo
+
+2.1.6.1. Đảm bảo độ êm dịu cần thiết khi hoạt động.
+
+2.1.6.2. Các chi tiết, cụm chi tiết của hệ thống treo phải lắp đặt chắc chắn và đảm bảo cân bằng xe theo các hướng.
+
+2.1.7 Hệ thống nhiên liệu
+
+2.1.7.1. Yêu cầu đối với hệ thống nhiên liệu xăng hoặc điêzen
+
+2.1.7.1.1. Không bị rò rỉ nhiên liệu.
+
+2.1.7.1.2. Vật liệu làm ống dẫn nhiên liệu phải chịu được loại nhiên liệu xe đang sử dụng.
+
+2.1.7.1.3. Các bộ phận, chi tiết phải được lắp đặt chắc chắn.
+
+2.1.7.1.4. Vị trí lắp đặt của bầu lọc nhiên liệu và thông khí của thùng nhiên liệu cách miệng thoát khí thải của ống xả ít nhất là 300 mm và cách các công tắc điện, các giắc nối hở ít nhất là 200 mm⁽¹⁾.
+
+2.1.7.1.5. Cửa nạp nhiên liệu, bầu lọc và thùng nhiên liệu không được đặt bên trong khoang người lái⁽¹⁾.
+
+2.1.7.1.6. Ống dẫn cứng phải được kẹp chặt, khoảng cách giữa hai kẹp liền kề nhau không quá 1000 mm⁽¹⁾.
+
+2.1.7.2. Yêu cầu đối với hệ thống nhiên liệu khí hóa lỏng (LPG), khí thiên nhiên nén (CNG)
+
+2.1.7.2.1. Không rò rỉ LPG, CNG.
+
+2.1.7.2.2. Các bộ phận, chi tiết phải được lắp đặt chắc chắn.
+
+2.1.7.2.3. Không được có bộ phận nào của hệ thống LPG nhô ra khỏi bề mặt ngoài của xe trừ đầu nạp có thể được nhô ra nhưng không quá 10 mm⁽¹⁾.
+
+2.1.7.2.4. Các bộ phận của hệ thống LPG phải cách ống xả hoặc nguồn nhiệt tương tự từ 100 mm trở lên trừ khi các bộ phận này được cách nhiệt thích hợp⁽¹⁾.
+
+2.1.7.2.5. Hướng thoát khí của khoang đựng bình LPG, CNG phải thông với môi trường bên ngoài xe không được hướng vào vòm che bánh xe hoặc các nguồn nhiệt như ống xả.
+
+2.1.8 Hệ thống điện
+
+2.1.8.1. Dây điện phải được bọc cách điện, chịu được nhiệt độ và độ ẩm phù hợp với vị trí lắp đặt trên xe. Dây điện phải được bảo vệ và kẹp giữ chắc chắn ở các vị trí trên thân xe tránh được các hư hỏng do cọ xát, chèn ép, đè nén giữa các chi tiết của xe.
+
+2.1.8.2. Các giắc nối, đầu nối và công tắc điện phải được cách điện.
+
+2.1.8.3. Ắc quy phải được lắp đặt chắc chắn.
+
+2.1.9 Khung và thân vỏ
+
+2.1.9.1. Khung và thân vỏ phải được lắp đặt chắc chắn, đủ độ bền theo thiết kế của nhà sản xuất.
+
+2.1.9.2. Thân xe không được có gờ sắc cạnh hoặc phần lồi ra gây nguy hiểm cho người cùng tham gia giao thông.
+
+2.1.9.3. Kính chắn gió phải là kính an toàn nhiều lớp. Các loại kính khác phải là kính an toàn⁽¹⁾.
+
+2.1.9.4. Cửa buồng lái: đóng mở nhẹ nhàng, không tự mở khi xe chạy
+
+2.1.10 Ghế ngồi trong khoang người lái (ca bin) phải đáp ứng các điều kiện dưới đây:
+
+2.1.10.1. Ghế lái (nếu có)
+
+2.1.10.1.1. Ghế lái phải được lắp đặt sao cho đảm bảo tầm nhìn của người lái để điều khiển xe và ở vị trí sao cho người lái có thể vận hành các thiết bị điều khiển một cách dễ dàng. Độ lệch tâm giữa ghế lái và trục lái không được ảnh hưởng đến khả năng điều khiển xe của người lái.
+
+2.1.10.1.2. Ghế lái phải điều chỉnh được theo chiều dọc của xe, đệm tựa lưng phải điều chỉnh được độ nghiêng⁽¹⁾.
+
+2.1.10.1.3. Ghế cạnh người lái không được ảnh hưởng tới khả năng điều khiển xe của người lái.
+
+2.1.10.2. Ghế lái và ghế cạnh người lái phải có đai an toàn⁽¹⁾.
+
+2.1.11 Hệ thống chiếu sáng và tín hiệu
+
+2.1.11.1. Phải đúng kiểu loại, đủ số lượng, lắp đặt chắc chắn đúng vị trí theo tài liệu của nhà sản xuất, không nứt, vỡ.
+
+2.1.11.2. XMCD phải trang bị các loại đèn chiếu sáng và tín hiệu sau đây: đèn chiếu sáng phía trước (gồm có đèn chiếu gần và đèn chiếu xa), đèn báo rẽ, đèn vị trí, đèn phanh, đèn lùi, đèn soi biển số phía sau. Màu, số lượng tối thiểu, của các loại đèn được quy định tại Bảng 4⁽³⁾.
+
+2.1.11.3. Cường độ sáng của đèn chiếu xa không nhỏ hơn 12000cd⁽¹⁾.
+
+2.1.11.4. Đèn tín hiệu
+
+2.1.11.4.1. Hoạt động ổn định
+
+2.1.11.4.2. Đèn báo rẽ có số lần nháy từ 60 đến 120 lần/phút⁽¹⁾.
+
+2.1.11.4.3. Khi quan sát bằng mắt thường, phải phân biệt tín hiệu rõ ràng ở khoảng cách 20m đối với đèn phanh, đèn báo rẽ, đèn lùi và khoảng cách 10m đối với đèn vị trí trước, đèn vị trí sau và đèn soi biển số sau, trong điều kiện ban ngày.
+
+Bảng 5 - Màu, số lượng tối thiểu của các loại đèn
+
++--------------------+---------------------------+--------------------+--------------------+
+| TT                 | Tên đèn                   | Màu                | Số lượng tối thiểu |
++:==================:+===========================+====================+:==================:+
+| 1.                 | Đèn chiếu sáng phía trước | Trắng hoặc Vàng    | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 2.                 | Đèn báo rẽ trước          | Vàng               | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 3.                 | Đèn báo rẽ sau            | Vàng hoặc Đỏ       | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 4.                 | Đèn phanh                 | Đỏ                 | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 5.                 | Đèn lùi                   | Trắng              | 1 ^((*))           |
++--------------------+---------------------------+--------------------+--------------------+
+| 6.                 | Đèn vị trí trước ^((**))  | Trắng hoặc Vàng    | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 7.                 | Đèn vị trí sau            | Đỏ                 | 2                  |
++--------------------+---------------------------+--------------------+--------------------+
+| 8.                 | Đèn soi biển số sau       | Trắng              | 1                  |
++--------------------+---------------------------+--------------------+--------------------+
+| (*) Nhưng không quá 2.                                                                   |
++------------------------------------------------------------------------------------------+
+
+2.1.12 Còi ⁽³⁾
+
+2.1.12.1. Có đủ số lượng theo thiết kế và lắp đặt chắc chắn.
+
+2.1.12.2. Có âm thanh liên tục với âm lượng ổn định.
+
+2.1.12.3. Âm lượng còi (khi đo ở khoảng cách 7 m tính từ đầu xe, micro của thiết bị đo được đặt gần với mặt phẳng trung tuyến dọc của xe với chiều cao nằm trong khoảng từ 0,5 m đến 1,5 m) không nhỏ hơn 93 dB(A), không lớn hơn 112 dB(A)⁽¹⁾
+
+2.1.13 Tấm phản quang ⁽³⁾
+
+2.1.13.1. Có trang bị tấm phản quang ở phía sau.
+
+2.1.13.2. Màu tấm phản quang là màu đỏ.
+
+2.1.13.3. Hình dạng mặt phản quang không được là hình tam giác.
+
+2.1.14 Gương chiếu hậu, thiết bị quan sát ⁽³⁾
+
+2.1.14.1. Có trang bị gương chiếu hậu hoặc thiết bị quan sát cho phép người lái có thể nhận biết rõ ràng điều kiện giao thông về phía sau và hai bên xe, được lắp đặt chắc chắn.
+
+2.1.14.2. Gương chiếu hậu lắp ngoài phải có vị trí sao cho người lái dễ dàng nhìn thấy được qua cửa sổ bên hoặc qua phần diện tích được quét của gạt nước trên kính chắn gió.
+
+2.1.14.3. Yêu cầu về lắp đặt phải đáp ứng quy định tại mục 2.24 của QCVN 09:2015/BGTVT. ⁽¹⁾
+
+2.1.15 Hệ thống gạt nước ⁽³⁾
+
+2.1.15.1. Lắp đặt chắc chắn.
+
+2.1.15.2. Hoạt động ổn định và đảm bảo tầm nhìn của người lái.
+
+2.1.15.3. Tần số gạt nước ⁽¹⁾
+
+2.1.15.3.1. Phải có từ hai tần số gạt trở lên;
+
+2.1.15.3.2. Một tần số gạt có giá trị không nhỏ hơn 45 lần/phút;
+
+2.1.15.3.3. Một tần số gạt có giá trị nằm trong khoảng từ 10 đến 55 lần/phút;
+
+2.1.15.3.4. Chênh lệch giữa tần số gạt cao nhất với một trong những tần số gạt thấp hơn phải không nhỏ hơn 15 lần/phút.
+
+2.1.16 Đồng hồ tốc độ ⁽³⁾
+
+XMCD phải được trang bị đồng hồ tốc độ, hoạt động ổn định và hiển thị rõ ràng.
+
+2.1.17 Các đồng hồ đo khác (nếu có): Thời gian XMCD hoạt động, nhiệt độ nước làm mát động cơ, đo áp suất khí nén hoặc áp suất dầu thủy lực… phải hoạt động ổn định và hiển thị rõ ràng.
+
+2.1.18 Hệ thống công tác
+
+2.1.18.1. Lắp đặt chắc chắn, đúng vị trí, đảm bảo chắc chắn khi di chuyển.
+
+2.1.18.2. Các bộ phận của hệ thống phải có đầy đủ các chi tiết kẹp chặt, phòng lỏng theo quy định trong hồ sơ kỹ thuật.
+
+2.1.18.3. Đảm bảo các tính năng công tác theo các chỉ tiêu quy định trong hồ sơ kỹ thuật.
+
+2.1.18.4. Các kết cấu của hệ thống không bị nứt, cong, vênh.
+
+2.1.18.5. Hệ thống thủy lực hoạt động ổn định, không bị chảy dầu thủy lực
+
+2.1.18.6. Mâm quay: Hoạt động êm dịu, không giật cục, đảm bảo góc quay theo tài liệu của nhà sản xuất. Dừng được ở vị trí theo sự điều khiển của người vận hành. Không tự quay khi không điều khiển.
+
+2.1.18.7. Yêu cầu với xe có thiết bị nâng
+
+2.1.18.7.1. Các XMCD có thiết bị nâng phải có biểu đồ nâng ghi rõ tải trọng nâng ở các chế độ làm việc. Đối với xe trang bị biểu đồ nâng điện tử thì chỉ báo trên màn hình phải hoạt động đúng theo tài liệu của nhà sản xuất.
+
+2.1.18.7.2. Có các cảnh báo, lưu ý về điều kiện nâng đặc biệt.
+
+2.1.18.7.3. Thiết bị nâng của XMCD đáp ứng được yêu cầu của quy chuẩn QCVN 22:2018/BGTVT Quy chuẩn kỹ thuật quốc gia về chế tạo và kiểm tra phương tiện, thiết bị xếp dỡ. ⁽²⁾
+
+2.1.19 Quy định về bảo vệ môi trường.
+
+2.1.19.1. Khí thải ⁽⁴⁾
+
+2.1.19.1.1. Độ khói tối đa cho phép đối với XMCD sử dụng động cơ cháy do nén: 60%HSU;
+
+2.1.19.1.2. Đối với XMCD sử dụng động cơ cháy cưỡng bức
+
+2.1.19.1.2.1. Thành phần CO tối đa cho phép: 3,5 % thể tích
+
+2.1.19.1.2.2. Thành phần HC tối đa cho phép: Đối với động cơ 4 kỳ là 800 phần triệu thể tích-ppm; đối với động cơ 2 kỳ là 7800 phần triệu thể tích-ppm. Phương pháp đo theo TCVN 6438 Phương tiện giao thông đường bộ - Giới hạn lớn nhất cho phép của khí thải.
+
+2.1.19.2. Tiếng ồn ⁽³⁾
+
+Mức ồn tối đa cho phép phát ra khi đỗ là 110 dB(A) với phương pháp đo theo TCVN 7880 Phương tiện giao thông đường bộ - Tiếng ồn phát ra từ ô tô - Yêu cầu và phương pháp thử trong phê duyệt kiểu.
+
+2.2 QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XMCD ĐÃ QUA SỬ DỤNG
+
+2.2.1 Yêu cầu chung
+
+2.2.1.1. Kết cấu của xe phải phù hợp với tài liệu kỹ thuật của nhà sản xuất.
+
+2.2.1.2. XMCD phải đảm bảo các tính năng kỹ thuật theo các yêu cầu quy định trong tài liệu kỹ thuật của nhà sản xuất.
+
+2.2.1.3. Các chất lỏng dùng để: làm mát, bôi trơn và dẫn động thủy lực không được rò rỉ thành giọt.
+
+2.2.1.4. Có đầy đủ các chi tiết kẹp chặt, phòng lỏng theo tài liệu của nhà sản xuất.
+
+2.2.1.5. Số khung được đóng trên thân xe hoặc thể hiện trên tem nhãn của nhà sản xuất (có thể là số PIN hoặc số VIN hoặc số Serial), các ký tự rõ ràng.
+
+2.2.1.6. Số động cơ được đóng trên thân động cơ hoặc thể hiện trên tem nhãn của nhà sản xuất (có thể là số Serial), các ký tự rõ ràng.
+
+2.2.2 Động cơ và hệ thống truyền động
+
+2.2.2.1. Động cơ
+
+2.2.2.1.1. Lắp đặt chắc chắn.
+
+2.2.2.1.2. Hoạt động ổn định, không có tiếng kêu lạ.
+
+2.2.2.1.3. Bầu giảm thanh và đường ống dẫn khí thải không bị thủng, rách.
+
+2.2.2.1.4. Động cơ không cho phép khởi động khi cần số ở vị trí số tiến hoặc số lùi đối với xe có trang bị hộp số tự động.
+
+2.2.2.2. Hệ thống truyền động
+
+2.2.2.2.1. Hệ thống truyền động cơ khí
+
+2.2.2.2.1.1. Các bộ phận của hệ truyền động phải hoạt động ổn định, không bị cong vênh, biến dạng, nứt, vỡ;
+
+2.2.2.2.1.2. Truyền động ma sát trực tiếp: Hoạt động êm dịu, đóng mở dứt khoát, độ mòn của các đĩa ma sát và độ chùng của dây đai phải nằm trong giới hạn cho phép của nhà sản xuất;
+
+2.2.2.2.1.3. Truyền động ăn khớp trực tiếp: Ăn khớp, hoạt động êm dịu, không bị giật cục. Độ mòn của bánh răng, bánh vít, trục vít và độ chùng xích nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.2.2.2.2. Hệ thống truyền động thuỷ lực
+
+2.2.2.2.2.1. Lắp đặt chắc chắn
+
+2.2.2.2.2.2. Các van thủy lực hoạt động ổn định và không bị kẹt;
+
+2.2.2.2.2.3. Bơm và mô tơ thuỷ lực hoạt động ổn định, không có tiếng kêu lạ;
+
+2.2.2.2.2.4. Áp suất và lưu lượng dầu nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.2.3 Hệ thống di chuyển
+
+2.2.3.1. Bánh lốp
+
+2.2.3.1.1. Lắp đặt chắc chắn.
+
+2.2.3.1.2. Lốp trên cùng một trục của xe phải cùng kiểu loại.
+
+2.2.3.1.3. Lốp đủ số lượng, phù hợp với tài liệu kỹ thuật của nhà sản xuất.
+
+2.2.3.1.4. Vành bánh xe không bị biến dạng, nứt, vỡ, Moay ơ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn.
+
+2.2.3.1.5. Lốp xe không được mòn đến quá giới hạn của nhà sản xuất, không được phồng rộp, nứt, vỡ, đảm bảo tính năng hoạt động của xe khi vận hành.
+
+2.2.3.2. Bánh xích
+
+2.2.3.2.1. Lắp đặt chắc chắn.
+
+2.2.3.2.2. Moay ơ, con lăn tì, con lăn đỡ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn.
+
+2.2.3.2.3. Xích và bánh xích ăn khớp với nhau.
+
+2.2.3.2.4. Xích phải đảm bảo không trượt ra ngoài khi xe quay vòng tại chỗ.
+
+2.2.3.2.5. Độ chùng xích phải nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.2.3.3. Bánh thép
+
+2.2.3.3.1. Lắp đặt chắc chắn.
+
+2.2.3.3.2. Moay ơ quay trơn, không bó kẹt, không rò rỉ chất bôi trơn, không bị biến dạng, nứt, vỡ đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.3.3.3. Khi vận hành không có tiếng kêu lạ.
+
+2.2.4 Hệ thống lái và điều khiển
+
+2.2.4.1. Hệ thống lái
+
+2.2.4.1.1. Lái bằng vành tay lái
+
+2.2.4.1.1.1. Đảm bảo cho xe chuyển hướng chính xác, điều khiển nhẹ nhàng.
+
+2.2.4.1.1.2. Đảm bảo cho xe có khả năng duy trì hướng chuyển động thẳng khi đang chạy thẳng và tự quay về hướng chuyển động thẳng khi thôi tác dụng lực lên vành tay lái⁽¹⁾. Khi hoạt động các cơ cấu chuyển động của hệ thống lái không được va quệt với bất kỳ bộ phận nào của xe.
+
+2.2.4.1.1.3. Khi quay vành tay lái về bên phải và bên trái thì không được có sự khác biệt đáng kể về lực tác động lên vành tay lái.
+
+2.2.4.1.1.4. Độ rơ vành tay lái: Không lớn hơn 15⁰ ⁽¹⁾.
+
+2.2.4.1.2. Lái bằng cần lái
+
+2.2.4.1.2.1. Cần lái lắp đặt chắc chắn, có ký hiệu rõ ràng chiều chuyển động của xe.
+
+2.2.4.1.2.2. Điều khiển nhẹ nhàng, êm dịu, tự trả về vị trí ban đầu khi thôi lực tác dụng.
+
+2.2.4.1.2.3. Độ rơ nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.2.4.2. Hệ thống điều khiển
+
+2.2.4.2.1. Hoạt động nhẹ nhàng, êm dịu, không bị kẹt.
+
+2.2.4.2.2. Được bố trí tại các vị trí dễ dàng và an toàn cho việc thao tác của người điều khiển.
+
+2.2.4.2.3. Có ký hiệu, biểu tượng nhận biết rõ ràng với từng chức năng điều khiển.
+
+2.2.4.2.4. Độ rơ nằm trong giới hạn cho phép của nhà sản xuất.
+
+2.2.5 Hệ thống phanh
+
+2.2.5.1. Yêu cầu chung
+
+2.2.5.1.1. Các cơ cấu, chi tiết được lắp đặt chắc chắn, không bị cong vênh, biến dạng, nứt, vỡ, hoặc mòn đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.5.1.2. Dầu phanh, khí nén không được rò rỉ; đường ống dẫn dầu phanh hoặc khí nén không bị bẹp, nứt và phải được lắp đặt chắc chắn.
+
+2.2.5.1.3. Dẫn động cơ khí của phanh phải linh hoạt, nhẹ nhàng, chắc chắn và có hiệu lực. Hành trình tự do của bàn đạp hoặc tay kéo phanh phải phù hợp với tài liệu của nhà sản xuất.
+
+2.2.5.1.4. Kiểm tra sự hoạt động của phanh đỗ: khả năng duy trì được hoạt động mà không cần có lực tác động liên tục của người lái.
+
+2.2.5.1.5. Đo khoảng cách dừng đối với hệ thống phanh chính và phanh dự phòng khi phanh còn nguội, ngoại trừ XMCD có hệ thống phanh truyền động thủy tĩnh (hydrostatic brake systems) ⁽²⁾.
+
+2.2.5.2. Đối với cần trục bánh lốp có vận tốc lớn nhất không nhỏ hơn 60 km/h: Kiểm tra hiệu quả của hệ thống phanh trên băng thử hoặc trên đường thử, hiệu quả phanh đỗ trên băng thử hoặc trên dốc (ở trạng thái không tải) quy định tại mục 2.5 của QCVN 09:2015/BGTVT Quy chuẩn kỹ thuật Quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với ô tô⁽¹⁾. Yêu cầu đối với đường thử phanh ⁽²⁾
+
+2.2.5.2.1. Bề mặt đường thử phải cứng, khô, bằng phẳng.
+
+2.2.5.2.2. Đường thử để thử xe tự đổ và xe cạp đất có khối lượng thử lớn hơn 32000 kg phải đáp ứng với phép thử có độ dốc xuống (8 đến 10 %) theo hướng di chuyển của xe.
+
+2.2.5.2.3. Đường chạy đà để thử phải đảm bảo xe thử đạt được vận tốc thử quy định trước khi tác động vào hệ thống phanh.
+
+2.2.5.2.4. Địa điểm dùng để thử khả năng giữ xe đứng yên có độ dốc phù hợp.
+
+2.2.5.3. Yêu cầu đối với hiệu quả phanh
+
+2.2.5.3.1. Hiệu quả phanh của các xe được đánh giá theo chỉ tiêu khoảng cách dừng và thỏa mãn yêu cầu như trong Bảng 5, trừ các loại xe bánh xích có vận tốc thiết kế lớn nhất < 20 km/h.
+
+2.2.5.3.2. Đối với cần trục bánh lốp có vận tốc lớn nhất không nhỏ hơn 60 km/h: Kiểm tra hiệu quả của hệ thống phanh trên băng thử hoặc trên đường thử, hiệu quả phanh đỗ trên băng thử hoặc trên dốc (ở trạng thái không tải) quy định tại mục 2.5.8 của QCVN09:2015/BGTVT Quy chuẩn kỹ thuật Quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với ô tô⁽¹⁾.
+
+2.2.5.3.3. Vận tốc thử phanh cho phép dung sai trong khoảng ± 2 km/h:
+
+2.2.5.3.3.1. Đối với xe tự đổ có khối lượng thử không lớn hơn 32000 kg, thử tại vận tốc từ 80% vận tốc di chuyển lớn nhất của xe theo thiết kế hoặc tại vận tốc 32 km/h, nếu vận tốc nào lớn hơn.
+
+2.2.5.3.3.2. Đối với các XMCD có vận tốc di chuyển lớn nhất nhỏ hơn 32 km/h, thử tại vận tốc lớn nhất theo tài liệu của nhà sản xuất;
+
+2.2.5.3.3.3. Đối với tất cả các XMCD còn lại, thử tại vận tốc lớn nhất của hai giá trị sau: 80% vận tốc di chuyển lớn nhất của xe theo thiết kế, vận tốc 32 km/h
+
+2.2.5.3.4. Thử khoảng cách dừng đối với phanh chính và phanh dự phòng được tiến hành khi phanh nguội. Phải tiến hành 2 lần thử theo mỗi hướng khác nhau theo chiều tiến của xe. Thời gian giữa 2 lần thử tối thiểu là 10 phút.
+
+2.2.5.3.5. Khoảng cách dừng đối với phanh chính và phanh dự phòng được xác định theo Bảng 6 và là giá trị trung bình của hai lần thử.
+
+Bảng 6 - Khoảng cách dừng của XMCD
+
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Loại phương tiện                                                                                                                         | Khoảng cách dừng tối đa                                   |
+|                                                                                                                                          +-----------------------------+-----------------------------+
+|                                                                                                                                          | Phanh chính                 | Phanh phụ                   |
++==========================================================================================================================================+:===========================:+:===========================:+
+| Máy cạp, xe tự đổ khung cứng và xe tự đổ khung khớp nối có khối lượng thử ≤32 000 kg và máy tự đổ nửa rơ moóc có khối lượng bất kỳ^((*)) | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Máy cạp, máy xúc lật khung cứng và máy xúc lật khung khớp nối với khối lượng thử >32 000 kg                                              | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Xe lu các loại                                                                                                                           | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| Các XMCD khác, bao gồm các xe kéo rơ móc có tải                                                                                          | []                          | []                          |
++------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-----------------------------+
+| [] là vận tốc thử (km/h)                                                                                                                                                                             |
+|                                                                                                                                                                                                      |
+| a là độ dốc kiểm tra (8-10%)                                                                                                                                                                         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Chú thích *: Xóa công thức 0,1(32-v) đối với các XMCD có tốc độ lớn hơn 32 km/h                                                                                                                      |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.2.5.3.6. Khả năng giữ XMCD đứng yên ngang dốc của hệ thống phanh chính và phanh đỗ thỏa mãn yêu cầu như trong Bảng 7.
+
+Bảng 7 - Khả năng giữ XMCD đứng yên ngang dốc
+
++---------------------------------------------------------+------------------------------------------------------------------------------------+---------------------------------------------------------+
+| Loại phanh                                              | Loại xe                                                                            | Độ dốc (%)                                              |
++:=======================================================:+====================================================================================+:=======================================================:+
+| Phanh chính                                             | Xe tự đổ có khối lượng thử > 32000 kg                                              | 20                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe lu các loại                                                                     | 20                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe tự đổ, sơ mi rơ moóc tự đổ được kết hợp với xe kéo có khối lượng thử ≤ 32000 kg | 25                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Tất cả các XMCD khác                                                               | 25                                                      |
++---------------------------------------------------------+------------------------------------------------------------------------------------+---------------------------------------------------------+
+| Phanh đỗ                                                | Xe tự đổ, xe cạp đất được kết hợp với xe                                           | 15                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe lu các loại                                                                     | 20                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Sơ mi rơ moóc tự đổ                                                                | 20                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Tất cả các XMCD khác (trừ xe nâng)                                                 | 20                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe nâng loại nhặt hàng tầng cao                                                    | 5%                                                      |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe nâng loại nhặt hàng tầng thấp                                                   | 10%                                                     |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe nâng tay - palet                                                                | 10%                                                     |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe nâng dạng ngồi lái                                                              | 15%                                                     |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Xe nâng dạng đứng lái                                                              | 15%                                                     |
+|                                                         +------------------------------------------------------------------------------------+---------------------------------------------------------+
+|                                                         | Tất cả các XMCD khác (trừ xe nâng)                                                 | 20                                                      |
++---------------------------------------------------------+------------------------------------------------------------------------------------+---------------------------------------------------------+
+| Chú ý:                                                                                                                                                                                                 |
+|                                                                                                                                                                                                        |
+| 1. Khi thử phanh cần ngắt hệ thống truyền lực, động cơ hoạt động ở trạng thái không tải hoặc dừng                                                                                                      |
+|                                                                                                                                                                                                        |
+| 2. Không áp dụng đối với các XMCD có hệ thống phanh truyền động thủy tĩnh hoặc tương tự và các loại XMCD bánh xích có vận tốc thiết kế lớn nhất không lớn hơn 20 km/h                                  |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.2.5.3.7. Khả năng giữ xe đứng yên ngang dốc của hệ thống phanh chính và phanh đỗ đối với XMCD bánh xích cao su có vận tốc không lớn hơn 20km/h thỏa mãn yêu cầu như trong Bảng 8.
+
+Bảng 8 - Lực kéo dùng thử phanh
+
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Loại phanh                                                                                                                                 | Lực hãm phanh                                                                                                                              |
++============================================================================================================================================+:==========================================================================================================================================:+
+| Phanh chính                                                                                                                                | 9,8M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Phanh dự phòng                                                                                                                             | 4,9M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Phanh đỗ                                                                                                                                   | 9,8M x sinɑ                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| ɑ là góc nghiêng lớn nhất, đơn vị đo là độ (xem lại 3.6) : độ dốc kiểm tra hiệu suất phanh cho một XMCD cụ thể từ 17 đến 45 độ hoặc độ dốc lớn nhất do nhà sản xuất.                                                                                                                    |
+|                                                                                                                                                                                                                                                                                         |
+| M là khối lượng máy khi thử (machine test mass): Là khối lượng của XMCD ở trạng thái hoạt động bao gồm ca bin, mái che (canopy), các chi tiết bảo vệ (nếu có), trang bị kèm theo của nhà sản xuất, người điều khiển và các chất lỏng được đổ đầy);                                      |
+|                                                                                                                                                                                                                                                                                         |
+| a) Tất cả các thông số liên quan đến hệ thống phanh phải nằm trong thông số kỹ thuật của nhà sản xuất, nghĩa là điều chỉnh phanh, áp suất phanh, độ căng của xích, v.v. Không được thực hiện bất kỳ điều chỉnh thủ công nào đối với hệ thống phanh trong bất kỳ phép thử đơn lẻ nào;    |
+|                                                                                                                                                                                                                                                                                         |
+| b) Mỗi lần thử phanh phải được thực hiện mà không bị ảnh hưởng bởi hệ thống phanh khác của XMCD;                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                         |
+| c) Các mối nối để kéo hoặc kéo phải được thực hiện ở mức thấp nhất có thể trên thanh kéo hoặc điểm nối thích hợp khác. Lực kéo phải được tác dụng theo chiều ngang để không ảnh hưởng đến sự tiếp xúc với mặt đất của XMCD được đo.                                                     |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.2.5.3.8. Lực tác động lên các cơ cấu điều khiển: Trong suốt quá trình thử phanh, lực tác động lên các cơ cấu điều khiển được quy định trong bảng 9.
+
+Bảng 9 - Lực lớn nhất cho phép tác động lên cơ cấu điều khiển hệ thống phanh
+
++----------------------------------------------------------------+------------------+
+| Loại điều khiển                                                | Lực lớn nhất (N) |
++================================================================+:================:+
+| Bằng ngón tay (lật hoặc gạt)                                   | 20               |
++----------------------------------------------------------------+------------------+
+| Bằng nắm tay                                                   |                  |
++----------------------------------------------------------------+------------------+
+| - Đẩy lên trên                                                 | 400              |
+|                                                                |                  |
+| - Kéo xuống, gạt sang bên, ấn                                  | 300              |
++----------------------------------------------------------------+------------------+
+| Đạp xoay bằng bàn chân (khớp cổ chân kiểm soát việc đạp phanh) | 350              |
++----------------------------------------------------------------+------------------+
+| Đạp pedal phanh (cẳng chân kiểm soát việc đạp phanh)           | 600              |
++----------------------------------------------------------------+------------------+
+
+2.2.6 Hệ thống treo
+
+2.2.6.1. Các cơ cấu, chi tiết được lắp đặt chắc chắn, không bị cong vênh, biến dạng, nứt, vỡ, mòn, mọt rỉ, thủng rách đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.6.2. Các chi tiết, cụm chi tiết của hệ thống treo phải đảm bảo cân bằng xe theo các hướng.
+
+2.2.7 Hệ thống nhiên liệu
+
+2.2.7.1. Yêu cầu đối với hệ thống nhiên liệu xăng hoặc điêzen
+
+2.2.7.1.1. Không bị rò rỉ nhiên liệu.
+
+2.2.7.1.2. Vật liệu làm ống dẫn nhiên liệu phải chịu được loại nhiên liệu xe đang sử dụng.
+
+2.2.7.1.3. Các bộ phận, chi tiết phải được lắp đặt chắc chắn.
+
+2.2.7.2. Yêu cầu đối với hệ thống nhiên liệu khí hóa lỏng (LPG), khí thiên nhiên nén (CNG)
+
+2.2.7.2.1. Không rò rỉ LPG, CNG
+
+2.2.7.2.2. Các bộ phận, chi tiết phải được lắp đặt chắc chắn.
+
+2.2.7.2.3. Các bộ phận của hệ thống LPG, CNG phải cách ống xả hoặc nguồn nhiệt khoảng cách đủ an toàn, hoặc các bộ phận này phải được cách nhiệt thích hợp⁽¹⁾.
+
+2.2.7.2.4. Hướng thoát khí của khoang đựng bình LPG, CNG phải thông với môi trường bên ngoài xe không được hướng vào vòm che bánh xe hoặc các nguồn nhiệt như ống xả.
+
+2.2.8 Hệ thống điện
+
+2.2.8.1. Dây điện phải được bọc cách điện, chịu được nhiệt độ và độ ẩm phù hợp với vị trí lắp đặt trên xe. Dây điện phải được bảo vệ và kẹp giữ chắc chắn ở các vị trí trên thân xe tránh được các hư hỏng do cọ xát, chèn ép, đè nén giữa các chi tiết của xe.
+
+2.2.8.2. Các giắc nối, đầu nối và công tắc điện phải được cách điện.
+
+2.2.8.3. Ắc quy phải được lắp đặt chắc chắn, an toàn.
+
+2.2.9 Khung và thân vỏ
+
+2.2.9.1. Khung và thân vỏ phải được lắp đặt chắc chắn, đủ các chi tiết ghép nối theo tài liệu của nhà sản xuất.
+
+2.2.9.2. Khung xe không bị cong vênh, biến dạng, nứt, vỡ hoặc mọt rỉ đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.9.3. Thân vỏ xe không bị cong vênh, biến dạng, nứt, vỡ, thủng, rách hoặc mọt rỉ đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.9.4. Kính chắn gió phải là kính an toàn nhiều lớp. Các loại kính khác phải là kính an toàn ⁽¹⁾.
+
+2.2.9.5. Cửa buồng lái: đóng mở nhẹ nhàng, thủng, rách hoặc mọt rỉ đến mức ảnh hưởng đến an toàn vận hành, không tự mở khi xe chạy
+
+2.2.10 Ghế ngồi trong khoang lái (ca bin) phải đáp ứng các điều kiện dưới đây
+
+2.2.10.1. Ghế lái (nếu có)
+
+2.2.10.1.1. Ghế lái phải được lắp đặt chắc chắn, đệm ghế và tựa lưng không được thủng, rách.
+
+2.2.10.1.2. Ghế lái phải điều chỉnh được theo chiều dọc của xe, đệm tựa lưng phải điều chỉnh được độ nghiêng ⁽¹⁾.
+
+2.2.10.2. Ghế cạnh người lái (nếu có) không được ảnh hưởng tới khả năng điều khiển xe của người lái, đệm ghế và tựa lưng không được thủng, rách.
+
+2.2.10.3. Ghế lái và ghế cạnh người lái phải có đai an toàn ⁽¹⁾.
+
+2.2.11 Hệ thống chiếu sáng và tín hiệu
+
+2.2.11.1. Phải có đủ số lượng, lắp đặt chắc chắn đúng vị trí theo tài liệu của nhà sản xuất, không nứt, vỡ, hoạt động ổn định.
+
+2.2.11.2. XMCD phải trang bị các loại đèn chiếu sáng và tín hiệu sau đây: đèn chiếu sáng phía trước, đèn báo rẽ, đèn vị trí, đèn phanh, đèn lùi, đèn soi biển số phía sau. Màu, số lượng tối thiểu, của các loại đèn được quy định tại Bảng 10 ⁽³⁾.
+
+2.2.11.3. Đèn chiếu sáng phía trước phải có cường độ sáng lớn hơn 12000 cd ⁽¹⁾.
+
+2.2.11.4. Đèn báo rẽ có số lần nháy từ 60 đến 120 lần/phút ⁽¹⁾.
+
+2.2.11.5. Khi quan sát bằng mắt, phải phân biệt tín hiệu rõ ràng ở khoảng cách 20 m đối với đèn phanh, đèn báo rẽ, đèn lùi và khoảng cách 10m đối với đèn vị trí trước, đèn vị trí sau và đèn soi biển số sau, trong điều kiện ban ngày.
+
+Bảng 10 - Màu, số lượng tối thiểu của các loại đèn
+
++--------------------+--------------------------+--------------------+---------------------+
+| TT                 | Tên đèn                  | Màu                | Số lượng tối thiểu  |
++:==================:+==========================+:==================:+:===================:+
+| 1.                 | Đèn chiếu sáng phía      | Trắng hoặc vàng    | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 2.                 | Đèn báo rẽ trước         | Vàng               | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 3.                 | Đèn báo rẽ sau           | Vàng hoặc Đỏ       | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 4.                 | Đèn phanh                | Đỏ                 | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 5.                 | Đèn lùi                  | Trắng              | 1 ^((*))            |
++--------------------+--------------------------+--------------------+---------------------+
+| 6.                 | Đèn vị trí trước ^((**)) | Trắng hoặc vàng    | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 7.                 | Đèn vị trí sau (đèn      | Đỏ                 | 2                   |
++--------------------+--------------------------+--------------------+---------------------+
+| 8.                 | Đèn soi biển số sau      | Trắng              | 1                   |
++--------------------+--------------------------+--------------------+---------------------+
+| (*) Nhưng không quá 2;                                                                   |
+|                                                                                          |
+| (**) Đèn vị trí trước có thể được sử dụng kết hợp với các đèn khác                       |
++------------------------------------------------------------------------------------------+
+
+2.2.12 Còi: ⁽³⁾
+
+2.2.12.1. Phải có đủ số lượng theo thiết kế và lắp đặt chắc chắn.
+
+2.2.12.2. Còi phải có âm thanh liên tục với âm lượng ổn định.
+
+2.2.12.3. Âm lượng còi (khi đo ở khoảng cách 7 m tính từ đầu xe, micro của thiết bị đo được đặt gần với mặt phẳng trung tuyến dọc của xe với chiều cao nằm trong khoảng từ 0,5 m đến 1,5 m) không nhỏ hơn 93 dB(A), không lớn hơn 112 dB(A). ⁽¹⁾
+
+2.2.13 Tấm phản quang ⁽³⁾
+
+2.2.13.1. XMCD phải được trang bị tấm phản quang ở phía sau.
+
+2.2.13.2. Hình dạng mặt phản quang không được là hình tam giác.
+
+2.2.13.3. Màu tấm phản quang là màu đỏ.
+
+2.2.14 Gương chiếu hậu ⁽³⁾
+
+2.2.14.1. XMCD phải được trang bị gương chiếu hậu hoặc thiết bị quan sát cho phép người lái có thể nhận biết rõ ràng điều kiện giao thông về phía sau và hai bên xe được lắp đặt chắc chắn, đủ số lượng và không nứt, vỡ.
+
+2.2.14.2. Gương chiếu hậu lắp ngoài phải có vị trí sao cho người lái dễ dàng nhìn thấy được qua cửa sổ bên hoặc qua phần diện tích được quét của gạt nước trên kính chắn gió.
+
+2.2.15 Hệ thống gạt nước ⁽³⁾
+
+2.2.15.1. Lắp đặt chắc chắn
+
+2.2.15.2. Hoạt động ổn định và đảm bảo tầm nhìn của người lái.
+
+2.2.15.3. Tần số gạt nước⁽¹⁾:
+
+2.2.15.3.1. Phải có từ hai tần số gạt trở lên;
+
+2.2.15.3.2. Một tần số gạt có giá trị không nhỏ hơn 45 lần/phút;
+
+2.2.15.3.3. Một tần số gạt có giá trị nằm trong khoảng từ 10 đến 55 lần/phút;
+
+2.2.15.3.4. Chênh lệch giữa tần số gạt cao nhất với một trong những tần số gạt thấp hơn phải không nhỏ hơn 15 lần/phút
+
+2.2.16 Đồng hồ tốc độ ⁽³⁾
+
+XMCD phải được trang bị đồng hồ tốc độ, hoạt động ổn định và hiển thị rõ ràng
+
+2.2.17 Các đồng hồ đo khác (nếu có): Thời gian XMCD hoạt động, nhiệt độ nước làm mát động cơ, đo áp suất khí nén hoặc áp suất dầu thủy lực… phải hoạt động ổn định và hiển thị rõ ràng.
+
+2.2.18 Hệ thống công tác
+
+2.2.18.1. Lắp đặt chắc chắn, đúng vị trí, đảm bảo chắc chắn khi di chuyển
+
+2.2.18.2. Các bộ phận của hệ thống phải có đầy đủ các chi tiết kẹp chặt, phòng lỏng theo quy định trong hồ sơ kỹ thuật
+
+2.2.18.3. Đảm bảo các tính năng công tác theo các chỉ tiêu quy định trong hồ sơ kỹ thuật.
+
+2.2.18.4. Các kết cấu, chi tiết được lắp đặt chắc chắn, không bị cong vênh, biến dạng, nứt, vỡ, mòn, mọt rỉ, thủng rách đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của XMCD Đảm bảo các tính năng công tác theo các chỉ tiêu quy định trong hồ sơ kỹ thuật.
+
+2.2.18.5. Hệ thống thủy lực hoạt động ổn định, không bị chảy dầu thủy lực.
+
+2.2.18.6. Mâm quay: Hoạt động êm dịu, không giật cục, đảm bảo góc quay theo tài liệu của nhà sản xuất. Dừng được ở vị trí theo sự điều khiển của người vận hành. Không tự quay khi không điều khiển.
+
+2.2.18.7. Yêu cầu với XMCD có thiết bị nâng
+
+2.2.18.7.1. Các cơ cấu, chi tiết được lắp đặt chắc chắn, không bị cong vênh, biến dạng, nứt, vỡ, mòn, mọt rỉ, thủng rách đến mức ảnh hưởng đến an toàn vận hành và đặc tính kỹ thuật của xe.
+
+2.2.18.7.2. Các XMCD có thiết bị nâng phải có biểu đồ nâng ghi rõ tải trọng nâng ở các chế độ làm việc hoặc biểu đồ nâng điện tử phải hoạt động đúng theo tài liệu của nhà sản xuất.
+
+2.2.18.7.3. Có các cảnh báo, lưu ý về điều kiện nâng đặc biệt.
+
+2.2.18.7.4. Đáp ứng được yêu cầu của quy chuẩn QCVN 22:2018/BGTVT Quy chuẩn kỹ thuật quốc gia về chế tạo và kiểm tra phương tiện, thiết bị xếp dỡ⁽²⁾.
+
+2.2.19 Quy định về bảo vệ môi trường.
+
+2.2.19.1. Khí thải ⁽⁴⁾
+
+2.2.19.1.1. Đối với XMCD sử dụng động cơ cháy do nén
+
+Độ khói tối đa cho phép: 72 %HSU;
+
+2.2.19.1.2. Đối với XMCD sử dụng động cơ cháy cưỡng bức
+
+2.2.19.1.2.1. Thành phần CO tối đa cho phép: 4,5 % thể tích.
+
+2.2.19.1.2.2. Thành phần HC tối đa cho phép: Đối với động cơ 4 kỳ là 1200 phần triệu thể tích-ppm; đối với động cơ 2 kỳ là 7800 phần triệu thể tích-ppm.
+
+Phương pháp đo theo TCVN 6438 Phương tiện giao thông đường bộ - Giới hạn lớn nhất cho phép của khí thải.
+
+2.2.19.2. Tiếng ồn ⁽³⁾
+
+Mức ồn tối đa cho phép phát ra khi đỗ là 110 dB(A) với phương pháp đo theo TCVN 7880:2016 Phương tiện giao thông đường bộ - Tiếng ồn phát ra từ ô tô - Yêu cầu và phương pháp thử trong phê duyệt kiểu.
+
+2.2.20 Yêu cầu đối với biển số ⁽³⁾
+
+Đối với các XMCD trong khai thác, sử dụng là đối tượng tham gia giao thông thì phải đăng ký, biển số phải đủ số lượng, đúng quy cách, rõ nét, không nứt gẫy, lắp chặt, đúng vị trí
+
+3. QUY ĐỊNH QUẢN LÝ
+
+XMCD sản xuất, lắp ráp; nhập khẩu; cải tạo và khai thác sử dụng phải được kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy chuẩn này và Thông tư số 89/2015/TT-BGTVT ngày 31/12 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng, Thông tư số 42/2018/TT-BGTVT ngày 30/7/2018 của Bộ trưởng Bộ Giao thông vận tải quy định sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm, Thông tư số 23/2020/TT-BGTVT ngày 01/10/2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 89/2015/TTBGTVT ngày 31/12/2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng và Thông tư số 42/2018/TT-BGTVT ngày 30/7/2018 của Bộ trưởng Bộ Giao thông vận tải quy định sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm.
+
+4. TỔ CHỨC THỰC HIỆN
+
+4.1. Cục Đăng kiểm Việt Nam triển khai thực hiện Quy chuẩn này.
+
+4.2. Trong trường hợp các văn bản quy phạm pháp luật, quy chuẩn, tiêu chuẩn được dẫn chiếu trong Quy chuẩn này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung và thay thế.

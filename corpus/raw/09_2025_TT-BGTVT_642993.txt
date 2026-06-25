@@ -1,0 +1,143 @@
+  -----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           --------                           Độc lập - Tự do - Hạnh phúc
+                                                          ---------------
+  -------------------------- --------------------------------------------
+     Số: 09/2025/TT-BGTVT               Hà Nội, ngày 12 tháng 02 năm 2025
+
+  -----------------------------------------------------------------------
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ PHÂN CẤP VÀ ĐÓNG TÀU BIỂN VỎ THÉP
+
+Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015;
+
+Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép
+
+Mã số đăng ký: QCVN 21:2025/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2025.
+
+2. Bãi bỏ các nội dung sau:
+
+(a) Khoản 1 Điều 1 của Thông tư số 11/2016/TT-BGTVT ngày 02 tháng 6 năm 2016 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép, Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cao tốc, Quy chuẩn kỹ thuật quốc gia về trang bị an toàn tàu biển và Quy chuẩn kỹ thuật quốc gia về kiểm tra và đóng tàu biển vỏ gỗ;
+
+(b) Khoản 2 Điều 1 của Thông tư số 08/2017/TT-BGTVT ngày 14 tháng 3 năm 2017 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về báo động và chỉ báo trên tàu biển, Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép Sửa đổi 1, Quy chuẩn kỹ thuật quốc gia về các hệ thống ngăn ngừa ô nhiễm biển của tàu, Quy chuẩn kỹ thuật quốc gia về thiết b ị nâng trên tàu biển và Quy chuẩn kỹ thuật quốc gia về giám sát và đóng tàu biển cỡ nhỏ;
+
+(c) Khoản 2 Điều 1 của Thông tư số 15/2018/TT-BGTVT ngày 04 tháng 4 năm 2018 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về Kiểm soát và quản lý nước dằn và cặn nước dằn tàu biển, mã số đăng ký: QCVN 99: 2017/BGTVT; Quy chuẩn kỹ thuật quốc gia về Phân cấp và đóng tàu biển vỏ thép - Sửa đổi 2: 2017, mã số đăng ký: Sửa đổi 2: 2017 QCVN 21: 2015/BGTVT; Quy chuẩn kỹ thuật quốc gia về Trang bị an toàn tàu biển - Sửa đổi 1: 2017, mã số đăng ký: Sửa đổi 1: 2017 QCVN 42: 2015/BGTVT; Quy chuẩn kỹ thuật quốc gia về Phân cấp và đóng du thuyền - Sửa đổi 1: 2017, mã số đăng ký: Sửa đổi 1: 2017 QCVN 81: 2014/BGTVT; Quy chuẩn kỹ thuật quốc gia về phân cấp và giám sát kỹ thuật giàn cố định trên biển - Sửa đổi 1: 2017, mã số đăng ký: Sửa đổi 1: 2017 QCVN 49: 2017/BGTVT;
+
+(d) Khoản 5 Điều 1 của Thông tư số 27/2019/TT-BGTVT ngày 07 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về cơ sở đóng mới, sửa chữa tàu biển; Quy chuẩn kỹ thuật quốc gia về thiết bị áp lực trên phương tiện giao thông vận tải và phương tiện, thiết bị thăm dò, khai thác trên biển; Quy chuẩn kỹ thuật quốc gia về chế tạo và kiểm tra phương tiện, thiết bị xếp dỡ; Quy chuẩn kỹ thuật quốc gia về an toàn lao động và kỹ thuật nồi hơi lắp đặt trên phương tiện, thiết bị thăm dò và khai thác trên biển và Quy chuẩn kỹ thuật quốc gia về Phân cấp và đóng tàu biển vỏ thép - Sửa đổi 3: 2018./.
+
+  ----------------------------------------------------------------------------------------
+  Nơi nhận:                                              KT. BỘ TRƯỞNG
+  - Bộ trưởng (để b/c);                                  THỨ TRƯỞNG
+  - Văn phòng Chính phủ;                                 Nguyễn Xuân Sang
+  - Các Bộ, cơ quan ngang Bộ, Cơ quan thuộc Chính phủ;   
+  - UBND các tỉnh, thành phố trực thuộc TW;              
+  - Các Thứ trưởng;                                      
+  - Bộ Khoa học và Công nghệ (để đăng ký);               
+  - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);              
+  - Công báo; Cổng TTĐT Chính phủ;                       
+  - Cổng TTĐT Bộ GTVT;                                   
+  - Báo Giao thông, Tạp chí GTVT;                        
+  - Lưu: VT, KHCNMT(Thuyết).                             
+  ------------------------------------------------------ ---------------------------------
+
+  ----------------------------------------------------------------------------------------
+
+QCVN 21:2025/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA
+VỀ PHÂN CẤP VÀ ĐÓNG TÀU BIỂN VỎ THÉP
+
+National Technical Regulation
+on the Classification and Construction of Sea-going Steel Ships
+
+Lời nói đầu
+
+QCVN 21:2025/BGTVT (Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép) do Cục Đăng kiểm Việt Nam biên soạn, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 09/2025/TT-BGTVT ngày 12 tháng 02 năm 2025.
+
+QCVN 21:2025/BGTVT thay thế QCVN 21:2015/BGTVT, Sửa đổi 1:2016 QCVN 21:2015/BGTVT, Sửa đổi 2:2017 QCVN 21:2015/BGTVT, Sửa đổi 3:2018 QCVN 21:2015/BGTVT.
+
+Quy chuẩn này bao gồm 6 tập được phân chia như sau:
+
++---------+-------------------------------------------------------------------------------+
+| Tập     | Nội dung                                                                      |
++:=======:+===============================================================================+
+| TẬP 1   | I Quy định chung                                                              |
+|         +-------------------------------------------------------------------------------+
+|         | II Quy định kỹ thuật:                                                         |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 1A Quy định chung                                                        |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 1B Quy định chung về kiểm tra                                            |
+|         +-------------------------------------------------------------------------------+
+|         | III Các quy định về quản lý                                                   |
+|         +-------------------------------------------------------------------------------+
+|         | IV Trách nhiệm của các tổ chức, cá nhân                                       |
+|         +-------------------------------------------------------------------------------+
+|         | V Tổ chức thực hiện                                                           |
++---------+-------------------------------------------------------------------------------+
+| TẬP 2   | Phần 2A Kết cấu thân tàu và trang thiết bị tàu có chiều dài từ 90 mét trở lên |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 2B Kết cấu thân tàu và trang thiết bị tàu có chiều dài dưới 90 mét       |
++---------+-------------------------------------------------------------------------------+
+| TẬP 3   | Phần 3 Hệ thống máy tàu                                                       |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 4 Trang bị điện                                                          |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 5 Phòng, phát hiện và chữa cháy                                          |
++---------+-------------------------------------------------------------------------------+
+| TẬP 4   | Phần 6 Hàn                                                                    |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 7A Vật liệu                                                              |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 7B Trang thiết bị                                                        |
++---------+-------------------------------------------------------------------------------+
+| TẬP 5   | Phần 8A Sà lan vỏ thép                                                        |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8B Tàu công trình                                                        |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8C Tàu lặn                                                               |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8D Tàu chở xô khí hóa lỏng                                               |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8E Tàu chở xô hóa chất nguy hiểm                                         |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8F Tàu khách                                                             |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8G Tàu mang cấp gia cường đi các cực và gia cường chống băng             |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8H Sà lan chuyên dùng                                                    |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 8I Tàu sử dụng nhiên liệu có điểm chớp cháy thấp                         |
++---------+-------------------------------------------------------------------------------+
+| TẬP 6   | Phần 9 Phân khoang                                                            |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 10 Ổn định nguyên vẹn                                                    |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 11 Mạn khô                                                               |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 12 Tầm nhìn từ lầu lái                                                   |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 13 Khu vực sinh hoạt thuyền viên                                         |
+|         +-------------------------------------------------------------------------------+
+|         | Phần 14 Quy định đối với tàu vượt tuyến một chuyến                            |
++---------+-------------------------------------------------------------------------------+
+
++---------------------------------------------+
+| FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN             |
+|                                             |
+| []                                          |
++=============================================+

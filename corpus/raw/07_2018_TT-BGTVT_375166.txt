@@ -1,0 +1,561 @@
+  ----------------------- -------------------------------------------
+   BỘ GIAO THÔNG VẬN TẢI      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                 Độc lập - Tự do - Hạnh phúc
+                                        ---------------
+
+   Số: 07/2018/TT-BGTVT        Hà Nội, ngày 07 tháng 02 năm 2018
+  ----------------------- -------------------------------------------
+
+ 
+
+THÔNG TƯ
+
+QUY ĐỊNH VỀ KIỂM TRA TÀU BIỂN
+
+Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015;
+
+Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Hàng hải Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về kiểm tra tàu biển.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định về kiểm tra điều kiện an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường của tàu biển nước ngoài hoạt động trong vùng nước cảng biển Việt Nam.
+
+Điều 2. Đối tượng áp dụng
+
+1. Thông tư này áp dụng đối với các tổ chức, cá nhân liên quan đến việc kiểm tra tàu biển nước ngoài hoạt động trong vùng nước cảng biển Việt Nam.
+
+2. Thông tư này không áp dụng đối với việc kiểm tra tàu biển Việt Nam.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Tàu biển là tàu biển nước ngoài.
+
+2. Khiếm khuyết là tình trạng kỹ thuật, vận hành của tàu biển, Giấy chứng nhận và hồ sơ của tàu biển, bố trí định biên và thuyền viên không tuân thủ quy định của điều ước quốc tế về an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường mà Việt Nam là thành viên được phát hiện trong quá trình kiểm tra tàu biển.
+
+3. Bằng chứng rõ ràng là một trong những bằng chứng cụ thể sau:
+
+a) Tàu biển không có các thiết bị hoặc các thiết bị này không hoạt động theo quy định của điều ước quốc tế mà Việt Nam là thành viên;
+
+b) Tàu biển, thuyền viên không có Giấy chứng nhận hoặc Giấy chứng nhận không còn hiệu lực theo quy định của điều ước quốc tế mà Việt Nam là thành viên;
+
+c) Tàu biển không có tài liệu theo quy định của điều ước quốc tế mà Việt Nam là thành viên;
+
+d) Tàu biển có kết cấu, thân vỏ bị hư hỏng nghiêm trọng hoặc có khiếm khuyết gây nguy hiểm tới tính nguyên vẹn kín nước hoặc sự ổn định của tàu biển;
+
+đ) Tàu biển có khiếm khuyết nghiêm trọng về trang thiết bị làm ảnh hưởng đến an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường;
+
+e) Thuyền viên không biết hoặc không thực hiện các hoạt động thiết yếu liên quan đến an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường;
+
+g) Thuyền viên trên tàu biển không thể giao tiếp với nhau theo quy định của điều ước quốc tế mà Việt Nam là thành viên;
+
+h) Thuyền viên, thuyền trưởng phát các báo động sai mà không được hủy phù hợp;
+
+i) Cơ quan có thẩm quyền nhận được thông báo về tàu biển không tuân thủ các quy định về an toàn hàng hải, an ninh hàng hải, điều kiện lao động hàng hải và phòng ngừa ô nhiễm môi trường;
+
+k) Tàu biển không có các biện pháp bảo đảm an ninh hàng hải.
+
+4. Sỹ quan kiểm tra nhà nước cảng biển là công chức, viên chức của Cục Hàng hải Việt Nam được cấp Thẻ Sỹ quan kiểm tra nhà nước cảng biển để thực hiện việc kiểm tra các điều kiện về an toàn hàng hải, an ninh hàng hải, phòng ngừa ô nhiễm môi trường và điều kiện lao động hàng hải trên tàu biển nước ngoài neo, đậu trong vùng nước cảng biển của Việt Nam.
+
+5. Lưu giữ tàu biển là việc Sỹ quan kiểm tra nhà nước cảng biển không cho phép tàu biển rời cảng khi phát hiện các khiếm khuyết nghiêm trọng của tàu biển tại Phụ lục số 02 ban hành kèm theo Thông tư này và yêu cầu thuyền trưởng khắc phục trước khi cho phép tàu biển rời cảng.
+
+6. Kiểm tra ban đầu là việc Sỹ quan kiểm tra nhà nước cảng biển lên tàu biển kiểm tra thực tế tình trạng chung của tàu biển, trang thiết bị, thuyền viên, các Giấy chứng nhận và các tài liệu có liên quan của tàu biển.
+
+7. Kiểm tra chi tiết là việc Sỹ quan kiểm tra nhà nước cảng biển kiểm tra tàu biển khi có các bằng chứng rõ ràng quy định tại khoản 3 Điều này.
+
+8. Kiểm tra lại là việc kiểm tra được tiến hành sau khi thuyền viên của tàu biển khắc phục các khiếm khuyết được phát hiện bởi Sỹ quan kiểm tra nhà nước cảng biển tại lần kiểm tra trước đó để khẳng định các khiếm khuyết đã được khắc phục.
+
+9. Kiểm tra tiếp theo là việc Sỹ quan kiểm tra nhà nước cảng biển kiểm tra để xác nhận việc khắc phục các khiếm khuyết của tàu biển được chỉ ra do Sỹ quan kiểm tra nhà nước cảng biển của nước ngoài thực hiện trong lần kiểm tra trước đó.
+
+10. Dừng kiểm tra tàu biển là việc Sỹ quan kiểm tra nhà nước cảng biển không tiếp tục kiểm tra tàu biển do trong quá trình kiểm tra chi tiết phát hiện tình trạng chung của tàu biển, trang thiết bị và thuyền viên có quá nhiều khiếm khuyết nghiêm trọng theo quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+11. Tàu biển dưới công ước là tàu biển có dung tích hoặc thông số kỹ thuật nhỏ hơn theo tiêu chuẩn tàu biển được quy định tại công ước.
+
+12. Tàu biển dưới tiêu chuẩn là tàu biển có thân vỏ, máy móc, trang thiết bị, quy trình vận hành, khai thác hoặc thuyền viên dưới tiêu chuẩn của công ước có liên quan, bao gồm một hoặc nhiều yếu tố sau:
+
+a) Thiếu trang thiết bị theo quy định của công ước;
+
+b) Trang thiết bị bố trí không tuân thủ theo quy định của công ước;
+
+c) Tàu biển hoặc trang thiết bị hư hỏng nghiêm trọng do bảo dưỡng không đúng quy định;
+
+d) Thuyền viên vận hành trang thiết bị không phù hợp với quy trình khai thác cơ bản;
+
+đ) Định biên không phù hợp hoặc thuyền viên có Giấy chứng nhận không phù hợp.
+
+13. Tổ chức được công nhận là tổ chức đáp ứng các điều kiện theo quy định tại Nghị quyết A.739 (18), sửa đổi bởi Nghị quyết MSC.208(81) và được ủy quyền bởi Chính quyền tàu biển mang cờ thực hiện các dịch vụ đánh giá, cấp Giấy chứng nhận cần thiết cho tàu biển mang cờ của quốc gia mình.
+
+14. Giấy chứng nhận có hiệu lực là giấy được cấp trực tiếp bởi một quốc gia thành viên công ước hoặc bởi một tổ chức được công nhận, có hiệu lực thỏa mãn các yêu cầu của công ước liên quan và phù hợp với các đặc trưng của tàu biển, thuyền viên, trang thiết bị.
+
+15. Tokyo MOU là tổ chức hợp tác kiểm tra nhà nước cảng biển khu vực Châu Á - Thái Bình Dương.
+
+16. APCIS (Asia-Pacific computerized information system) là hệ thống lưu giữ, thống kê, trao đổi dữ liệu về kiểm tra tàu biển của Tokyo MOU.
+
+Điều 4. Nguyên tắc kiểm tra tàu biển
+
+1. Kiểm tra tàu biển được thực hiện theo phân công của Giám đốc Cảng vụ hàng hải, do tối thiểu hai (02) Sỹ quan kiểm tra nhà nước cảng biển thực hiện. Giám đốc Cảng vụ hàng hải có thể bố trí người có chuyên môn hỗ trợ Sỹ quan kiểm tra nhà nước cảng biển.
+
+2. Khi lên tàu kiểm tra, Sỹ quan kiểm tra nhà nước cảng biển phải xuất trình Thẻ Sỹ quan kiểm tra nhà nước cảng biển cho thuyền trưởng hoặc thuyền viên trực ca của tàu biển.
+
+3. Trong quá trình kiểm tra tàu biển, Sỹ quan kiểm tra nhà nước cảng biển tránh cho tàu biển bị trì hoãn hoặc bị lưu giữ không chính đáng. Mục tiêu chính của kiểm tra là ngăn không cho tàu biển hành trình khi không bảo đảm an toàn hàng hải, an ninh hàng hải, lao động hàng hải hoặc đe dọa gây ô nhiễm môi trường. Sỹ quan kiểm tra nhà nước cảng biển xem xét quyết định lưu giữ tàu biển cho đến khi các khiếm khuyết được khắc phục hoặc cho phép tàu biển hành hải với một số khiếm khuyết, tùy thuộc vào tính chất cụ thể của từng chuyến đi.
+
+4. Khi thực hiện kiểm tra tàu biển, Sỹ quan kiểm tra nhà nước cảng biển phải tuân thủ các quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này.
+
+Chương II
+
+NỘI DUNG VÀ QUY TRÌNH KIỂM TRA
+
+Điều 5. Các công ước quốc tế áp dụng
+
+1. Kiểm tra tàu biển áp dụng các quy định của các công ước quốc tế mà Việt Nam là thành viên, bao gồm:
+
+a) Công ước quốc tế về an toàn sinh mạng trên biển 1974 và sửa đổi (SOLAS); Nghị định thư 1988 liên quan đến Công ước quốc tế về an toàn sinh mạng trên biển 1974 và sửa đổi (SOLAS Protocol 1988);
+
+b) Công ước quốc tế về mạn khô, 1966 (LOAD LINES); Nghị định thư 1988 liên quan đến Công ước quốc tế về mạn khô 1966 (LOAD LINES Protocol 1988);
+
+c) Công ước quốc tế về phòng ngừa ô nhiễm môi trường từ tàu biển 1973 và các sửa đổi; Nghị định thư 1978 và 1997 liên quan đến Công ước quốc tế về phòng ngừa ô nhiễm môi trường từ tàu biển 1973 (MARPOL);
+
+d) Công ước quốc tế về tiêu chuẩn huấn luyện, chứng chỉ và trực ca cho thuyền viên 1978 và các sửa đổi (STCW);
+
+đ) Công ước quốc tế về đo dung tích của tàu biển 1969 (TONNAGE);
+
+e) Công ước quốc tế về hệ thống kiểm soát chống hà độc hại của tàu biển 2001 (AFS);
+
+g) Công ước Lao động hàng hải 2006 (MLC);
+
+h) Công ước quốc tế về quy tắc phòng ngừa đâm va trên biển 1972 (COLREG).
+
+2. Trong trường hợp sửa đổi, bổ sung các công ước quy định tại khoản 1 Điều này hoặc Việt Nam mới gia nhập các công ước liên quan về an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường, Sỹ quan kiểm tra nhà nước cảng biển áp dụng các quy định mới này trong quá trình kiểm tra tàu biển.
+
+Điều 6. Tiêu chí lựa chọn tàu biển kiểm tra
+
+1. Khi có những bằng chứng rõ ràng quy định tại khoản 3 Điều 3 Thông tư này thì tàu biển sẽ được kiểm tra khi vào cảng.
+
+2. Khi không có bằng chứng rõ ràng thì việc lựa chọn tàu biển để kiểm tra theo khung cửa sổ khoảng thời gian được đánh giá dựa trên mức độ rủi ro của tàu biển do APCIS của Tokyo MOU quy định.
+
+Điều 7. Kiểm tra ban đầu
+
+1. Sỹ quan kiểm tra nhà nước cảng biển trước khi lên tàu biển tiến hành kiểm tra phải đánh giá tình trạng chung của tàu biển, bao gồm: tình trạng sơn, tình trạng han rỉ hay những hư hỏng không được sửa chữa xung quanh tàu biển.
+
+2. Sỹ quan kiểm tra nhà nước cảng biển xác định loại tàu biển, năm đóng, thông số kỹ thuật để áp dụng các quy định của công ước phù hợp.
+
+3. Khi lên tàu biển, Sỹ quan kiểm tra nhà nước cảng biển kiểm tra các Giấy chứng nhận, tài liệu có liên quan của tàu biển. Nếu các Giấy chứng nhận phù hợp và Sỹ quan kiểm tra nhà nước cảng biển đánh giá công tác bảo dưỡng của tàu biển được thực hiện theo quy định, Sỹ quan kiểm tra nhà nước cảng biển kết thúc việc kiểm tra và lập biên bản kiểm tra tàu biển theo mẫu (Form A) quy định tại sổ tay hướng dẫn kiểm tra nhà nước cảng biển (PSC Manual).
+
+Điều 8. Kiểm tra chi tiết
+
+Sau khi tiến hành kiểm tra ban đầu, Sỹ quan kiểm tra nhà nước cảng biển kiểm tra chi tiết tình trạng chung của tàu biển, trang thiết bị, buồng lái, boong, hầm hàng, buồng máy, khu vực đón trả hoa tiêu trên tàu và các quy trình cơ bản của tàu biển. Căn cứ vào điều kiện cụ thể, Sỹ quan kiểm tra nhà nước cảng biển quyết định kiểm tra một phần hoặc tất cả các nội dung nêu trên.
+
+Điều 9. Thẩm quyền của Sỹ quan kiểm tra nhà nước cảng biển
+
+Sau khi kết thúc kiểm tra, nếu tàu biển có khiếm khuyết thì Sỹ quan kiểm tra nhà nước cảng biển có thẩm quyền:
+
+1. Yêu cầu tàu biển khắc phục khiếm khuyết trước khi khởi hành.
+
+2. Cho phép tàu biển khắc phục khiếm khuyết ở cảng tới.
+
+3. Cho phép tàu biển khắc phục khiếm khuyết trong vòng 14 ngày.
+
+4. Cho phép tàu biển khắc phục khiếm khuyết trong vòng 03 tháng.
+
+5. Cho phép tàu biển khắc phục khiếm khuyết theo kế hoạch thỏa thuận.
+
+6. Lưu giữ tàu biển.
+
+7. Các hành động khác: ghi cụ thể hành động cho phép.
+
+8. Xác nhận khiếm khuyết đã được khắc phục.
+
+Điều 10. Biên bản kiểm tra tàu biển
+
+1. Sau khi kết thúc kiểm tra, Sỹ quan kiểm tra nhà nước cảng biển phải lập biên bản kiểm tra tàu biển theo mẫu Form A, Form B quy định tại Sổ tay hướng dẫn kiểm tra nhà nước cảng biển (PSC Manual) của Tokyo MOU (Form B chỉ lập khi kiểm tra phát hiện tàu biển có khiếm khuyết). Trong trường hợp dừng kiểm tra tàu biển, tại mẫu (Form B) ghi các khiếm khuyết trong lần đầu phát hiện và các khiếm khuyết phát hiện được trong lần kiểm tra lại (nếu có).
+
+2. Sỹ quan kiểm tra nhà nước cảng biển cấp cho thuyền trưởng một biên bản kiểm tra.
+
+3. Đối với khiếm khuyết nghiêm trọng dẫn đến lưu giữ tàu biển theo quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này, Sỹ quan kiểm tra nhà nước cảng biển phải ghi rõ tại biên bản kiểm tra điều khoản quy định cụ thể của công ước.
+
+4. Sỹ quan kiểm tra nhà nước cảng biển áp dụng các mẫu thông báo, các mã về khiếm khuyết, mã tổ chức đăng kiểm hoặc tổ chức được công nhận, mã cảng kiểm tra, mã cờ quốc tịch, mã loại tàu biển, mã thẩm quyền được quy định tại Sổ tay hướng dẫn kiểm tra nhà nước cảng biển (PSC Manual) của Tokyo MOU để lập biên bản kiểm tra tàu biển.
+
+Điều 11. Thông báo lưu giữ tàu biển, dừng kiểm tra và thả tàu biển
+
+1. Trong trường hợp lưu giữ tàu biển hoặc dừng kiểm tra, Sỹ quan kiểm tra nhà nước cảng biển thông báo ngay cho chính quyền tàu biển mang cờ và các bên có liên quan biết bằng văn bản. Sau khi tàu biển đã được khắc phục các khiếm khuyết nghiêm trọng, thỏa mãn các yêu cầu của công ước, Sỹ quan kiểm tra nhà nước cảng biển kiểm tra lại và thông báo cho chính quyền tàu biển mang cờ, các bên liên quan về việc thả tàu biển.
+
+2. Các khiếm khuyết nghiêm trọng dẫn đến lưu giữ tàu biển quy định cụ thể tại Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+3. Thông báo dừng kiểm tra theo mẫu quy định tại sổ tay hướng dẫn kiểm tra nhà nước cảng biển (PSC Manual) của Tokyo MOU.
+
+Điều 12. Khắc phục khiếm khuyết và cho phép tàu biển rời cảng
+
+1. Trong trường hợp các khiếm khuyết nghiêm trọng theo quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này đe dọa đến an toàn hàng hải, an ninh hàng hải, điều kiện lao động hàng hải hoặc gây ô nhiễm môi trường, Sỹ quan kiểm tra nhà nước cảng biển bảo đảm những khiếm khuyết này được khắc phục trước khi tàu biển rời cảng.
+
+2. Trong trường hợp các khiếm khuyết lưu giữ tàu biển không thể khắc phục tại cảng kiểm tra, Giám đốc Cảng vụ hàng hải có thể cho tàu biển hành trình đến cảng sửa chữa gần nhất do thuyền trưởng lựa chọn và được chính quyền cảng đó chấp thuận. Đồng thời, chính quyền tàu biển mang cờ thống nhất với Cảng vụ hàng hải các điều kiện bảo đảm an toàn cho tàu biển đến cảng sửa chữa gần nhất. Trong trường hợp này, Cảng vụ hàng hải phải thông báo cho chính quyền cảng tới và các bên liên quan.
+
+Điều 13. Kiểm tra lại
+
+1. Sau khi tàu biển đã khắc phục xong các khiếm khuyết, thuyền trưởng thông báo cho Sỹ quan kiểm tra nhà nước cảng biển để tổ chức xuống tàu biển kiểm tra lại. Trong trường hợp các khiếm khuyết đã được khắc phục thỏa mãn theo quy định của công ước, Sỹ quan kiểm tra nhà nước cảng biển ghi kết quả vào biên bản kiểm tra.
+
+2. Trong trường hợp việc khắc phục các khiếm khuyết chưa thỏa mãn, Sỹ quan kiểm tra nhà nước cảng biển yêu cầu tàu biển tiếp tục khắc phục.
+
+3. Sỹ quan kiểm tra nhà nước cảng biển được sử dụng hình ảnh làm bằng chứng về việc khắc phục khiếm khuyết của tàu biển thay thế cho việc kiểm tra lại trực tiếp dưới tàu biển.
+
+Điều 14. Kiểm tra tiếp theo
+
+1. Trong trường hợp trên APCIS cho thấy tàu biển đến cảng biển Việt Nam có một số khiếm khuyết chưa được khắc phục, Sỹ quan kiểm tra nhà nước cảng biển xuống tàu để kiểm tra khiếm khuyết chưa được khắc phục này.
+
+2. Sỹ quan kiểm tra nhà nước cảng biển có quyền kiểm tra trong phạm vi giới hạn của các khiếm khuyết chưa được khắc phục của đợt kiểm tra trước, hoặc mở rộng phạm vi kiểm tra sang các nội dung khác về an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường.
+
+Điều 15. Giải quyết khiếu nại
+
+1. Thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan có quyền khiếu nại về việc lưu giữ tàu biển của Cảng vụ hàng hải. Sỹ quan kiểm tra nhà nước cảng biển phải thông báo cho thuyền trưởng về quyền được khiếu nại này tại thời điểm lập biên bản kiểm tra. Việc khiếu nại không ảnh hưởng tới quyết định lưu giữ tàu biển.
+
+2. Sau khi kết thúc kiểm tra, trong trường hợp thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan không thỏa mãn với kết quả kiểm tra của Sỹ quan kiểm tra nhà nước cảng biển, các bên có quyền khiếu nại về kết quả kiểm tra của Sỹ quan kiểm tra nhà nước cảng biển. Quy trình khiếu nại được thực hiện như sau:
+
+a) Thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan gửi khiếu nại trực tiếp đến Sỹ quan kiểm tra nhà nước cảng biển về những nội dung không thỏa mãn, nêu cụ thể các quy định của công ước để chứng minh khiếu nại của mình là đúng. Sỹ quan kiểm tra nhà nước cảng biển tiếp nhận các khiếu nại, báo cáo Giám đốc Cảng vụ hàng hải trước khi trả lời cho thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan. Thời hạn trả lời tối đa không quá 15 ngày, kể từ ngày nhận được khiếu nại.
+
+b) Sau khi nhận được văn bản trả lời của Sỹ quan kiểm tra nhà nước cảng biển, nếu thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan chưa thỏa mãn thì có quyền tiếp tục gửi khiếu nại đến Cục Hàng hải Việt Nam. Cục Hàng hải Việt Nam xem xét giải quyết và trả lời trong vòng 60 ngày, kể từ ngày nhận được khiếu nại.
+
+c) Trong trường hợp không thỏa mãn với kết quả giải quyết của Cục Hàng hải Việt Nam, thuyền trưởng, chủ tàu biển, tổ chức đăng kiểm hoặc các tổ chức, cá nhân có liên quan có quyền tiếp tục gửi khiếu nại tới Ban thư ký Tokyo MOU, kết quả giải quyết của Ban thư ký Tokyo MOU là kết quả cuối cùng.
+
+Điều 16. Cập nhật báo cáo lên hệ thống APCIS
+
+1. Sau khi kết thúc kiểm tra tối đa 02 ngày, Sỹ quan kiểm tra nhà nước cảng biển cập nhật biên bản kiểm tra lên phần mềm của APCIS; trong vòng 05 ngày, Cục Hàng hải Việt Nam hoặc Cảng vụ hàng hải được Cục Hàng hải Việt Nam ủy quyền phê duyệt biên bản kiểm tra vào APCIS.
+
+2. Trong trường hợp cần chỉnh sửa thông tin trên APCIS, Cục Hàng hải Việt Nam hoặc Cảng vụ hàng hải phê duyệt có trách nhiệm kiểm tra và cập nhật lại thông tin cho chính xác.
+
+Điều 17. Tàu biển của quốc gia không phải là thành viên công ước
+
+1. Không có bất kỳ ưu tiên nào cho tàu biển của quốc gia không phải là thành viên của công ước.
+
+2. Đối với tàu biển của quốc gia không phải là thành viên của công ước và không có Giấy chứng nhận theo công ước, Sỹ quan kiểm tra nhà nước cảng biển căn cứ theo các quy định của công ước để đánh giá thuyền viên và tàu biển đủ điều kiện an toàn cho chuyến đi.
+
+3. Trong trường hợp thuyền viên và tàu biển có Giấy chứng nhận khác với yêu cầu của công ước, Sỹ quan kiểm tra nhà nước cảng biển xem xét nội dung của các Giấy chứng nhận này khi đánh giá tình trạng tàu biển.
+
+Điều 18. Tàu biển dưới công ước
+
+1. Sỹ quan kiểm tra nhà nước cảng biển đánh giá sự phù hợp của các Giấy chứng nhận và tài liệu được cấp bởi Chính quyền tàu biển mang cờ hoặc tổ chức được công nhận. Trong trường hợp này, Sỹ quan kiểm tra nhà nước cảng biển giới hạn phạm vi kiểm tra nhằm mục đích khẳng định tàu biển tuân thủ theo Giấy chứng nhận và tài liệu được cấp.
+
+2. Trong trường hợp các quy định không áp dụng cho tàu biển dưới công ước, Sỹ quan kiểm tra nhà nước cảng biển đánh giá mức độ thỏa mãn yêu cầu về an toàn hàng hải, an ninh hàng hải, lao động hàng hải và phòng ngừa ô nhiễm môi trường có tính đến chiều dài của chuyến đi dự kiến, tính chất của chuyến đi, kích cỡ và loại tàu biển, trang thiết bị và tính chất của hàng hóa.
+
+Điều 19. Tàu biển dưới tiêu chuẩn
+
+1. Thuyền viên và các tổ chức, cá nhân có liên quan đến an toàn của tàu biển, tính mạng của thuyền viên và hành khách, công tác bảo vệ môi trường có trách nhiệm thông tin về tàu biển dưới tiêu chuẩn cho Cảng vụ hàng hải. Việc thông tin được thông báo bằng văn bản hoặc trực tiếp hoặc bằng các hình thức phù hợp khác. Trong trường hợp thông báo trực tiếp, Cảng vụ hàng hải ghi lại tên của tổ chức và cá nhân cung cấp thông tin.
+
+2. Cảng vụ hàng hải là cơ quan tiếp nhận, xử lý thông tin về tàu biển dưới tiêu chuẩn và có quyền từ chối cho tàu biển vào cảng hoặc kiểm tra ngay sau khi tàu biển vào cảng.
+
+Chương III
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 20. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 04 năm 2018.
+
+2. Thay cụm từ ", Đại diện Cảng vụ hàng hải” bằng cụm từ “hoặc Đại diện Cảng vụ hàng hải được Giám đốc Cảng vụ hàng hải ủy quyền theo quy định của pháp luật” tại khoản 3 Điều 6 Thông tư số 30/2016/TT-BGTVT ngày 28 tháng 10 năm 2016 của Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về thủ tục trình và xác nhận kháng nghị hàng hải.
+
+Điều 21. Tổ chức thực hiện
+
+Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Hàng hải Việt Nam, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+  ------------------------------------------------------ --------------------------------
+  Nơi nhận:                                                       KT. BỘ TRƯỞNG
+  - Như Điều 21;                                                    THỨ TRƯỞNG
+  - Các Bộ, Cơ quan ngang Bộ, Cơ quan thuộc Chính phủ;           Nguyễn Văn Công
+  - UBND các tỉnh, TP trực thuộc TW;                     
+  - Bộ trưởng, các Thứ trưởng Bộ GTVT;                   
+  - Cục Kiểm tra văn bản (Bộ Tư pháp);                   
+  - Các Cảng vụ hàng hải;                                
+  - Công báo;                                            
+  - Cổng Thông tin điện tử Chính phủ;                    
+  - Cổng Thông tin điện tử Bộ GTVT;                      
+  - Báo Giao thông, Tạp chí GTVT;                        
+  - Lưu: VT, PC(5).                                      
+
+  ------------------------------------------------------ --------------------------------
+
+ 
+
+PHỤ LỤC SỐ 01
+
+(Ban hành kèm theo Thông tư số 07/2018/TT-BGTVT ngày 07 tháng 02 năm 2018 của Bộ trưởng Bộ Giao thông vận tải)
+
+NHỮNG YÊU CẦU ĐỐI VỚI SỸ QUAN KIỂM TRA NHÀ NƯỚC CẢNG BIỂN
+
+Khi xuống tàu biển kiểm tra, Sỹ quan kiểm tra nhà nước cảng biển phải tuân thủ những quy định sau đây:
+
+1. Không được can thiệp vào việc cá nhân và nơi nghỉ của thuyền viên.
+
+2. Tuân thủ các quy định về vệ sinh riêng của tàu biển.
+
+3. Không phân biệt chủng tộc, giới tính, tôn giáo hoặc quốc tịch của thuyền viên.
+
+4. Tôn trọng quyền của thuyền trưởng và những người giúp việc của thuyền trưởng.
+
+5. Lịch sự, nhất quán, chuyên nghiệp khi làm việc.
+
+6. Không đe dọa, độc đoán hay sử dụng ngôn ngữ gây thù oán.
+
+7. Tuân thủ yêu cầu về an toàn lao động của tàu và của cơ quan có thẩm quyền.
+
+8. Tuân thủ yêu cầu an ninh của tàu biển và được người có trách nhiệm dẫn đi xung quanh tàu biển.
+
+9. Xuất trình Thẻ cho thuyền trưởng hoặc đại diện của chủ tàu lúc bắt đầu kiểm tra.
+
+10. Trình bày lý do kiểm tra. Trường hợp việc kiểm tra theo thông tin được cung cấp thì không được tiết lộ nguồn cung cấp thông tin.
+
+11. Áp dụng quy trình kiểm tra theo các công ước và quy định của pháp luật Việt Nam một cách thống nhất, chuyên nghiệp và giải thích rõ ràng khi cần thiết.
+
+12. Không được gây khó khăn cho thuyền viên như việc hỏi những thứ ngược với quy định của công ước, quy định pháp luật.
+
+13. Yêu cầu thuyền viên mô tả chức năng của trang thiết bị và hoạt động của trang thiết bị, không nên tự tiến hành việc thử.
+
+14. Nên tham khảo tư vấn khi không chắc chắn về một yêu cầu hay phát hiện của mình (ví dụ: tham vấn đồng nghiệp, tài liệu, chính quyền tàu mang cờ, tổ chức được công nhận).
+
+15. Xác định vị trí an toàn của cảng và của tàu để thực hiện vận hành cần thiết.
+
+16. Trong biên bản kiểm tra diễn đạt rõ ràng các khiếm khuyết phát hiện trong kiểm tra và biện pháp khắc phục các khiếm khuyết đó.
+
+17. Cấp Biên bản kiểm tra cho thuyền trưởng trước khi rời tàu.
+
+18. Xử lý các bất đồng về những phát hiện trong quá trình kiểm tra một cách bình tĩnh và kiên nhẫn.
+
+19. Hướng dẫn thuyền trưởng quy trình khiếu nại nếu các bất đồng không được xử lý.
+
+20. Hướng dẫn thuyền trưởng quyền được khiếu nại trong trường hợp lưu giữ tàu biển.
+
+21. Không được có các lợi ích cá nhân đối với cảng hay tàu biển kiểm tra; không được làm thuê hoặc thực hiện các công việc của tổ chức được ủy quyền.
+
+22. Được quyền quyết định dựa trên các khiếm khuyết phát hiện được.
+
+23. Kiên quyết từ chối nhận hối lộ và báo cáo ngay các trường hợp hối lộ về Cảng vụ hàng hải.
+
+24. Không được sử dụng quyền hạn của mình để mưu cầu lợi ích cá nhân.
+
+25. Thường xuyên học hỏi nâng cao trình độ, cập nhật các hướng dẫn về kiểm tra tàu biển của Tokyo MOU trong Sổ tay kiểm tra nhà nước cảng biển.
+
+26. Các trang thiết bị bị hỏng và đồ phụ tùng dự trữ hay thay thế có thể không có ngay được, do đó Sỹ quan kiểm tra nhà nước cảng biển phải cân nhắc không để tàu biển bị trì hoãn nếu có phương án thay thế an toàn.
+
+27. Việc lưu giữ tàu biển sẽ phát sinh nhiều vấn đề, do đó Sỹ quan kiểm tra nhà nước cảng biển nên phối hợp chặt chẽ với các bên có liên quan. Sỹ quan kiểm tra nhà nước cảng biển nên phối hợp với đại diện của chính quyền tàu biển mang cờ hoặc tổ chức được công nhận cấp các Giấy chứng nhận. Việc này không hạn chế quyền quyết định của Sỹ quan kiểm tra nhà nước cảng biển và sự tham gia của các bên khác để bảo đảm tàu biển được an toàn hơn, tránh được sự khiếu nại liên quan đến lưu giữ tàu biển và hạn chế việc chậm trễ không cần thiết.
+
+ 
+
+PHỤ LỤC SỐ 02
+
+(Ban hành kèm theo Thông tư số 07/2018/TT-BGTVT ngày 07 tháng 02 năm 2018 của Bộ trưởng Bộ Giao thông vận tải)
+
+HƯỚNG DẪN LƯU GIỮ TÀU
+
+Các khiếm khuyết nghiêm trọng có thể dẫn đến lưu giữ tàu biển theo quy định của các công ước, bao gồm:
+
+1. Theo Công ước Solas
+
+a) Chân vịt và các trang thiết bị chính, thiết bị điện bị hỏng;
+
+b) Buồng máy bẩn, khối lượng lẫn dầu trong két vượt quá giới hạn; hệ thống đường ống bao gồm cả ống thoát khí xả trong buồng máy dính dầu; vận hành bơm các két lắng không phù hợp;
+
+c) Máy phát điện sự cố, đèn, bình ắc quy và các công tắc hư hỏng;
+
+d) Hệ thống máy lái chính và phụ hư hỏng;
+
+đ) Thiết bị cứu sinh cá nhân, xuồng cứu sinh và hệ thống thu hạ thiếu hoặc bị hỏng;
+
+e) Hệ thống báo cháy, hệ thống báo động, trang thiết bị chữa cháy, hệ thống chữa cháy cố định, van thông khí, hệ thống lưới ngăn lửa, các van đóng nhanh bị hỏng, thiếu hoặc không phù hợp;
+
+g) Hệ thống chữa cháy trên boong của tàu dầu bị thiếu hoặc hỏng;
+
+h) Báo hiệu âm thanh, hình dạng và đèn bị thiếu hoặc hỏng;
+
+i) Trang thiết bị thông tin liên lạc phục vụ khẩn cấp và an toàn bị thiếu hoặc hỏng;
+
+k) Thiết bị hành hải bị thiếu hoặc hỏng;
+
+l) Thiếu hải đồ đã hiệu chỉnh và các tài liệu cần thiết cho chuyến đi;
+
+m) Thiếu hệ thống ngăn lửa thông gió buồng bơm hàng;
+
+n) Các khiếm khuyết nghiêm trọng được liệt kê trong Phụ lục 7 của Công ước Solas;
+
+o) Số lượng, bố trí hay chứng chỉ của thuyền viên không tuân theo Giấy chứng nhận định biên an toàn.
+
+p) Không tuân thủ hoặc không thực hiện chương trình kiểm tra nâng cao theo yêu cầu của Điều XI-1/2 Công ước Solas và Nghị quyết A.744(18);
+
+q) Thiếu hoặc hỏng Thiết bị ghi dữ liệu hành trình.
+
+2. Theo Bộ luật IBC
+
+a) Vận chuyển loại hàng không được đề cập trong Giấy chứng nhận phù hợp hoặc thiếu thông tin về hàng hóa;
+
+b) Thiếu hoặc hư hỏng các thiết bị an toàn áp suất cao;
+
+c) Trang thiết bị điện lắp đặt thiếu an toàn hoặc không theo yêu cầu;
+
+d) Nguồn nhiệt bố trí trong khu vực nguy hiểm;
+
+đ) Vi phạm các yêu cầu đặc biệt;
+
+e) Hàng hóa vượt quá khối lượng cho phép trong các két;
+
+g) Nhiệt độ không phù hợp cho các loại hàng nhạy cảm;
+
+h) Báo động áp suất hầm hàng cho các két không hoạt động;
+
+i) Vận chuyển các loại hàng cấm mà không có giấy phép phù hợp.
+
+3. Theo Bộ luật IGC
+
+a) Vận chuyển loại hàng không được đề cập trong Giấy chứng nhận phù hợp hoặc thiếu thông tin về hàng hóa;
+
+b) Thiếu các thiết bị đóng cho khu vực buồng ở và sinh hoạt;
+
+c) Các vách ngăn không kín;
+
+d) Các van khóa khí bị hỏng;
+
+đ) Thiếu hoặc hỏng các van đóng nhanh;
+
+e) Thiếu hoặc hỏng các van an toàn;
+
+g) Trang thiết bị điện lắp đặt thiếu an toàn hoặc không theo yêu cầu;
+
+h) Hệ thống thông gió hầm hàng không hoạt động;
+
+i) Báo động áp suất hầm hàng cho các két không hoạt động;
+
+k) Hệ thống phát hiện khí hoặc hệ thống phát hiện khí độc hỏng;
+
+l) Vận chuyển các loại hàng cấm mà không có giấy phép phù hợp.
+
+4. Theo Công ước Load Lines
+
+a) Tàu bị hư hỏng hoặc gỉ nặng hoặc bị ăn mòn hoặc các vật gia cố trên boong ảnh hưởng đến an toàn của tàu hoặc chịu tải.
+
+b) Các trường hợp ổn định tàu không đảm bảo.
+
+c) Thiếu các thông tin tin cậy để hỗ trợ thuyền trưởng bốc dỡ hàng và dằn tàu bảo đảm tính ổn định của tàu trong suốt hành trình với các điều kiện khác nhau của chuyến đi.
+
+d) Các cửa kín nước, nắp hầm hàng và các nắp đóng thiếu, hư hỏng hay bị gỉ nặng;
+
+đ) Tàu quá tải;
+
+e) Thiếu hoặc không thể đọc được đường mớn nước hay mớn nước.
+
+5. Theo Công ước Marpol, phụ lục I
+
+a) Thiết bị lọc dầu nước, thiết bị giám sát bom dầu hay hệ thống báo động 15 ppm bị thiếu, hỏng;
+
+b) Khối lượng còn trong các két lắng không phù hợp với chuyến đi dự kiến;
+
+c) Không có Nhật ký dầu;
+
+d) Lắp đặt hệ thống xả không được phép;
+
+đ) Không tuân thủ các quy định của Điều 20.4 và 20.7 Phụ lục I Công ước Marpol.
+
+6. Theo Công ước Marpol, phụ lục II
+
+a) Không có Sổ tay A và P;
+
+b) Hàng hóa không được phân loại;
+
+c) Không có Nhật ký hàng;
+
+d) Lắp đặt hệ thống xả không được phép;
+
+7. Theo Công ước Marpol, phụ lục V
+
+a) Không có Kế hoạch quản lý rác;
+
+b) Không có nhật ký rác;
+
+c) Thuyền viên không nắm rõ yêu cầu tiêu hủy của Kế hoạch quản lý rác.
+
+8. Theo Công ước Marpol, phụ lục VI
+
+a) Thiếu Giấy chứng nhận IAPP, EIAPP và các tài liệu kỹ thuật;
+
+b) Với máy có công suất từ 130 kW được lắp đặt trên tàu đóng từ 1/1/2000 hoặc máy tàu được hoán cải lớn sau ngày 1/1/2000 không tuân thủ Bộ luật kỹ thuật NOx.
+
+c) Hàm lượng Sulphur của nhiên liệu vượt quá giới hạn cho phép:
+
+- 3,5% từ ngày 01/1/2012;
+
+- 0,5% từ ngày 01/1/2020.
+
+d) Hàm lượng Sulphur của nhiên liệu vượt quá giới hạn cho phép khi tàu hoạt động trong vùng kiểm soát khí xả SOx: 0,1% m/m từ ngày 01/1/2015.
+
+đ) Máy đốt rác lắp đặt trên tàu sau ngày 01/1/2000 không tuân thủ các yêu cầu trong Phụ lục IV hay các tiêu chuẩn lò đốt được xây dựng bởi IMO (Nghị quyết MEPC. 76(40) và MEPC.93 (45)).
+
+e) Thuyền trưởng và thuyền viên không nắm vững vận hàng thiết bị ngăn ngừa ô nhiễm không khí.
+
+9. Theo Công ước STCW
+
+a) Thuyền viên có chứng chỉ không phù hợp hoặc không có giấy tờ chứng minh rằng đang chờ cấp Giấy chứng nhận từ chính quyền;
+
+b) Không tuân thủ định biên an toàn theo yêu cầu của chính quyền;
+
+c) Bố trí ca trực boong và máy không tuân thủ quy định của chính quyền;
+
+d) Ca trực thiếu người có chuyên môn vận hành các trang thiết bị quan trọng cho việc hành hải, thông tin liên lạc hay phòng ngừa ô nhiễm môi trường;
+
+đ) Thuyền viên trực ca đầu tiên và ca thứ hai ngay sau khi tàu khởi hành phải đảm bảo thời gian nghỉ ngơi để thực hiện nhiệm vụ;
+
+e) Thuyền viên không đủ năng lực để thực hiện nhiệm vụ được giao để bảo đảm an toàn cho tàu và ngăn ngừa ô nhiễm.
+
+10. Theo Công ước MLC
+
+a) Thuyền viên dưới 16 tuổi làm việc trên tàu;
+
+b) Thuyền viên thường xuyên phải làm việc vào ban đêm;
+
+c) Nhiều thuyền viên không có Giấy chứng nhận sức khỏe;
+
+d) Thuyền viên làm việc không có Hợp đồng lao động trên tàu hoặc Hợp đồng lao động có những điều khoản trái với quyền thuyền viên được hưởng;
+
+đ) Thuyền viên làm việc quá giờ quy định;
+
+e) Vệ sinh, điều kiện sống trong khu vực cabin, bếp tồi tệ;
+
+g) Không đủ thực phẩm, nước uống cho chuyến đi dự kiến;
+
+h) Tủ thuốc trên tàu không bảo đảm; không có thuyền viên được giao nhiệm vụ chăm sóc y tế trên tàu;
+
+i) Không có Giấy chứng nhận bảo lãnh tài chính liên quan đến trách nhiệm của chủ tàu;
+
+k) Thuyền viên không được trả lương trong khoảng thời gian dài.
+
+11. Theo Công ước BWM
+
+a) Thiếu Giấy chứng nhận IBWMC, BWMP, BWRB;
+
+b) Khiếm khuyết chứng tỏ tàu và trang thiết bị không tương ứng với IBWMC, BWMP;
+
+c) Thuyền viên không nắm được Quy trình quản lý nước dằn;
+
+d) Quy trình quản lý nước dằn không được thực hiện trên tàu;
+
+đ) Không có Sỹ quan được chỉ định;
+
+e) Tàu không tuân thủ với BWMP về quản lý và xử lý nước dằn (tiêu chuẩn D-1, D-2 or D-4);
+
+g) Trang thiết bị theo yêu cầu của BWMP không có hoặc bị hư hỏng nghiêm trọng;
+
+h) Không tuân thủ việc lấy mẫu;
+
+i) Nước dằn được bơm ra ngoài không tuân theo quy định của công ước (Điều A-2).
+
+12. Khiếm khuyết không lưu giữ tàu nhưng việc bốc, dỡ, xếp hàng có thể bị dừng
+
+Trang thiết bị bốc, dỡ, xếp hàng hay hệ thống khí trơ bị hỏng thì có thể dừng việc bốc, dỡ, xếp hàng.
+
+Việc thiếu các Giấy chứng nhận còn giá trị theo yêu cầu của các công ước nói trên sẽ dẫn đến lưu giữ tàu. Tuy nhiên những tàu mang cờ của quốc gia không phải là thành viên của công ước thì không đòi hỏi phải có những Giấy chứng nhận theo công ước, trong trường hợp này việc thiếu Giấy chứng nhận chưa thể là lý do để lưu giữ tàu. Tuy nhiên, tàu vẫn phải tuân thủ các điều kiện yêu cầu trước khi cho rời cảng.
+
+ 

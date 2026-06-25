@@ -1,0 +1,53 @@
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ; tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ và tiêu chuẩn của cơ sở đào tạo lái xe mô tô.
+
+Điều 2. Đối tượng áp dụng
+
+1. Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan tới đào tạo lái xe; bồi dưỡng, kiểm tra, cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ và tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.
+
+2. Thông tư này không áp dụng đối với cơ sở đào tạo lái xe, tổ chức đào tạo lái xe; cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Thời gian lái xe an toàn là thời gian người có giấy phép lái xe còn hiệu lực, không để xảy ra tai nạn giao thông đường bộ gây hậu quả nghiêm trọng hoặc rất nghiêm trọng hoặc đặc biệt nghiêm trọng theo quy định của Bộ Công an về thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng cơ sở dữ liệu về tai nạn giao thông đường bộ.
+
+2. Dữ liệu DAT là tập hợp các thông tin về định danh và quá trình học thực hành lái xe trên đường của học viên, được truyền từ thiết bị DAT lắp trên xe ô tô tập lái để tập lái xe trên đường về máy chủ của cơ sở đào tạo lái xe.
+
+3. Dữ liệu quản lý DAT là tập hợp các thông tin về định danh và quá trình học thực hành lái xe trên đường của học viên, được truyền từ máy chủ của cơ sở đào tạo lái xe về máy chủ của Cục Đường bộ Việt Nam.
+
+4. Thời gian học lái xe ban đêm là thời gian được tính từ 18 giờ ngày hôm trước đến 05 giờ sáng ngày hôm sau.
+
+5. Hệ thống thông tin về đào tạo lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ là tập hợp phần cứng, phần mềm hệ thống, phần mềm ứng dụng, cơ sở dữ liệu và đường truyền phục vụ công tác quản lý thông tin về đào tạo lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bao gồm: Hệ thống thông tin quản lý, giám sát đào tạo lái xe và Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.
+
+6. Hệ thống thông tin quản lý, giám sát đào tạo lái xe gồm:
+
+a) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại cơ sở đào tạo lái xe phục vụ công tác quản lý, giám sát quá trình đào tạo lái xe của các khóa học, học viên;
+
+b) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại Sở Xây dựng phục vụ công tác tiếp nhận dữ liệu về đào tạo lái xe do cơ sở đào tạo lái xe cung cấp; quản lý, giám sát kết quả đào tạo lái xe của các khóa học, học viên;
+
+c) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại Cục Đường bộ Việt Nam phục vụ công tác tiếp nhận dữ liệu về: cơ sở đào tạo lái xe, giáo viên dạy lái xe, xe tập lái và học viên được cấp giấy xác nhận hoàn thành khóa đào tạo lái xe do Sở Xây dựng cung cấp; dữ liệu quản lý DAT do cơ sở đào tạo lái xe cung cấp để phục vụ công tác tổng hợp, báo cáo của Cục Đường bộ Việt Nam, công tác quản lý của các Sở Xây dựng và chia sẻ dữ liệu cho cơ quan có thẩm quyền theo quy định.
+
+7. Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ gồm Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại Cục Đường bộ Việt Nam, Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại Sở Xây dựng và Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại cơ sở bồi dưỡng kiến thức pháp luật về giao thông đường bộ.
+
+8. Cơ sở bồi dưỡng kiến thức pháp luật về giao thông đường bộ là cơ sở đào tạo lái xe ô tô hoặc cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện chức năng bồi dưỡng kiến thức pháp luật về giao thông đường bộ.
+
+Điều 4. Hình thức đào tạo
+
+1. Người có nhu cầu được đào tạo để cấp giấy phép lái xe mô tô các hạng A1, A và B1:
+
+a) Đối với nội dung học lý thuyết phải học đủ chương trình đào tạo theo quy định tại Thông tư này và được lựa chọn một trong các hình thức học sau: tự học các môn lý thuyết theo quy định của Chính phủ về hoạt động đào tạo lái xe hoặc học tập trung tại cơ sở đào tạo lái xe;
+
+b) Đối với nội dung học thực hành lái xe: theo hình thức tập trung tại cơ sở đào tạo lái xe.
+
+2. Người có nhu cầu được đào tạo để cấp giấy phép lái xe các hạng B, C1, C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE:
+
+a) Đối với nội dung học lý thuyết phải học đủ chương trình đào tạo theo quy định tại Thông tư này và được lựa chọn một trong các hình thức học sau: tập trung tại cơ sở đào tạo lái xe hoặc đào tạo từ xa, tự học có hướng dẫn theo quy định của Chính phủ về hoạt động đào tạo lái xe;
+
+b) Đối với nội dung học thực hành lái xe: theo hình thức tập trung tại cơ sở đào tạo lái xe.
+
+Điều 5. Đào tạo lái xe mô tô các hạng A1, A, B1
+
+1. Khối lượng chương trình và phân bổ thời gian đào tạo tối thiểu:

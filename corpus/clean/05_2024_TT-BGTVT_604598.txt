@@ -1,0 +1,281 @@
+Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 06/2011/TT-BGTVT ngày 07 tháng 3 năm 2011 của Bộ trưởng Bộ Giao thông vận tải quy định về bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ
+
+1. Bãi bỏ Điểm b Khoản 2 Điều 4; Điểm b Khoản 2 Điều 10.
+
+2. Thay thế Phụ lục 1, Phụ lục 2 và Phụ lục 8 ban hành kèm theo Thông tư số 06/2011/TT-BGTVT tương ứng bằng Phụ lục I, Phụ lục II và Phụ lục III ban hành kèm theo Thông tư này.
+
+Điều 2. Sửa đổi, bổ sung một số điều của Thông tư số 09/2015/TT-BGTVT ngày 15 tháng 4 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về cung cấp, quản lý và sử dụng dữ liệu từ thiết bị giám sát hành trình của xe ô tô (sau đây gọi là Thông tư số 09/2015/TT-BGTVT), Thông tư số 36/2020/TT-BGTVT ngày 24 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định về chế độ báo cáo định kỳ trong lĩnh vực đường bộ (sau đây gọi là Thông tư số 36/2020/TT-BGTVT), Thông tư số 05/2023/TT-BGTVT ngày 27 tháng 4 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái (sau đây gọi là Thông tư số 05/2023/TT-BGTVT)
+
+1. Sửa đổi, bổ sung Điểm b Khoản 3, Điểm c Khoản 3 Điều 4 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Điểm b Khoản 3 Điều 4 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+b) Dữ liệu từ thiết bị giám sát hành trình được truyền từ máy chủ dịch vụ về máy chủ của Cục Đường bộ Việt Nam phải đảm bảo theo thứ tự thời gian. Trong thời gian không quá 03 ngày kể từ ngày cuối cùng máy chủ của Cục Đường bộ Việt Nam nhận dữ liệu, trường hợp dữ liệu truyền bị gián đoạn thì thực hiện gửi đồng thời cả dữ liệu cũ và dữ liệu hiện tại khi có kết nối trở lại; đối với các trường hợp quá 03 ngày, đơn vị truyền dữ liệu gửi thông báo đến Cục Đường bộ Việt Nam để bố trí kênh truyền lại dữ liệu;;
+
+b) Sửa đổi, bổ sung Điểm c Khoản 3 Điều 4 như sau:
+
+c) Giao thức truyền dữ liệu do Cục Đường bộ Việt Nam công bố công khai trên Trang Thông tin điện tử của Cục Đường bộ Việt Nam..
+
+2. Sửa đổi, bổ sung Điều 5 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+Điều 5. Quy định về phương pháp tính toán
+
+1. Việc tính toán về km xe chạy, tốc độ xe chạy, thời gian lái xe liên tục, thời gian làm việc của lái xe trong ngày được thực hiện trên máy chủ dịch vụ, trên máy chủ của Cục Đường bộ Việt Nam. Không sử dụng dữ liệu trong các bản tin truyền về bị lỗi để thực hiện tính toán, chi tiết xử lý lọc nhiễu các bản tin trước khi tính toán quy định tại Phụ lục 3 ban hành kèm theo Thông tư này.
+
+2. Tính toán quá tốc độ xe chạy
+
+a) Phương pháp xác định quá tốc độ xe chạy được thực hiện theo quy định tại Phụ lục 2 ban hành kèm theo Thông tư này;
+
+b) Phần mềm trên máy chủ thực hiện tính toán quá tốc độ xe chạy dựa trên tọa độ, chiều của các biển báo tốc độ và khu vực hạn chế tốc độ được cơ quan quản lý đường bộ công bố. Trường hợp chưa có dữ liệu về tọa độ, chiều của các biển báo tốc độ và khu vực hạn chế tốc độ được cơ quan quản lý đường bộ công bố thì thực hiện tính toán trên cơ sở tốc độ tối đa cho phép xe cơ giới tham gia giao thông ngoài khu vực đông dân cư đối với từng loại xe. Trường hợp tốc độ tối đa cho phép giữa các làn của tuyến đường khác nhau thì thực hiện tính toán trên cơ sở tốc độ tối đa cho phép của làn xe có tốc độ cao nhất.
+
+3. Tính toán thời gian lái xe
+
+a) Thời gian lái xe của một người lái xe được xác định khi người lái xe điều khiển phương tiện tham gia giao thông (chỉ tính thời gian khi phương tiện di chuyển có tốc độ);
+
+b) Quá thời gian lái xe liên tục được xác định khi có tổng thời gian lái xe của một người vượt quá 04 giờ nhưng người lái xe không dừng nghỉ theo quy định tại Khoản 4 Điều 11 Nghị định số 10/2020/NĐ-CP ngày 17 tháng 01 năm 2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô hoặc không thực hiện đổi người lái xe;
+
+c) Quá thời gian làm việc của người lái xe trong ngày được xác định khi có tổng thời gian lái xe của một người trong ngày vượt quá 10 giờ. Ngày làm việc của người lái xe được tính từ 00:00 giờ đến 24:00 giờ;
+
+d) Phương pháp tính toán thực hiện theo quy định tại Phụ lục 6 ban hành kèm theo Thông tư này.
+
+4. Xác định không truyền dữ liệu
+
+Không truyền dữ liệu được xác định khi phương tiện có sự dịch chuyển về vị trí so với vị trí được ghi nhận tại thời điểm bắt đầu ngừng truyền dữ liệu và không có dữ liệu trong khoảng thời gian phương tiện di chuyển giữa hai vị trí. Phương pháp tính toán thực hiện theo quy định tại Phụ lục 4 ban hành kèm theo Thông tư này.
+
+5. Tính toán về km xe chạy được thực hiện theo quy định tại Phụ lục 5 ban hành kèm theo Thông tư này.
+
+6. Giá trị của kết quả tính toán được làm tròn đến 02 chữ số thập phân..
+
+3. Sửa đổi, bổ sung Điều 6 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+Điều 6. Quy định khai thác, sử dụng dữ liệu
+
+1. Việc khai thác dữ liệu từ thiết bị giám sát hành trình thực hiện theo quy định của pháp luật về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.
+
+2. Thông tin dữ liệu từ thiết bị giám sát hành trình của phương tiện được khai thác, sử dụng để phục vụ công tác quản lý hoạt động vận tải của đơn vị kinh doanh vận tải; phục vụ công tác quản lý nhà nước về hoạt động vận tải, về trật tự an toàn giao thông, an ninh trật tự, thuế, phòng, chống buôn lậu.
+
+3. Thông tin, dữ liệu trong cơ sở dữ liệu từ thiết bị giám sát hành trình trên môi trường mạng được bảo mật theo quy định của pháp luật về công nghệ thông tin.
+
+4. Công bố công khai trên trang Thông tin điện tử của Sở Giao thông vận tải kết quả xử lý vi phạm thông qua thiết bị giám sát hành trình đối với các xe, lái xe do Sở cấp phù hiệu, biển hiệu..
+
+4. Sửa đổi, bổ sung Khoản 1 Điều 7 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+1. Cục Đường bộ Việt Nam quản lý hệ thống thông tin thống nhất trong phạm vi cả nước, tổng hợp và phân tích theo các chỉ tiêu dữ liệu đầu vào được truyền về từ máy chủ dịch vụ để phục vụ công tác quản lý hoạt động kinh doanh vận tải, bao gồm:
+
+a) Báo cáo tổng hợp và chi tiết các trường hợp phương tiện quá tốc độ; báo cáo tổng hợp và chi tiết các trường hợp lái xe liên tục quá 4 giờ; báo cáo tổng hợp và chi tiết các trường hợp lái xe làm việc quá 10 giờ trong ngày; báo cáo tổng hợp và chi tiết các trường hợp không truyền dữ liệu theo ngày; báo cáo tổng hợp và chi tiết các trường hợp không truyền dữ liệu khi xe đang di chuyển; báo cáo tổng hợp và chi tiết đối với các trường hợp không truyền đầy đủ thông tin theo quy định; báo cáo chi tiết các hiện tượng bất thường của dữ liệu;
+
+b) Báo cáo tổng hợp và chi tiết hành trình chạy xe; báo cáo tổng hợp phương tiện, đơn vị kinh doanh vận tải theo loại hình kinh doanh; báo cáo chi tiết dừng, đỗ của phương tiện;
+
+c) Báo cáo tổng hợp và chi tiết theo quy định tại Điều 6, Điều 7, Điều 8 và Điều 22 của Nghị định số 10/2020/NĐ-CP ngày 17 tháng 01 năm 2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô;
+
+d) Hiển thị thông tin của phương tiện trên bản đồ số phục vụ giám sát trực tuyến, tra cứu thông tin..
+
+5. Sửa đổi, bổ sung Khoản 2, Khoản 6, Khoản 9 và Khoản 10 Điều 8 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Khoản 2 Điều 8 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+2. Thực hiện việc tiếp nhận, tổng hợp, phân tích dữ liệu được truyền từ máy chủ dịch vụ theo các chỉ tiêu quy định tại Khoản 1 Điều 7 Thông tư này. Cảnh báo trên hệ thống thông tin của Cục Đường bộ Việt Nam để các đơn vị khai thác dữ liệu thiết bị giám sát hành trình biết các trường hợp không nhận được dữ liệu từ 30 phút trở lên hoặc các sự cố về đường truyền hoặc sự cố máy chủ của Cục Đường bộ Việt Nam.;
+
+b) Sửa đổi, bổ sung Khoản 6 Điều 8 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+6. Khai thác, sử dụng dữ liệu từ thiết bị giám sát hành trình trên hệ thống thông tin của Cục Đường bộ Việt Nam khi thực hiện thanh tra, kiểm tra tại các địa phương hoặc khi có yêu cầu bằng văn bản của các cơ quan chức năng.;
+
+c) Sửa đổi, bổ sung Khoản 9 Điều 8 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+9. Lưu trữ dữ liệu báo cáo trên hệ thống thông tin của Cục Đường bộ Việt Nam tối thiểu 02 năm.;
+
+d) Sửa đổi, bổ sung Khoản 10 Điều 8 Thông tư số 09/2015/TT-BGTVT như sau:
+
+10. Tổng hợp kết quả xử lý thông qua dữ liệu từ thiết bị giám sát hành trình của các Sở Giao thông vận tải..
+
+6. Sửa đổi, bổ sung Điểm b Khoản 1, Khoản 3 và bổ sung Khoản 9 vào Điều 9 (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Điểm b Khoản 1 Điều 9 Thông tư số 09/2015/TT-BGTVT như sau:
+
+b) Khai thác, sử dụng dữ liệu trên hệ thống thông tin của Cục Đường bộ Việt Nam để theo dõi, chấn chỉnh, xử lý các vi phạm trong hoạt động vận tải đối với các đơn vị kinh doanh vận tải, phương tiện, lái xe trên địa bàn địa phương.;
+
+b) Sửa đổi, bổ sung Khoản 3 Điều 9 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+3. Bảo mật tên đăng nhập và mật khẩu truy cập, thông tin dữ liệu trên hệ thống của Cục Đường bộ Việt Nam theo quy định. Trường hợp có nhu cầu cấp lại hoặc cấp bổ sung phải có văn bản gửi Cục Đường bộ Việt Nam.;
+
+c) Bổ sung Khoản 9 vào Điều 9 Thông tư số 09/2015/TT-BGTVT như sau:
+
+9. Thông báo đến Cục Đường bộ Việt Nam đối với các trường hợp dữ liệu có sự bất thường hoặc cần kiểm tra lại thông tin trong quá trình khai thác, sử dụng dữ liệu trên hệ thống..
+
+7. Sửa đổi, bổ sung Khoản 2, Khoản 7 Điều 10 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT ngày 27 tháng 4 năm 2023) như sau:
+
+a) Sửa đổi, bổ sung Khoản 2 Điều 10 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+2. Truyền dẫn chính xác, đầy đủ dữ liệu theo quy định tại Khoản 1 Điều 4 của Thông tư này về Cục Đường bộ Việt Nam. Cung cấp mật khẩu truy cập vào cơ sở dữ liệu và phần mềm khai thác, thuật toán giải mã trong trường hợp có thông tin được mã trong cơ sở dữ liệu của đơn vị cho cơ quan có thẩm quyền khi có yêu cầu.;
+
+b) Sửa đổi, bổ sung Khoản 7 Điều 10 Thông tư số 09/2015/TT-BGTVT như sau:
+
+7. Xử lý trách nhiệm quản lý, theo dõi, khai thác, sử dụng dữ liệu đối với các cá nhân, bộ phận của đơn vị..
+
+8. Bổ sung Khoản 7 vào Điều 12 Thông tư số 09/2015/TT-BGTVT như sau:
+
+7. Cung cấp mật khẩu truy cập vào cơ sở dữ liệu, thuật toán giải mã trong trường hợp có thông tin được mã hóa trong cơ sở dữ liệu cho cơ quan có thẩm quyền khi có yêu cầu..
+
+9. Thay thế Phụ lục 1, Phụ lục 2, Phụ lục 3, Phụ lục 4, Phụ lục 5, Phụ lục 6 ban hành kèm Thông tư số 09/2015/TT-BGTVT tương ứng bằng Phụ lục IV, Phụ lục V, Phụ lục VI, Phụ lục VII, Phụ lục VIII, Phụ lục IX ban hành kèm theo Thông tư này.
+
+10. Bãi bỏ Khoản 4 Điều 7 Thông tư số 09/2015/TT-BGTVT; Khoản 13 Điều 8 Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung bởi Khoản 1 Điều 3 Thông tư số 36/2020/TT-BGTVT và Điểm b Khoản 1 Điều 9 Thông tư số 05/2023/TT-BGTVT).
+
+11. Bãi bỏ các Phụ lục 7, Phụ lục 8, Phụ lục 9, Phụ lục 10, Phụ lục 11, Phụ lục 12, Phụ lục 13, Phụ lục 14, Phụ lục 15, Phụ lục 16, Phụ lục 17, Phụ lục 18, Phụ lục 19, Phụ lục 20, Phụ lục 21 ban hành kèm theo Thông tư số 09/2015/TT-BGTVT.
+
+12. Bãi bỏ Phụ lục 22 của Thông tư số 09/2015/TT-BGTVT (đã được sửa đổi, bổ sung tại Thông tư số 36/2020/TT-BGTVT).
+
+Điều 3. Sửa đổi, bổ sung một số điều của Thông tư số 29/2015/TT-BGTVT ngày 06 tháng 7 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về cấp, sử dụng giấy phép lái xe quốc tế (sau đây gọi là Thông tư số 29/2015/TT-BGTVT), Thông tư số 01/2021/TT-BGTVT ngày 27 tháng 01 năm 2021 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 29/2015/TT-BGTVT ngày 06 tháng 7 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về cấp, sử dụng giấy phép lái xe quốc tế và Thông tư số 12/2017/TT-BGTVT ngày 15 tháng 4 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ (sau đây gọi là Thông tư số 01/2021/TT-BGTVT)
+
+Thay thế Phụ lục IV tương ứng bằng Phụ lục X ban hành kèm theo Thông tư này.
+
+Điều 4. Sửa đổi, bổ sung một số điều của Thông tư số 12/2017/TT-BGTVT ngày 15 tháng 4 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ (sau đây gọi là Thông tư số 12/2017/TT-BGTVT), Thông tư số 38/2019/TT-BGTVT ngày 08 tháng 10 năm 2019 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 12/2017/TT-BGTVT ngày 15 tháng 4 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ (sau đây gọi là Thông tư số 38/2019/TT-BGTVT), Thông tư số 01/2021/TT-BGTVT ngày 27 tháng 01 năm 2021 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 29/2015/TT-BGTVT ngày 06 tháng 7 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về cấp, sử dụng giấy phép lái xe quốc tế và Thông tư số 12/2017/TT-BGTVT ngày 15 tháng 4 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ (sau đây gọi là Thông tư số 01/2021/TT-BGTVT), Thông tư số 04/2022/TT-BGTVT ngày 22 tháng 4 năm 2022 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 12/2017/TT-BGTVT ngày 15 tháng 4 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ (sau đây gọi là Thông tư số 04/2022/TT-BGTVT), Thông tư số 05/2023/TT-BGTVT ngày 27 tháng 4 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái (sau đây gọi là Thông tư số 05/2023/TT-BGTVT)
+
+1. Bổ sung Khoản 14 vào Điều 3 như sau:
+
+14. Thời gian học lái xe ban đêm được tính từ 18 giờ ngày hôm trước đến 05 giờ sáng ngày hôm sau..
+
+2. Sửa đổi, bổ sung Khoản 12, Khoản 15 và bổ sung Khoản 20, Khoản 21, Khoản 22, Khoản 23 và Khoản 24 v à o Điều 5 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 12 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Khoản 12 Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+12. Tổ chức xét cấp chứng chỉ sơ cấp nghề hoặc chứng chỉ đào tạo cho người học lái xe ô tô và máy kéo hạng A4.;
+
+b) Sửa đổi, bổ sung Khoản 15 Điều 5 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 1 Điều 12 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+15. Báo cáo đăng ký sát hạch
+
+a) Đào tạo lái xe các hạng A1, A2: cơ sở đào tạo lập báo cáo đăng ký sát hạch theo mẫu quy định tại Phụ lục 2 ban hành kèm theo Thông tư này gửi Sở Giao thông vận tải; báo cáo phải có dấu giáp lai của cơ sở đào tạo;
+
+b) Đào tạo lái xe các hạng A3, A4, B1, B2, C, D, E và các hạng F: cơ sở đào tạo lập báo cáo đăng ký sát hạch lái xe, danh sách học sinh (báo cáo 1), danh sách đề nghị xác minh giấy phép lái xe đã cấp đối với trường hợp nâng hạng giấy phép lái xe, theo mẫu quy định tại Phụ lục 3a, Phụ lục 3b và Phụ lục 3c ban hành kèm theo Thông tư này gửi Sở Giao thông vận tải; báo cáo phải có dấu giáp lai của cơ sở đào tạo;
+
+c) Báo cáo 1 gửi bằng một trong các hình thức: trực tiếp, bưu chính, văn bản điện tử đồng thời truyền dữ liệu qua hệ thống thông tin giấy phép lái xe về Sở Giao thông vận tải đối với đào tạo lái xe các hạng A1, A2 trước kỳ sát hạch ít nhất 04 ngày làm việc, hạng A3, A4 ngay sau khai giảng, các hạng B1, B2, D, E, F không quá 07 ngày sau khai giảng và không quá 15 ngày sau khai giảng đối với hạng C; Thủ trưởng cơ quan quản lý sát hạch kiểm tra, ký tên vào từng trang (bao gồm tất cả các trang của Báo cáo 1);
+
+d) Báo cáo đăng ký sát hạch hạng A1 và A4 đối với người dân tộc thiểu số không biết đọc, viết tiếng Việt gửi về Sở Giao thông vận tải bằng một trong các hình thức: trực tiếp, bưu chính, văn bản điện tử và truyền dữ liệu qua hệ thống thông tin giấy phép lái xe trước kỳ sát hạch ít nhất 30 ngày.;
+
+c) Bổ sung Khoản 20 vào Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+20. Cơ sở đào tạo căn cứ chương trình, giáo trình, tài liệu, giáo viên, hệ thống phòng học, xe tập lái và nhu cầu của người học, để lập kế hoạch đào tạo với số lượng học viên đảm bảo điều kiện theo quy định tại Khoản 3 Điều 4 Thông tư này.;
+
+d) Bổ sung Khoản 21 vào Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+21. Cơ sở đào tạo lái xe giải thể có trách nhiệm:
+
+a) Trước khi giải thể cơ sở đào tạo lái xe có văn bản báo cáo chủ trương và phương án giải quyết đảm bảo quyền lợi đối với học viên đang đào tạo về Sở Giao thông vận tải để theo dõi, quản lý;
+
+b) Đảm bảo đầy đủ quyền lợi đối với người học lái xe theo hợp đồng đào tạo;
+
+c) Trong thời hạn 10 ngày kể từ ngày quyết định giải thể của cơ sở đào tạo có hiệu lực, bàn giao đầy đủ hồ sơ cho cơ sở đào tạo lái xe chấp thuận tiếp tục đào tạo gồm: báo cáo đăng ký sát hạch lái xe, danh sách học sinh (báo cáo 1) và Hồ sơ của người học lái xe; báo cáo Sở Giao thông vận tải để theo dõi, quản lý;
+
+d) Trong thời hạn 10 ngày kể từ ngày quyết định giải thể của cơ sở đào tạo có hiệu lực, thực hiện rà soát, lập danh sách thí sinh đã được cấp chứng chỉ sơ cấp nghề hoặc chứng chỉ đào tạo và bàn giao hồ sơ của học viên hiện đang quản lý cho Sở Giao thông vận tải để tiếp tục theo dõi và quản lý.;
+
+đ) Bổ sung Khoản 22 vào Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+22. Cơ sở đào tạo lái xe khi bị thu hồi giấy phép đào tạo lái xe có trách nhiệm:
+
+a) Trong thời hạn 10 ngày kể từ ngày quyết định thu hồi giấy phép đào tạo lái xe có hiệu lực, thực hiện rà soát, tổng hợp và lập danh sách học viên hiện đang quản lý; xây dựng phương án giải quyết quyền lợi đối với học viên đang đào tạo và báo cáo về Sở Giao thông vận tải để theo dõi, quản lý;
+
+b) Đảm bảo quyền lợi của người học theo hợp đồng đào tạo. Trường hợp học viên chấp thuận phương án được tiếp tục đào tạo thì thương thảo với các cơ sở đào tạo lái xe trên địa bàn để bàn giao nghĩa vụ đào tạo. Trường hợp học viên không chấp thuận phương án tiếp tục đào tạo thì thoả thuận với học viên và thực hiện thanh lý hợp đồng;
+
+c) Trong thời hạn 20 ngày kể từ ngày quyết định thu hồi giấy phép đào tạo lái xe có hiệu lực, bàn giao danh sách học viên hiện đang quản lý kèm theo hồ sơ gồm: danh sách học sinh (báo cáo 1), báo cáo đăng ký sát hạch lái xe và hồ sơ, dữ liệu (nếu có) cho cơ sở đào tạo lái xe tiếp nhận, bàn giao; đồng thời báo cáo về Sở Giao thông vận tải để theo dõi, quản lý.;
+
+e) Bổ sung Khoản 23 vào Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+23. Cơ sở đào tạo lái xe tiếp nhận học sinh thuộc các cơ sở đào tạo lái xe giải thể hoặc bị thu hồi giấy phép đào tạo lái xe: tiếp nhận hồ sơ tài liệu quy định tại Điểm c Khoản 21 và Điểm c Khoản 22 Điều này và có trách nhiệm tiếp tục quản lý học viên theo quy định hiện hành. Việc bàn giao phải lập biên bản, bao gồm các nội dung sau: ghi đầy đủ, rõ ràng tài liệu bàn giao; cam kết và trách nhiệm của mỗi bên (bên giao và bên nhận đều có nghĩa vụ và trách nhiệm liên quan đến hồ sơ, tài liệu, tài sản đã bàn giao).;
+
+g) Bổ sung Khoản 24 vào Điều 5 Thông tư số 12/2017/TT-BGTVT như sau:
+
+24. Căn cứ nội dung, chương trình đào tạo lái xe quy định tại Điều 12, Điều 13, Điều 14 và Phụ lục số 31 ban hành kèm theo Thông tư này, xây dựng chương trình đào tạo lái xe và báo cáo Sở Giao thông vận tải để theo dõi quản lý:
+
+a) Nội dung lý thuyết bằng một trong các hình thức: tập trung tại cơ sở đào tạo; tập trung tại cơ sở đào tạo kết hợp với đào tạo từ xa, tự học có hướng dẫn; đào tạo từ xa, tự học có hướng dẫn. Việc xây dựng hệ thống, học liệu, các phương pháp đào tạo từ xa, tự học có hướng dẫn và hệ thống ứng dụng quản lý đào tạo từ xa, tự học có hướng dẫn thực hiện theo quy định tại Phụ lục 40 ban hành kèm theo Thông tư này. Riêng đối với các môn: cấu tạo và sửa chữa thông thường, kỹ năng phòng cháy, chữa cháy và cứu nạn, cứu hộ, kỹ thuật lái xe phải học tập trung tại cơ sở đào tạo;
+
+b) Nội dung thực hành lái xe theo hình thức tập trung..
+
+3. Sửa đổi, bổ sung Khoản 1, Khoản 2 và Khoản 3, Khoản 5 Điều 6 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm a, Điểm b Khoản 4 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Khoản 1 Điều 6 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm a Khoản 4 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+1. Giáo trình đào tạo lái xe phù hợp với chương trình khung đào tạo lái xe quy định tại Phụ lục 31 ban hành kèm theo Thông tư này; cơ sở đào tạo lái xe thực hiện biên soạn, thẩm định và ban hành giáo trình theo quy định của pháp luật về giáo dục nghề nghiệp.;
+
+b) Sửa đổi, bổ sung Khoản 2 Điều 6 Thông tư số 12/2017/TT-BGTVT như sau:
+
+2. Biểu mẫu, sổ sách sử dụng đối với cơ sở đào tạo lái xe ô tô bao gồm:
+
+a) Báo cáo đăng ký sát hạch;
+
+b) Kế hoạch đào tạo theo mẫu quy định tại Phụ lục 4 ban hành kèm theo Thông tư này;
+
+c) Sổ theo dõi kết quả học tập theo quy định của pháp luật về giáo dục nghề nghiệp.;
+
+c) Sửa đổi, bổ sung Khoản 3 Điều 6 Thông tư số 12/2017/TT-BGTVT như sau:
+
+3. Cơ sở đào tạo lái xe hạng A4 sử dụng sổ theo dõi kết quả học tập tại Điểm c Khoản 2 Điều này.;
+
+d) Sửa đổi Điểm b Khoản 5 Điều 6 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm b Khoản 4 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+b) 02 năm đối với hồ sơ xét tốt nghiệp, dữ liệu lưu trữ quản lý thời gian học lý thuyết môn học pháp luật giao thông đường bộ đối với học viên học lái xe ô tô (trừ hạng B1), dữ liệu thời gian học thực hành lái xe trên cabin học lái xe ô tô; dữ liệu quản lý thời gian học lý thuyết đối với hình thức đào tạo từ xa, tự học có hướng dẫn thực hiện lưu trữ điện tử;.
+
+4. Sửa đổi, bổ sung Khoản 2 và bổ sung Khoản 3 Điều 8 Thông tư số 12/2017/TT-BGTVT như sau:
+
+a) Sửa đổi, bổ sung Khoản 2 Điều 8 Thông tư số 12/2017/TT-BGTVT như sau:
+
+2. Người có nhu cầu cấp giấy phép lái xe các hạng B2, C, D, E và các hạng F được đào tạo:
+
+a) Đối với nội dung học lý thuyết được lựa chọn một trong các hình thức sau: tập trung tại cơ sở đào tạo; tập trung tại cơ sở đào tạo kết hợp với đào tạo từ xa, tự học có hướng dẫn; đào tạo từ xa, tự học có hướng dẫn. Riêng đối với các môn phải học tập trung tại cơ sở đào tạo, gồm: cấu tạo và sửa chữa thông thường; kỹ năng phòng cháy, chữa cháy và cứu nạn, cứu hộ; kỹ thuật lái xe;
+
+b) Đối với nội dung học thực hành lái xe: theo hình thức tập trung;
+
+c) Phải kiểm tra các môn lý thuyết và thực hành tại cơ sở đào tạo, để được xét cấp chứng chỉ sơ cấp nghề, chứng chỉ đào tạo.;
+
+b) Bổ sung Khoản 3 vào Điều 8 Thông tư số 12/2017/TT-BGTVT như sau:
+
+3. Quá thời hạn 01 (một) năm kể từ ngày cơ sở đào tạo tổ chức kiểm tra hoặc xét cấp chứng chỉ kết thúc khóa học mà học viên không đủ điều kiện cấp chứng chỉ sơ cấp hoặc chứng chỉ đào tạo thì phải đào tạo lại theo khóa học mới..
+
+5. Sửa đổi, bổ sung Điều 9 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 31 Điều 1 Thông tư số 38/2019/TT-BGTVT; Khoản 2 Điều 2 Thông tư số 01/2021/TT-BGTVT) như sau:
+
+Điều 9. Hồ sơ của người học lái xe
+
+1. Người học lái xe lần đầu lập 01 bộ hồ sơ, nộp trực tiếp tại cơ sở đào tạo. Hồ sơ bao gồm:
+
+a) Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư này;
+
+b) Bản sao thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài;
+
+c) Giấy khám sức khoẻ của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định.
+
+2. Người học lái xe nâng hạng lập 01 bộ hồ sơ, nộp trực tiếp tại cơ sở đào tạo và chụp ảnh trực tiếp lưu giữ trong cơ sở dữ liệu giấy phép lái xe. Hồ sơ bao gồm:
+
+a) Giấy tờ quy định tại Khoản 1 Điều này;
+
+b) Bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng D, E (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch);
+
+c) Bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định tại Phụ lục 8 ban hành kèm theo Thông tư này.
+
+3. Người dân tộc thiểu số không biết đọc, viết tiếng Việt học lái xe mô tô hạng A1, hạng A4 lập 01 bộ hồ sơ, nộp trực tiếp tại cơ sở đào tạo. Hồ sơ bao gồm giấy tờ quy định tại Điểm c Khoản 1 Điều này..
+
+6. Sửa đổi, bổ sung Khoản 9 Điều 10 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm a Khoản 5 Điều 1 Thông tư số 04/2022/TT-BGTVT; Khoản 1 Điều 12 Thông tư số 05/2023/TT-BGTVT) như sau:
+
+9. Ứng dụng công nghệ thông tin trong quản lý hệ thống thông tin DAT của Cục Đường bộ Việt Nam đảm bảo việc tiếp nhận, tổng hợp, phân tích dữ liệu quản lý DAT phục vụ cho việc khai thác dữ liệu quản lý DAT và quản lý công tác đào tạo lái xe của các Sở Giao thông vận tải; đảm bảo hệ thống thông tin DAT của Cục Đường bộ Việt Nam hoạt động liên tục, ổn định và lưu trữ dữ liệu quản lý DAT tối thiểu là 02 năm; thông tin khai thác trên phần mềm được tổng hợp theo mẫu quy định tại Mẫu số 01, Mẫu số 02, Mẫu số 03, Mẫu số 04, Mẫu số 05 và Mẫu số 06 Phụ lục số 32 ban hành kèm theo Thông tư này..
+
+7. Sửa đổi, bổ sung Khoản 3 và Khoản 10 Điều 11 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm c Khoản 6 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+a) Sửa đổi, bổ sung Khoản 3 Điều 11 Thông tư số 12/2017/TT-BGTVT như sau:
+
+3. Kiểm tra công tác đào tạo lái xe đối với cơ sở đào tạo.;
+
+b) Sửa đổi, bổ sung Khoản 10 Điều 11 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Điểm c Khoản 6 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+10. Sử dụng dữ liệu quản lý DAT trên phần mềm hệ thống thông tin DAT của Cục Đường bộ Việt Nam theo quy định tại Mẫu số 06 Phụ lục 32 ban hành kèm theo Thông tư này, giấy xác nhận được in trên ca bin học lái xe ô tô thông tin học viên đã học đủ thời gian và nội dung học thực hành lái xe trên ca bin học lái xe ô tô do cơ sở đào tạo cung cấp để duyệt danh sách học viên đủ điều kiện tham dự kỳ sát hạch. Trong trường hợp Cục Đường bộ Việt Nam có thông báo dừng hệ thống thông tin DAT để bảo trì hoặc bảo dưỡng hoặc xảy ra sự cố thì các Sở Giao thông vận tải sử dụng dữ liệu DAT của cơ sở đào tạo..
+
+8. Sửa đổi, bổ sung Điều 13 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại Khoản 7 Điều 1 Thông tư số 04/2022/TT-BGTVT) như sau:
+
+Điều 13. Đào tạo lái xe các hạng B1, B2, C
+
+1. Kiểm tra, xét cấp chứng chỉ sơ cấp nghề, chứng chỉ đào tạo
+
+a) Kiểm tra khi kết thúc môn học lý thuyết theo bộ câu hỏi sát hạch lý thuyết (nội dung bộ câu hỏi gồm các môn học: Pháp luật giao thông đường bộ; cấu tạo và sửa chữa thông thường; nghiệp vụ vận tải; đạo đức, văn hoá giao thông, phòng chống tác hại của rượu bia và phòng chống cháy nổ, cứu nạn và cứu hộ khi tham gia giao thông) và mô phỏng các tình huống giao thông;
+
+b) Kiểm tra khi kết thúc môn học thực hành lái xe với các bài thi liên hoàn, bài tiến lùi hình chữ chi và lái xe trên đường;
+
+c) Xét cấp chứng chỉ sơ cấp nghề hoặc chứng chỉ đào tạo đối với người học đáp ứng yêu cầu theo quy định tại Điểm a và Điểm b khoản này.
+
+2. Khối lượng chương trình và phân bổ thời gian đào tạo

@@ -1,0 +1,355 @@
+  ----------------------- -------------------------------------------
+   BỘ GIAO THÔNG VẬN TẢI      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                 Độc lập - Tự do - Hạnh phúc
+                                        ---------------
+
+   Số: 06/2024/TT-BGTVT        Hà Nội, ngày 31 tháng 03 năm 2024
+  ----------------------- -------------------------------------------
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐƯỜNG BỘ CAO TỐC
+
+Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008;
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đường cao tốc Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc,
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc.
+
+Số hiệu: QCVN 115: 2024/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2024.
+
+2. Quy định chuyển tiếp
+
+a) Các dự án đầu tư xây dựng đường bộ cao tốc đã được quyết định chủ trương đầu tư trước ngày Thông tư này có hiệu lực thì tiếp tục thực hiện theo các quy định tại thời điểm quyết định chủ trương đầu tư;
+
+b) Đối với các tuyến đường cao tốc có tốc độ thiết kế từ 80km/h trở xuống đang khai thác trước ngày Thông tư này có hiệu lực, khi đầu tư nâng cấp, mở rộng thì cho phép áp dụng các yếu tố kỹ thuật cho dự án đã được phê duyệt trước ngày Thông tư này có hiệu lực.
+
+Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đường cao tốc Việt Nam, Cục trưởng Cục Đường bộ Việt Nam, Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+  ----------------------------------------------- --------------------------------
+  Nơi nhận:                                                KT. BỘ TRƯỞNG
+  - Như Điều 3;                                              THỨ TRƯỞNG
+  - Bộ trưởng (để b/c);                                    Nguyễn Duy Lâm
+  - Văn phòng Chính phủ;                          
+  - Các Bộ, cơ quan ngang Bộ, Cơ quan thuộc CP;   
+  - UBND các tỉnh, TP trực thuộc TW;              
+  - Bộ Khoa học và Công nghệ (để đăng ký);        
+  - Công báo; Cổng TT ĐT Chính phủ;               
+  - Cổng TT ĐT Bộ GTVT;                           
+  - Báo GT, Tạp chí GTVT;                         
+  - Lưu: VT, KHCN&MT.                             
+
+  ----------------------------------------------- --------------------------------
+
+ 
+
+QCVN 115:2024/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐƯỜNG BỘ CAO TỐC
+
+National Technical Regulation on Expressway
+
+ 
+
+Lời nói đầu
+
+QCVN 115:2024 “Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc” do Cục Đường cao tốc Việt Nam chủ trì soạn thảo, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 06/2024/TT-BGTVT ngày 31 tháng 3 năm 2024.
+
+ 
+
+Mục lục
+
+1. QUY ĐỊNH CHUNG
+
+2. QUY ĐỊNH KỸ THUẬT
+
+3. TỔ CHỨC THỰC HIỆN
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐƯỜNG BỘ CAO TỐC
+
+National Technical Regulation on Expressway
+
+1. QUY ĐỊNH CHUNG
+
+1.1  Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật và yêu cầu quản lý trong đầu tư xây dựng, quản lý, vận hành, khai thác và bảo trì đường bộ cao tốc (trừ đường cao tốc đô thị).
+
+1.2  Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các tổ chức, cá nhân có liên quan đến hoạt động đầu tư xây dựng, quản lý, vận hành khai thác và bảo trì đường bộ cao tốc.
+
+1.3  Tốc độ thiết kế đường bộ cao tốc
+
+Tốc độ thiết kế đường bộ cao tốc được phân làm 03 cấp như sau:
+
+Cấp 120 có tốc độ thiết kế là 120 km/h;
+
+Cấp 100 có tốc độ thiết kế là 100 km/h;
+
+Cấp 80 có tốc độ thiết kế là 80 km/h; đối với vị trí địa hình đặc biệt khó khăn, yếu tố quốc phòng an ninh khống chế, cho phép áp dụng tốc độ thiết kế 60 km/h.
+
+Trên đường bộ cao tốc có thể có những đoạn áp dụng cấp khác nhau, nhưng đoạn này phải dài từ 15 km trở lên và tốc độ thiết kế của hai đoạn liên tiếp không được chênh nhau quá 20 km/h. Trường hợp đường bộ cao tốc áp dụng cấp tốc độ thiết kế quá một cấp (20 km/h), phải có một đoạn quá độ dài ít nhất 02 km có cấp tốc độ thiết kế trung gian.
+
+1.4  Tài liệu viện dẫn
+
+Các tài liệu được viện dẫn trong quy chuẩn này bao gồm:
+
+- QCVN 41: 2019/BGTVT “Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ’’.
+
+- QCVN 43: 2012/BGTVT “Quy chuẩn kỹ thuật quốc gia về trạm dừng nghỉ đường bộ”.
+
+- QCVN 07-4: 2023/BXD “Quy chuẩn kỹ thuật quốc gia về hệ thống công trình Hạ tầng kỹ thuật - Công trình giao thông đô thị”.
+
+- QCVN 66:2013/BGTVT “Quy chuẩn kỹ thuật quốc gia về trạm kiểm tra tải trọng xe”.
+
+- QCVN 02:2022/BXD “Quy chuẩn kỹ thuật quốc gia về số liệu điều kiện tự nhiên dùng trong xây dựng”.
+
+1.5  Giải thích từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.5.1  Đường bộ cao tốc
+
+Là một cấp kỹ thuật của đường bộ, dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+
+1.5.2  Tốc độ thiết kế
+
+Là giá trị vận tốc được dùng để tính toán, lựa chọn các chỉ tiêu kỹ thuật của đường bộ cao tốc.
+
+1.5.3  Tốc độ khai thác cho phép
+
+Là giá trị giới hạn tốc độ (tốc độ tối đa, tốc độ tối thiểu) cho phép phương tiện tham gia giao thông trên đường bộ cao tốc.
+
+1.5.4  Làn dừng xe khẩn cấp
+
+Làn được thiết kế để làm nơi dừng đỗ tạm thời của các phương tiện gặp sự cố, để các phương tiện cứu hộ, cứu nạn hoạt động; các phương tiện khác không được chạy xe và không tự ý dừng xe ở làn dừng xe khẩn cấp, trừ xe ưu tiên.
+
+1.5.5  Lưu lượng xe thiết kế
+
+Là số xe con được quy đổi từ các loại xe khác, thông qua một mặt cắt trong một đơn vị thời gian, tính cho năm tương lai. Năm tương lai là năm thứ 20 kể từ năm dự kiến hoàn thành đường bộ cao tốc đưa vào khai thác.
+
+2. QUY ĐỊNH KỸ THUẬT
+
+2.1  Yêu cầu chung
+
+2.1.1  Kết cấu công trình đường bộ cao tốc phải bảo đảm ổn định, bền vững, phù hợp với điều kiện tự nhiên.
+
+2.1.2  Đường bộ cao tốc có quy mô tối thiểu 04 làn xe chạy (02 làn xe cho mỗi chiều), có làn dừng xe khẩn cấp được bố trí liên tục (trừ các vị trí: qua cầu có khẩu độ nhịp từ 150,00 m trở lên; cầu có trụ cao từ 50,00 m trở lên; hầm; có bố trí làn tăng, giảm tốc; làn phụ leo dốc).
+
+2.1.3  Các công trình gắn với đường bộ cao tốc bao gồm: Trung tâm quản lý, điều hành giao thông tuyến; Trạm dừng nghỉ; Hệ thống thu phí điện tử không dừng đối với tuyến đường có thu phí; Trạm kiểm tra tải trọng xe; Hàng rào bảo vệ.
+
+2.1.4  Mặt cắt ngang đường bộ cao tốc có thể được bố trí trên cùng một nền đường hoặc hai chiều xe chạy được bố trí trên hai nền đường riêng biệt.
+
+2.2  Mặt cắt ngang đường bộ cao tốc
+
+2.2.1  Số làn xe chạy được xác định trên cơ sở lưu lượng xe thiết kế, nhưng không ít hơn 02 làn xe cho mỗi chiều. Chiều rộng làn xe chạy tối thiểu 3,75 m đối với đường cấp 120, cấp 100 và tối thiểu 3,50 m đối với đường cấp 80.
+
+2.2.2  Làn dừng xe khẩn cấp có chiều rộng tối thiểu 3,00 m đối với đường cấp 120, cấp 100 và tối thiểu 2,50 m đối với đường cấp 80.
+
+2.2.3  Dải giữa
+
+2.2.3.1  Bố trí dải giữa (gồm dải phân cách giữa và dải an toàn ở hai bên của dải phân cách giữa) để phân chia hai chiều xe chạy đối với trường hợp mặt cắt ngang đường cao tốc được bố trí trên cùng một nền đường. Chiều rộng của dải an toàn tối thiểu là 0,75 m đối với đường cấp 120, cấp 100 và tối thiểu 0,50 m đối với đường cấp 80. Dải phân cách giữa được thiết kế để bảo đảm an toàn.
+
+2.2.3.2  Trường hợp 02 chiều xe chạy được bố trí trên 02 nền đường riêng biệt không có dải giữa, phía bên trái theo chiều xe chạy bố trí dải an toàn và lề đất. Dải an toàn có chiều rộng tối thiểu 1,00 m đối với đường cấp 120, cấp 100 và tối thiểu 0,75 m đối với đường cấp 80.
+
+2.2.4  Chiều rộng lề đất tối thiểu 0,75 m, bề mặt được trồng cỏ hoặc dùng các loại vật liệu khác để chống xói.
+
+2.3  Mặt cắt ngang cầu và hầm trên đường bộ cao tốc
+
+2.3.1  Các cầu trên đường bộ cao tốc bố trí đủ các yếu tố mặt cắt ngang như của tuyến chính. Đối với các cầu có khẩu độ nhịp từ 150,00 m trở lên; cầu có trụ cao từ 50,00 m trở lên khi không bố trí làn dừng khẩn cấp, phải bố trí đoạn chuyển tiếp từ mặt cắt đường vào phần cầu bị thu hẹp.
+
+2.3.2  Mặt cắt ngang hầm trên đường bộ cao tốc
+
+2.3.2.1  Mặt cắt ngang hầm bảo đảm chiều rộng để bố trí đầy đủ các yếu tố mặt cắt ngang như của tuyến chính và phần dành cho người đi bộ (phục vụ công tác bảo trì và thoát hiểm trong trường hợp khẩn cấp). Trường hợp các hầm không bố trí làn dừng xe khẩn cấp phải bố trí dải an toàn, chiều rộng của dải an toàn theo cấp tốc độ thiết kế của đường bộ cao tốc.
+
+2.3.2.2  Đối với hầm dài từ 1000,00 m trở lên khi không bố trí làn dừng khẩn cấp phải bố trí vị trí dừng xe khẩn cấp có chiều dài tối thiểu 30,00 m cách nhau tối đa 500,00 m, bề rộng vị trí dừng xe khẩn cấp theo cấp tốc độ thiết kế của đường bộ cao tốc.
+
+2.4  Chiều cao tĩnh không của đường bộ cao tốc tối thiểu 5,00 m.
+
+2.5  Bố trí hệ thống đường gom, đường bên để bảo đảm việc đi lại cho người dân khu vực bị ảnh hưởng, chia cắt bởi đường cao tốc.
+
+2.6  Các yếu tố hình học đường bộ cao tốc
+
+2.6.1  Các yếu tố hình học của đường bộ cao tốc phải đáp ứng các yêu cầu được quy định tại Bảng 1 sau đây.
+
+Bảng 1 - Các trị số giới hạn thiết kế bình đồ và mặt cắt dọc
+
++:---------------------------------:+:----------------------------------------------------------------------:+:---------------------------------:+:---------------------------------:+:---------------------------------:+:---------------------------------:+
+| STT                               | Tên chỉ tiêu                                                           | Đơn vị                            | Cấp tốc độ thiết kế (km/h)                                                                                |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 1                                 | Tốc độ thiết kế V_(tk)                                                 | km/h                              | 120                               | 100                               | 80                                |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 2                                 | Độ dốc siêu cao (hay độ nghiêng một mái) lớn nhất i_(sc) không lớn hơn | %                                 | 8                                 | 8                                 | 8                                 |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 3                                 | Bán kính tối thiểu Rmin tương ứng với i_(sc) = +8%                     | m                                 | 650                               | 450                               | 240                               |
+|                                   |                                                                        |                                   |                                   |                                   | (140)                             |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 4                                 | Bán kính tương ứng với i_(sc) = +2%                                    | m                                 | 3000                              | 2000                              | 1300                              |
+|                                   |                                                                        |                                   |                                   |                                   | (700)                             |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 5                                 | Bán kính tối thiểu không cần cấu tạo siêu cao i_(sc) = -2%             | m                                 | 5500                              | 4000                              | 2500                              |
+|                                   |                                                                        |                                   |                                   |                                   | (1500)                            |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 6                                 | Chiều dài tối thiểu đường cong chuyển tiếp ứng với R_(min)             | m                                 | 210                               | 210                               | 170                               |
+|                                   |                                                                        |                                   |                                   |                                   | (150)                             |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 7                                 | Tầm nhìn dừng xe tối thiểu                                             | m                                 | 210                               | 160                               | 110                               |
+|                                   |                                                                        |                                   |                                   |                                   | (75)                              |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 8                                 | Độ dốc dọc lên dốc lớn nhất                                            | %                                 | 4                                 | 5                                 | 6                                 |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 9                                 | Độ dốc dọc xuống dốc lớn nhất                                          | %                                 | 5,5                               | 6                                 | 6                                 |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 10                                | Bán kính đường cong đứng lồi tối thiểu giới hạn                        | m                                 | 12000                             | 6000                              | 3000                              |
+|                                   |                                                                        |                                   |                                   |                                   | (1500)                            |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 11                                | Bán kính đường cong đứng lồi tối thiểu thông thường                    | m                                 | 17000                             | 10000                             | 4500                              |
+|                                   |                                                                        |                                   |                                   |                                   | (2000)                            |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 12                                | Bán kính đường cong đứng lõm tối thiểu giới hạn                        | m                                 | 4000                              | 3000                              | 2000                              |
+|                                   |                                                                        |                                   |                                   |                                   | (1000)                            |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 13                                | Bán kính đường cong đứng lõm tối thiểu thông thường                    | m                                 | 6000                              | 4500                              | 3000                              |
+|                                   |                                                                        |                                   |                                   |                                   | (1500)                            |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 14                                | Chiều dài đường cong đứng tối thiểu giới hạn                           | m                                 | 100                               | 85                                | 70                                |
+|                                   |                                                                        |                                   |                                   |                                   | (50)                              |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 15                                | Chiều dài đường cong đứng tối thiểu thông thường                       | m                                 | 250                               | 210                               | 170                               |
+|                                   |                                                                        |                                   |                                   |                                   | (120)                             |
++-----------------------------------+------------------------------------------------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+-----------------------------------+
+| 1. Trị số trong ngoặc tương ứng với tốc độ thiết kế 60 km/h.                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                            |
+| 2. Chiều dài đường cong chuyển tiếp phải được tính toán để bảo đảm an toàn, êm thuận. Không phải bố trí đường cong chuyển tiếp tại các đường cong không cần cấu tạo siêu cao.                                                                              |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.6.2  Phải bảo đảm tầm nhìn cho các xe trên đường bộ cao tốc.
+
+2.6.3  Quy định về dốc dọc.
+
+2.6.3.1  Độ dốc dọc lớn nhất được quy định tại Bảng 1 tùy thuộc cấp đường bộ cao tốc thiết kế.
+
+2.6.3.2  Trên các đoạn nền đào phải thiết kế độ dốc dọc tối thiểu bằng 0,50 %.
+
+2.6.3.3  Trên các đoạn chuyển tiếp có độ dốc ngang mặt đường dưới 1,00 % phải thiết kế dốc dọc tối thiểu là 0,50 %.
+
+2.6.3.4  Trong hầm độ dốc dọc tối thiểu là 0,30 %.
+
+2.6.4  Phải bố trí đường cong đứng dạng tròn hoặc parabol tại các chỗ đổi dốc.
+
+2.7  Nút giao khác mức, đường nhánh ra, vào trên đường bộ cao tốc
+
+2.7.1  Phải bố trí nút giao khác mức tại các vị trí đường bộ cao tốc giao với các loại đường khác.
+
+2.7.2  Trường hợp đường bộ cao tốc vượt trên các đường khác phải bảo đảm tĩnh không (có xét đến quy hoạch trong tương lai) tương ứng với cấp kỹ thuật của đường bên dưới.
+
+2.7.3  Khoảng cách tối thiểu giữa các nút giao khác mức liên thông và các chỗ ra, vào trên đường bộ cao tốc là 4,00 km. Khoảng cách giữa các vị trí nút giao khác mức liên thông trên đường bộ cao tốc tối thiểu 10,00 km; ở gần các thành phố lớn, khu đô thị lớn và khu chức năng quan trọng khoảng cách tối thiểu 5,00 km.
+
+2.7.4  Các thông số kỹ thuật áp dụng cho phạm vi nút giao khác mức liên thông và các nhánh ra, vào đường bộ cao tốc.
+
+2.7.4.1  Tốc độ thiết kế trên các đường nhánh thuộc phạm vi nút giao khác mức liên thông được quy định tại Bảng 2 sau đây.
+
+Bảng 2 - Tốc độ thiết kế trên các đường nhánh thuộc phạm vi nút giao khác mức liên thông
+
++:----------------------------------------------------------------------------:+:------------------:+:------------------:+:------------------:+
+| Đặc điểm nút giao khác mức liên thông                                        | Cấp tốc độ thiết kế (km/h)                                   |
+|                                                                              +--------------------+--------------------+--------------------+
+|                                                                              | 120                | 100                | 80                 |
++------------------------------------------------------------------------------+--------------------+--------------------+--------------------+
+| Liên thông giữa đường bộ cao tốc với đường bộ cao tốc và đường cấp I, cấp II | 80 ÷ 50            | 70 ÷ 40            | 60 ÷ 35            |
+|                                                                              |                    |                    | (50 ÷ 35)          |
++------------------------------------------------------------------------------+--------------------+--------------------+--------------------+
+| Liên thông giữa đường bộ cao tốc với đường khác                              | 60 ÷ 35            | 50 ÷ 35            | 40 ÷ 30            |
+|                                                                              |                    |                    | (35 ÷ 30)          |
++------------------------------------------------------------------------------+--------------------+--------------------+--------------------+
+| Trị số trong ngoặc tương ứng với tốc độ thiết kế là 60 km/h.                                                                                |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+
+2.7.4.2  Các yếu tố hình học của đường nhánh trong phạm vi chỗ giao khác mức liên thông (bán kính đường cong, đường cong chuyển tiếp, siêu cao, độ mở rộng, độ dốc dọc, đường cong đứng, tầm nhìn xe) phải bảo đảm yêu cầu tương ứng với tốc độ thiết kế.
+
+2.7.5  Phải bố trí đoạn tăng, giảm tốc phù hợp tại các nhánh vào, ra đường bộ cao tốc.
+
+2.8  Nền, mặt đường đường bộ cao tốc
+
+2.8.1  Nền đường
+
+2.8.1.1  Nền đường phải bảo đảm ổn định, duy trì được các kích thước hình học, có đủ cường độ để chịu được các tác động của tải trọng xe và các yếu tố thiên nhiên trong suốt thời gian sử dụng.
+
+2.8.1.2  Nền đường phải tính toán, thiết kế xây dựng dựa trên các số liệu khảo sát địa hình, địa chất, thủy văn.
+
+2.8.2  Mặt đường phải được thiết kế, xây dựng bảo đảm các yêu cầu về cường độ, tính bền vững, độ nhám, độ bằng phẳng và khả năng thoát nước.
+
+2.9  An toàn phòng hộ trên đường bộ cao tốc
+
+2.9.1  Bố trí phòng hộ
+
+2.9.1.1  Phải bố trí đồng bộ hệ thống phòng hộ bảo đảm an toàn giao thông trên đường bộ cao tốc.
+
+2.9.1.2  Phải bố trí hàng rào bảo vệ để ngăn cách người, gia súc hoặc thú rừng qua đường.
+
+2.9.2  Hệ thống báo hiệu trên đường bộ cao tốc được bố trí tuân thủ quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ.
+
+2.9.3  Phải bố trí hệ thống vạch sơn dẫn hướng và kết hợp với việc bố trí lan can phòng hộ hoặc cọc tiêu để bảo đảm an toàn khai thác.
+
+2.9.4  Chống chói
+
+2.9.4.1  Phải có biện pháp chống chói do đèn pha của xe chạy ngược chiều về ban đêm.
+
+2.9.4.2  Phải kiểm tra việc bảo đảm tầm nhìn ở các đoạn đường cong khi có bố trí các giải pháp chống chói.
+
+2.9.4.3  Trên đường bộ cao tốc có dải phân cách rộng từ 12,00 m trở lên không cần có biện pháp chống chói.
+
+2.9.5  Bố trí chiếu sáng trên đường bộ cao tốc tại các khu vực sau:
+
+2.9.5.1  Khu vực có trạm thu phí.
+
+2.9.5.2  Trong hầm.
+
+2.9.5.3  Trong phạm vi các chỗ giao nhau liên thông trên đường bộ cao tốc.
+
+2.9.6  Phải tính toán, bố trí tường chống ồn ở gần khu vực đông dân cư.
+
+2.10  Quản lý, vận hành khai thác và bảo trì kết cấu hạ tầng đường bộ cao tốc
+
+2.10.1  Việc quản lý, vận hành khai thác và bảo trì công trình đường bộ cao tốc thực hiện quy định tại Nghị định số 32/2014/NĐ-CP ngày 22/4/2014 của Chính phủ về quản lý, khai thác và bảo trì công trình đường cao tốc, được sửa đổi bổ sung tại Nghị định số 25/2023/NĐ-CP ngày 19/5/2023 của Chính phủ và các Thông tư hướng dẫn.
+
+2.10.2  Tốc độ khai thác cho phép trên đường bộ cao tốc được xác định trên cơ sở tốc độ thiết kế của tuyến đường bộ cao tốc, hiện trạng kỹ thuật của đường bộ cao tốc, điều kiện thời tiết, khí hậu, lưu lượng, chủng loại phương tiện tham gia giao thông trên đường bộ cao tốc.
+
+2.10.3  Tốc độ tối đa cho phép trên đường bộ cao tốc không vượt quá 120 km/h. Tốc độ tối đa cho phép và tốc độ thiết kế không được chênh nhau quá 20 km/h; tốc độ tối đa cho phép của 02 đoạn tuyến liên tiếp không được chênh nhau quá 20 km/h.
+
+2.10.4  Bố trí quay đầu xe đối với phương tiện quá tải tại khu vực trạm kiểm tra tải trọng xe.
+
+3. TỔ CHỨC THỰC HIỆN
+
+3.1  Cục Đường cao tốc Việt Nam chịu trách nhiệm tổ chức triển khai Quy chuẩn này.
+
+3.2  Đối với các vị trí nút giao liên thông, đường nhánh ra, vào trên đường bộ cao tốc để phục vụ phát triển kinh tế xã hội của địa phương nhưng không đáp ứng khoảng cách tối thiểu quy định tại Điều 2.7.3 của Quy chuẩn này, Bộ Giao thông vận tải xem xét quyết định đối với dự án thuộc thẩm quyền quản lý và các dự án do địa phương quản lý theo đề xuất của địa phương.
+
+3.3  Việc đầu tư xây dựng, quản lý, vận hành, khai thác và bảo trì các đường bộ cao tốc tuân thủ theo các quy định trong Quy chuẩn này.
+
+3.4  Trường hợp các văn bản quy phạm pháp luật được viện dẫn trong Quy chuẩn này có sự thay đổi, bổ sung hoặc được thay thế thì áp dụng theo văn bản sửa đổi, bổ sung, thay thế./.
+
+ 
+
+ 

@@ -1,0 +1,472 @@
+  ------------------------ ----------------------------------------
+   BỘ GIAO THÔNG VẬN TẢI      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                Độc lập - Tự do - Hạnh phúc
+                                       ---------------
+
+    Số: 47/2023/TT-BGTVT      Hà Nội, ngày 31 tháng 12 năm 2023
+  ------------------------ ----------------------------------------
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BẾN XE HÀNG
+
+Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008;
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 10/2020/NĐ-CP ngày 17 tháng 01 năm 2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đường bộ Việt Nam;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư về “Quy chuẩn kỹ thuật quốc gia về bến xe hàng”,
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về bến xe hàng
+
+Mã số đăng ký: QCVN 114:2023/BGTVT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2024.
+
+2. Bến xe hàng đã công bố trước ngày Thông tư này này có hiệu lực phải hoàn thiện các hạng mục công trình theo Quy chuẩn này trước ngày 01 tháng 07 năm 2027.
+
+Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đường bộ Việt Nam, Giám đốc Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+  ----------------------------------------------- --------------------------------
+  Nơi nhận:                                                KT. BỘ TRƯỞNG
+  - Như Điều 3;                                              THỨ TRƯỞNG
+  - Bộ trưởng (để b/c);                                     Lê Đình Thọ
+  - Văn phòng Chính phủ;                          
+  - Các Bộ, cơ quan ngang Bộ, Cơ quan thuộc CP;   
+  - UBND các tỉnh, TP trực thuộc TW;              
+  - Bộ Khoa học và Công nghệ (để đăng ký);        
+  - Công báo; Cổng TT ĐT Chính phủ;               
+  - Cổng TT ĐT Bộ GTVT;                           
+  - Báo GT, Tạp chí GTVT;                         
+  - Lưu: VT, KHCN&MT_(BT Thành).                  
+
+  ----------------------------------------------- --------------------------------
+
+ 
+
+QCVN 114: 2023/BGTVT
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BẾN XE HÀNG
+
+National technical regulations on Truck Station
+
+Lời nói đầu
+
+QCVN 114: 2023/BGTVT do Cục Đường bộ Việt Nam soạn thảo, Vụ Khoa học, Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 47/2023/TT-BGTVT ngày 31 tháng 12 năm 2023.
+
+ 
+
+MỤC LỤC
+
+1 QUY ĐỊNH CHUNG
+
+1.1 Phạm vi điều chỉnh
+
+1.2 Đối tượng áp dụng
+
+1.3 Tài liệu viện dẫn
+
+1.4 Giải thích từ ngữ
+
+2 QUY ĐỊNH KỸ THUẬT
+
+2.1 Quy định chung
+
+2.2 Quy định về các hạng mục công trình cơ bản
+
+2.3 Quy định về diện tích tối thiểu và các hạng mục công trình
+
+3 QUY ĐỊNH VỀ QUẢN LÝ VÀ TỔ CHỨC THỰC HIỆN
+
+3.1 Quy định về quản lý
+
+3.2 Tổ chức thực hiện
+
+Phụ lục A. CÔNG BỐ HỢP QUY ĐƯA BẾN XE HÀNG VÀO KHAI THÁC
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BẾN XE HÀNG
+
+National technical regulations on Truck Station
+
+1 QUY ĐỊNH CHUNG
+
+1.1 Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật phải tuân thủ trong đầu tư xây dựng, cải tạo, nâng cấp, quản lý, khai thác bến xe hàng.
+
+1.2 Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân đầu tư xây dựng, cải tạo, nâng cấp, quản lý, khai thác bến xe hàng; các cơ quan, tổ chức, cá nhân liên quan đến việc sử dụng dịch vụ, kiểm tra, công bố bến xe hàng.
+
+1.3 Tài liệu viện dẫn
+
+  -------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  - QCVN 01-1:2018/BYT             “Quy chuẩn kỹ thuật quốc gia về chất lượng nước sạch sử dụng cho mục đích sinh hoạt” được ban hành kèm theo Thông tư số 41/2018/TT-BGTVT ngày 14 tháng 12 năm 2018 của Bộ trưởng Bộ Y tế.
+
+  - QCVN 07:2016/BXD               “Quy chuẩn kỹ thuật quốc gia về các công trình hạ tầng kỹ thuật” được ban hành kèm theo Thông tư số 01/2016/TT- BXD ngày 01 tháng 02 năm 2016 của Bộ trưởng Bộ Xây dựng
+
+  - QCVN 01:2020/BCT               “Quy chuẩn kỹ thuật quốc gia về yêu cầu thiết kế cửa hàng xăng dầu” được ban hành kèm theo Thông tư số 15/2020/TT-BCT ngày 30 tháng 6 năm 2020 của Bộ trưởng Bộ Công thương.
+
+  - QCVN 06:2021/BXD               “Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình” được ban hành kèm theo Thông tư số 02/2021/TT-BXD ngày 19 tháng 5 năm 2021 của Bộ trưởng Bộ Xây dựng.
+
+  - QCVN 41:2019/BGTVT             “Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ” được ban hành kèm theo Thông tư số 54/2019/TT-BGTVT ngày 31 tháng 12 năm 2019 của Bộ trưởng Bộ Giao thông vận tải.
+
+  - Nghị định số 11/2010/NĐ-CP     Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.
+
+  - Thông tư số 12/2020/TT-BGTVT   Quy định về tổ chức, quản lý hoạt động kinh doanh vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ.
+
+  - Thông tư 02/2022/TT-BTNMT      Quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường.
+  -------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.4 Giải thích từ ngữ
+
+1.4.1 Hệ thống cung cấp thông tin là hệ thống loa phát thanh, bảng thông báo và các trang thiết bị nghe, nhìn khác trong bến xe hàng.
+
+1.4.2 Đơn vị kinh doanh bến xe hàng là doanh nghiệp, hợp tác xã, hộ kinh doanh quản lý, khai thác bến xe hàng để cung cấp dịch vụ phục vụ xe ô tô vận tải hàng hóa xếp, dỡ hàng hóa và các dịch vụ hỗ trợ cho hoạt động vận tải hàng hóa.
+
+2 QUY ĐỊNH KỸ THUẬT
+
+2.1 Quy định chung
+
+2.1.1 Điểm đấu nối của đường ra, vào bến xe hàng với đường quốc lộ phải được thực hiện theo đúng quy định tại Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (sau đây gọi là Nghị định số 11/2010/NĐ-CP), các Nghị định sửa đổi, bổ sung Nghị định số 11/2010/NĐ-CP.
+
+2.1.2 Đường ra, vào bến xe hàng phải được thiết kế bảo đảm lưu thông an toàn của phương tiện ra, vào bến.
+
+2.1.3 Đường lưu thông dành cho xe cơ giới trong bến xe hàng phải có các biển báo hiệu, vạch kẻ đường để đảm bảo cho các loại phương tiện lưu thông an toàn trong khu vực bến xe hàng.
+
+2.1.4 Bến xe hàng tuân thủ quy định pháp luật về phòng cháy, chữa cháy.
+
+2.1.5 Các công trình, các thiết bị của bến xe hàng được xây dựng, lắp đặt bảo đảm an toàn cho người, hàng hóa và phương tiện trong khu vực bến xe hàng. Bến xe hàng phải bố trí tách biệt các khu vực xếp dỡ, bảo quản hàng khô, hàng tươi, sống, hàng dễ cháy, nổ, hàng nguy hiểm (nếu có).
+
+2.1.6 Hệ thống điện, nước, chiếu sáng, thông tin liên lạc, phòng cháy, chữa cháy của bến xe hàng bảo đảm theo quy định tại QCVN 07-1:2016/BXD, QCVN 07-2:2016/BXD, QCVN 07-5:2016/BXD, QCVN 07-7:2016/BXD, QCVN 07-8:2016/BXD, QCVN 07-9:2016/BXD.
+
+2.2 Quy định về các hạng mục công trình cơ bản
+
+Các hạng mục công trình cơ bản của bến xe hàng được chia làm hai nhóm gồm: các công trình bắt buộc và các công trình dịch vụ thương mại.
+
+2.2.1 Các công trình bắt buộc
+
+2.2.1.1 Văn phòng làm việc và các công trình phụ trợ;
+
+2.2.1.2 Khu vệ sinh;
+
+2.2.1.3 Cây xanh, thảm cỏ;
+
+2.2.1.4 Đường ra, vào bến xe hàng;
+
+2.2.1.5 Hệ thống cung cấp thông tin;
+
+2.2.1.6 Hệ thống thoát nước;
+
+2.2.1.7 Hệ thống phòng cháy và chữa cháy;
+
+2.2.1.8 Bãi đỗ xe ô tô hàng hóa.
+
+2.2.2 Công trình dịch vụ thương mại khác theo nhu cầu của đơn vị kinh doanh bến xe hàng.
+
+2.3 Quy định về diện tích tối thiểu và các hạng mục công trình
+
+2.3.1 Phân loại bến xe hàng.
+
+Bến xe hàng được phân thành 6 loại. Quy định về các hạng mục công trình tương ứng với từng loại bến xe hàng như trong bảng sau:
+
+Bảng 1 - Phân loại Bến xe hàng
+
++:--:+:--------------------------------------------------------:+:------------:+:------------:+:------------:+:--------------:+:---------------------:+:---------------------:+:---------------------:+
+| TT | Tiêu chí phân loại                                       | Đơn vị tính  | Loại bến xe hàng                                                                                                     |
+|    |                                                          |              +--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+|    |                                                          |              | Loại 1       | Loại 2       | Loại 3         | Loại 4                | Loại 5                | Loại 6                |
++----+----------------------------------------------------------+--------------+--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+| 1  | Tổng diện tích (tối thiểu)                               | m²           | 30.000       | 20.000       | 10.000         | 5.000                 | 3.000                 | 1.000                 |
++----+----------------------------------------------------------+--------------+--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+| 2  | Trang thiết bị bốc, xếp bằng cơ giới                     |              | Có           | Có           | Không bắt buộc | Không bắt buộc        | Không bắt buộc        | Không bắt buộc        |
++----+----------------------------------------------------------+--------------+--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+| 3  | Văn phòng làm việc và các công trình phụ trợ (tối thiểu) | Chỗ          | Có, diện tích theo nhu cầu                                                                                           |
++----+----------------------------------------------------------+--------------+----------------------------------------------------------------------------------------------------------------------+
+| 4  | Diện tích khu vệ sinh                                    | m²           | Có, diện tích theo nhu cầu                                                                                           |
++----+----------------------------------------------------------+--------------+----------------------------------------------------------------------------------------------------------------------+
+| 5  | Diện tích dành cho cây xanh, thảm cỏ                     | m²           | Tỷ lệ diện tích cây xanh, thảm cỏ tối thiểu 1% tổng diện tích                                                        |
++----+----------------------------------------------------------+--------------+--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+| 6  | Đường xe ra, vào bến                                     | -            | riêng biệt   | riêng biệt   | riêng biệt     | Chung hoặc riêng biệt | Chung hoặc riêng biệt | Chung hoặc riêng biệt |
++----+----------------------------------------------------------+--------------+--------------+--------------+----------------+-----------------------+-----------------------+-----------------------+
+| 7  | Mặt sân bến                                              | -            | Nhựa hoặc bê tông xi măng                                                                                            |
++----+----------------------------------------------------------+--------------+----------------------------------------------------------------------------------------------------------------------+
+| 8  | Hệ thống cung cấp thông tin                              | Có hệ thống phát thanh, thông tin chỉ dẫn lái xe                                                                                    |
++----+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 9  | Hệ thống thoát nước                                      | Có hệ thống tiêu thoát nước theo quy định tại QCVN 07-2:2016/BXD                                                                    |
++----+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 10 | Hệ thống phòng cháy và chữa cháy                         | Theo quy định về phòng cháy, chữa cháy                                                                                              |
++----+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
+
+2.3.2. Bến xe hàng được ngăn cách với khu vực xung quanh bằng tường rào, trừ địa điểm nằm trong khu vực cửa khẩu, khu công nghiệp, cảng hoặc nằm trong khu hạ tầng kỹ thuật khác đã có tường rào ngăn cách biệt lập với khu vực xung quanh.
+
+2.3.3 Quy định về bãi đỗ xe ô tô hàng hóa và đường ra, vào bến xe hàng
+
+2.3.3.1 Thiết kế hướng đỗ xe hợp lý, phù hợp với quy mô diện tích và không gian của bến xe hàng để đáp ứng nhu cầu đỗ xe của từng loại phương tiện, bảo đảm an toàn, thuận tiện;
+
+2.3.3.2 Diện tích tối thiểu cho một vị trí đỗ của xe ô tô tải là 40 m2, có vạch sơn để phân định rõ từng vị trí đỗ xe theo quy định tại QCVN 07-4:2016/BXD;
+
+2.3.3.3 Đường lưu thông trong bến có các biển báo hiệu, vạch kẻ đường; có bán kính quay xe phù hợp (bán kính tối thiểu không nhỏ hơn 10m tính theo tim đường) theo quy định tại QCVN 07-4:2016/BXD để đảm bảo cho các loại phương tiện lưu thông an toàn;
+
+2.3.3.4 Đường ra, vào bến xe hàng được thiết kế theo quy định tại QCVN 07-4:2016/BXD đảm bảo lưu thông, hạn chế tối thiểu xung đột giữa dòng phương tiện vào và ra. Hệ thống báo hiệu, rào chắn và các công trình đảm bảo an toàn giao thông khác được thiết kế, lắp đặt theo quy định tại QCVN 41: 2019/BGTVT.
+
+2.3.4 Quy định về khu vệ sinh
+
+2.3.4.1 Có biển chỉ dẫn đến khu vệ sinh rõ ràng, dễ nhận biết bảo đảm thuận tiện cho người sử dụng. Vị trí bố trí không ảnh hưởng đến môi trường của các khu vực khác trong bến xe hàng;
+
+2.3.4.2 Khu vệ sinh đảm bảo chống thấm, chống ẩm ướt, thoát mùi hôi thối, thông thoáng, tường, mặt sàn và thiết bị sạch sẽ, số lượng, chất lượng các loại thiết bị vệ sinh theo quy định;
+
+2.3.4.3 Khu vệ sinh được thông gió và đảm bảo vệ sinh môi trường;
+
+2.3.4.4 Nền, mặt tường khu vệ sinh sử dụng loại vật liệu dễ làm vệ sinh;
+
+2.3.4.5 Tại các vị trí bố trí chậu để rửa tay nên lắp đặt bàn, gương, móc treo;
+
+2.3.4.6 Hệ thống thoát nước bảo đảm không để nước ứ đọng trên nền trong khu vệ sinh.
+
+2.3.5 Quy định về hệ thống cấp thoát nước
+
+2.3.5.1 Hệ thống cấp nước cho bến xe hàng bảo đảm hoạt động ổn định, có khả năng cung cấp đủ lượng nước cho nhu cầu sử dụng của bến xe hàng;
+
+2.3.5.2 Trong trường hợp bến xe hàng tự khai thác nguồn nước để sử dụng thì: chất lượng nước phục vụ cho ăn uống, sinh hoạt bảo đảm đáp ứng đầy đủ các chỉ tiêu chất lượng theo quy định tại QCVN 01-1:2018/BYT;
+
+2.3.5.3 Hệ thống thoát nước của bến xe hàng bao gồm hệ thống thoát nước thải và hệ thống thoát nước mưa và đấu nối với hệ thống thoát nước tại địa phương;
+
+2.3.5.4 Hệ thống thoát nước bảo đảm không để ứ đọng nước làm gián đoạn hoạt động của bến xe hàng.
+
+2.3.6. Bến xe hàng khi đưa vào khai thác phải đảm bảo quy định pháp luật về phòng cháy, chữa cháy và các yêu cầu tối thiểu như sau:
+
+2.3.6.1 Bến xe hàng được xây dựng và lắp đặt các trang thiết bị phòng và chống cháy, chữa cháy theo đúng quy định tại QCVN 06:2022/BXD và sửa đổi 1:2023 QCVN 06:2022/BXD;
+
+2.3.6.2 Niêm yết quy định về phòng và chống cháy, chữa cháy trong khu vực bến xe hàng.
+
+2.3.7 Quy định về bảo vệ môi trường
+
+Bến xe hàng khi đưa vào khai thác đảm bảo các yêu cầu về bảo vệ môi trường như sau:
+
+2.3.7.1 Bến xe hàng có thực hiện thu gom, xử lý nước thải theo quy định tại Thông tư số 02/2022/TT-BTNMT ngày 10/01/2022 của Bộ trưởng Bộ Tài nguyên môi trường ban hành quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường (sau đây gọi là Thông tư số 02/2022/TT-BTNMT);
+
+2.3.7.2 Bố trí đủ thùng rác tại tất cả các khu vực để bảo đảm vệ sinh môi trường;
+
+2.3.7.3 Niêm yết quy định về giữ gìn vệ sinh trong khu vực bến xe hàng.
+
+2.3.8 Quy định về hệ thống cung cấp thông tin
+
+Bến xe hàng khi đưa vào khai thác có hệ thống cung cấp thông tin đảm bảo theo các yêu cầu sau:
+
+2.3.8.1 Có hệ thống phát thanh và bảng thông tin chỉ dẫn cố định (hoặc màn hình điện tử). Niêm yết về thông tin giá các loại dịch vụ cung cấp trong bến xe hàng theo quy định;
+
+2.3.8.2 Đối với bến xe hàng hóa có xe hoạt động vận tải quốc tế phải cung cấp thông tin quy định tại điểm 2.3.8.1 Quy chuẩn này tối thiểu bằng tiếng Việt và tiếng Anh;
+
+2.3.8.3 Hệ thống phát thanh bảo đảm cho mọi người đang ở trong khu vực bến xe hàng có thể nghe rõ thông tin phát qua hệ thống;
+
+2.3.8.4 Có số điện thoại đường dây nóng để tiếp nhận thông tin phản ánh của khách hàng;
+
+3 QUY ĐỊNH VỀ QUẢN LÝ VÀ TỔ CHỨC THỰC HIỆN
+
+3.1 Quy định về quản lý
+
+3.1.1. Bến xe hàng chỉ được đưa vào khai thác sau khi đơn vị kinh doanh bến xe hàng công bố theo quy định tại khoản 2 Điều 22 Nghị định số 10/2020/NĐ-CP ngày 17 tháng 01 năm 2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô. Văn bản công bố theo mẫu quy định tại Phụ lục A Quy chuẩn này.
+
+3.1.2 Bến xe hàng sau khi nâng cấp, cải tạo, sửa chữa các hạng mục công trình làm thay đổi các tiêu chí phân loại bến xe theo quy định tại bảng 1 của Quy chuẩn này hoặc thay đổi đơn vị kinh doanh bến xe hàng thì thực hiện công bố lại. Việc công bố lại thực hiện theo quy định tại điểm 3.1.1.
+
+3.2 Tổ chức thực hiện
+
+3.2.1 Đơn vị kinh doanh bến xe hàng
+
+3.2.1.1 Tuân thủ các quy định tại Quy chuẩn này và các quy định pháp luật có liên quan trong suốt quá trình khai thác, sử dụng bến xe hàng;
+
+3.2.1.2 Thực hiện quy định tại điểm 3.1.1, điểm 3.1.2 Điều này và chịu trách nhiệm về tính chính xác, đầy đủ của các thông tin công bố;
+
+3.2.1.3 Ứng dụng công nghệ thông tin trong quản lý bến xe hàng để lưu trữ, trích xuất liên quan đến thông tin xe ra, vào bến; cung cấp dữ liệu cho Sở Giao thông vận tải địa phương khi có yêu cầu.
+
+3.2.2 Sở Giao thông vận tải
+
+3.2.2.1 Tiếp nhận văn bản công bố của đơn vị kinh doanh bến xe hàng trên địa bàn địa phương;
+
+3.2.2.2 Chủ trì, phối hợp với các cơ quan có liên quan thanh tra, kiểm tra việc thực hiện Quy chuẩn này đối với các đơn vị kinh doanh bến xe hàng trên địa bàn địa phương.
+
+3.2.3 Cục Đường bộ Việt Nam chủ trì, phối hợp với các cơ quan có liên quan tổ chức thanh tra, kiểm tra, việc thực hiện Quy chuẩn này.
+
+3.3 Trường hợp các Quy chuẩn, Tiêu chuẩn và văn bản quy phạm pháp luật được viện dẫn trong Quy chuẩn này có sự thay đổi, bổ sung hoặc được thay thế thì áp dụng theo văn bản sửa đổi, bổ sung, thay thế đó./.
+
+ 
+
+PHỤ LỤC A
+
+CÔNG BỐ HỢP QUY ĐƯA BẾN XE HÀNG VÀO KHAI THÁC
+(Ban hành kèm theo Thông tư số 47/2023/TT-BGTVT ngày 31 tháng 12 năm 2023 của Bộ trưởng Bộ Giao thông vận tải)
+
+  ------------------------ ----------------------------------------
+         …… (2) …….           CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                Độc lập - Tự do - Hạnh phúc
+                                       ---------------
+
+       Số: ……../CBBXH             ………, ngày    tháng     năm
+  ------------------------ ----------------------------------------
+
+ 
+
+CÔNG BỐ ĐƯA BẾN XE HÀNG VÀO KHAI THÁC
+
+Kính gửi: ……………. (1) ……………………………
+
+Căn cứ QCVN …: 2023/BGTVT Quy chuẩn kỹ thuật quốc gia về bến xe hàng, ……(tên đơn vị kinh doanh bến xe hàng)… đã thực hiện đánh giá (có phụ lục kèm theo) và công bố đưa bến xe hàng vào khai thác như sau:
+
+1. Công bố đưa bến xe hàng ………….. (2)....vào khai thác với các nội dung sau:
+
+- Tên Bến xe hàng: (2) …………………………………………….. ………………………..
+
+- Đơn vị kinh doanh bến xe hàng: …………………………………………………………..
+
+- Mã số thuế: …………………………………………………………………………………..
+
+- Địa chỉ: (3) ……………………………… Điện thoại: ……………………………………..
+
+- Giấy chứng nhận kinh doanh số: ………………………ngày cấp………………………..
+
+- Tổng diện tích:...(4)………………………………………………………………………….
+
+Trong đó:
+
++ Văn phòng làm việc và các công trình phụ trợ:
+
+…………………………………………………………………………………………………..
+
++ Diện tích Cây xanh, thảm cỏ:………………………………………………………………
+
+………………………………………………………………………………………………….
+
++ Diện tích kho hàng hoá: ……………………; Diện tích bãi đỗ xe hàng hoá:…………
+
+…………………………………………………………………………………………………..
+
++ Diện tích khu vệ sinh:
+
+…………………………………………………………………………………………………..
+
+……… (2) ………………… đạt quy chuẩn bến xe hàng loại: …(5)………………………
+
+2. Cam kết về quyền sử dụng đất:
+
+Đơn vị xin cam kết toàn bộ diện tích bến xe hàng thuộc quyền sở hữu/quyền sử dụng của đơn vị do ………(tên cơ quan cấp)……. cấp theo giấy chứng nhận quyền sử dụng đất số ................. (hoặc hợp đồng thuê). Đơn vị xin chịu trách nhiệm về quyền sử dụng đất cũng như mục đích sử dụng khu đất theo đúng quy định của pháp luật hiện hành.
+
+3. Cam kết phòng cháy chữa cháy:
+
+Đơn vị đã được cấp chứng nhận đủ điều kiện phòng cháy, chữa cháy theo quy định tại văn bản số................ ngày……..của …………(tên có quan cấp giấy chứng nhận)…….
+
+Đơn vị xin cam đoan các nội dung trên là đúng; đồng thời cam kết thực hiện, duy trì các hạng mục công trình phù hợp với Quy chuẩn kỹ thuật quốc gia về bến xe hàng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng dịch vụ cung cấp và kết quả tự đánh giá.
+
+ 
+
+  -------------------------------- --------------------------------
+  Nơi nhận:                                Đại diện đơn vị
+  - Như trên;                             (Ký tên, đóng dấu)
+  - Lưu...                         
+
+  -------------------------------- --------------------------------
+
+Hướng dẫn ghi:
+
+(1) Gửi Sở Giao thông vận tải địa phương có bến xe hàng.
+
+(2) Ghi tên bến xe hàng
+
+(3) Ghi tên vị trí, lý trình, địa chỉ của bến xe hàng
+
+(4) Ghi diện tích đất hợp pháp được sử dụng để xây dựng bến xe hàng
+
+(5) Ghi loại bến xe hàng công bố.
+
+ 
+
+  ------------------------ ----------------------------------------
+         …… (2) …….           CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+          -------                Độc lập - Tự do - Hạnh phúc
+                                       ---------------
+
+       Số: ……../BBĐC              ………, ngày    tháng     năm
+  ------------------------ ----------------------------------------
+
+ 
+
+BẢNG TỰ KIỂM TRA, ĐÁNH GIÁ
+THEO QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BẾN XE HÀNG
+
+ (Kèm theo Văn bản số:……/CBBXH ngày …..tháng…..năm …….của ……(2)……)
+
+- Tên bến xe hàng: …………………………………………….. ………………………..
+
+- Đơn vị kinh doanh bến xe hàng ……………………………………………………
+
+- Mã số thuế: ……………………………………………………………………………
+
+- Địa chỉ:……………………………… Điện thoại: ………………………………….
+
+Kết quả tự kiểm tra, đánh giá, đối chiếu các quy định kỹ thuật của quy chuẩn với các hạng mục công trình của bến xe hàng …..….. như sau:
+
+  ---- -------------------------------------------------------- ------------- ----------------------------------------- -----------------
+   TT                     Tiêu chí phân loại                     Đơn vị tính   Yêu cầu kỹ thuật của Bến xe hàng loại….   Số liệu thực tế
+
+   1                        Tổng diện tích                           m²                                                          
+
+   2                   Diện tích bãi đỗ xe ô tô                      m²                                                          
+
+   3                    Diện tích kho hàng hoá                       m²                                                          
+
+   4                    Diện tích bãi hàng hoá                       m²                                                          
+
+   5             Trang thiết bị bốc, xếp bằng cơ giới                                                                            
+
+   6    Diện tích văn phòng làm việc và các công trình phụ trợ       m²                                                          
+
+   7                    Diện tích khu vệ sinh                        m²                                                          
+
+   8             Diện tích dành cho cây xanh, thảm cỏ                m²                                                          
+
+   9                     Đường xe ra, vào bến                                                                                    
+
+   10                        Mặt sân bến                                                                                         
+
+   11                Hệ thống cung cấp thông tin                                                                                 
+
+   12                    Hệ thống thoát nước                                                                                     
+
+   13                      Hệ thống cứu hoả                                                                                      
+  ---- -------------------------------------------------------- ------------- ----------------------------------------- -----------------
+
+Đơn vị xin cam kết những nội dung trên là đúng thực tế và xin chịu hoàn toàn trách nhiệm về tính chính xác của các thông tin nêu trên.
+
+ 
+
+  -------------------------------- --------------------------------
+  Nơi nhận:                                Đại diện đơn vị
+  - Như trên;                             (Ký tên, đóng dấu)
+  - Lưu...                         
+
+  -------------------------------- --------------------------------
+
+ 
+
+ 
+
+ 
+
+ 

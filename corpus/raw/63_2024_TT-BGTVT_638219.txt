@@ -1,0 +1,1186 @@
+  ----------------------------------------------------------------------
+    BỘ GIAO THÔNG VẬN TẢI             CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+           -------                           Độc lập - Tự do - Hạnh phúc
+                                                         ---------------
+  -------------------------- -------------------------------------------
+     Số: 63/2024/TT-BGTVT              Hà Nội, ngày 30 tháng 12 năm 2024
+
+  ----------------------------------------------------------------------
+
+THÔNG TƯ
+
+QUY ĐỊNH KỸ THUẬT ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH VÀ KIỂM KÊ KHÍ NHÀ KÍNH LĨNH VỰC GIAO THÔNG VẬN TẢI
+
+Căn cứ Luật Bảo vệ môi trường ngày 17 tháng 11 năm 2020;
+
+Căn cứ Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn;
+
+Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Viện trưởng Viện Chiến lược và Phát triển giao thông vận tải;
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực giao thông vận tải.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính từ hoạt động đốt nhiên liệu trực tiếp của phương tiện, thiết bị giao thông vận tải trừ phương tiện, thiết bị thuộc phạm vi quản lý của Bộ Quốc phòng và Bộ Công an.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực giao thông vận tải; các cơ sở phát thải khí nhà kính thuộc danh mục phải kiểm khí nhà kính theo Quyết định của Thủ tướng Chính phủ lĩnh vực giao thông vận tải.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Số liệu hoạt động là số liệu về lượng nhiên liệu tiêu thụ hoặc số liệu dùng để tính toán lượng tiêu thụ nhiên liệu từ phương tiện, thiết bị giao thông vận tải.
+
+2. Cơ sở phát thải khí nhà kính là các cơ sở thuộc Danh mục cơ sở phát thải khí nhà kính phải thực hiện kiểm kê khí nhà kính thuộc ngành giao thông vận tải theo Quyết định của Thủ tướng chính phủ (sau đây gọi tắt là Cơ sở).
+
+Điều 4. Nguyên tắc cơ bản thực hiện kiểm kê khí nhà kính và đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính
+
+1. Kiểm kê khí nhà kính, đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính phải tuân thủ các nguyên tắc sau:
+
+a) Tính đầy đủ: phải thực hiện đối với tất cả các nguồn phát thải khí nhà kính trực tiếp từ phương tiện, thiết bị thuộc lĩnh vực giao thông vận tải; số liệu được thu thập liên tục, không bị gián đoạn;
+
+b) Tính nhất quán: bảo đảm thống nhất về phương án giám sát, số liệu tính toán, phương pháp kiểm kê khí nhà kính, phương pháp tính toán kết quả giảm nhẹ phát thải khí nhà kính;
+
+c) Tính minh bạch: các tài liệu, dữ liệu, giả định, số liệu hoạt động, hệ số áp dụng, phương pháp tính toán được giải thích rõ ràng, trích dẫn nguồn và được lưu trữ một cách có hệ thống;
+
+d) Tính chính xác: tính toán kiểm kê khí nhà kính, đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính đảm bảo độ tin cậy theo phương pháp luận lựa chọn và giảm thiểu sai số;
+
+đ) Tính so sánh được: kiểm kê khí nhà kính, đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính của một Cơ sở, lĩnh vực cần đảm bảo tương đồng về số liệu, phương pháp luận để kết quả có thể so sánh được.
+
+2. Thẩm định kết quả kiểm kê khí nhà kính, giảm nhẹ phát thải khí nhà kính cần tuân thủ các nguyên tắc sau:
+
+a) Tính độc lập: duy trì tính độc lập với các bên liên quan trong quá trình thực hiện nhiệm vụ; khách quan trong quá trình đánh giá;
+
+b) Tính công bằng: đảm bảo trung thực, chính xác và khách quan.
+
+Chương II
+
+KIỂM KÊ KHÍ NHÀ KÍNH
+
+Mục 1. KIỂM KÊ KHÍ NHÀ KÍNH CẤP LĨNH VỰC
+
+Điều 5. Quy trình kiểm kê khí nhà kính cấp lĩnh vực
+
+1. Xác định phạm vi kiểm kê khí nhà kính cấp lĩnh vực.
+
+2. Xây dựng phương pháp kiểm kê khí nhà kính cấp lĩnh vực.
+
+3. Thu thập số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực.
+
+4. Lựa chọn hệ số phát thải khí nhà kính cấp lĩnh vực.
+
+5. Tính toán phát thải khí nhà kính cấp lĩnh vực.
+
+6. Đảm bảo chất lượng và kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực.
+
+7. Đánh giá độ không chắc chắn kiểm kê khí nhà kính cấp lĩnh vực.
+
+8. Tính toán lại kết quả kiểm kê khí nhà kính cấp lĩnh vực.
+
+9. Xây dựng báo cáo kiểm kê khí nhà kính cấp lĩnh vực.
+
+10. Thẩm định và báo cáo kết quả kiểm kê khí nhà kính cấp lĩnh vực.
+
+Điều 6. Phạm vi kiểm kê khí nhà kính cấp lĩnh vực
+
+Kiểm kê khí nhà kính cấp lĩnh vực thực hiện đối với các khí nhà kính phát thải từ hoạt động đốt nhiên liệu của phương tiện, thiết bị lĩnh vực giao thông vận tải trên cả nước trong năm kiểm kê, gồm:
+
+1. Chuyên ngành đường bộ: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện giao thông cơ giới đường bộ.
+
+2. Chuyên ngành đường sắt: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện giao thông đường sắt.
+
+3. Chuyên ngành đường thủy nội địa: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện thủy nội địa (trừ tàu cá, tàu công vụ thủy sản).
+
+4. Chuyên ngành hàng hải: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của tàu biển (trừ tàu cá, tàu công vụ thủy sản) phục vụ vận tải biển nội địa.
+
+5. Chuyên ngành hàng không: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của tàu bay phục vụ vận chuyển hàng không nội địa.
+
+6. Phương tiện, thiết bị giao thông vận tải khác: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của xe máy chuyên dùng, phương tiện, thiết bị trong giao thông vận tải quy định tại mục 3.3 Chương 3 Quyển 2 Hướng dẫn kiểm kê khí nhà kính quốc gia của Ủy ban liên chính phủ về biến đổi khí hậu, phiên bản năm 2006 (sau đây viết tắt là Hướng dẫn IPCC 2006).
+
+Điều 7. Phương pháp kiểm kê khí nhà kính
+
+Việc kiểm kê khí nhà kính theo các chuyên ngành áp dụng một trong các phương pháp sau đây:
+
+1. Theo quy định tại mục I Phụ lục I ban hành kèm theo Thông tư này;
+
+2. Hướng dẫn tại Chương 3 Quyển 2 Hướng dẫn IPCC 2006.
+
+Điều 8. Thu thập số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực
+
+Việc thu thập số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực thực hiện theo quy định tại Phụ lục II ban hành kèm theo Thông tư này.
+
+Điều 9. Lựa chọn hệ số phát thải khí nhà kính cấp lĩnh vực
+
+1. Hệ số phát thải áp dụng cho quá trình kiểm kê khí nhà kính cấp lĩnh vực lựa chọn theo Danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính do Bộ Tài nguyên và Môi trường công bố.
+
+2. Hệ số phát thải chưa được Bộ Tài nguyên và Môi trường công bố theo quy định tại khoản 1 Điều này áp dụng hệ số phát thải mặc định theo Hướng dẫn IPCC 2006.
+
+3. Hệ số phát thải trong kiểm kê khí nhà kính chuyên ngành hàng không áp dụng theo quy định tại khoản 1, khoản 2 Điều này hoặc theo hướng dẫn của Tổ chức Hàng không dân dụng quốc tế (ICAO).
+
+Điều 10. Tính toán lượng phát thải khí nhà kính cấp lĩnh vực
+
+Tổng lượng phát thải khí nhà kính lĩnh vực giao thông vận tải được tính bằng tổng lượng phát thải khí nhà kính của các chuyên ngành và phương tiện, thiết bị giao thông vận tải khác trong năm kiểm kê; đơn vị tính bằng tấn CO2 tương đương (tCO_(2tđ)). Công thức tính như sau:
+
+TPT_(lv) = TPT_(đb) + TPT_(đs) + TPT_(đtnđ) + TPT_(hh) +TPT_(hk) + TPT_(ptk)
+
+Trong đó:
+
+- TPT_(lv) là tổng lượng phát thải khí nhà kính của lĩnh vực (tCO_(2tđ)).
+
+- TPT_(đb) là tổng lượng phát thải khí nhà kính của chuyên ngành đường bộ (tCO_(2tđ)).
+
+- TPT_(đs) là tổng lượng phát thải khí nhà kính của chuyên ngành đường sắt (tCO_(2tđ)).
+
+- TPT_(đtnđ) là tổng lượng phát thải khí nhà kính của chuyên ngành đường thủy nội địa (tCO_(2tđ)).
+
+- TPThh là tổng lượng phát thải khí nhà kính của chuyên ngành hàng hải (tCO_(2tđ)).
+
+- TPT_(hk) là tổng lượng phát thải khí nhà kính của chuyên ngành hàng không (tCO_(2tđ)).
+
+- TPT_(ptk) là tổng lượng phát thải khí nhà kính của phương tiện, thiết bị giao thông vận tải khác (tCO_(2tđ)).
+
+Điều 11. Đảm bảo chất lượng và kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực
+
+1. Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực do cơ quan chủ trì tham mưu tổ chức thẩm định báo cáo kiểm kê khí nhà kính cấp lĩnh vực thực hiện.
+
+2. Kiểm soát chất lượng kiểm kê khí nhà kính lĩnh vực giao thông vận tải do cơ quan chủ trì kiểm kê khí nhà kính thực hiện.
+
+3. Quy trình, phương thức đảm bảo chất lượng và kiểm soát chất lượng báo cáo kiểm kê khí nhà kính cấp lĩnh vực thực hiện theo hướng dẫn IPCC 2006.
+
+Điều 12. Đánh giá độ không chắc chắn kiểm kê khí nhà kính cấp lĩnh vực
+
+Đánh giá độ không chắc chắn do cơ quan chủ trì kiểm kê khí nhà kính cấp lĩnh vực thực hiện theo hướng dẫn IPCC 2006, gồm:
+
+1. Xác định độ không chắc chắn của số liệu hoạt động, hệ số phát thải, kết quả tính toán trong quá trình kiểm kê khí nhà kính.
+
+2. Xây dựng bảng tổng hợp độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực.
+
+Điều 13. Tính toán lại kết quả kiểm kê khí nhà kính cấp lĩnh vực
+
+Cơ quan chủ trì kiểm kê khí nhà kính cấp lĩnh vực thực hiện việc tính toán lại kết quả kiểm kê khí nhà kính của các kỳ kiểm kê trước trong các trường hợp sau:
+
+1. Có thay đổi về phương pháp định lượng khí nhà kính, số liệu hoạt động và hệ số phát thải.
+
+2. Phát hiện ra sai sót trong kết quả tính toán lượng phát thải khí nhà kính.
+
+Điều 14. Xây dựng báo cáo kết quả kiểm kê khí nhà kính cấp lĩnh vực
+
+Viện Chiến lược và Phát triển giao thông vận tải chủ trì kiểm kê khí nhà kính cấp lĩnh vực; xây dựng báo cáo kết quả kiểm kê khí nhà kính cấp lĩnh vực theo Mẫu số 02 Phụ lục II Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn (sau đây viết tắt là Nghị định số 06/2022/NĐ-CP).
+
+Điều 15. Thẩm định và báo cáo kết quả kiểm kê khí nhà kính cấp lĩnh vực
+
+1. Vụ Khoa học - Công nghệ và Môi trường chủ trì tham mưu tổ chức thẩm định kết quả kiểm kê khí nhà kính cấp lĩnh vực; tham mưu gửi báo cáo kiểm kê khí nhà kính lĩnh vực tới Bộ Tài nguyên và Môi trường theo quy định tại điểm a khoản 3 Điều 11 của Nghị định số 06/2022/NĐ-CP; quản lý, lưu trữ hồ sơ thẩm định và kết quả kiểm kê khí nhà kính cấp lĩnh vực.
+
+2. Việc thẩm định kết quả kiểm kê khí nhà kính cấp lĩnh vực thực hiện theo quy định tại Điều 10 Thông tư số 01/2022/TT-BTNMT ngày 07 tháng 01 năm 2022 của Bộ Tài nguyên và Môi trường quy định chi tiết thi hành Luật Bảo vệ môi trường về ứng phó với biến đổi khí hậu (sau đây viết tắt là Thông tư số 01/2022/TT-BTNMT).
+
+3. Cơ quan chủ trì kiểm kê khí nhà kính có trách nhiệm tiếp thu, giải trình và hoàn thiện báo cáo kết quả kiểm kê khí nhà kính theo kết luận của Hội đồng thẩm định.
+
+Mục 2. KIỂM KÊ KHÍ NHÀ KÍNH CẤP CƠ SỞ
+
+Điều 16. Quy trình kiểm kê khí nhà kính cấp cơ sở
+
+1. Xác định phạm vi kiểm kê khí nhà kính cấp cơ sở.
+
+2. Xây dựng phương pháp kiểm kê khí nhà kính cấp cơ sở.
+
+3. Thu thập số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp cơ sở.
+
+4. Lựa chọn hệ số phát thải khí nhà kính cấp cơ sở.
+
+5. Tính toán phát thải khí nhà kính cấp cơ sở.
+
+6. Thực hiện kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở.
+
+7. Đánh giá độ không chắc chắn kiểm kê khí nhà kính cấp cơ sở.
+
+8. Tính toán lại kết quả kiểm kê khí nhà kính cấp cơ sở.
+
+9. Xây dựng báo cáo kết quả kiểm kê khí nhà kính cho cấp cơ sở.
+
+10. Thẩm định và báo cáo kết quả kiểm kê khí nhà kính cấp cơ sở.
+
+Điều 17. Phạm vi kiểm kê khí nhà kính cấp cơ sở
+
+Kiểm kê khí nhà kính cấp cơ sở thực hiện đối với các khí nhà kính phát thải từ hoạt động đốt nhiên liệu của phương tiện, thiết bị giao thông vận tải của Cơ sở, trong năm kiểm kê, gồm:
+
+1. Phương tiện đường bộ: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện giao thông cơ giới đường bộ do Cơ sở trực tiếp khai thác, sử dụng.
+
+2. Phương tiện đường sắt: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện giao thông đường sắt do Cơ sở trực tiếp khai thác, sử dụng.
+
+3. Phương tiện đường thủy nội địa: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của phương tiện thủy nội địa do Cơ sở trực tiếp khai thác, sử dụng (trừ tàu cá, tàu công vụ thủy sản).
+
+4. Phương tiện hàng hải: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của tàu biển (trừ tàu cá, tàu công vụ thủy sản) phục vụ vận tải biển nội địa do Cơ sở trực tiếp khai thác, sử dụng.
+
+5. Phương tiện hàng không: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của tàu bay do Cơ sở trực tiếp khai thác, sử dụng phục vụ vận chuyển hàng không nội địa.
+
+6. Phương tiện, thiết bị giao thông vận tải khác: phát thải khí nhà kính từ hoạt động đốt nhiên liệu của xe máy chuyên dùng, phương tiện, thiết bị trong giao thông vận tải do Cơ sở trực tiếp khai thác, sử dụng quy định tại mục 3.3 Chương 3 Quyển 2 Hướng dẫn IPCC 2006.
+
+Điều 18. Phương pháp kiểm kê khí nhà kính cấp cơ sở
+
+Việc kiểm kê khí nhà kính cấp cơ sở áp dụng một trong các phương pháp sau đây:
+
+1. Theo quy định tại mục II Phụ lục I ban hành kèm theo Thông tư này;
+
+2. Hướng dẫn tại Chương 3 Quyển 2 Hướng dẫn IPCC 2006.
+
+Điều 19. Thu thập số liệu phục vụ kiểm kê khí nhà kính cấp cơ sở
+
+1. Cơ sở thực hiện việc thu thập, quản lý và lưu trữ số liệu hoạt động liên quan đến các nguồn phát thải khí nhà kính trong phạm vi quản lý.
+
+2. Số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp cơ sở quy định tại Phụ lục III ban hành kèm Thông tư này.
+
+Điều 20. Lựa chọn hệ số phát thải khí nhà kính cấp cơ sở
+
+1. Hệ số phát thải áp dụng cho quá trình kiểm kê khí nhà kính cấp cơ sở lựa chọn theo Danh mục hệ số phát thải phục vụ kiểm kê khí nhà kính do Bộ Tài nguyên và Môi trường công bố.
+
+2. Hệ số phát thải chưa được Bộ Tài nguyên và Môi trường công bố theo quy định tại khoản 1 Điều này áp dụng hệ số phát thải mặc định theo Hướng dẫn IPCC 2006.
+
+3. Hệ số phát thải trong kiểm kê khí nhà kính phương tiện hàng không áp dụng theo quy định tại khoản 1, khoản 2 Điều này hoặc theo hướng dẫn của Tổ chức Hàng không dân dụng quốc tế (ICAO).
+
+Điều 21. Tính toán lượng phát thải khí nhà kính cấp cơ sở
+
+Tổng lượng phát thải khí nhà kính của Cơ sở được tính bằng tổng lượng phát thải khí nhà kính từ tất cả các nguồn phát thải của phương tiện, thiết bị giao thông vận tải quy định tại Điều 17 Thông tư này do Cơ sở trực tiếp khai thác, sử dụng trong năm kiểm kê; đơn vị tính bằng tấn CO₂ tương đương (tCO_(2tđ)). Công thức tính như sau:
+
+TPT_(cs) = TPT_(ptđb) + TPT_(ptđs) + TPT_(ptđtnđ) + TPT_(pthh) +TPT_(pthk) + TPT_(ptk)
+
+Trong đó:
+
+- TPT_(cs) là tổng phát thải khí nhà kính của Cơ sở đo bằng tấn CO₂ tương đương (tCO_(2tđ)).
+
+- TPT_(ptđb) là tổng phát thải khí nhà kính của phương tiện đường bộ (tCO_(2tđ)).
+
+- TPT_(ptđs) là tổng phát thải khí nhà kính của phương tiện đường sắt (tCO_(2tđ)).
+
+- TPT_(ptđtnđ) là tổng phát thải khí nhà kính của phương tiện đường thủy nội địa (tCO_(2tđ)).
+
+- TPT_(pthh) là tổng phát thải khí nhà kính của tàu biển phục vụ vận tải biển nội địa (tCO_(2tđ)).
+
+- TPT_(pthk) là tổng phát thải khí nhà kính của tàu bay hoạt động nội địa (tCO_(2tđ)).
+
+- TPT_(ptk) là tổng phát thải khí nhà kính của phương tiện, thiết bị giao thông vận tải khác (tCO_(2tđ)).
+
+Điều 22. Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở
+
+Kiểm soát chất lượng kiểm kê khí nhà kính do Cơ sở thực hiện theo tiểu mục 6.1.2 Mục 6 Tiêu chuẩn quốc gia TCVN ISO 14064-1:2011, Phần 1: Quy định kỹ thuật và hướng dẫn định lượng và báo cáo phát thải và loại bỏ khí nhà kính ở cấp độ cơ sở.
+
+Điều 23. Đánh giá độ không chắc chắn kiểm kê khí nhà kính cấp cơ sở
+
+Cơ sở có trách nhiệm báo cáo đánh giá độ không chắc chắn của kiểm kê khí nhà kính, theo các nội dung:
+
+1. Xác định độ không chắc chắn của số liệu hoạt động: thiếu dữ liệu hoặc dữ liệu thu thập không chính xác do lỗi trong quá trình đo đạc, thu thập số liệu; quá trình thu thập dữ liệu phức tạp, nhiều biến số gây khó khăn trong việc xác định lượng khí thải của từng hoạt động; các hoạt động giao thông vận tải có thể thay đổi theo thời gian, địa hình nên việc ước tính lượng khí thải khó chính xác.
+
+2. Xác định độ không chắc chắn về kết quả tính toán: sử dụng hệ số phát thải không phù hợp với điều kiện Cơ sở, có sai số trong phương pháp ước tính.
+
+Điều 24. Tính toán lại kết quả kiểm kê khí nhà kính cấp cơ sở
+
+1. Cơ sở lập báo cáo kết quả kiểm kê khí nhà kính có trách nhiệm thuyết minh, tính toán lại kết quả kiểm kê khí nhà kính trong các trường hợp:
+
+a) Có sự thay đổi về phạm vi kiểm kê khí nhà kính;
+
+b) Có sự thay đổi về phương pháp kiểm kê khí nhà kính dẫn đến sự thay đổi trong kết quả kiểm kê khí nhà kính gần nhất;
+
+c) Có sự thay đổi về nguồn phát thải khí nhà kính.
+
+2. Cơ sở có trách nhiệm bổ sung nội dung phần tính toán lại kết quả kiểm kê khí nhà kính vào báo cáo kết quả kiểm kê khí nhà kính cấp cơ sở của kỳ báo cáo.
+
+Điều 25. Xây dựng báo cáo kết quả kiểm kê khí nhà kính cấp cơ sở
+
+Cơ sở xây dựng báo cáo kết quả kiểm kê khí nhà kính theo Mẫu 06 Phụ lục
+
+II Nghị định số 06/2022/NĐ-CP.
+
+Điều 26. Thẩm định và báo cáo kết quả kiểm kê khí nhà kính cấp cơ sở
+
+1. Việc thẩm định kết quả kiểm kê khí nhà kính cấp cơ sở thực hiện theo khoản 6 Điều 11 Nghị định số 06/2022/NĐ-CP và Điều 12 Thông tư số 01/2022/TT-BTNMT.
+
+2. Cơ quan thẩm định có trách nhiệm gửi báo cáo kết quả kiểm kê khí nhà kính đã được Cơ sở hoàn thiện tới Bộ Giao thông vận tải để cập nhật vào cơ sở dữ liệu trực tuyến về kiểm kê khí nhà kính.
+
+Chương III
+
+ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH
+
+Mục 1. ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH CẤP LĨNH VỰC
+
+Điều 27. Đo đạc giảm nhẹ phát thải khí nhà kính cấp lĩnh vực
+
+1. Căn cứ Kế hoạch giảm nhẹ phát thải khí nhà kính trong lĩnh vực giao thông vận tải, Cơ quan chủ trì đo đạc giảm nhẹ phát thải khí nhà kính xác định lượng giảm phát thải khí nhà kính lĩnh vực giao thông vận tải.
+
+2. Đo đạc giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải được tính toán như sau:
+
+Trong đó:
+
+GPT_(gtvt) = ∑_(t) GPT_(t)
+
+- GPT_(gtvt) là lượng giảm phát thải của lĩnh vực Giao thông vận tải trong một năm (tấn CO_(2tđ)).
+
+- t là biện pháp giảm nhẹ.
+
+- GPT_(t) là lượng giảm phát thải trong một năm khi thực hiện biện pháp giảm nhẹ t (tấn CO_(2tđ)).
+
+3. Phương pháp đo đạc giảm nhẹ phát thải khí nhà kính lĩnh vực Giao thông vận tải theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư này.
+
+4. Cơ quan chủ trì thực hiện đo đạc giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải xây dựng phương án, tổ chức giám sát thực hiện Kế hoạch giảm nhẹ phát thải khí nhà kính cấp lĩnh vực thông qua hoạt động đo đạc kết quả giảm nhẹ quy định tại khoản 1 điều này.
+
+5. Kết quả giám sát được thể hiện trong báo cáo kết quả giảm nhẹ phát thải khí nhà kính cấp lĩnh vực.
+
+Điều 28. Xây dựng Báo cáo giảm nhẹ phát thải khí nhà kính cấp lĩnh vực
+
+Viện Chiến lược và Phát triển giao thông vận tải chủ trì thực hiện đo đạc giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải; xây dựng báo cáo kết quả giảm nhẹ khí nhà kính cấp lĩnh vực theo Mẫu số 01 Phụ lục III Nghị định số 06/2022/NĐ-CP.
+
+Điều 29. Thẩm định và báo cáo kết quả giảm nhẹ phát thải khí nhà kính cấp lĩnh vực
+
+1. Vụ Khoa học - Công nghệ và Môi trường chủ trì tham mưu tổ chức thẩm định báo cáo kết quả giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải; tham mưu Bộ Giao thông vận tải gửi báo cáo thẩm định, báo cáo kết quả giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải tới Bộ Tài nguyên và Môi trường theo quy định tại điểm b khoản 3 và điểm b, khoản 4 Điều 10 Nghị định số 06/2022/NĐ-CP; quản lý, lưu trữ hồ sơ thẩm định và báo cáo thẩm định giảm nhẹ phát thải khí nhà kính cấp lĩnh vực.
+
+2. Việc thẩm định báo cáo kết quả giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải thực hiện theo quy định tại Điều 11 Thông tư số 01/2022/TT- BTNMT.
+
+3. Cơ quan chủ trì xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính lĩnh vực giao thông vận tải có trách nhiệm tiếp thu, giải trình và hoàn thiện báo cáo theo kết luận của Hội đồng thẩm định.
+
+Mục 2. ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH CẤP CƠ SỞ
+
+Điều 30. Đo đạc giảm nhẹ phát thải khí nhà kính cấp cơ sở
+
+1. Căn cứ Kế hoạch giảm nhẹ phát thải khí nhà kính đã xây dựng, Cơ sở thực hiện việc đo đạc, xác định lượng giảm phát thải khí nhà kính cấp cơ sở.
+
+2. Đo đạc kết quả giảm nhẹ phát thải khí nhà kính cấp cơ sở theo công thức sau:
+
+Trong đó:
+
+[]
+
+- GPT_(cs) là lượng giảm phát thải của cơ sở trong 01 (một) năm (tấn CO_(2tđ)).
+
+- m là biện pháp giảm nhẹ.
+
+- GPT_(m) là lượng giảm phát thải của cơ sở trong 01 (một) năm khi thực hiện biện pháp giảm nhẹ m (tấn CO_(2tđ)).
+
+3. Phương pháp đo đạc giảm nhẹ phát thải khí nhà kính cấp cơ sở theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư này.
+
+4. Đối với các biện pháp giảm nhẹ chưa được hướng dẫn phương pháp đo đạc giảm nhẹ phát thải khí nhà kính tại Phụ lục IV ban hành kèm theo Thông tư này, Cơ sở lựa chọn, áp dụng phương pháp phù hợp được công bố trên trang thông tin điện tử Công ước khung của Liên hợp quốc về biến đổi khí hậu (UNFCCC).
+
+Điều 31. Xây dựng Báo cáo giảm nhẹ phát thải khí nhà kính cấp cơ sở
+
+Cơ sở xây dựng Báo cáo kết quả giảm nhẹ phát thải khí nhà kính cấp cơ sở theo Mẫu số 02 Phụ lục III Nghị định số 06/2022/NĐ-CP.
+
+Điều 32. Thẩm định và báo cáo giảm nhẹ phát thải khí nhà kính cấp cơ sở
+
+Việc thẩm định báo cáo giảm nhẹ phát thải khí nhà kính theo quy định tại điểm a khoản 4 Điều 10 Nghị định số 06/2022/NĐ-CP và Điều 13 Thông tư 01/2022/TT-BTNMT.
+
+Chương IV
+
+CƠ SỞ DỮ LIỆU TRỰC TUYẾN KIỂM KÊ KHÍ NHÀ KÍNH, ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH
+
+Điều 33. Cơ sở dữ liệu trực tuyến kiểm kê khí nhà kính, đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính
+
+1. Vụ Khoa học - Công nghệ và Môi trường chủ trì, tham mưu Bộ Giao thông vận tải tổ chức xây dựng, sửa đổi, bổ sung cơ sở dữ liệu trực tuyến kiểm kê khí nhà kính, đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính (sau đây gọi tắt là Cơ sở dữ liệu) phù hợp với nhu cầu quản lý.
+
+2. Cơ sở dữ liệu được duy trì trên cơ sở trang thiết bị công nghệ thông tin dùng chung của Bộ Giao thông vận tải, được kết nối và chia sẻ giữa các cơ quan, đơn vị liên quan phục vụ việc kiểm kê khí nhà kính, đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính.
+
+3. Trung tâm công nghệ thông tin chịu trách nhiệm quản lý hệ thống cơ sở dữ liệu; bảo đảm an toàn thông tin; bảo đảm tính ổn định phục vụ công tác quản lý nhà nước.
+
+Điều 34. Vận hành cơ sở dữ liệu
+
+1. Trung tâm công nghệ thông tin cấp tài khoản, quyền truy cập vào Cơ sở dữ liệu cho Viện Chiến lược và Phát triển giao thông vận tải, các Cục quản lý chuyên ngành, Sở Giao thông vận tải các tỉnh, thành phố trực thuộc trung ương và các cơ quan có liên quan theo đề nghị của Vụ Khoa học - Công nghệ và Môi trường.
+
+2. Các Cục quản lý chuyên ngành, Sở giao thông vận tải các tỉnh, thành phố trực thuộc trung ương, Viện Chiến lược và Phát triển giao thông vận tải chịu trách nhiệm cập nhật số liệu hoạt động theo quy định tại Phụ lục II ban hành kèm theo Thông tư này vào Cơ sở dữ liệu và chịu trách nhiệm về tính chính xác của số liệu do đơn vị cập nhật.
+
+3. Viện Chiến lược và Phát triển giao thông vận tải cập nhật báo cáo kiểm kê khí nhà kính cấp lĩnh vực, báo cáo kết quả giảm nhẹ khí nhà kính cấp lĩnh vực vào Cơ sở dữ liệu.
+
+Chương V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 35. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2025.
+
+2. Trường hợp văn bản quy phạm pháp luật, tài liệu dẫn chiếu tại Thông tư này sửa đổi, bổ sung hoặc thay thế thì áp dụng văn bản quy phạm pháp luật, tài liệu được sửa đổi, bổ sung hoặc thay thế đó./.
+
+  ------------------------------------------------------------------------------------
+  Nơi nhận:                                              KT. BỘ TRƯỞNG
+  - Bộ trưởng (để b/c);                                  THỨ TRƯỞNG
+  - Các Thứ trưởng Bộ GTVT;                              Lê Anh Tuấn
+  - Văn phòng Chính phủ;                                 
+  - Các Bộ, Cơ quan ngang Bộ, Cơ quan thuộc Chính phủ;   
+  - UBND các tỉnh, TP trực thuộc TW;                     
+  - Cục Kiểm tra VBQPPL (Bộ Tư pháp);                    
+  - Công báo;                                            
+  - Cổng Thông tin điện tử Chính phủ;                    
+  - Cổng Thông tin điện tử Bộ GTVT;                      
+  - Báo Giao thông, Tạp chí GTVT;                        
+  - Lưu: VT, KHCN&MT_((H.Lưu))                           
+  ------------------------------------------------------ -----------------------------
+
+  ------------------------------------------------------------------------------------
+
+PHỤ LỤC I
+
+PHƯƠNG PHÁP KIỂM KÊ PHÁT THẢI KHÍ NHÀ KÍNH
+
+(Ban hành kèm theo Thông tư số 63/2024/TT-BGTVT ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+I. Phương pháp kiểm kê khí nhà kính cấp lĩnh vực
+
+1. Kiểm kê khí nhà kính chuyên ngành đường bộ
+
+Bước 1: tính tổng lượng tiêu thụ nhiên liệu theo từng loại phương tiện cơ giới đường bộ, kích cỡ động cơ và loại nhiên liệu
+
+[]
+
+Bước 2: tính tổng phát thải khí nhà kính chuyên ngành đường bộ
+
+[]
+
+Trong đó:
+
+TPT_(đb): là tổng phát thải khí nhà kính của chuyên ngành đường bộ (tCO_(2tđ)).
+
+N: là số lượng phương tiện cơ giới đường bộ, (chiếc).
+
+VKT: là quãng đường di chuyển trung bình trong năm, (km).
+
+AFC: là lượng nhiên liệu tiêu thụ trung bình khi di chuyển 100 km (lít/100km).
+
+AD: là lượng nhiên liệu tiêu thụ (lít).
+
+D: là khối lượng riêng (kg/l).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+a: là loại phương tiện.
+
+b: là kích cỡ động cơ.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+2. Kiểm kê khí nhà kính chuyên ngành đường sắt
+
+[]
+
+Trong đó:
+
+TPT_(đs): là tổng phát thải khí nhà kính của chuyên ngành đường sắt (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+3. Kiểm kê khí nhà kính chuyên ngành đường thủy nội địa
+
+Phương pháp 1: dựa trên lượng nhiên liệu tiêu thụ
+
+[]
+
+Trong đó:
+
+TPT_(đtnđ): là tổng phát thải khí nhà kính của chuyên ngành đường thủy nội địa (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+Phương pháp 2: dựa trên số lượng phương tiện thủy nội địa và công suất
+
+Bước 1: tính tổng lượng tiêu thụ nhiên liệu theo từng loại phương tiện thủy nội địa, kích cỡ động cơ và loại nhiên liệu
+
+[]
+
+Bước 2: tính tổng phát thải khí nhà kính chuyên ngành đường thủy nội địa
+
+[]
+
+Trong đó:
+
+TPT_(đtnđ): là tổng phát thải khí nhà kính của chuyên ngành đường thủy nội địa (tCO_(2tđ)).
+
+N: là số lượng phương tiện đường thủy nội địa, (chiếc).
+
+H: là số giờ vận hành trung bình trong năm, (giờ).
+
+AEP: là công suất máy trung bình, (mã lực, hp).
+
+ELF: là hệ số tải của động cơ, (%).
+
+AFC: là mức tiêu thụ nhiên liệu trung bình của động cơ (kg nhiên liệu/hp-giờ).
+
+AD: là lượng nhiên liệu tiêu thụ, (kg).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+a: là loại phương tiện.
+
+b: là kích cỡ động cơ.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+4. Kiểm kê khí nhà kính chuyên ngành hàng hải
+
+[]
+
+Trong đó:
+
+TPT_(hh): là tổng phát thải khí nhà kính của chuyên ngành hàng hải (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+5. Kiểm kê khí nhà kính chuyên ngành hàng không: có thể áp dụng một trong hai phương pháp sau:
+
+Phương pháp 1: dựa trên lượng nhiên liệu tiêu thụ và hệ số phát thải theo hướng dẫn của IPCC
+
+[]
+
+Trong đó:
+
+TPT_(hk): là tổng phát thải khí nhà kính của chuyên ngành hàng không (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+Phương pháp 2: thực hiện theo hướng dẫn tại Phụ ước 16 tập 4 của ICAO.
+
+6. Kiểm kê khí nhà kính phương tiện, thiết bị giao thông vận tải khác
+
+[]
+
+Trong đó:
+
+TPT_(ptk): là tổng phát thải khí nhà kính của phương tiện, thiết bị giao thông vận tải khác (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+a: là loại phương tiện, thiết bị.
+
+b: là loại động cơ (diesel, xăng 4 kỳ, xăng 2 kỳ).
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+II. Phương pháp kiểm kê khí nhà kính cấp cơ sở
+
+1. Kiểm kê khí nhà kính của phương tiện đường bộ
+
+Bước 1: tính tổng lượng tiêu thụ nhiên liệu theo từng loại phương tiện, kích cỡ động cơ và loại nhiên liệu
+
+[]
+
+Bước 2: tính tổng phát thải khí nhà kính phương tiện đường bộ
+
+[]
+
+Trong đó:
+
+TPT_(ptđb): là tổng phát thải khí nhà kính của phương tiện đường bộ (tCO_(2tđ)).
+
+N: là số lượng phương tiện, (chiếc).
+
+VKT: là quãng đường di chuyển trung bình trong năm, (km).
+
+AFC: là lượng nhiên liệu tiêu thụ trung bình khi di chuyển 100 km (lít/100km).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+a: là loại phương tiện.
+
+b: là kích cỡ động cơ.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+2. Kiểm kê khí nhà kính phương tiện đường sắt
+
+[]
+
+Trong đó:
+
+TPT_(ptđs): là tổng phát thải khí nhà kính của phương tiện đường sắt (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+3. Kiểm kê khí nhà kính phương tiện đường thủy nội địa
+
+[]
+
+Trong đó:
+
+TPT_(ptđtnđ): là tổng phát thải khí nhà kính của phương tiện đường thủy nội địa (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+4. Kiểm kê khí nhà kính phương tiện hàng hải
+
+[]
+
+Trong đó:
+
+TPT_(thh): là tổng phát thải khí nhà kính của tàu biển hoạt động nội địa, (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ đo bằng lít, (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+5. Kiểm kê khí nhà kính phương tiện hàng không: có thể áp dụng một trong hai phương pháp sau:
+
+Phương pháp 1: dựa trên lượng nhiên liệu tiêu thụ và hệ số phát thải theo hướng dẫn của IPCC
+
+[]
+
+Trong đó:
+
+TPT_(thk) là tổng phát thải khí nhà kính của tàu bay vận chuyển hàng không nội địa (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ, (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+Phương pháp 2: thực hiện theo hướng dẫn tại Phụ ước 16 tập 4 của ICAO.
+
+6. Kiểm kê khí nhà kính của phương tiện, thiết bị giao thông vận tải khác
+
+[]
+
+Trong đó:
+
+TPT_(ptk): là tổng phát thải khí nhà kính của phương tiện, thiết bị giao thông vận tải khác, (tCO_(2tđ)).
+
+AD: là lượng nhiên liệu tiêu thụ, (L).
+
+D: là khối lượng riêng, (kg/L).
+
+NCV: là hệ số nhiệt trị của nhiên liệu, (TJ/1000 tấn).
+
+EF: là hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu, (kg/TJ).
+
+GWP: là hệ số nóng lên toàn cầu (100 năm) theo loại khí nhà kính.
+
+a: là loại phương tiện, thiết bị.
+
+b: là loại động cơ (diesel, xăng 4 kỳ, xăng 2 kỳ).
+
+f: là loại nhiên liệu.
+
+i: là loại khí nhà kính (CO₂, CH₄, N₂O).
+
+y: là năm kiểm kê.
+
+Ghi chú: khối lượng riêng (D), hệ số nhiệt trị (NCV), hệ số phát thải từng loại khí nhà kính theo loại nhiên liệu (EF), hệ số làm nóng lên toàn cầu theo loại khí nhà kính (GWP) theo hướng dẫn IPCC tại thời điểm kiểm kê.
+
+PHỤ LỤC II
+
+SỐ LIỆU HOẠT ĐỘNG PHỤC VỤ KIỂM KÊ KHÍ NHÀ KÍNH CẤP LĨNH VỰC
+(Ban hành kèm theo Thông tư số 63/2024/TT-BGTVT ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+Trách nhiệm thu thập và báo cáo số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực:
+
+a) Số liệu thống kê ngành Giao thông vận tải
+
+Cục Đăng kiểm Việt Nam có trách nhiệm cung cấp số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực theo các biểu mẫu Biểu số 18-N.ĐT, Biểu số 19-N.ĐT, Biểu số 23-N, Biểu số 25-N, Biểu số 26-N.ĐT, Biểu số 27-N.ĐT Thông tư 48/2017/TT-BGTVT ngày 13 tháng 12 năm 2017 của Bộ Giao thông vận tải quy định hệ thống chỉ tiêu thống kê và chế độ báo cáo thống kê ngành Giao thông vận tải (Thông tư số 48/2017/TT-BGTVT).
+
+Cục Đường sắt Việt Nam có trách nhiệm cung cấp số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực theo biểu mẫu Biểu số 22-N Thông tư số 48/2017/TT-BGTVT.
+
+Cục Hàng không Việt Nam có trách nhiệm cung cấp số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp lĩnh vực theo biểu mẫu Biểu số 21-N Thông tư số 48/2017/TT-BGTVT, Tổng hợp báo cáo phát thải khí nhà kính chuyên ngành hàng không phát sinh từ các chuyến bay nội địa theo quy định tại Khoản 3 Điều 3 và Điều 8 Thông tư số 22/2020/TT-BGTVT.
+
+b) Số liệu từ các chương trình điều tra thống kê ngành Giao thông vận tải
+
+Các Cục quản lý chuyên ngành, Viện Chiến lược và Phát triển giao thông vận tải căn cứ nhu cầu thực tế thực hiện điều tra thống kê số liệu hoạt động phục vụ kiểm kê, đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính.
+
+c) Số liệu từ các nguồn hợp pháp khác
+
+- Tổng cục Thống kê (GSO): Bảng cân đối năng lượng Việt Nam chia theo nguồn cung, tiêu thụ, và các nguồn năng lượng hằng năm; Khảo sát mức sống hộ gia đình Việt Nam (VHLSS) thuộc chương trình điều tra thống kê quốc gia; Số lượt hành khách vận chuyển, luân chuyển theo ngành vận tải; Số lượt hàng hóa vận chuyển, luân chuyển theo ngành vận tải
+
+- Sở Giao thông vận tải các tỉnh, thành phố trực thuộc trung ương: Số lượng phương tiện thủy nội địa đăng ký.
+
+- Các cơ sở thuộc danh mục cơ sở phát thải khí nhà kính: số liệu phục vụ kiểm kê khí nhà kính cấp cơ sở.
+
+PHỤ LỤC III
+
+SỐ LIỆU HOẠT ĐỘNG PHỤC VỤ KIỂM KÊ KHÍ NHÀ KÍNH CẤP CƠ SỞ
+(Ban hành kèm theo Thông tư số 63/2024/TT-BGTVT ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
+I. Biểu mẫu thu thập số liệu hoạt động phục vụ kiểm kê khí nhà kính cấp cơ sở
+
+Biểu mẫu số 1: Số liệu hoạt động của phương tiện đường bộ
+
+Năm:…………….
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   T T  Nhóm phương tiện cơ giới đường bộ          Loại nhiên liệu sử dụng   Số lượng phương tiện cùng nhóm   Lượng nhiên liệu tiêu thụ trung bình *   Số km di chuyển trung bình/năm kiểm kê**   Tổng lượng nhiên liệu tiêu thụ năm kiểm kê
+                                                                             (chiếc)                          (lít/100km)                              (km)                                       (lít)
+  ----- ------------------------------------------ ------------------------- -------------------------------- ---------------------------------------- ------------------------------------------ --------------------------------------------
+    I   Nhóm phương tiện ô tô                                                                                                                                                                     
+
+    1   Ô tô con (từ 09 chỗ trở xuống)                                                                                                                                                            
+
+   1.1  Dưới 1.400 cc                                                                                                                                                                             
+
+   1.2  1.400 cc - 2.000 cc                                                                                                                                                                       
+
+   1.3  Trên 2.000 cc                                                                                                                                                                             
+
+   1.4  Ô tô con sử dụng năng lượng khác                                                                                                                                                          
+
+    2   Ô tô khách                                                                                                                                                                                
+
+   2.1  Dưới 3.500 kg (dưới 17 chỗ)                                                                                                                                                               
+
+   2.2  3.500 kg - 15.000 kg (17 chỗ đến 46 chỗ)                                                                                                                                                  
+
+   2.3  Trên 15.000 kg - 18.000 kg (trên 46 chỗ)                                                                                                                                                  
+
+   2.4  Ô tô khách sử dụng năng lượng khác                                                                                                                                                        
+
+    3   Ô tô tải                                                                                                                                                                                  
+
+   3.1  Dưới 3.500 kg                                                                                                                                                                             
+
+   3.2  3.500 kg - 7.500 kg                                                                                                                                                                       
+
+   3.3  Trên 7.500 kg - 16.000 kg                                                                                                                                                                 
+
+   3.4  Trên 16.000 kg - 32.000 kg                                                                                                                                                                
+
+   3.5  Trên 32.000 kg                                                                                                                                                                            
+
+   3.6  Ô tô chở hàng sử dụng năng lượng khác                                                                                                                                                     
+
+    4   Ô tô khác                                                                                                                                                                                 
+
+   4.1  Dưới 3.500 kg                                                                                                                                                                             
+
+   4.2  3.500 kg - 7.500 kg                                                                                                                                                                       
+
+   4.3  Trên 7.500 kg - 16.000 kg                                                                                                                                                                 
+
+   4.4  Trên 16.000 kg - 32.000 kg                                                                                                                                                                
+
+   4.5  Trên 32.000 kg                                                                                                                                                                            
+
+   II   Nhóm phương tiện mô tô, xe máy,                                                                                                                                                           
+
+    5   Xe mô tô, xe gắn máy                                                                                                                                                                      
+
+   5.1  2 kỳ < 50 cc                                                                                                                                                                              
+
+   5.2  4 kỳ < 50 cc                                                                                                                                                                              
+
+   5.3  2 kỳ 50 cc - nhỏ hơn 250 cc                                                                                                                                                               
+
+   5.4  4 kỳ 50 cc - nhỏ hơn 250 cc                                                                                                                                                               
+
+   5.5  4 kỳ 250 cc - nhỏ hơn 750 cc                                                                                                                                                              
+
+   5.6  4 kỳ từ 750 cm³                                                                                                                                                                           
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Lượng nhiên liệu tiêu thụ trung bình là chỉ tiêu phản ánh lượng nhiên liệu tiêu thụ bình quân khi đi được quãng đường dài 100km của một nhóm phương tiện đường bộ cùng loại, sử dụng cùng một loại nhiên liệu.
+
+** Số km di chuyển trung bình/năm kiểm kê là chỉ tiêu phản ánh chiều dài quãng đường đi trung bình trong năm kiểm kê của một nhóm phương tiện đường bộ cùng loại, sử dụng cùng một loại nhiên liệu.
+
+Biểu mẫu số 2: Số liệu hoạt động của phương tiện đường sắt
+
+Năm:…………….
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   STT   Loại đầu máy/ phương tiện chuyên dùng   Số đăng ký   Thông tin phương tiện   Loại nhiên liệu   Tổng số km di chuyển năm kiểm kê   Tổng lượng nhiên liệu tiêu thụ năm kiểm kê
+                                                               (thông số kỹ thuật)                                    (km)                                   (lít)
+  ----- --------------------------------------- ------------ ----------------------- ----------------- ---------------------------------- --------------------------------------------
+    1                                                                                                                                     
+
+    2                                                                                                                                     
+
+    3                                                                                                                                     
+
+    4                                                                                                                                     
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Biểu mẫu số 3: Số liệu hoạt động của phương tiện đường thủy nội địa
+
+Năm:…………….
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   TT   Danh mục tàu (tên tàu)           Số phân cấp   Số đăng ký   Tổng trọng tải   Công suất máy   Loại nhiên liệu sử dụng   Tổng lượng nhiên liệu tiêu thụ năm kiểm kê
+                                                                                         (CV)                                                    (lít)
+  ----- ------------------------------- ------------- ------------ ---------------- --------------- ------------------------- --------------------------------------------
+    I   Tàu chở hàng                                                    (tấn)                                                 
+
+    a   Tàu chở hàng rời                                                                                                      
+
+    1   - Tàu…                                                                                                                
+
+    2   …                                                                                                                     
+
+    b   Tàu chở dầu                                                                                                           
+
+    1   - Tàu…                                                                                                                
+
+    2   …                                                                                                                     
+
+    c   Tàu container                                                                                                         
+
+    1   - Tàu…                                                                                                                
+
+    2   …                                                                                                                     
+
+    d   Loại khác                                                                                                             
+
+    1   - Tàu…                                                                                                                
+
+    2   …                                                                                                                     
+
+   II   Tàu chở khách                                                  (người)                                                
+
+    a   Tàu chở khách                                                                                                         
+
+    1   - Tàu…                                                                                                                
+
+    2   …                                                                                                                     
+
+    b   Phà                                                                                                                   
+
+    1   - Phà …                                                                                                               
+
+    2   …                                                                                                                     
+
+    c   Khác                                                                                                                  
+
+   III  Phương tiện thủy nội địa khác                                  (ghi rõ)                                               
+
+    1   - Tàu …                                                                                                               
+
+        ….                                                                                                                    
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Biểu mẫu số 4: Số liệu hoạt động của phương tiện hàng hải
+
+Năm:…………….
+
++----+-----------------------------+--------+-------------+-----------+----------------+---------------------+-----------------------------------------------+
+| TT | Danh mục tàu (tên tàu)      | Số IMO | Số phân cấp | Dung tích | Tổng trọng tải | Công suất máy       | Tổng lượng nhiên liệu tiêu thụ năm kiểm kê    |
+|    |                             |        |             | (GT)      | (DWT)          | (CV)                | (lít)                                         |
+|    |                             |        |             |           |                +-----------+---------+-----------------------+-----------------------+
+|    |                             |        |             |           |                | Máy chính | Máy phụ | DO                    | FO                    |
++:==:+=============================+:======:+:===========:+:=========:+:==============:+:=========:+:=======:+:=====================:+:=====================:+
+|    | Tàu biển chạy tuyến nội địa |        |             |           |                |           |         | Tổng số               | Tổng số               |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| a  | Tàu chở hàng rời            |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| b  | Tàu chở hàng tổng hợp       |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| c  | Tàu chở hóa chất            |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| d  | Tàu chở dầu                 |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| e  | Tàu chở khí hóa lỏng        |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| g  | Tàu kéo                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| h  | Tàu container               |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| i  | Tàu RORO kết hợp chở khách  |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| k  | Tàu chở khách               |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| l  | Tàu khác                    |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+| 1  | - Tàu …                     |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    | …                           |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+|    |                             |        |             |           |                |           |         |                       |                       |
++----+-----------------------------+--------+-------------+-----------+----------------+-----------+---------+-----------------------+-----------------------+
+
+Biểu mẫu số 5: Số liệu hoạt động của phương tiện hàng không phục vụ kiểm kê khí nhà kính cấp cơ sở theo quy định tại Mục 2 Phụ lục Báo cáo phát thải Thông tư số 22/2020/TT-BGTVT.
+
+Biểu mẫu số 6: Số liệu hoạt động của phương tiện, thiết bị giao thông vận tải khác
+
+Năm:…………….
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Stt   Phương tiện giao thông khác               Số đăng ký (nếu có)   Loại nhiên liệu sử dụng   Loại động cơ (Diesel, 2 kỳ, 4 kỳ)   Tổng lượng nhiên liệu tiêu thụ năm kiểm kê (lít)
+  ------ ---------------------------------------- --------------------- ------------------------- ----------------------------------- --------------------------------------------------
+    I    Xe máy chuyên dùng                                                                                                           
+
+    1    …                                                                                                                            
+
+    2    …                                                                                                                            
+
+    3    …                                                                                                                            
+
+    4    …                                                                                                                            
+
+    5    …                                                                                                                            
+
+    6    …                                                                                                                            
+
+   ....                                                                                                                               
+
+    II   Phương tiện, thiết bị chuyên dùng khác                                                                                       
+
+    1    …                                                                                                                            
+
+    2    …                                                                                                                            
+
+    3    …                                                                                                                            
+
+    4    …                                                                                                                            
+
+    5    …                                                                                                                            
+
+    6    …                                                                                                                            
+
+    …    …                                                                                                                            
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PHỤ LỤC IV
+
+PHƯƠNG PHÁP ĐO ĐẠC GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH CẤP LĨNH VỰC VÀ CẤP CƠ SỞ
+(Ban hành kèm theo Thông tư số 63/2024/TT-BGTVT ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)
+
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| STT  | Biện pháp giảm nhẹ                                                                                                     | Phương pháp khuyến nghị áp dụng                                                                                               |
++:====:+========================================================================================================================+===============================================================================================================================+
+| 1    | Giới hạn mức tiêu thụ nhiên liệu đối với xe cơ giới sản xuất lắp ráp và nhập khẩu mới                                  | - UNFCCC CDM -AMS-III.BC của UNFCCC về việc giảm phát thải thông qua cải thiện hiệu quả năng lượng của phương tiện nhiên liệu |
+|      |                                                                                                                        |                                                                                                                               |
+|      |                                                                                                                        | - Công cụ Đánh giá Tiêu chuẩn Tiết kiệm Nhiên liệu (FESET)                                                                    |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 2    | Chuyển đổi phương thức vận tải hành khách từ sử dụng phương tiện cá nhân sang sử dụng phương tiện giao thông công cộng | - UNFCCC CDM-ACM0016: Các biện pháp giao thông công cộng nhanh, vận chuyển lớn (MRT) [1]                                      |
+|      |                                                                                                                        |                                                                                                                               |
+|      |                                                                                                                        | - UNFCCC CDM-AM0031: Các biện pháp xe buýt nhanh (BRT)[2]                                                                     |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 3    | Chuyển đổi phương thức vận tải từ đường bộ sang đường sắt                                                              | - UNFCCC CDM -AM0090 Chuyển đổi phương thức vận tải hàng hóa từ đường bộ sang đường thủy hoặc đường sắt                       |
+|      |                                                                                                                        |                                                                                                                               |
+|      |                                                                                                                        | - Chuyển đổi phương thức vận tải (hàng hóa) sang đường sắt của JICA                                                           |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 4    | Chuyển đổi phương thức vận tải từ đường bộ sang đường thủy nội địa và đường ven biển                                   | - UNFCC CDM-AM0090 Chuyển đổi phương thức vận tải hàng hóa từ đường bộ sang đường thủy hoặc đường sắt                         |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 5    | Chuyển đổi sử dụng xe buýt CNG                                                                                         | - Công thức tính toán phát thải cơ bản IPCC 2006.                                                                             |
+|      |                                                                                                                        |                                                                                                                               |
+|      |                                                                                                                        | - UNFCCC CDM AMS-III.S: Giới thiệu các phương tiện/công nghệ phát thải thấp cho các đội xe thương mại[3]                      |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 6    | Tăng hệ số tải của ô tô tải                                                                                            | - Phương pháp STREAM                                                                                                          |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 7    | Chuyển đổi sử dụng nhiên liệu sinh học                                                                                 | - UNFCCC CDM ACM0017: Sản xuất dầu diesel sinh học để sử dụng làm nhiên liệu                                                  |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 8    | Chuyển đổi sử dụng xe ô tô điện                                                                                        | - UNFCCC CDM: AMS-III.C. Giảm phát thải của xe điện[4]                                                                        |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 9    | Chuyển đổi sử dụng xe máy điện                                                                                         | - UNFCCC CDM: AMS-III.C. Giảm phát thải của xe điện                                                                           |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| 10   | Chuyển đổi sử dụng xe buýt điện                                                                                        | - UNFCCC CDM: AMS-III.C. Giảm phát thải của xe điện                                                                           |
++------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+
+Ghi chú: tùy thuộc vào nguồn lực, việc đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính áp dụng đầy đủ phương pháp CDM, hoặc đơn giản hóa phương pháp CDM hoặc các phương pháp khả thi khác như JCM, VCS hoặc các cơ chế quốc tế khác được UNFCCC công nhận.
+
+[1] ^([1]) https://cdm.unfccc.int/methodologies/DB/FXQBDV16UML49NJN03U1QQTEY9J90E
+
+[2] ^([2]) https://cdm.unfccc.int/methodologies/DB/1VLGJFP1MDLVVGDQ50IMY6U3W8QUL4
+
+[3] ^([3]) https://cdm.unfccc.int/methodologies/DB/CAEL7OU5NIMXWM9E4RU2C4MV9WHXJN
+
+[4] ^([4]) https://cdm.unfccc.int/methodologies/DB/HLOH5R7J6M96A23TFECTQ1BVIE24CK
